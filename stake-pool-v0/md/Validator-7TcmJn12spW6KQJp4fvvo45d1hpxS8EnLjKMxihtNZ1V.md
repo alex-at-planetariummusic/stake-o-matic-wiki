@@ -1,0 +1,25 @@
+### [[Testnet Epoch 190|Testnet#Epoch-190]]
+good block production during epoch 189: 344 blocks in 404 slots, 15% skip rate
+* Stake level: **Bonus** 
+* Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
+* Data Center: 0-Unknown
+### [[Testnet Epoch 189|Testnet#Epoch-189]]
+good block production during epoch 188: 235 blocks in 396 slots, 41% skip rate
+* Stake level: **Bonus** 
+* Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
+* Data Center: 0-Unknown
+### [[Testnet Epoch 188|Testnet#Epoch-188]]
+good block production during epoch 187: 618 blocks in 812 slots, 24% skip rate
+* Stake level: **Bonus** 
+* Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
+* Data Center: 0-Unknown
+### [[Testnet Epoch 187|Testnet#Epoch-187]]
+good block production during epoch 186: 682 blocks in 740 slots, 8% skip rate
+* Stake level: **Bonus** 
+* Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
+* Data Center: 0-Unknown
+### [[Testnet Epoch 186|Testnet#Epoch-186]]
+good block production during epoch 185: 733 blocks in 776 slots, 6% skip rate
+* Stake level: **Bonus** 
+* Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
+* Data Center: 0-Unknown

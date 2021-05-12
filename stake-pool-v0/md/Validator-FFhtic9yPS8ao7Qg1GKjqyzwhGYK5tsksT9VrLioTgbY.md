@@ -1,0 +1,25 @@
+### [[Testnet Epoch 190|Testnet#Epoch-190]]
+365721 credits earned in epoch 189
+* Stake level: **Baseline** 
+* Vote account address: 9WHikepFzoV4xnaLenvg8tinFQPaCG86heRkys3VUoDW
+* Data Center: 0-Unknown
+### [[Testnet Epoch 189|Testnet#Epoch-189]]
+369643 credits earned in epoch 188
+* Stake level: **Baseline** 
+* Vote account address: 9WHikepFzoV4xnaLenvg8tinFQPaCG86heRkys3VUoDW
+* Data Center: 0-Unknown
+### [[Testnet Epoch 188|Testnet#Epoch-188]]
+381259 credits earned in epoch 187
+* Stake level: **Baseline** 
+* Vote account address: 9WHikepFzoV4xnaLenvg8tinFQPaCG86heRkys3VUoDW
+* Data Center: 0-Unknown
+### [[Testnet Epoch 187|Testnet#Epoch-187]]
+Outdated solana release: 1.6.4
+* Stake level: **No** 
+* Vote account address: 9WHikepFzoV4xnaLenvg8tinFQPaCG86heRkys3VUoDW
+* Data Center: 0-Unknown
+### [[Testnet Epoch 186|Testnet#Epoch-186]]
+Outdated solana release: 1.6.4
+* Stake level: **No** 
+* Vote account address: 9WHikepFzoV4xnaLenvg8tinFQPaCG86heRkys3VUoDW
+* Data Center: 0-Unknown
