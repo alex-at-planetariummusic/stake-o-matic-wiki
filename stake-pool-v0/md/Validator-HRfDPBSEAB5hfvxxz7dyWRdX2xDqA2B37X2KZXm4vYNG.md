@@ -1,25 +1,21 @@
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 Outdated solana release: 1.6.4
-* Stake level: **No** 
+* Stake level: **No**
 * Vote account address: FWu2QN3MZ592YNv4BMgi77tqaG2Ba76Wr18B28QGJXTg
-* Data Center: 0-Unknown
+* Data Center: 24961-DE-Europe/Berlin
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 Outdated solana release: 1.6.4
-* Stake level: **No** 
+* Stake level: **No**
 * Vote account address: FWu2QN3MZ592YNv4BMgi77tqaG2Ba76Wr18B28QGJXTg
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 Outdated solana release: 1.6.4
-* Stake level: **No** 
+* Stake level: **No**
 * Vote account address: FWu2QN3MZ592YNv4BMgi77tqaG2Ba76Wr18B28QGJXTg
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 Outdated solana release: 1.6.4
-* Stake level: **No** 
+* Stake level: **No**
 * Vote account address: FWu2QN3MZ592YNv4BMgi77tqaG2Ba76Wr18B28QGJXTg
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 Outdated solana release: 1.6.4
-* Stake level: **No** 
+* Stake level: **No**
 * Vote account address: FWu2QN3MZ592YNv4BMgi77tqaG2Ba76Wr18B28QGJXTg
-* Data Center: 0-Unknown

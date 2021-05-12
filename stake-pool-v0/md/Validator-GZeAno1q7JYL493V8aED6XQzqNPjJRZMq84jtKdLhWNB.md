@@ -1,25 +1,21 @@
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 good block production during epoch 189: 377 blocks in 388 slots, 3% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: CJS6WmaBuu37c19GTvU38oSz2XdievkhNQCDZnQkLw6E
-* Data Center: 0-Unknown
+* Data Center: 18450-US-Los Angeles
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 good block production during epoch 188: 362 blocks in 376 slots, 4% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: CJS6WmaBuu37c19GTvU38oSz2XdievkhNQCDZnQkLw6E
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 good block production during epoch 187: 339 blocks in 340 slots, 1% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: CJS6WmaBuu37c19GTvU38oSz2XdievkhNQCDZnQkLw6E
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 good block production during epoch 186: 363 blocks in 404 slots, 11% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: CJS6WmaBuu37c19GTvU38oSz2XdievkhNQCDZnQkLw6E
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 good block production during epoch 185: 351 blocks in 356 slots, 2% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: CJS6WmaBuu37c19GTvU38oSz2XdievkhNQCDZnQkLw6E
-* Data Center: 0-Unknown

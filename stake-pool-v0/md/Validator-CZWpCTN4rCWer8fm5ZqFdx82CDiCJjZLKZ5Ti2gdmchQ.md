@@ -1,25 +1,21 @@
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 good block production during epoch 189: 27 blocks in 36 slots, 25% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
-* Data Center: 0-Unknown
+* Data Center: 35539-RU-Shchelkovo
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 good block production during epoch 188: 31 blocks in 32 slots, 4% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 good block production during epoch 187: 316 blocks in 332 slots, 5% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 good block production during epoch 186: 28 blocks in 28 slots, 0% skip rate
-* Stake level: **Bonus** 
+* Stake level: **Bonus**
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 389580 credits earned in epoch 185
-* Stake level: **Baseline** 
+* Stake level: **Baseline**
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
-* Data Center: 0-Unknown

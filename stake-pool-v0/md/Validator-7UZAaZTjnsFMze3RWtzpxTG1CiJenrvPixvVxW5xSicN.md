@@ -1,25 +1,21 @@
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 362932 credits earned in epoch 189
-* Stake level: **Baseline** 
+* Stake level: **Baseline**
 * Vote account address: 8XtuGwVfRGJCd4zxUroBhLEsygsfnPs5Q3FRtjYYHPWx
-* Data Center: 0-Unknown
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 366295 credits earned in epoch 188
-* Stake level: **Baseline** 
+* Stake level: **Baseline**
 * Vote account address: 8XtuGwVfRGJCd4zxUroBhLEsygsfnPs5Q3FRtjYYHPWx
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 377636 credits earned in epoch 187
-* Stake level: **Baseline** 
+* Stake level: **Baseline**
 * Vote account address: 8XtuGwVfRGJCd4zxUroBhLEsygsfnPs5Q3FRtjYYHPWx
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 376579 credits earned in epoch 186
-* Stake level: **Baseline** 
+* Stake level: **Baseline**
 * Vote account address: 8XtuGwVfRGJCd4zxUroBhLEsygsfnPs5Q3FRtjYYHPWx
-* Data Center: 0-Unknown
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 insufficient vote credits: 4347 credits earned in epoch 185
-* Stake level: **No** 
+* Stake level: **No**
 * Vote account address: 8XtuGwVfRGJCd4zxUroBhLEsygsfnPs5Q3FRtjYYHPWx
-* Data Center: 0-Unknown
