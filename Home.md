@@ -1,1 +1,1 @@
-Welcome to the stake-o-matic wiki!
+To locate the staking history for a [[Testnet]] or [[Mainnet]] validator, paste the validator **identity** into the _"Find a Page..."_ text input on the side bar ➡️
