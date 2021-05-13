@@ -13,9 +13,9 @@ good block production during epoch 187: 19 blocks in 28 slots, 33% skip rate
 * Vote account address: 6ZUR9TMBsxVgKW1pBwSDujT1EiszdvmCGLaQgxZyPJC6
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 insufficient vote credits: 0 credits earned in epoch 186
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: 6ZUR9TMBsxVgKW1pBwSDujT1EiszdvmCGLaQgxZyPJC6
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 insufficient vote credits: 45860 credits earned in epoch 185
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: 6ZUR9TMBsxVgKW1pBwSDujT1EiszdvmCGLaQgxZyPJC6

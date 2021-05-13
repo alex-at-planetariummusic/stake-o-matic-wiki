@@ -25176,7 +25176,7 @@ V1:
         - 72
         - 102
         - 67
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 176"
       notes: []
     ? - 229
@@ -43962,7 +43962,7 @@ V1:
         - 232
         - 42
         - 165
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
     ? - 57
@@ -56688,7 +56688,7 @@ V1:
         - 37
         - 245
         - 61
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
     ? - 107
@@ -56991,7 +56991,7 @@ V1:
         - 119
         - 226
         - 37
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
     ? - 250
@@ -61536,7 +61536,7 @@ V1:
         - 141
         - 160
         - 181
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
     ? - 197

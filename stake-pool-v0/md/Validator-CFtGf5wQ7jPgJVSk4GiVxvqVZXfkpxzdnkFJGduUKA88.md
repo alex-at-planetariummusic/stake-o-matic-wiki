@@ -1,6 +1,6 @@
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 insufficient vote credits: 0 credits earned in epoch 189
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: Aba92uJVLTg8xVx5yAdSNmKrNjVxAsHE2ErV1JfysKWu
 * Data Center: 21409-FR-Paris
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
@@ -9,13 +9,13 @@ poor block production during epoch 188: 0 blocks in 4 slots, 100% skip rate
 * Vote account address: Aba92uJVLTg8xVx5yAdSNmKrNjVxAsHE2ErV1JfysKWu
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 insufficient vote credits: 66902 credits earned in epoch 187
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: Aba92uJVLTg8xVx5yAdSNmKrNjVxAsHE2ErV1JfysKWu
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 insufficient vote credits: 0 credits earned in epoch 186
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: Aba92uJVLTg8xVx5yAdSNmKrNjVxAsHE2ErV1JfysKWu
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 insufficient vote credits: 0 credits earned in epoch 185
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: Aba92uJVLTg8xVx5yAdSNmKrNjVxAsHE2ErV1JfysKWu

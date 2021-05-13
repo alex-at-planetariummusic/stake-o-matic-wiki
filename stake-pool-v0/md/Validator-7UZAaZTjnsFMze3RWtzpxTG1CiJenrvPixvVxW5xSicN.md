@@ -17,5 +17,5 @@
 * Vote account address: 8XtuGwVfRGJCd4zxUroBhLEsygsfnPs5Q3FRtjYYHPWx
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 insufficient vote credits: 4347 credits earned in epoch 185
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: 8XtuGwVfRGJCd4zxUroBhLEsygsfnPs5Q3FRtjYYHPWx

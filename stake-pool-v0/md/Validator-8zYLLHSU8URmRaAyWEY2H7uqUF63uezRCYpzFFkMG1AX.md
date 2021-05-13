@@ -9,13 +9,13 @@
 * Vote account address: HayUge3zE8D7qZ8gPUdNuivP5cUt6i66SAjsEESGY8Nr
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 insufficient vote credits: 69273 credits earned in epoch 187
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: HayUge3zE8D7qZ8gPUdNuivP5cUt6i66SAjsEESGY8Nr
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 insufficient vote credits: 0 credits earned in epoch 186
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: HayUge3zE8D7qZ8gPUdNuivP5cUt6i66SAjsEESGY8Nr
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 insufficient vote credits: 2 credits earned in epoch 185
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: HayUge3zE8D7qZ8gPUdNuivP5cUt6i66SAjsEESGY8Nr

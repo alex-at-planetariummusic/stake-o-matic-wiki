@@ -13,9 +13,9 @@
 * Vote account address: To1hy4wSEo4gaQvsfaWzsswZFxW1QK8zTMbwhLb1qWk
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 Outdated solana release: 1.6.4
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: To1hy4wSEo4gaQvsfaWzsswZFxW1QK8zTMbwhLb1qWk
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
 Outdated solana release: 1.6.4
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: To1hy4wSEo4gaQvsfaWzsswZFxW1QK8zTMbwhLb1qWk

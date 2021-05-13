@@ -31297,7 +31297,7 @@ V1:
         - 119
         - 226
         - 37
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
       data_center_residency: {}
@@ -34339,7 +34339,7 @@ V1:
         - 141
         - 160
         - 181
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
       data_center_residency: {}
@@ -36121,7 +36121,7 @@ V1:
         - 232
         - 42
         - 165
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
       data_center_residency: {}
@@ -45346,7 +45346,7 @@ V1:
         - 72
         - 102
         - 67
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 179"
       notes: []
       data_center_residency: {}
@@ -53632,7 +53632,7 @@ V1:
         - 248
         - 177
         - 16
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 104171 credits earned in epoch 179"
       notes: []
       data_center_residency: {}
@@ -68743,7 +68743,7 @@ V1:
         - 37
         - 245
         - 61
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
       data_center_residency: {}
@@ -69580,7 +69580,7 @@ V1:
         - 38
         - 114
         - 25
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 139517 credits earned in epoch 179"
       notes: []
       data_center_residency: {}

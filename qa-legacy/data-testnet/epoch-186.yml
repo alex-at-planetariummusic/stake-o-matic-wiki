@@ -21736,7 +21736,7 @@ V1:
         - 38
         - 50
         - 51
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 80
@@ -22140,7 +22140,7 @@ V1:
         - 53
         - 15
         - 4
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 120
@@ -23958,7 +23958,7 @@ V1:
         - 3
         - 122
         - 56
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 224
@@ -24261,7 +24261,7 @@ V1:
         - 140
         - 235
         - 37
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 247
@@ -24968,7 +24968,7 @@ V1:
         - 57
         - 248
         - 42
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 40
@@ -25170,7 +25170,7 @@ V1:
         - 171
         - 68
         - 224
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 22
@@ -25473,7 +25473,7 @@ V1:
         - 32
         - 193
         - 249
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 41
@@ -25877,7 +25877,7 @@ V1:
         - 23
         - 217
         - 15
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 72917 credits earned in epoch 185"
       notes: []
     ? - 180
@@ -27493,7 +27493,7 @@ V1:
         - 245
         - 120
         - 236
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 221
@@ -27998,7 +27998,7 @@ V1:
         - 38
         - 113
         - 86
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 35
@@ -28503,7 +28503,7 @@ V1:
         - 1
         - 193
         - 167
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 7
@@ -31129,7 +31129,7 @@ V1:
         - 67
         - 96
         - 186
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 174
@@ -31735,7 +31735,7 @@ V1:
         - 36
         - 190
         - 97
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 170
@@ -32341,7 +32341,7 @@ V1:
         - 162
         - 83
         - 205
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 178
@@ -33250,7 +33250,7 @@ V1:
         - 158
         - 239
         - 7
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 6175 credits earned in epoch 185"
       notes: []
     ? - 208
@@ -34260,7 +34260,7 @@ V1:
         - 158
         - 50
         - 11
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 111653 credits earned in epoch 185"
       notes: []
     ? - 118
@@ -36886,7 +36886,7 @@ V1:
         - 116
         - 237
         - 0
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 184
@@ -37694,7 +37694,7 @@ V1:
         - 21
         - 246
         - 246
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 30
@@ -37896,7 +37896,7 @@ V1:
         - 173
         - 202
         - 235
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 8824 credits earned in epoch 185"
       notes: []
     ? - 64
@@ -43148,7 +43148,7 @@ V1:
         - 93
         - 135
         - 240
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 46578 credits earned in epoch 185"
       notes: []
     ? - 255
@@ -44057,7 +44057,7 @@ V1:
         - 4
         - 23
         - 206
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 205
@@ -46178,7 +46178,7 @@ V1:
         - 249
         - 241
         - 156
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 179
@@ -49107,7 +49107,7 @@ V1:
         - 235
         - 119
         - 142
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 182
@@ -49511,7 +49511,7 @@ V1:
         - 174
         - 108
         - 174
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 188
@@ -52642,7 +52642,7 @@ V1:
         - 188
         - 19
         - 188
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 232
@@ -53551,7 +53551,7 @@ V1:
         - 241
         - 102
         - 227
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 212
@@ -54763,7 +54763,7 @@ V1:
         - 140
         - 41
         - 42
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 40
@@ -57490,7 +57490,7 @@ V1:
         - 222
         - 200
         - 48
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 83
@@ -57894,7 +57894,7 @@ V1:
         - 27
         - 181
         - 199
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 245
@@ -57995,7 +57995,7 @@ V1:
         - 31
         - 78
         - 126
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 164
@@ -59712,7 +59712,7 @@ V1:
         - 32
         - 215
         - 90
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 172684 credits earned in epoch 185"
       notes: []
     ? - 102
@@ -61328,7 +61328,7 @@ V1:
         - 172
         - 23
         - 227
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 232
@@ -62641,7 +62641,7 @@ V1:
         - 92
         - 51
         - 246
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 220
@@ -63954,7 +63954,7 @@ V1:
         - 21
         - 109
         - 37
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 123
@@ -65570,7 +65570,7 @@ V1:
         - 67
         - 79
         - 125
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 199
@@ -65772,7 +65772,7 @@ V1:
         - 180
         - 93
         - 89
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 104
@@ -66580,7 +66580,7 @@ V1:
         - 139
         - 103
         - 212
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 169433 credits earned in epoch 185"
       notes: []
     ? - 40
@@ -66984,7 +66984,7 @@ V1:
         - 241
         - 27
         - 13
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 198
@@ -67186,7 +67186,7 @@ V1:
         - 168
         - 61
         - 12
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 197
@@ -67792,7 +67792,7 @@ V1:
         - 235
         - 141
         - 176
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 156
@@ -68701,7 +68701,7 @@ V1:
         - 84
         - 239
         - 102
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 221
@@ -71630,7 +71630,7 @@ V1:
         - 168
         - 250
         - 23
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 16
@@ -72539,7 +72539,7 @@ V1:
         - 66
         - 187
         - 88
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 3 credits earned in epoch 185"
       notes: []
     ? - 118
@@ -74357,7 +74357,7 @@ V1:
         - 94
         - 30
         - 144
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 24
@@ -74761,7 +74761,7 @@ V1:
         - 111
         - 24
         - 177
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 142
@@ -74862,7 +74862,7 @@ V1:
         - 246
         - 213
         - 0
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 172
@@ -74963,7 +74963,7 @@ V1:
         - 9
         - 75
         - 106
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 247
@@ -77387,7 +77387,7 @@ V1:
         - 69
         - 97
         - 211
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 212
@@ -77488,7 +77488,7 @@ V1:
         - 55
         - 172
         - 62
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 83915 credits earned in epoch 185"
       notes: []
     ? - 46
@@ -78296,7 +78296,7 @@ V1:
         - 249
         - 226
         - 230
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 160
@@ -82336,7 +82336,7 @@ V1:
         - 251
         - 71
         - 23
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 45860 credits earned in epoch 185"
       notes: []
     ? - 48
@@ -83447,7 +83447,7 @@ V1:
         - 247
         - 68
         - 25
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 6
@@ -83952,7 +83952,7 @@ V1:
         - 119
         - 65
         - 221
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 73
@@ -86477,7 +86477,7 @@ V1:
         - 103
         - 210
         - 79
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 150
@@ -86679,7 +86679,7 @@ V1:
         - 61
         - 84
         - 8
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 116
@@ -86881,7 +86881,7 @@ V1:
         - 77
         - 138
         - 163
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 81
@@ -86982,7 +86982,7 @@ V1:
         - 178
         - 51
         - 7
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 670 credits earned in epoch 185"
       notes: []
     ? - 204
@@ -87083,7 +87083,7 @@ V1:
         - 94
         - 28
         - 111
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 151
@@ -87285,7 +87285,7 @@ V1:
         - 172
         - 159
         - 177
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 4347 credits earned in epoch 185"
       notes: []
     ? - 29
@@ -89305,7 +89305,7 @@ V1:
         - 187
         - 124
         - 43
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 244
@@ -89608,7 +89608,7 @@ V1:
         - 51
         - 179
         - 180
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 25
@@ -90315,7 +90315,7 @@ V1:
         - 92
         - 181
         - 170
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 105
@@ -95668,7 +95668,7 @@ V1:
         - 17
         - 64
         - 162
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 236
@@ -95870,7 +95870,7 @@ V1:
         - 220
         - 101
         - 166
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 129
@@ -96476,7 +96476,7 @@ V1:
         - 123
         - 248
         - 23
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 2 credits earned in epoch 185"
       notes: []
     ? - 127
@@ -97789,7 +97789,7 @@ V1:
         - 186
         - 203
         - 101
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 117
@@ -100415,7 +100415,7 @@ V1:
         - 52
         - 210
         - 28
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 173
@@ -100516,7 +100516,7 @@ V1:
         - 224
         - 121
         - 131
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 244
@@ -101122,7 +101122,7 @@ V1:
         - 34
         - 144
         - 254
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 64
@@ -102839,7 +102839,7 @@ V1:
         - 170
         - 225
         - 16
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 23
@@ -102940,7 +102940,7 @@ V1:
         - 231
         - 235
         - 253
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 163
@@ -105162,7 +105162,7 @@ V1:
         - 171
         - 56
         - 74
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 96816 credits earned in epoch 185"
       notes: []
     ? - 108
@@ -106071,7 +106071,7 @@ V1:
         - 202
         - 20
         - 79
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 211
@@ -106172,7 +106172,7 @@ V1:
         - 43
         - 62
         - 5
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 107
@@ -106273,7 +106273,7 @@ V1:
         - 99
         - 186
         - 220
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 248
@@ -106576,7 +106576,7 @@ V1:
         - 53
         - 90
         - 91
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 138926 credits earned in epoch 185"
       notes: []
     ? - 34
@@ -107485,7 +107485,7 @@ V1:
         - 188
         - 173
         - 212
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 242
@@ -107687,7 +107687,7 @@ V1:
         - 4
         - 80
         - 169
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 163252 credits earned in epoch 185"
       notes: []
     ? - 78
@@ -107990,7 +107990,7 @@ V1:
         - 24
         - 24
         - 48
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 235
@@ -108798,7 +108798,7 @@ V1:
         - 33
         - 70
         - 201
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 206
@@ -108899,7 +108899,7 @@ V1:
         - 238
         - 155
         - 156
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 29
@@ -110111,7 +110111,7 @@ V1:
         - 175
         - 94
         - 242
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 52
@@ -111727,7 +111727,7 @@ V1:
         - 24
         - 168
         - 138
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 32
@@ -112333,7 +112333,7 @@ V1:
         - 189
         - 135
         - 39
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 99
@@ -113949,7 +113949,7 @@ V1:
         - 40
         - 232
         - 165
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 111475 credits earned in epoch 185"
       notes: []
     ? - 217
@@ -116474,7 +116474,7 @@ V1:
         - 7
         - 16
         - 198
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 248
@@ -117080,7 +117080,7 @@ V1:
         - 168
         - 208
         - 239
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 224
@@ -118191,7 +118191,7 @@ V1:
         - 127
         - 138
         - 207
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 381 credits earned in epoch 185"
       notes: []
     ? - 37
@@ -118292,7 +118292,7 @@ V1:
         - 94
         - 73
         - 52
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 135
@@ -118797,7 +118797,7 @@ V1:
         - 52
         - 41
         - 246
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 5
@@ -119706,7 +119706,7 @@ V1:
         - 88
         - 111
         - 111
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 154
@@ -121625,7 +121625,7 @@ V1:
         - 220
         - 42
         - 136
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 64
@@ -122433,7 +122433,7 @@ V1:
         - 201
         - 207
         - 54
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 70
@@ -123746,7 +123746,7 @@ V1:
         - 108
         - 164
         - 139
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 95
@@ -124251,7 +124251,7 @@ V1:
         - 242
         - 161
         - 234
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 72
@@ -124352,7 +124352,7 @@ V1:
         - 80
         - 69
         - 112
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 117
@@ -127079,7 +127079,7 @@ V1:
         - 22
         - 41
         - 204
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 183
@@ -127887,7 +127887,7 @@ V1:
         - 62
         - 208
         - 143
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 86
@@ -130210,7 +130210,7 @@ V1:
         - 21
         - 244
         - 2
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 185
@@ -131422,7 +131422,7 @@ V1:
         - 151
         - 122
         - 45
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 24
@@ -131927,7 +131927,7 @@ V1:
         - 240
         - 201
         - 43
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 155
@@ -133038,7 +133038,7 @@ V1:
         - 39
         - 40
         - 66
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 174
@@ -138391,7 +138391,7 @@ V1:
         - 214
         - 59
         - 44
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 35
@@ -143744,7 +143744,7 @@ V1:
         - 69
         - 139
         - 225
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 221
@@ -144653,7 +144653,7 @@ V1:
         - 60
         - 66
         - 58
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 225
@@ -145259,7 +145259,7 @@ V1:
         - 5
         - 97
         - 254
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 102
@@ -147178,7 +147178,7 @@ V1:
         - 128
         - 214
         - 32
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 9
@@ -147885,7 +147885,7 @@ V1:
         - 170
         - 202
         - 199
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 199
@@ -148895,7 +148895,7 @@ V1:
         - 132
         - 116
         - 219
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 55
@@ -148996,7 +148996,7 @@ V1:
         - 125
         - 206
         - 172
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 157
@@ -149400,7 +149400,7 @@ V1:
         - 163
         - 57
         - 250
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 109
@@ -149804,7 +149804,7 @@ V1:
         - 231
         - 251
         - 125
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.3"
       notes: []
     ? - 92
@@ -150511,7 +150511,7 @@ V1:
         - 169
         - 108
         - 158
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 248
@@ -151218,7 +151218,7 @@ V1:
         - 97
         - 5
         - 73
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 234
@@ -151420,7 +151420,7 @@ V1:
         - 86
         - 21
         - 163
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 238
@@ -152026,7 +152026,7 @@ V1:
         - 146
         - 7
         - 36
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 104906 credits earned in epoch 185"
       notes: []
     ? - 255
@@ -152834,7 +152834,7 @@ V1:
         - 28
         - 244
         - 147
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 60549 credits earned in epoch 185"
       notes: []
     ? - 158
@@ -153440,7 +153440,7 @@ V1:
         - 13
         - 47
         - 202
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 252
@@ -155561,7 +155561,7 @@ V1:
         - 151
         - 25
         - 224
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 137
@@ -156369,7 +156369,7 @@ V1:
         - 12
         - 124
         - 87
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 241
@@ -157783,7 +157783,7 @@ V1:
         - 220
         - 107
         - 132
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 161
@@ -158187,7 +158187,7 @@ V1:
         - 108
         - 42
         - 120
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 209
@@ -158288,7 +158288,7 @@ V1:
         - 196
         - 23
         - 226
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 129
@@ -159803,7 +159803,7 @@ V1:
         - 148
         - 203
         - 46
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 72059 credits earned in epoch 185"
       notes: []
     ? - 244
@@ -159904,7 +159904,7 @@ V1:
         - 1
         - 16
         - 123
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 237
@@ -160409,7 +160409,7 @@ V1:
         - 146
         - 29
         - 221
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 113
@@ -161823,7 +161823,7 @@ V1:
         - 86
         - 153
         - 170
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.6.4"
       notes: []
     ? - 71
@@ -164651,7 +164651,7 @@ V1:
         - 20
         - 232
         - 135
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 19
@@ -164752,7 +164752,7 @@ V1:
         - 146
         - 98
         - 15
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 185"
       notes: []
     ? - 37

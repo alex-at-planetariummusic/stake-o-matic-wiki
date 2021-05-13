@@ -5,7 +5,7 @@ good block production during epoch 189: 71 blocks in 164 slots, 57% skip rate
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 insufficient vote credits: 128423 credits earned in epoch 188
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: 8kuKfkeUHFc4jnJvYVJC8obRs7XpaSSZLnXxmP7UJWGh
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 good block production during epoch 187: 166 blocks in 320 slots, 49% skip rate

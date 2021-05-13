@@ -9,5 +9,5 @@
 * Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 insufficient vote credits: 0 credits earned in epoch 187
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt

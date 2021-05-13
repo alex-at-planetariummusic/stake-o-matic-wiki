@@ -9,7 +9,7 @@ good block production during epoch 188: 398 blocks in 404 slots, 2% skip rate
 * Vote account address: QdJviZ9W3yXRCPQdf9GrVJNb53hXhZPrQcR7o5MNPH8
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
 Outdated solana release: 1.6.5
-* Stake level: **No**
+* Stake level: **None**
 * Vote account address: QdJviZ9W3yXRCPQdf9GrVJNb53hXhZPrQcR7o5MNPH8
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
 good block production during epoch 186: 378 blocks in 384 slots, 2% skip rate

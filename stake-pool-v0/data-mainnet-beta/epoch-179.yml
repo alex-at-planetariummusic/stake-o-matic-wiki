@@ -24895,7 +24895,7 @@ V1:
         - 222
         - 251
         - 166
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 122611 credits earned in epoch 178"
       notes: []
       data_center_residency: {}
@@ -28672,7 +28672,7 @@ V1:
         - 37
         - 245
         - 61
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
       data_center_residency: {}
@@ -37381,7 +37381,7 @@ V1:
         - 141
         - 160
         - 181
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
       data_center_residency: {}
@@ -40942,7 +40942,7 @@ V1:
         - 233
         - 239
         - 213
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "Outdated solana release: 1.5.18"
       notes: []
       data_center_residency: {}
@@ -44398,7 +44398,7 @@ V1:
         - 119
         - 226
         - 37
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
       data_center_residency: {}
@@ -53731,7 +53731,7 @@ V1:
         - 8
         - 77
         - 75
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 116753 credits earned in epoch 178"
       notes: []
       data_center_residency: {}
@@ -59398,7 +59398,7 @@ V1:
         - 72
         - 102
         - 67
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "insufficient vote credits: 0 credits earned in epoch 178"
       notes: []
       data_center_residency: {}
@@ -67675,7 +67675,7 @@ V1:
         - 232
         - 42
         - 165
-      stake_state: "No"
+      stake_state: "None"
       stake_state_reason: "commission is too high: 100% commission"
       notes: []
       data_center_residency: {}
