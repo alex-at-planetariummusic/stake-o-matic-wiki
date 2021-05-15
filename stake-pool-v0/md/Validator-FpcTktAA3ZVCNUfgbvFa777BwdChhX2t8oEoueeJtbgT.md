@@ -1,3 +1,8 @@
+### [[Testnet Epoch 191|Testnet#Epoch-191]]
+insufficient vote credits: 0 credits earned in epoch 190
+* Stake level: **None**
+* Vote account address: Fda1Zfd6EnaPgbhjPno9iY78Hdw3MECrc45CBr8sFABu
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 poor block production during epoch 189: 131 blocks in 344 slots, 62% skip rate 
 * Stake level: **Baseline**

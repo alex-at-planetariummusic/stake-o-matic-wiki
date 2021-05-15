@@ -1,3 +1,8 @@
+### [[Testnet Epoch 191|Testnet#Epoch-191]]
+poor block production during epoch 190: 0 blocks in 4 slots, 100% skip rate 
+* Stake level: **Baseline** (for 2 epochs)
+* Vote account address: 7pQT4rjhiXeHVfdpnqJEVwzoxJQzozSV8MazK1psr7Gm
+* Data Center: 9009-GB-London
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 325806 credits earned in epoch 189
 * Stake level: **Baseline**

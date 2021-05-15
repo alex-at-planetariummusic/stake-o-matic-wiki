@@ -1,3 +1,8 @@
+### [[Testnet Epoch 191|Testnet#Epoch-191]]
+Outdated solana release: 1.6.5
+* Stake level: **None** (for 2 epochs)
+* Vote account address: 5GKmGt5RzrPYon4KUu3GyCCdxoCrK4qfaKeMJX8ZEWtR
+* Data Center: 8560-ES-Europe/Madrid
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 Outdated solana release: 1.6.5
 * Stake level: **None**

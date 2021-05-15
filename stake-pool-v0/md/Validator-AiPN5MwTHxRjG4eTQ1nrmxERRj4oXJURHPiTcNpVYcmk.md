@@ -1,3 +1,8 @@
+### [[Testnet Epoch 191|Testnet#Epoch-191]]
+insufficient vote credits: 143178 credits earned in epoch 190
+* Stake level: **None**
+* Vote account address: 4M9kqUreEJQnFRPV5tnXcRWzXmmeawUVWoro3vnPBqMK
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 poor block production during epoch 189: 8 blocks in 32 slots, 75% skip rate 
 * Stake level: **Baseline**

@@ -1,0 +1,5 @@
+### [[Testnet Epoch 191|Testnet#Epoch-191]]
+insufficient vote credits: 22192 credits earned in epoch 190
+* Stake level: **None**
+* Vote account address: 4KShkNFchv6ZVv3gn2E6pJ2cj2W2Lv1Djne61ouArXLS
+* Data Center: 23470-US-Las Vegas

@@ -1,0 +1,5 @@
+### [[Testnet Epoch 191|Testnet#Epoch-191]]
+insufficient vote credits: 37718 credits earned in epoch 190
+* Stake level: **None**
+* Vote account address: q5NT4cBQKexfrFJbyMp27HstCV9BmE2eFtTBSfUwbAL
+* Data Center: 21409-FR-Europe/Paris
