@@ -2,7 +2,7 @@
 217676 credits earned in epoch 191
 * Stake level: **Baseline** (for 2 epochs)
 * Vote account address: EZ12p4ipnxp69fw1CRCDNytHPk724WBc7hYMPJgWkTju
-* Data Center: 41709-UA-Novopskov
+* Data Center: 0-Unknown
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
 289849 credits earned in epoch 190
 * Stake level: **Baseline**
