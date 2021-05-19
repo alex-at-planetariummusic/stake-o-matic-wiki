@@ -1,3 +1,8 @@
+### [[Testnet Epoch 192|Testnet#Epoch-192]]
+good block production during epoch 191: 41 blocks in 48 slots, 15% skip rate
+* Stake level: **Bonus**
+* Vote account address: 2e6a2T92QkK92cnJiHoKF13oV1C2gWjPhae2bDqHaSpv
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
 345149 credits earned in epoch 190
 * Stake level: **Baseline** (for 2 epochs)

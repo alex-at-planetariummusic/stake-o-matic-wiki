@@ -1,3 +1,8 @@
+### [[Testnet Epoch 192|Testnet#Epoch-192]]
+309298 credits earned in epoch 191
+* Stake level: **Baseline** (for 2 epochs)
+* Vote account address: JD8DGniuckjVn6fFtUUt8jQfVVqeZdCkPD62hC3GP8gq
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
 294958 credits earned in epoch 190
 * Stake level: **Baseline**
