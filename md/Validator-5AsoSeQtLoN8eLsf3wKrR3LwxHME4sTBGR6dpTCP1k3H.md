@@ -1,3 +1,8 @@
+### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
+297604 credits earned in epoch 182
+* Stake level: **Baseline** (for 3 epochs)
+* Vote account address: uTnZDhnbiSV3TX2obj71nFPAm2aXy83mFTFYzaBRk34
+* Data Center: 16276-FR-Roubaix
 ### [[Mainnet Epoch 182|Mainnet#Epoch-182]]
 315513 credits earned in epoch 181
 * Stake level: **Baseline** (for 2 epochs)

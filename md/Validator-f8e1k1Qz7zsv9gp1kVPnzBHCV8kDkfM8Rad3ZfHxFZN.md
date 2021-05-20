@@ -1,3 +1,8 @@
+### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
+insufficient vote credits: 83521 credits earned in epoch 182
+* Stake level: **None**
+* Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
+* Data Center: 16509-US-Boardman
 ### [[Mainnet Epoch 182|Mainnet#Epoch-182]]
 poor block production during epoch 181: 119 blocks in 328 slots, 64% skip rate 
 * Stake level: **Baseline** (for 2 epochs)

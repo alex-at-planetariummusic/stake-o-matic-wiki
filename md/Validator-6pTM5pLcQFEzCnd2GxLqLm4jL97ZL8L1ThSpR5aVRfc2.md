@@ -1,3 +1,8 @@
+### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
+poor block production during epoch 182: 8 blocks in 20 slots, 60% skip rate 
+* Stake level: **Baseline** (for 2 epochs)
+* Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
+* Data Center: 16509-US-Boardman
 ### [[Mainnet Epoch 182|Mainnet#Epoch-182]]
 poor block production during epoch 181: 84 blocks in 236 slots, 65% skip rate 
 * Stake level: **Baseline**
