@@ -1,3 +1,8 @@
+### [[Testnet Epoch 193|Testnet#Epoch-193]]
+insufficient vote credits: 117968 credits earned in epoch 192
+* Stake level: **None**
+* Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
+* Data Center: 51167-DE-Nuremberg
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
 good block production during epoch 191: 223 blocks in 324 slots, 32% skip rate
 * Stake level: **Bonus**

@@ -1,3 +1,8 @@
+### [[Testnet Epoch 193|Testnet#Epoch-193]]
+insufficient vote credits: 0 credits earned in epoch 192
+* Stake level: **None** (for 4 epochs)
+* Vote account address: FMoCw9DhHThnW9xB4pPXY4wLmEKfhCYbkKYgz4MyfNKY
+* Data Center: 15169-US-America/Chicago
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
 insufficient vote credits: 0 credits earned in epoch 191
 * Stake level: **None** (for 3 epochs)

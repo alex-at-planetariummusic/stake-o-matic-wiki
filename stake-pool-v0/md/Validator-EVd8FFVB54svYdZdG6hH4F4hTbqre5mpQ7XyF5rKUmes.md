@@ -1,3 +1,8 @@
+### [[Testnet Epoch 193|Testnet#Epoch-193]]
+no leader slots; 267816 credits earned in epoch 192
+* Stake level: **Bonus** (for 4 epochs)
+* Vote account address: 72miaovmbPqccdbAA861r2uxwB5yL1sMjrgbCnc4JfVT
+* Data Center: 24961-DE-Europe/Berlin
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
 good block production during epoch 191: 48 blocks in 56 slots, 15% skip rate
 * Stake level: **Bonus** (for 3 epochs)
