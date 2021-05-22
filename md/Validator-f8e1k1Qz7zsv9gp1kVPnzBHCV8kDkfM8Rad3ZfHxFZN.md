@@ -1,3 +1,8 @@
+### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
+insufficient vote credits: 97392 credits earned in epoch 183
+* Stake level: **None** (for 2 epochs)
+* Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
+* Data Center: 16509-US-Boardman
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
 insufficient vote credits: 83521 credits earned in epoch 182
 * Stake level: **None**

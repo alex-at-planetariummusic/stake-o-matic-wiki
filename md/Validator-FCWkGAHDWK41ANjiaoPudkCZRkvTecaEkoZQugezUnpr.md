@@ -1,3 +1,8 @@
+### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
+good block production during epoch 183: 305 blocks in 340 slots, 11% skip rate
+* Stake level: **Bonus** (for 5 epochs)
+* Vote account address: GptPXjYUBUjxpRmueH6F5JcqizvjPTRDShTJQ8Vp6uN1
+* Data Center: 16276-FR-Gravelines
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
 good block production during epoch 182: 291 blocks in 316 slots, 8% skip rate
 * Stake level: **Bonus** (for 4 epochs)

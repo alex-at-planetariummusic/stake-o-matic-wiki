@@ -1,3 +1,8 @@
+### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
+no leader slots; 258505 credits earned in epoch 183
+* Stake level: **Baseline** (for 2 epochs)
+* Vote account address: ytEKd8gXENNbci3pa3jvv1V8JAg8TxbrZ69eqJLEa5m
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
 no leader slots; 240559 credits earned in epoch 182
 * Stake level: **Baseline**

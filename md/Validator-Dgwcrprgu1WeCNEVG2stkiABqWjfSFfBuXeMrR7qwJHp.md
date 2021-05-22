@@ -1,3 +1,8 @@
+### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
+insufficient vote credits: 0 credits earned in epoch 183
+* Stake level: **None** (for 5 epochs)
+* Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
 insufficient vote credits: 0 credits earned in epoch 182
 * Stake level: **None** (for 4 epochs)
