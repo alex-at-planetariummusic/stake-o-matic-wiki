@@ -1,3 +1,13 @@
+### Epoch 194
+* Minimum vote credits required for epoch 193: 129804 (cluster average: 259609, grace: 50%)
+* Maximum allowed skip rate for epoch 193: 50% (cluster average: 15%, grace: 35%)
+* Solana release 1.6.6 or greater required
+* Maximum commission: 100%
+* Maximum infrastructure concentration: 31%
+* Minimum required self stake: ◎0.000000000
+* 1949 validators processed
+* Baseline stake amount: ◎5000.000000000
+* Bonus stake amount: ◎56489.734657063
 ### Epoch 193
 * Minimum vote credits required for epoch 192: 124286 (cluster average: 248572, grace: 50%)
 * Maximum allowed skip rate for epoch 192: 50% (cluster average: 15%, grace: 35%)

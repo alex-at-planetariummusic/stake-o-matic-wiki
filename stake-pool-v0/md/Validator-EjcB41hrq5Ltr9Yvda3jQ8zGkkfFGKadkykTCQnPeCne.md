@@ -1,3 +1,8 @@
+### [[Testnet Epoch 194|Testnet#Epoch-194]]
+insufficient vote credits: 47536 credits earned in epoch 193
+* Stake level: **None** (for 2 epochs)
+* Vote account address: 2w69f4Tc3whVme3AKMgVg9VGaYZiiqucU78hciGquBHg
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
 insufficient vote credits: 95260 credits earned in epoch 192
 * Stake level: **None**

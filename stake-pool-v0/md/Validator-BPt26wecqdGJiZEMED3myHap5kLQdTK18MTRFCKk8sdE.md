@@ -1,3 +1,8 @@
+### [[Testnet Epoch 194|Testnet#Epoch-194]]
+good block production during epoch 193: 405 blocks in 460 slots, 12% skip rate
+* Stake level: **Bonus** (for 5 epochs)
+* Vote account address: GG8xpyJyrcb1JC7wqG7yGTiW2YsL6mBhGWKDf3qxZuZ4
+* Data Center: 8972-FR-Strasbourg
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
 good block production during epoch 192: 255 blocks in 292 slots, 13% skip rate
 * Stake level: **Bonus** (for 4 epochs)
