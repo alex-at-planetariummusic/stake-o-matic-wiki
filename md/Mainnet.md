@@ -1,3 +1,13 @@
+### Epoch 185
+* Minimum vote credits required for epoch 184: 92396 (cluster average: 184792, grace: 50%)
+* Maximum allowed skip rate for epoch 184: 59% (cluster average: 24%, grace: 35%)
+* Solana release 1.5.19 or greater required
+* Maximum commission: 10%
+* Maximum infrastructure concentration: 11%
+* Minimum required self stake: ◎0.000000000
+* 485 validators processed
+* Baseline stake amount: ◎25000.000000000
+* Bonus stake amount: ◎175000.000000000
 ### Epoch 184
 * Minimum vote credits required for epoch 183: 126694 (cluster average: 253389, grace: 50%)
 * Maximum allowed skip rate for epoch 183: 54% (cluster average: 19%, grace: 35%)

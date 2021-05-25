@@ -1,3 +1,8 @@
+### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
+no leader slots; 201806 credits earned in epoch 184
+* Stake level: **Baseline** (for 5 epochs)
+* Vote account address: uTnZDhnbiSV3TX2obj71nFPAm2aXy83mFTFYzaBRk34
+* Data Center: 16276-FR-Roubaix
 ### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
 no leader slots; 272404 credits earned in epoch 183
 * Stake level: **Baseline** (for 4 epochs)
