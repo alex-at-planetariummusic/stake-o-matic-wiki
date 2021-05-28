@@ -1,3 +1,8 @@
+### [[Testnet Epoch 195|Testnet#Epoch-195]]
+insufficient vote credits: 0 credits earned in epoch 194
+* Stake level: **None** (for 6 epochs)
+* Vote account address: HP6GdVFyhzt9HKAc3M8YYxNKAjdS6YzXDd8GTnfhwPnv
+* Data Center: 24940-DE-Nuremburg
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 insufficient vote credits: 0 credits earned in epoch 193
 * Stake level: **None** (for 5 epochs)

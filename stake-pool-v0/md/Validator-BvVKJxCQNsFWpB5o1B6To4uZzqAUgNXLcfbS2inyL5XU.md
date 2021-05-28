@@ -1,3 +1,8 @@
+### [[Testnet Epoch 195|Testnet#Epoch-195]]
+infrastructure concentration 31.0% is too high
+* Stake level: **None**
+* Vote account address: 3VsWZJazid5NkyQPbCyNtdkW1MjjUz3WtewccPezniW7
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 no leader slots; 286265 credits earned in epoch 193
 * Stake level: **Baseline** (for 2 epochs)

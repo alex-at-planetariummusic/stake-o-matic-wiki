@@ -1,3 +1,8 @@
+### [[Testnet Epoch 195|Testnet#Epoch-195]]
+insufficient vote credits: 0 credits earned in epoch 194
+* Stake level: **None** (for 6 epochs)
+* Vote account address: GKsDgACb9bqU9jTJQoes39YwgvDKhfgUkPyXz6eS4xzc
+* Data Center: 15169-US-The Dalles
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 insufficient vote credits: 0 credits earned in epoch 193
 * Stake level: **None** (for 5 epochs)

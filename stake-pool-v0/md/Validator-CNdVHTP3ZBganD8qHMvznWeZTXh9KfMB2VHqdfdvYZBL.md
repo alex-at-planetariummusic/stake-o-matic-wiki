@@ -1,3 +1,8 @@
+### [[Testnet Epoch 195|Testnet#Epoch-195]]
+no leader slots; 294277 credits earned in epoch 194
+* Stake level: **Baseline** (for 4 epochs)
+* Vote account address: HEvjr4ya1xHihabHMUp1Tnjd7znbK7PV7avQAmLmSEFG
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 no leader slots; 294236 credits earned in epoch 193
 * Stake level: **Baseline** (for 3 epochs)

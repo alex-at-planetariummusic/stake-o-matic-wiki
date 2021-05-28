@@ -1,3 +1,8 @@
+### [[Testnet Epoch 195|Testnet#Epoch-195]]
+infrastructure concentration 31.0% is too high
+* Stake level: **None** (for 5 epochs)
+* Vote account address: 889dGdG6hgLHjfnJmefh98WH1C3c2pCcSkKG8gXe2E2o
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 Outdated solana release: 1.6.5
 * Stake level: **None** (for 4 epochs)

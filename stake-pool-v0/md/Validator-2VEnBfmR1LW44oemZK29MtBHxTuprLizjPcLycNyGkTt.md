@@ -1,3 +1,9 @@
+### [[Testnet Epoch 195|Testnet#Epoch-195]]
+no leader slots; 282950 credits earned in epoch 194
+* Stake level: **Bonus** (for 2 epochs)
+* Vote account address: 7ADP3qnGnqx7jKcZwRppMvt9eyMkDNp4xcRKowXx9z7a
+* Data Center: 24940-FI-Helsinki
+* infrastructure concentration 31.0% is too high; consider finding a new data center
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 good block production during epoch 193: 28 blocks in 28 slots, 0% skip rate
 * Stake level: **Bonus**

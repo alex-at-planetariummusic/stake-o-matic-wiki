@@ -1,3 +1,8 @@
+### [[Testnet Epoch 195|Testnet#Epoch-195]]
+insufficient vote credits: 93643 credits earned in epoch 194
+* Stake level: **None** (for 6 epochs)
+* Vote account address: HLRpVt38d9E9v29SDSmjUHzN8tRFx2AyTX99mzgWrfy1
+* Data Center: 36351-US-America/Chicago
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 Outdated solana release: 1.6.5
 * Stake level: **None** (for 5 epochs)

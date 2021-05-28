@@ -1,3 +1,8 @@
+### [[Testnet Epoch 195|Testnet#Epoch-195]]
+good block production during epoch 194: 20 blocks in 24 slots, 17% skip rate
+* Stake level: **Bonus**
+* Vote account address: 4KShkNFchv6ZVv3gn2E6pJ2cj2W2Lv1Djne61ouArXLS
+* Data Center: 23470-US-Las Vegas
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 no leader slots; 287290 credits earned in epoch 193
 * Stake level: **Baseline** (for 3 epochs)
