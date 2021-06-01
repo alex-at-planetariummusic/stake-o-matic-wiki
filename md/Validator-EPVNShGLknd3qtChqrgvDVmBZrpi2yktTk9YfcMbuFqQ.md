@@ -1,25 +1,31 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: poor block production during epoch 195: 3 blocks in 12 slots, 75% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: CGRZJptffec4LG9ui2DcqbcHbXRvZEbrosu46GQ5mTGC
+* Vote account address: 9ZtuDBPHjMx6tfGLqvLJSXLcscvZyw5nKPqEG4itDPM3
+* Data Center: 44066-DE-Frankfurt am Main
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-poor block production during epoch 194: 8 blocks in 24 slots, 67% skip rate 
 * Stake level: **Baseline** (for 4 epochs)
+* Stake reason: poor block production during epoch 194: 8 blocks in 24 slots, 67% skip rate 
 * Vote account address: 9ZtuDBPHjMx6tfGLqvLJSXLcscvZyw5nKPqEG4itDPM3
 * Data Center: 44066-DE-Frankfurt am Main
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-no leader slots; 286212 credits earned in epoch 193
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 286212 credits earned in epoch 193
 * Vote account address: 9ZtuDBPHjMx6tfGLqvLJSXLcscvZyw5nKPqEG4itDPM3
 * Data Center: 44066-DE-Frankfurt am Main
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 229960 credits earned in epoch 192
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 229960 credits earned in epoch 192
 * Vote account address: 9ZtuDBPHjMx6tfGLqvLJSXLcscvZyw5nKPqEG4itDPM3
 * Data Center: 44066-DE-Frankfurt am Main
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-308361 credits earned in epoch 191
 * Stake level: **Baseline**
+* Stake reason: 308361 credits earned in epoch 191
 * Vote account address: 9ZtuDBPHjMx6tfGLqvLJSXLcscvZyw5nKPqEG4itDPM3
 * Data Center: 44066-DE-Frankfurt am Main
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-insufficient vote credits: 45738 credits earned in epoch 190
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 45738 credits earned in epoch 190
 * Vote account address: 9ZtuDBPHjMx6tfGLqvLJSXLcscvZyw5nKPqEG4itDPM3
 * Data Center: 44066-DE-Frankfurt am Main

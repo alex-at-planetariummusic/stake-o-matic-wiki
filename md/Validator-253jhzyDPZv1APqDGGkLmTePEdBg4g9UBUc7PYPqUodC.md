@@ -1,46 +1,52 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Baseline** (for 7 epochs)
+* Stake reason: poor block production during epoch 195: 0 blocks in 24 slots, 100% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 3SrqrmSTbf1CnDtZrWA8ghVEcE8LDL5422jPHzS9UJV7
+* Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
+* Data Center: 852-CA-Burnaby
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-poor block production during epoch 194: 3 blocks in 32 slots, 91% skip rate 
 * Stake level: **Baseline** (for 6 epochs)
+* Stake reason: poor block production during epoch 194: 3 blocks in 32 slots, 91% skip rate 
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 * Data Center: 852-CA-Burnaby
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-poor block production during epoch 193: 0 blocks in 16 slots, 100% skip rate 
 * Stake level: **Baseline** (for 5 epochs)
+* Stake reason: poor block production during epoch 193: 0 blocks in 16 slots, 100% skip rate 
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 * Data Center: 852-CA-Burnaby
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 280834 credits earned in epoch 192
 * Stake level: **Baseline** (for 4 epochs)
+* Stake reason: no leader slots; 280834 credits earned in epoch 192
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 * Data Center: 852-CA-Burnaby
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-poor block production during epoch 191: 0 blocks in 4 slots, 100% skip rate 
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: poor block production during epoch 191: 0 blocks in 4 slots, 100% skip rate 
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 * Data Center: 852-CA-Burnaby
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-344402 credits earned in epoch 190
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: 344402 credits earned in epoch 190
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 * Data Center: 852-CA-Burnaby
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
-362797 credits earned in epoch 189
 * Stake level: **Baseline**
+* Stake reason: 362797 credits earned in epoch 189
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 * Data Center: 852-CA-Burnaby
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
-367103 credits earned in epoch 188
 * Stake level: **Baseline**
+* Stake reason: 367103 credits earned in epoch 188
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
-poor block production during epoch 187: 0 blocks in 40 slots, 100% skip rate 
 * Stake level: **Baseline**
+* Stake reason: poor block production during epoch 187: 0 blocks in 40 slots, 100% skip rate 
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
-poor block production during epoch 186: 0 blocks in 28 slots, 100% skip rate 
 * Stake level: **Baseline**
+* Stake reason: poor block production during epoch 186: 0 blocks in 28 slots, 100% skip rate 
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
-insufficient vote credits: 104906 credits earned in epoch 185
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 104906 credits earned in epoch 185
 * Vote account address: FjcCbhsmWvFFvkhv4ExdYp4e19yssjoXsnewXXQR1j9D

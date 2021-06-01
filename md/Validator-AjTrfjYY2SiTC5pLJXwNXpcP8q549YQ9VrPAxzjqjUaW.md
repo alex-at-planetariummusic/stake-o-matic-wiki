@@ -1,46 +1,52 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: good block production during epoch 195: 240 blocks in 336 slots, 29% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 2mBC9XmEJELFXjMknxXrgwsZvZutnreTWpXEMtmaDxiQ
+* Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-good block production during epoch 194: 277 blocks in 356 slots, 23% skip rate
 * Stake level: **Bonus** (for 6 epochs)
+* Stake reason: good block production during epoch 194: 277 blocks in 356 slots, 23% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-good block production during epoch 193: 254 blocks in 308 slots, 18% skip rate
 * Stake level: **Bonus** (for 5 epochs)
+* Stake reason: good block production during epoch 193: 254 blocks in 308 slots, 18% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-good block production during epoch 192: 228 blocks in 288 slots, 21% skip rate
 * Stake level: **Bonus** (for 4 epochs)
+* Stake reason: good block production during epoch 192: 228 blocks in 288 slots, 21% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-good block production during epoch 191: 269 blocks in 324 slots, 17% skip rate
 * Stake level: **Bonus** (for 3 epochs)
+* Stake reason: good block production during epoch 191: 269 blocks in 324 slots, 17% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-good block production during epoch 190: 288 blocks in 316 slots, 9% skip rate
 * Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 190: 288 blocks in 316 slots, 9% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
-good block production during epoch 189: 249 blocks in 316 slots, 22% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 189: 249 blocks in 316 slots, 22% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
-good block production during epoch 188: 267 blocks in 368 slots, 28% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 188: 267 blocks in 368 slots, 28% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
-good block production during epoch 187: 247 blocks in 312 slots, 21% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 187: 247 blocks in 312 slots, 21% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
-poor block production during epoch 186: 113 blocks in 344 slots, 68% skip rate 
 * Stake level: **Baseline**
+* Stake reason: poor block production during epoch 186: 113 blocks in 344 slots, 68% skip rate 
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
-good block production during epoch 185: 290 blocks in 420 slots, 31% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 185: 290 blocks in 420 slots, 31% skip rate
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq

@@ -1,47 +1,53 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: good block production during epoch 195: 151 blocks in 288 slots, 48% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 2dwkEnk4JZ9P9CU2SFuRhU1c2dWQ97kuce9yJpp8bFFx
+* Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-good block production during epoch 194: 220 blocks in 328 slots, 33% skip rate
 * Stake level: **Bonus** (for 4 epochs)
+* Stake reason: good block production during epoch 194: 220 blocks in 328 slots, 33% skip rate
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 * Data Center: 24940-FI-Helsinki
 * infrastructure concentration 31.0% is too high; consider finding a new data center
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-good block production during epoch 193: 16 blocks in 16 slots, 0% skip rate
 * Stake level: **Bonus** (for 3 epochs)
+* Stake reason: good block production during epoch 193: 16 blocks in 16 slots, 0% skip rate
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-good block production during epoch 192: 43 blocks in 44 slots, 3% skip rate
 * Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 192: 43 blocks in 44 slots, 3% skip rate
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-good block production during epoch 191: 18 blocks in 20 slots, 10% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 191: 18 blocks in 20 slots, 10% skip rate
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-348198 credits earned in epoch 190
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: 348198 credits earned in epoch 190
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
-365576 credits earned in epoch 189
 * Stake level: **Baseline**
+* Stake reason: 365576 credits earned in epoch 189
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
-370416 credits earned in epoch 188
 * Stake level: **Baseline**
+* Stake reason: 370416 credits earned in epoch 188
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
-Outdated solana release: 1.6.4
 * Stake level: **None**
+* Stake reason: Outdated solana release: 1.6.4
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
-Outdated solana release: 1.6.4
 * Stake level: **None**
+* Stake reason: Outdated solana release: 1.6.4
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
-Outdated solana release: 1.6.4
 * Stake level: **None**
+* Stake reason: Outdated solana release: 1.6.4
 * Vote account address: 9A2SNMd9UbmphmGagFo6TXh2KLcJ5ovzzHWQTDpbyDvH

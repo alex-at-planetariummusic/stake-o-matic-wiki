@@ -1,30 +1,36 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 195: 18 blocks in 20 slots, 10% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 6aNi7dfEcVwmZhsy7pQdJVWW6gPYSpdirAwdg9CCou86
+* Vote account address: 46sXBXCiGqnDvmhAfdeSJDN1idm92HvFQAbvHUjuH1CM
+* Data Center: 24961-DE-Düsseldorf
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-good block production during epoch 194: 4 blocks in 8 slots, 50% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 194: 4 blocks in 8 slots, 50% skip rate
 * Vote account address: 46sXBXCiGqnDvmhAfdeSJDN1idm92HvFQAbvHUjuH1CM
 * Data Center: 24961-DE-Düsseldorf
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-poor block production during epoch 193: 13 blocks in 52 slots, 75% skip rate 
 * Stake level: **Baseline** (for 4 epochs)
+* Stake reason: poor block production during epoch 193: 13 blocks in 52 slots, 75% skip rate 
 * Vote account address: 46sXBXCiGqnDvmhAfdeSJDN1idm92HvFQAbvHUjuH1CM
 * Data Center: 24961-DE-Düsseldorf
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 283809 credits earned in epoch 192
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 283809 credits earned in epoch 192
 * Vote account address: 46sXBXCiGqnDvmhAfdeSJDN1idm92HvFQAbvHUjuH1CM
 * Data Center: 24961-DE-Düsseldorf
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-308598 credits earned in epoch 191
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: 308598 credits earned in epoch 191
 * Vote account address: 46sXBXCiGqnDvmhAfdeSJDN1idm92HvFQAbvHUjuH1CM
 * Data Center: 24961-DE-Düsseldorf
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-274715 credits earned in epoch 190
 * Stake level: **Baseline**
+* Stake reason: 274715 credits earned in epoch 190
 * Vote account address: 46sXBXCiGqnDvmhAfdeSJDN1idm92HvFQAbvHUjuH1CM
 * Data Center: 24961-DE-Düsseldorf
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
-insufficient vote credits: 0 credits earned in epoch 189
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 189
 * Vote account address: 46sXBXCiGqnDvmhAfdeSJDN1idm92HvFQAbvHUjuH1CM
 * Data Center: 24961-DE-Düsseldorf

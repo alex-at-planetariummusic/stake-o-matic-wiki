@@ -1,20 +1,26 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: no leader slots; 248293 credits earned in epoch 195
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 96xZARJHMUBzT9sxLWYWsZWcoKAZjYnCERkE42jDmSWK
+* Vote account address: HmtZ3C8e91bMo3SUnTcoGQX7Jzo1cp6pH1KrNRvpcud3
+* Data Center: 51500-UA-Lviv
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-no leader slots; 273198 credits earned in epoch 194
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 273198 credits earned in epoch 194
 * Vote account address: HmtZ3C8e91bMo3SUnTcoGQX7Jzo1cp6pH1KrNRvpcud3
 * Data Center: 51500-UA-Lviv
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-no leader slots; 256885 credits earned in epoch 193
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 256885 credits earned in epoch 193
 * Vote account address: HmtZ3C8e91bMo3SUnTcoGQX7Jzo1cp6pH1KrNRvpcud3
 * Data Center: 51500-UA-Lviv
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 280793 credits earned in epoch 192
 * Stake level: **Baseline**
+* Stake reason: no leader slots; 280793 credits earned in epoch 192
 * Vote account address: HmtZ3C8e91bMo3SUnTcoGQX7Jzo1cp6pH1KrNRvpcud3
 * Data Center: 51500-UA-Lviv
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-insufficient vote credits: 113928 credits earned in epoch 191
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 113928 credits earned in epoch 191
 * Vote account address: HmtZ3C8e91bMo3SUnTcoGQX7Jzo1cp6pH1KrNRvpcud3
 * Data Center: 51500-UA-Lviv

@@ -1,30 +1,36 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Baseline**
+* Stake reason: poor block production during epoch 195: 4 blocks in 52 slots, 93% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 22myg9gAQ5ueXicqvKZf4j3X3ZFTCwnVPXnTBFyEky1N
+* Vote account address: AkcdeATdVPHF5nBtxbK86aPjAT6qJXGtz3DLxofdoBVQ
+* Data Center: 31148-UA-Kyiv
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-good block production during epoch 194: 20 blocks in 32 slots, 38% skip rate
 * Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 194: 20 blocks in 32 slots, 38% skip rate
 * Vote account address: AkcdeATdVPHF5nBtxbK86aPjAT6qJXGtz3DLxofdoBVQ
 * Data Center: 31148-UA-Kyiv
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-good block production during epoch 193: 16 blocks in 20 slots, 20% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 193: 16 blocks in 20 slots, 20% skip rate
 * Vote account address: AkcdeATdVPHF5nBtxbK86aPjAT6qJXGtz3DLxofdoBVQ
 * Data Center: 49984-UA-Lviv
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 276922 credits earned in epoch 192
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 276922 credits earned in epoch 192
 * Vote account address: AkcdeATdVPHF5nBtxbK86aPjAT6qJXGtz3DLxofdoBVQ
 * Data Center: 49984-UA-Lviv
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-290320 credits earned in epoch 191
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: 290320 credits earned in epoch 191
 * Vote account address: AkcdeATdVPHF5nBtxbK86aPjAT6qJXGtz3DLxofdoBVQ
 * Data Center: 49984-UA-Lviv
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-270706 credits earned in epoch 190
 * Stake level: **Baseline**
+* Stake reason: 270706 credits earned in epoch 190
 * Vote account address: AkcdeATdVPHF5nBtxbK86aPjAT6qJXGtz3DLxofdoBVQ
 * Data Center: 49984-UA-Lviv
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
-insufficient vote credits: 0 credits earned in epoch 189
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 189
 * Vote account address: AkcdeATdVPHF5nBtxbK86aPjAT6qJXGtz3DLxofdoBVQ
 * Data Center: 49984-UA-Lviv

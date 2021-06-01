@@ -1,25 +1,31 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 195: 32 blocks in 32 slots, 0% skip rate
+* Staking activity: target stake amount: ◎52244.278878311, current stake amount: ◎5000.000000000 - reserve depleted
+* Vote account address: 3ufNa1R16zbQ1Rj3aYNUWCgVvE79AB747eQsqcrxgESq
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-good block production during epoch 194: 16 blocks in 20 slots, 20% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 194: 16 blocks in 20 slots, 20% skip rate
 * Vote account address: 3ufNa1R16zbQ1Rj3aYNUWCgVvE79AB747eQsqcrxgESq
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-no leader slots; 284786 credits earned in epoch 193
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 284786 credits earned in epoch 193
 * Vote account address: 3ufNa1R16zbQ1Rj3aYNUWCgVvE79AB747eQsqcrxgESq
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 283020 credits earned in epoch 192
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 283020 credits earned in epoch 192
 * Vote account address: 3ufNa1R16zbQ1Rj3aYNUWCgVvE79AB747eQsqcrxgESq
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-307981 credits earned in epoch 191
 * Stake level: **Baseline**
+* Stake reason: 307981 credits earned in epoch 191
 * Vote account address: 3ufNa1R16zbQ1Rj3aYNUWCgVvE79AB747eQsqcrxgESq
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-insufficient vote credits: 3727 credits earned in epoch 190
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 3727 credits earned in epoch 190
 * Vote account address: 3ufNa1R16zbQ1Rj3aYNUWCgVvE79AB747eQsqcrxgESq
 * Data Center: 24940-DE-Europe/Berlin

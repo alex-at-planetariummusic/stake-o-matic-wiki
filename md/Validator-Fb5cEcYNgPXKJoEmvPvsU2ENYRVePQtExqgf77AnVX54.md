@@ -1,46 +1,52 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: good block production during epoch 195: 305 blocks in 336 slots, 10% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: AdDjx3Qsw7RCFqEVFaJvhmU8DtVAbJ1xSjoBnheaHwCR
+* Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-good block production during epoch 194: 386 blocks in 408 slots, 6% skip rate
 * Stake level: **Bonus** (for 4 epochs)
+* Stake reason: good block production during epoch 194: 386 blocks in 408 slots, 6% skip rate
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-good block production during epoch 193: 12 blocks in 12 slots, 0% skip rate
 * Stake level: **Bonus** (for 3 epochs)
+* Stake reason: good block production during epoch 193: 12 blocks in 12 slots, 0% skip rate
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-good block production during epoch 192: 302 blocks in 316 slots, 5% skip rate
 * Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 192: 302 blocks in 316 slots, 5% skip rate
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-good block production during epoch 191: 290 blocks in 304 slots, 5% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 191: 290 blocks in 304 slots, 5% skip rate
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-insufficient vote credits: 140616 credits earned in epoch 190
 * Stake level: **None** (for 2 epochs)
+* Stake reason: insufficient vote credits: 140616 credits earned in epoch 190
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
-insufficient vote credits: 112689 credits earned in epoch 189
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 112689 credits earned in epoch 189
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
-good block production during epoch 188: 337 blocks in 340 slots, 1% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 188: 337 blocks in 340 slots, 1% skip rate
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
-good block production during epoch 187: 324 blocks in 332 slots, 3% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 187: 324 blocks in 332 slots, 3% skip rate
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
-good block production during epoch 186: 336 blocks in 340 slots, 2% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 186: 336 blocks in 340 slots, 2% skip rate
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
-good block production during epoch 185: 363 blocks in 364 slots, 1% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 185: 363 blocks in 364 slots, 1% skip rate
 * Vote account address: Asvh5svBij2Ssu1jZ8dE9LoBZW2WvFVsSaGo1pwG8we4

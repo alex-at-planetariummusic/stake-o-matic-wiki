@@ -1,15 +1,21 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 278567 credits earned in epoch 195
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account AFfc5rJUJ5aGbQ7pFtYq6Eq8JrQF3ZV5Ucf59Mg9rbSD
+* Vote account address: 5FtuhYfpCUBPujmL2BZVJtmrbrePr2Qm4Uc2srYQLCEw
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-no leader slots; 286879 credits earned in epoch 194
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 286879 credits earned in epoch 194
 * Vote account address: 5FtuhYfpCUBPujmL2BZVJtmrbrePr2Qm4Uc2srYQLCEw
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-no leader slots; 293336 credits earned in epoch 193
 * Stake level: **Baseline**
+* Stake reason: no leader slots; 293336 credits earned in epoch 193
 * Vote account address: 5FtuhYfpCUBPujmL2BZVJtmrbrePr2Qm4Uc2srYQLCEw
 * Data Center: 24940-DE-Europe/Berlin
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-insufficient vote credits: 68335 credits earned in epoch 192
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 68335 credits earned in epoch 192
 * Vote account address: 5FtuhYfpCUBPujmL2BZVJtmrbrePr2Qm4Uc2srYQLCEw
 * Data Center: 24940-DE-Europe/Berlin

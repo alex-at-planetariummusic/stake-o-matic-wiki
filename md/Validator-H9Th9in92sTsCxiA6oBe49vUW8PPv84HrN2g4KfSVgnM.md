@@ -1,20 +1,26 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: no leader slots; 268702 credits earned in epoch 195
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: m96t3NSZrkA6rwoJBpaPitbFiPvRqno41518v4xVxx3
+* Data Center: 21409-FR-Paris
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-no leader slots; 285162 credits earned in epoch 194
 * Stake level: **Baseline** (for 4 epochs)
+* Stake reason: no leader slots; 285162 credits earned in epoch 194
 * Vote account address: m96t3NSZrkA6rwoJBpaPitbFiPvRqno41518v4xVxx3
 * Data Center: 21409-FR-Paris
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-no leader slots; 286220 credits earned in epoch 193
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 286220 credits earned in epoch 193
 * Vote account address: m96t3NSZrkA6rwoJBpaPitbFiPvRqno41518v4xVxx3
 * Data Center: 21409-FR-Paris
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 282841 credits earned in epoch 192
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 282841 credits earned in epoch 192
 * Vote account address: m96t3NSZrkA6rwoJBpaPitbFiPvRqno41518v4xVxx3
 * Data Center: 21409-FR-Paris
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-268909 credits earned in epoch 191
 * Stake level: **Baseline**
+* Stake reason: 268909 credits earned in epoch 191
 * Vote account address: m96t3NSZrkA6rwoJBpaPitbFiPvRqno41518v4xVxx3
 * Data Center: 21409-FR-Paris

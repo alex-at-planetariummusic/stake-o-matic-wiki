@@ -1,25 +1,31 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Bonus**
+* Stake reason: good block production during epoch 195: 43 blocks in 44 slots, 3% skip rate
+* Staking activity: stake account busy due to transient stake activation: J5jxXnCadvFjVLYzeb1z3vQA9bSUAN95QkJFJuNQFCD8
+* Vote account address: 9CSGiDJTYS4TGGPxCBw2rhhDWo3fLQf6oug1e5SGVpLF
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-infrastructure concentration 31.0% is too high
 * Stake level: **None**
+* Stake reason: infrastructure concentration 31.0% is too high
 * Vote account address: 9CSGiDJTYS4TGGPxCBw2rhhDWo3fLQf6oug1e5SGVpLF
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-no leader slots; 285085 credits earned in epoch 193
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 285085 credits earned in epoch 193
 * Vote account address: 9CSGiDJTYS4TGGPxCBw2rhhDWo3fLQf6oug1e5SGVpLF
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 282776 credits earned in epoch 192
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 282776 credits earned in epoch 192
 * Vote account address: 9CSGiDJTYS4TGGPxCBw2rhhDWo3fLQf6oug1e5SGVpLF
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-308139 credits earned in epoch 191
 * Stake level: **Baseline**
+* Stake reason: 308139 credits earned in epoch 191
 * Vote account address: 9CSGiDJTYS4TGGPxCBw2rhhDWo3fLQf6oug1e5SGVpLF
 * Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-insufficient vote credits: 138183 credits earned in epoch 190
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 138183 credits earned in epoch 190
 * Vote account address: 9CSGiDJTYS4TGGPxCBw2rhhDWo3fLQf6oug1e5SGVpLF
 * Data Center: 24940-FI-Helsinki

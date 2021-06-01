@@ -1,46 +1,52 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **None** (for 7 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 195
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
+* Data Center: 49981-NL-Naaldwijk
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-insufficient vote credits: 0 credits earned in epoch 194
 * Stake level: **None** (for 6 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 194
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 * Data Center: 49981-NL-Naaldwijk
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-insufficient vote credits: 0 credits earned in epoch 193
 * Stake level: **None** (for 5 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 193
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 * Data Center: 49981-NL-Naaldwijk
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-insufficient vote credits: 3252 credits earned in epoch 192
 * Stake level: **None** (for 4 epochs)
+* Stake reason: insufficient vote credits: 3252 credits earned in epoch 192
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 * Data Center: 49981-NL-Naaldwijk
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-insufficient vote credits: 0 credits earned in epoch 191
 * Stake level: **None** (for 3 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 191
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 * Data Center: 49981-NL-Naaldwijk
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-insufficient vote credits: 0 credits earned in epoch 190
 * Stake level: **None** (for 2 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 190
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 * Data Center: 49981-NL-Naaldwijk
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
-insufficient vote credits: 0 credits earned in epoch 189
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 189
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 * Data Center: 49981-NL-Naaldwijk
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
-insufficient vote credits: 6864 credits earned in epoch 188
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 6864 credits earned in epoch 188
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
-insufficient vote credits: 0 credits earned in epoch 187
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 187
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
-insufficient vote credits: 33328 credits earned in epoch 186
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 33328 credits earned in epoch 186
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
-good block production during epoch 185: 281 blocks in 356 slots, 22% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 185: 281 blocks in 356 slots, 22% skip rate
 * Vote account address: FtsxYANPsJq1Vv9vaoZ7u9qNG7LahjYmsc9sr2xz2aR7

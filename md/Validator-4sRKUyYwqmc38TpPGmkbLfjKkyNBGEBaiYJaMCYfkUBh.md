@@ -1,46 +1,52 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: good block production during epoch 195: 333 blocks in 372 slots, 11% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 5hngUKHb7oB7YcSqEW5XbagWB21ERAcWud1qtj5t2j6c
+* Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-good block production during epoch 194: 307 blocks in 352 slots, 13% skip rate
 * Stake level: **Bonus** (for 6 epochs)
+* Stake reason: good block production during epoch 194: 307 blocks in 352 slots, 13% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-good block production during epoch 193: 354 blocks in 376 slots, 6% skip rate
 * Stake level: **Bonus** (for 5 epochs)
+* Stake reason: good block production during epoch 193: 354 blocks in 376 slots, 6% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 281907 credits earned in epoch 192
 * Stake level: **Bonus** (for 4 epochs)
+* Stake reason: no leader slots; 281907 credits earned in epoch 192
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-good block production during epoch 191: 38 blocks in 40 slots, 5% skip rate
 * Stake level: **Bonus** (for 3 epochs)
+* Stake reason: good block production during epoch 191: 38 blocks in 40 slots, 5% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
-good block production during epoch 190: 126 blocks in 140 slots, 10% skip rate
 * Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 190: 126 blocks in 140 slots, 10% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
-good block production during epoch 189: 185 blocks in 188 slots, 2% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 189: 185 blocks in 188 slots, 2% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 * Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
-good block production during epoch 188: 256 blocks in 264 slots, 4% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 188: 256 blocks in 264 slots, 4% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 ### [[Testnet Epoch 188|Testnet#Epoch-188]]
-good block production during epoch 187: 360 blocks in 368 slots, 3% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 187: 360 blocks in 368 slots, 3% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 ### [[Testnet Epoch 187|Testnet#Epoch-187]]
-good block production during epoch 186: 368 blocks in 376 slots, 3% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 186: 368 blocks in 376 slots, 3% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni
 ### [[Testnet Epoch 186|Testnet#Epoch-186]]
-good block production during epoch 185: 284 blocks in 284 slots, 0% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 185: 284 blocks in 284 slots, 0% skip rate
 * Vote account address: D121S2BsnHRnEhvF4hjB6nhSERJBZm7XqVrKwTVKatni

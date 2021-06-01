@@ -1,20 +1,26 @@
+### [[Testnet Epoch 196|Testnet#Epoch-196]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: no leader slots; 267751 credits earned in epoch 195
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 7JzLi9vj1d1rW9bwXWPTWxMuPQBdW5zUwnV1uN1sn2A5
+* Vote account address: 3AV7jyQk1MCRL1NmziXLhZrVa9VgJUVgVX7xBVhn8skX
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
-no leader slots; 283448 credits earned in epoch 194
 * Stake level: **Baseline** (for 4 epochs)
+* Stake reason: no leader slots; 283448 credits earned in epoch 194
 * Vote account address: 3AV7jyQk1MCRL1NmziXLhZrVa9VgJUVgVX7xBVhn8skX
 * Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
-no leader slots; 285204 credits earned in epoch 193
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 285204 credits earned in epoch 193
 * Vote account address: 3AV7jyQk1MCRL1NmziXLhZrVa9VgJUVgVX7xBVhn8skX
 * Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
-no leader slots; 283063 credits earned in epoch 192
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 283063 credits earned in epoch 192
 * Vote account address: 3AV7jyQk1MCRL1NmziXLhZrVa9VgJUVgVX7xBVhn8skX
 * Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
-149653 credits earned in epoch 191
 * Stake level: **Baseline**
+* Stake reason: 149653 credits earned in epoch 191
 * Vote account address: 3AV7jyQk1MCRL1NmziXLhZrVa9VgJUVgVX7xBVhn8skX
 * Data Center: 16276-FR-Roubaix
