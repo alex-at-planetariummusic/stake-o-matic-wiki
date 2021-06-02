@@ -1,31 +1,37 @@
-### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
-good block production during epoch 184: 228 blocks in 272 slots, 17% skip rate
-* Stake level: **Bonus** (for 6 epochs)
+### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: good block production during epoch 186: 179 blocks in 236 slots, 25% skip rate
+* Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎205507.598895259 - reserve depleted
 * Vote account address: 9o4Y8WvRisPxEpuo4sZBq1CtfNsYanzp87bSgeYuGf3R
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center: 16276-DE-Frankfurt,16276-FR-Europe/Paris
+### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: good block production during epoch 184: 228 blocks in 272 slots, 17% skip rate
+* Vote account address: 9o4Y8WvRisPxEpuo4sZBq1CtfNsYanzp87bSgeYuGf3R
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt, 16276-FR-Europe/Paris
 ### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
-good block production during epoch 183: 206 blocks in 260 slots, 21% skip rate
 * Stake level: **Bonus** (for 5 epochs)
+* Stake reason: good block production during epoch 183: 206 blocks in 260 slots, 21% skip rate
 * Vote account address: 9o4Y8WvRisPxEpuo4sZBq1CtfNsYanzp87bSgeYuGf3R
 * Data Center: 16276-FR-Europe/Paris
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
-good block production during epoch 182: 192 blocks in 252 slots, 24% skip rate
 * Stake level: **Bonus** (for 4 epochs)
+* Stake reason: good block production during epoch 182: 192 blocks in 252 slots, 24% skip rate
 * Vote account address: 9o4Y8WvRisPxEpuo4sZBq1CtfNsYanzp87bSgeYuGf3R
 * Data Center: 16276-FR-Europe/Paris
 ### [[Mainnet Epoch 182|Mainnet#Epoch-182]]
-good block production during epoch 181: 178 blocks in 248 slots, 29% skip rate
 * Stake level: **Bonus** (for 3 epochs)
+* Stake reason: good block production during epoch 181: 178 blocks in 248 slots, 29% skip rate
 * Vote account address: 9o4Y8WvRisPxEpuo4sZBq1CtfNsYanzp87bSgeYuGf3R
 * Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 181|Mainnet#Epoch-181]]
-good block production during epoch 180: 190 blocks in 284 slots, 34% skip rate
 * Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 180: 190 blocks in 284 slots, 34% skip rate
 * Vote account address: 9o4Y8WvRisPxEpuo4sZBq1CtfNsYanzp87bSgeYuGf3R
 * Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 180|Mainnet#Epoch-180]]
-good block production during epoch 179: 196 blocks in 268 slots, 27% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 179: 196 blocks in 268 slots, 27% skip rate
 * Vote account address: 9o4Y8WvRisPxEpuo4sZBq1CtfNsYanzp87bSgeYuGf3R
 * Data Center: 24940-FI-Helsinki

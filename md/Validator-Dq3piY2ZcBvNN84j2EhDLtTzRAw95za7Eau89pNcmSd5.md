@@ -1,30 +1,36 @@
+### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: good block production during epoch 186: 406 blocks in 528 slots, 24% skip rate
+* Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎206062.172431602 - reserve depleted
+* Vote account address: 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru
+* Data Center: 16276-PL-Warsaw
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
-good block production during epoch 184: 244 blocks in 348 slots, 30% skip rate
 * Stake level: **Bonus** (for 6 epochs)
+* Stake reason: good block production during epoch 184: 244 blocks in 348 slots, 30% skip rate
 * Vote account address: 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru
 * Data Center: 16276-PL-Warsaw
 ### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
-good block production during epoch 183: 344 blocks in 400 slots, 14% skip rate
 * Stake level: **Bonus** (for 5 epochs)
+* Stake reason: good block production during epoch 183: 344 blocks in 400 slots, 14% skip rate
 * Vote account address: 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru
 * Data Center: 16276-PL-Warsaw
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
-good block production during epoch 182: 397 blocks in 432 slots, 9% skip rate
 * Stake level: **Bonus** (for 4 epochs)
+* Stake reason: good block production during epoch 182: 397 blocks in 432 slots, 9% skip rate
 * Vote account address: 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru
 * Data Center: 16276-PL-Warsaw
 ### [[Mainnet Epoch 182|Mainnet#Epoch-182]]
-good block production during epoch 181: 324 blocks in 352 slots, 8% skip rate
 * Stake level: **Bonus** (for 3 epochs)
+* Stake reason: good block production during epoch 181: 324 blocks in 352 slots, 8% skip rate
 * Vote account address: 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru
 * Data Center: 16276-PL-Warsaw
 ### [[Mainnet Epoch 181|Mainnet#Epoch-181]]
-good block production during epoch 180: 380 blocks in 412 slots, 8% skip rate
 * Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 180: 380 blocks in 412 slots, 8% skip rate
 * Vote account address: 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru
 * Data Center: 16276-PL-Warsaw
 ### [[Mainnet Epoch 180|Mainnet#Epoch-180]]
-good block production during epoch 179: 452 blocks in 468 slots, 4% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 179: 452 blocks in 468 slots, 4% skip rate
 * Vote account address: 2PEyBgsPYBQ8pMdXQtEaPGNqWQHE9GCnmV2tTVN4GMru
 * Data Center: 16276-PL-Warsaw

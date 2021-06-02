@@ -1,30 +1,36 @@
+### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: good block production during epoch 186: 78 blocks in 80 slots, 3% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: Fpd1ZyWwv5cu5QgkpSprnmBqWrp3nw3tbxoQVNp69iB7
+* Vote account address: 6k6Yo8kmwssvayHTzp8K4jtVwmyRyjvQx6T96DNJAdYH
+* Data Center: 24940-DE-Europe/Berlin
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
-good block production during epoch 184: 244 blocks in 332 slots, 27% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 184: 244 blocks in 332 slots, 27% skip rate
 * Vote account address: 6k6Yo8kmwssvayHTzp8K4jtVwmyRyjvQx6T96DNJAdYH
 * Data Center: 24940-DE-Europe/Berlin
 ### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
-poor block production during epoch 183: 109 blocks in 292 slots, 63% skip rate 
 * Stake level: **Baseline** (for 4 epochs)
+* Stake reason: poor block production during epoch 183: 109 blocks in 292 slots, 63% skip rate 
 * Vote account address: 6k6Yo8kmwssvayHTzp8K4jtVwmyRyjvQx6T96DNJAdYH
 * Data Center: 24940-DE-Europe/Berlin
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
-poor block production during epoch 182: 130 blocks in 296 slots, 57% skip rate 
 * Stake level: **Baseline** (for 3 epochs)
+* Stake reason: poor block production during epoch 182: 130 blocks in 296 slots, 57% skip rate 
 * Vote account address: 6k6Yo8kmwssvayHTzp8K4jtVwmyRyjvQx6T96DNJAdYH
 * Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 182|Mainnet#Epoch-182]]
-poor block production during epoch 181: 156 blocks in 344 slots, 55% skip rate 
 * Stake level: **Baseline** (for 2 epochs)
+* Stake reason: poor block production during epoch 181: 156 blocks in 344 slots, 55% skip rate 
 * Vote account address: 6k6Yo8kmwssvayHTzp8K4jtVwmyRyjvQx6T96DNJAdYH
 * Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 181|Mainnet#Epoch-181]]
-poor block production during epoch 180: 143 blocks in 308 slots, 54% skip rate 
 * Stake level: **Baseline**
+* Stake reason: poor block production during epoch 180: 143 blocks in 308 slots, 54% skip rate 
 * Vote account address: 6k6Yo8kmwssvayHTzp8K4jtVwmyRyjvQx6T96DNJAdYH
 * Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 180|Mainnet#Epoch-180]]
-good block production during epoch 179: 198 blocks in 292 slots, 33% skip rate
 * Stake level: **Bonus**
+* Stake reason: good block production during epoch 179: 198 blocks in 292 slots, 33% skip rate
 * Vote account address: 6k6Yo8kmwssvayHTzp8K4jtVwmyRyjvQx6T96DNJAdYH
 * Data Center: 24940-DE-Falkenstein

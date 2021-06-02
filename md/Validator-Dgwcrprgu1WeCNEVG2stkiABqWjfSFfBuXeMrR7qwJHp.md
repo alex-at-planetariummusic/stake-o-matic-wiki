@@ -1,30 +1,36 @@
+### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
+* Stake level: **None** (for 7 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 186
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
-insufficient vote credits: 0 credits earned in epoch 184
 * Stake level: **None** (for 6 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 184
 * Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
 * Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
-insufficient vote credits: 0 credits earned in epoch 183
 * Stake level: **None** (for 5 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 183
 * Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
 * Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
-insufficient vote credits: 0 credits earned in epoch 182
 * Stake level: **None** (for 4 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 182
 * Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
 * Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 182|Mainnet#Epoch-182]]
-insufficient vote credits: 0 credits earned in epoch 181
 * Stake level: **None** (for 3 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 181
 * Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
 * Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 181|Mainnet#Epoch-181]]
-insufficient vote credits: 0 credits earned in epoch 180
 * Stake level: **None** (for 2 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 180
 * Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
 * Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 180|Mainnet#Epoch-180]]
-insufficient vote credits: 0 credits earned in epoch 179
 * Stake level: **None**
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 179
 * Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
 * Data Center: 24940-FI-Helsinki
