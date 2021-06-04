@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: good block production during epoch 187: 195 blocks in 240 slots, 19% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 21cfUNFQb2ta12fKZieCEcDUGw1DaEarx2S8NQ4HekBn
+* Vote account address: 7DJunpQm9vgLXnspokwjivkdX6UkugT3HZs4prjsPkG4
+* Data Center: 16276-FR-Gravelines
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 186: 230 blocks in 268 slots, 15% skip rate
