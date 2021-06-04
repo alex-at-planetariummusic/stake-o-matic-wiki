@@ -1,3 +1,9 @@
+### [[Testnet Epoch 197|Testnet#Epoch-197]]
+* Stake level: **Bonus**
+* Stake reason: good block production during epoch 196: 20 blocks in 24 slots, 17% skip rate
+* Staking activity: creating new stake account 5TDYtq9xrrE4Q7ZFacuYyx6WHk2ZcwnVr4L1PYswwu64
+* Vote account address: HqMPmbpeaBGTCsyjY9AjcRyU39C1L32UbjcxDqGt7SA8
+* Data Center: 23470-US-Miami
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 210710 credits earned in epoch 195
