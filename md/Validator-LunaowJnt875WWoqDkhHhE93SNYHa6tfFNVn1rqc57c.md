@@ -1,7 +1,13 @@
+### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
+* Stake level: **None**
+* Stake reason: active stake is too high: ◎3263529.376516220
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎205589.846676354 - removing ◎205588.846676354
+* Vote account address: LunaFpQkZsZVJL2P2BUqNDJqyVYqrw9buQnjQtMLXdK
+* Data Center: 60945-GB-Europe/London
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 3507 blocks in 3992 slots, 13% skip rate
-* Staking activity: target stake amount: ◎205468.798728007, current stake amount: ◎208413.469365980 - removing ◎2944.670637973
+* Staking activity: stake account busy due to transient stake deactivation: FVuGZVtsL3SkH6DgjsjJaDQ7nZeFGQ2NsJJ5R49bSMVm
 * Vote account address: LunaFpQkZsZVJL2P2BUqNDJqyVYqrw9buQnjQtMLXdK
 * Data Center: 60945-GB-Europe/London
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]

@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
+* Stake level: **None**
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 188
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25000.000000000 - removing ◎24999.000000000
+* Vote account address: Cz2XaT611zudwqpb7FezbjmeBxz5BBwtV4BEiyVjnW5a
+* Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 187: 102 blocks in 304 slots, 67% skip rate

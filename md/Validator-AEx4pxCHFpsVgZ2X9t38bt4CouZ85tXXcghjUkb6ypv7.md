@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
+* Stake level: **Baseline**
+* Stake reason: no leader slots; 261786 credits earned in epoch 188
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.001016936 - reserve depleted
+* Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
+* Data Center: 14618-US-Ashburn
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: insufficient vote credits: 107692 credits earned in epoch 187
