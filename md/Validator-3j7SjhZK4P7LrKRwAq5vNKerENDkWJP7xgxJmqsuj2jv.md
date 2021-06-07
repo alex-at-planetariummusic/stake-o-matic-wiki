@@ -1,7 +1,13 @@
+### [[Testnet Epoch 198|Testnet#Epoch-198]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: good block production during epoch 197: 257 blocks in 368 slots, 31% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: EHZGrgrBMVfM8UBdVoU1PedNzniJGpYpsYJjbm6g9RSf
+* Vote account address: Hh7MppVJWrfEwofTPtTmbRiCmwnVuo6hN1NMxBJ7DKCD
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 196: 265 blocks in 316 slots, 17% skip rate
-* Staking activity: target stake amount: ◎49280.842105604, current stake amount: ◎52251.204778588 - removing ◎2970.362672984
+* Staking activity: stake account busy due to transient stake deactivation: EHZGrgrBMVfM8UBdVoU1PedNzniJGpYpsYJjbm6g9RSf
 * Vote account address: Hh7MppVJWrfEwofTPtTmbRiCmwnVuo6hN1NMxBJ7DKCD
 * Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
@@ -16,7 +22,7 @@
 * Stake reason: good block production during epoch 194: 327 blocks in 348 slots, 7% skip rate
 * Vote account address: Hh7MppVJWrfEwofTPtTmbRiCmwnVuo6hN1NMxBJ7DKCD
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein, 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix, 24940-DE-Falkenstein
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 193: 276 blocks in 308 slots, 11% skip rate

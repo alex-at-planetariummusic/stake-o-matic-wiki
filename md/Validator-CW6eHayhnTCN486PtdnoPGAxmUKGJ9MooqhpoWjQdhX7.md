@@ -1,7 +1,13 @@
+### [[Testnet Epoch 198|Testnet#Epoch-198]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Outdated solana release: 1.6.9
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 7MvEM7sy4BadkRjiVWk7XFNwjDjNAyEzVh2TTVGLxENx
+* Data Center: 14576-NL-Meppel
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **None**
 * Stake reason: insufficient vote credits: 68344 credits earned in epoch 196
-* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Staking activity: stake account busy due to transient stake deactivation: 9Tpsdbn8mBqchDMfYBTTKM9grjSnCxtBSY8Fk8nUcw8o
 * Vote account address: 7MvEM7sy4BadkRjiVWk7XFNwjDjNAyEzVh2TTVGLxENx
 * Data Center: 14576-NL-Meppel
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]

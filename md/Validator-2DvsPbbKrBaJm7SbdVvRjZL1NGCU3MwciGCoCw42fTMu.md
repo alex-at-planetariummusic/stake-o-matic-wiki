@@ -1,7 +1,13 @@
+### [[Testnet Epoch 198|Testnet#Epoch-198]]
+* Stake level: **None**
+* Stake reason: Outdated solana release: 1.6.6
+* Staking activity: stake account busy due to transient stake deactivation: 5x8bxcxZMrgSDSUtk1hNNNYi4d6GWnXisk89wAxFyVPc
+* Vote account address: ENSw7YavYqTS9uwUyYM8nWRnnapfb6y73Rx4zyT83VC4
+* Data Center: 15169-US-North Charleston
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 196: 203 blocks in 376 slots, 47% skip rate
-* Staking activity: target stake amount: ◎49280.842105604, current stake amount: ◎52251.204778588 - removing ◎2970.362672984
+* Staking activity: stake account busy due to transient stake deactivation: 5x8bxcxZMrgSDSUtk1hNNNYi4d6GWnXisk89wAxFyVPc
 * Vote account address: ENSw7YavYqTS9uwUyYM8nWRnnapfb6y73Rx4zyT83VC4
 * Data Center: 15169-US-North Charleston
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]

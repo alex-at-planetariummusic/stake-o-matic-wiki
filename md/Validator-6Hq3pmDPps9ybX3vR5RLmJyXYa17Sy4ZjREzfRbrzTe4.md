@@ -1,7 +1,13 @@
+### [[Testnet Epoch 198|Testnet#Epoch-198]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: good block production during epoch 197: 287 blocks in 356 slots, 20% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: Ch4XP4aSF3BWhUJAK4DyNDuq7Jwyd2Nv65b8P6xmoN3K
+* Vote account address: 2XUQ5sLf45HrrLExuXACdew6n5pLA1kS8nLVT1D1Hj1x
+* Data Center: 16276-DE-Frankfurt
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 196: 292 blocks in 324 slots, 10% skip rate
-* Staking activity: target stake amount: ◎49280.842105604, current stake amount: ◎52251.204778588 - removing ◎2970.362672984
+* Staking activity: stake account busy due to transient stake deactivation: Ch4XP4aSF3BWhUJAK4DyNDuq7Jwyd2Nv65b8P6xmoN3K
 * Vote account address: 2XUQ5sLf45HrrLExuXACdew6n5pLA1kS8nLVT1D1Hj1x
 * Data Center: 16276-DE-Frankfurt
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]

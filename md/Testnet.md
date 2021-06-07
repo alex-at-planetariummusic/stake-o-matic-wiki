@@ -1,16 +1,31 @@
+### Epoch 198
+* Minimum vote credits required for epoch 197: 95507 (cluster average: 146934, grace: 35%)
+* Maximum allowed skip rate for epoch 197: 62% (cluster average: 27%, grace: 35%)
+* Solana release 1.6.10 or greater required
+* Maximum commission: 100%
+* Minimum required self stake: ◎0.000000000
+* Maximum active stake allowed: ◎3500000.000000000
+* Maximum infrastructure concentration: 30%
+* 2024 validators processed
+* Active stake: ◎75545655.417462889
+* Stake pool size: ◎77581381.118691981 (available for delegation: ◎0.000000000)
+* Baseline stake amount: ◎5000.000000000
+* Bonus stake amount: ◎47738.728760853
+* Validators by stake level: None=244, Baseline=173, Bonus=1607
 ### Epoch 197
-* Minimum vote credits required for epoch 196: 112773 (cluster average: 225546, grace: 50%)
+* Minimum vote credits required for epoch 196: 112660 (cluster average: 225321, grace: 50%)
 * Maximum allowed skip rate for epoch 196: 53% (cluster average: 18%, grace: 35%)
 * Solana release 1.6.6 or greater required
 * Maximum commission: 100%
 * Minimum required self stake: ◎0.000000000
+* Maximum active stake allowed: ◎3500000.000000000
 * Maximum infrastructure concentration: 31%
-* 2010 validators processed
-* Active stake: ◎76605248.260193731
-* Stake pool size: ◎77516959.579476464 (available for delegation: ◎4543191.137140298)
+* 2012 validators processed
+* Active stake: ◎76605245.326692931
+* Stake pool size: ◎77516959.579476464 (available for delegation: ◎0.000000000)
 * Baseline stake amount: ◎5000.000000000
-* Bonus stake amount: ◎49280.842105604
-* Validators by stake level: None=216, Baseline=246, Bonus=1548
+* Bonus stake amount: ◎49207.578438371
+* Validators by stake level: None=213, Baseline=249, Bonus=1550
 ### Epoch 196
 * Minimum vote credits required for epoch 195: 121900 (cluster average: 243801, grace: 50%)
 * Maximum allowed skip rate for epoch 195: 51% (cluster average: 16%, grace: 35%)

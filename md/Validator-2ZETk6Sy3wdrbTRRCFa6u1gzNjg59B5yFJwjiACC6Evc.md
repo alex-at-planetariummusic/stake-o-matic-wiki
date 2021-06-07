@@ -1,6 +1,12 @@
+### [[Testnet Epoch 198|Testnet#Epoch-198]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: infrastructure concentration 30.1% is too high; find a new data center
+* Staking activity: stake account busy due to transient stake deactivation: 27RHVUKx96KvGjk83V1eSkFyfGvMcCMaryat6Yb6xT7N
+* Vote account address: 7HR3oz3T4CV6PuCZzDek3QdeGRoxEu8U8EsFt3U7Ry1W
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **None**
-* Stake reason: infrastructure concentration 31.6% is too high; find a new data center
+* Stake reason: infrastructure concentration 31.7% is too high; find a new data center
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 27RHVUKx96KvGjk83V1eSkFyfGvMcCMaryat6Yb6xT7N
 * Vote account address: 7HR3oz3T4CV6PuCZzDek3QdeGRoxEu8U8EsFt3U7Ry1W
 * Data Center: 24940-FI-Helsinki

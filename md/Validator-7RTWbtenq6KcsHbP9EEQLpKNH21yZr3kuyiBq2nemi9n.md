@@ -1,7 +1,13 @@
+### [[Testnet Epoch 198|Testnet#Epoch-198]]
+* Stake level: **None**
+* Stake reason: Outdated solana release: 1.6.9
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account J6QLw8UNRnrgc2Fh9jJtktarijGnTp26Gw2aFwRrXMFE
+* Vote account address: DxHGx59guM8wbgvj6UBF79FArVD8omKKhFZj8LXN7BuB
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Baseline**
 * Stake reason: no leader slots; 250460 credits earned in epoch 196
-* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - adding ◎4999.000000000
+* Staking activity: stake account busy due to transient stake activation: J6QLw8UNRnrgc2Fh9jJtktarijGnTp26Gw2aFwRrXMFE
 * Vote account address: DxHGx59guM8wbgvj6UBF79FArVD8omKKhFZj8LXN7BuB
 * Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]

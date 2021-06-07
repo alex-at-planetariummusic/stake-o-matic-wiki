@@ -1,7 +1,13 @@
+### [[Testnet Epoch 198|Testnet#Epoch-198]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 156608 credits earned in epoch 197
+* Staking activity: stake account busy due to transient stake activation: HQqzEXeJWEuD74K2Hr1Xh8sXzKnYUoXtbLuT7dqZWLNL
+* Vote account address: AKBebTQYqvTMFpMAo7SCcVRLbgJavntxTTd4zqGwcU1M
+* Data Center: 7992-CA-Sarnia
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Baseline**
 * Stake reason: no leader slots; 143260 credits earned in epoch 196
-* Staking activity: creating new stake account 9CuJbYWbTSYcaUhNcAXKJJDPW59NzMioG69BV5XR6zrC
+* Staking activity: stake account busy due to stake activation of 9CuJbYWbTSYcaUhNcAXKJJDPW59NzMioG69BV5XR6zrC
 * Vote account address: AKBebTQYqvTMFpMAo7SCcVRLbgJavntxTTd4zqGwcU1M
 * Data Center: 7992-CA-Sarnia
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]

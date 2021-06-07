@@ -1,9 +1,16 @@
-### [[Testnet Epoch 197|Testnet#Epoch-197]]
-* Stake level: **None**
-* Stake reason: insufficient vote credits: 70128 credits earned in epoch 196
-* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎52251.204778588 - removing ◎52250.204778588
+### [[Testnet Epoch 198|Testnet#Epoch-198]]
+* Stake level: **Bonus**
+* Stake reason: good block production during epoch 197: 195 blocks in 316 slots, 39% skip rate
+* Staking activity: target stake amount: ◎47738.728760853, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: DJFze9ZT6p3onzUQ8CK4qsicGawBEsJwK4bY42WimDax
 * Data Center: 24940-FI-Europe/Helsinki
+### [[Testnet Epoch 197|Testnet#Epoch-197]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 31.7% is too high; find a new data center
+* Staking activity: stake account busy due to transient stake deactivation: FtNaEQAc1gkTavaGBv1AEFsAghrXu2UJPVd3qRw2wXML
+* Vote account address: DJFze9ZT6p3onzUQ8CK4qsicGawBEsJwK4bY42WimDax
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Europe/Helsinki
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 195: 214 blocks in 232 slots, 8% skip rate
