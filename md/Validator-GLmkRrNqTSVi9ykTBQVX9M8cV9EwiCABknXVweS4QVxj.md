@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: no leader slots; 224492 credits earned in epoch 189
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.180906408 - removing ◎11.180906408
+* Vote account address: 6syLbA7pHFWGJetPdB5Hyzf33r7B6zZK7qurwCv4Afqk
+* Data Center: 16509-US-Boardman
 ### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: poor block production during epoch 188: 13 blocks in 32 slots, 60% skip rate

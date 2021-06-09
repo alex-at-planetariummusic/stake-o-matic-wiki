@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: no leader slots; 283402 credits earned in epoch 189
+* Staking activity: target stake amount: ◎207809.343129810, current stake amount: ◎205584.801401777 - reserve depleted
+* Vote account address: DeJtHx8YijwzNRDuEDyJBgbnXiHdbKZzMGtHXUF73y8i
+* Data Center: 12212-CA-Toronto
 ### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 188: 213 blocks in 244 slots, 13% skip rate
