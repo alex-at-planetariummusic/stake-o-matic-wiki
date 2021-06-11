@@ -1,3 +1,9 @@
+### [[Testnet Epoch 199|Testnet#Epoch-199]]
+* Stake level: **None**
+* Stake reason: insufficient vote credits: 55585 credits earned in epoch 198
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: 94yGL4kDyfRhozKLUazFjFP6x6JsdgZgCxdzxFrNkLEK
+* Data Center: 60781-NL-Europe/Amsterdam
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: poor block production during epoch 197: 1 blocks in 20 slots, 95% skip rate

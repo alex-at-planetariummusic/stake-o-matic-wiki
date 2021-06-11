@@ -1,3 +1,9 @@
+### [[Testnet Epoch 199|Testnet#Epoch-199]]
+* Stake level: **None**
+* Stake reason: Outdated solana release: 1.6.11
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account BLmaFg7M3hqaNHekFk3xCkAtjuFWvnUtZejj8NmvvTuP
+* Vote account address: FgtoDirEKoF5dVBThhqg168KAouL9g57416TnjMJQqsb
+* Data Center: 47366-RO-Europe/Bucharest
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **Baseline**
 * Stake reason: no leader slots; 159463 credits earned in epoch 197

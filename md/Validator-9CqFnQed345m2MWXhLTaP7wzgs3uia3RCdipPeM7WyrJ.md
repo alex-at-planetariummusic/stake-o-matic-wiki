@@ -1,3 +1,9 @@
+### [[Testnet Epoch 199|Testnet#Epoch-199]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: insufficient vote credits: 65682 credits earned in epoch 198
+* Staking activity: creating new stake account 92ELMWxE9ZMgCYm1K9UuGJZKTrhepUqT7NnKYyL4Xb4J
+* Vote account address: 3gVMAUC1yyx9Fh1ZsAxRr3MmP7995yxai7fta4dVfRiC
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: infrastructure concentration 30.1% is too high; find a new data center
