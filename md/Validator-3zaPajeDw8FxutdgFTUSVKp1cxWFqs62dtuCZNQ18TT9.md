@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: good block production during epoch 190: 210 blocks in 248 slots, 16% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 6REeNJz9MQ2F1ddbdbtnCiXyDDKRkUWuz8kiiwBW4Rt3
+* Vote account address: 6vJGsbs5jYKEdQGUfMEYN4Nenwscgza1dBXB3WJraFyH
+* Data Center: 24940-FI-Helsinki
+* infrastructure concentration 11.2% is too high; consider finding a new data center
 ### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 189: 241 blocks in 264 slots, 9% skip rate
@@ -19,14 +26,14 @@
 * Staking activity: target stake amount: ◎206350.634774050, current stake amount: ◎205299.674156098 - reserve depleted
 * Vote account address: 6vJGsbs5jYKEdQGUfMEYN4Nenwscgza1dBXB3WJraFyH
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki, 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago, 24940-FI-Helsinki
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 186: 255 blocks in 288 slots, 12% skip rate
 * Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎205180.911876263 - reserve depleted
 * Vote account address: 6vJGsbs5jYKEdQGUfMEYN4Nenwscgza1dBXB3WJraFyH
 * Data Center: 0-Unknown
-* Resident Data Center(s): 23470-US-America/Chicago, 0-Unknown
+* Resident Data Center(s): 0-Unknown, 23470-US-America/Chicago
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 184: 207 blocks in 236 slots, 13% skip rate
