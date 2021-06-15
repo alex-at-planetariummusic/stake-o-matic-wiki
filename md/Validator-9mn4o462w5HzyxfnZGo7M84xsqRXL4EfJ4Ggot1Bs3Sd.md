@@ -1,3 +1,9 @@
+### [[Testnet Epoch 200|Testnet#Epoch-200]]
+* Stake level: **None**
+* Stake reason: insufficient vote credits: 84118 credits earned in epoch 199
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 4k1r6Phxurg7QoQmMVX7BMABM8r664B9xTK24QVcjAjs
+* Vote account address: 27dpJ8v2dMBnx6mZhhDigXuPTN8S73YuFCHaLHErFdhv
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 199|Testnet#Epoch-199]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 198: 12 blocks in 16 slots, 25% skip rate
