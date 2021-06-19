@@ -1,0 +1,6 @@
+### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
+* Stake level: **None**
+* Stake reason: insufficient vote credits: 115257 credits earned in epoch 192
+* Staking activity: stake account busy due to stake activation of JDyH3xvi2bsniyrpKfyE365i4QBFqPcPwYuoTsKggeCE
+* Vote account address: 5XGMWvqZSBk1fktPtxbwaMF5dhkbrtchpwd4xiXG9q8u
+* Data Center: 21409-FR-Europe/Paris

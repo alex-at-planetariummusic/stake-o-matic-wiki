@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
+* Stake level: **None**
+* Stake reason: Outdated solana release: 1.6.7
+* Staking activity: stake account busy due to transient stake deactivation: 47saRALEmJS9F2o5npPBhd1apuuNofnzc1mmadGMkcPW
+* Vote account address: E971NTnWRWFTTso1MA7FaYbLCgMuViKsANZTFSk1Dmz3
+* Data Center: 16509-US-Boardman
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: no leader slots; 259967 credits earned in epoch 190
