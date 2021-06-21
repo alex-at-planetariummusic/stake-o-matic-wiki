@@ -1,3 +1,10 @@
+### [[Testnet Epoch 202|Testnet#Epoch-202]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: no leader slots; 166536 credits earned in epoch 201
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎45239.342126859 - removing ◎40239.342126859
+* Vote account address: AMwfoYSmzQXav9U12XJoxkqZ1fRmx4xPHEpJkhkyEXXL
+* Data Center: 24940-FI-Helsinki
+* infrastructure concentration 27.3% is too high; consider finding a new data center
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 200: 0 blocks in 4 slots, 100% skip rate
