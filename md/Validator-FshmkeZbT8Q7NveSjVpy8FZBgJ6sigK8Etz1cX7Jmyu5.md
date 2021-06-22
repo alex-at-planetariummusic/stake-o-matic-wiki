@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: no leader slots; 240937 credits earned in epoch 193
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 3qL8iNFY3ErCKofLtgnx21ZS66H8kTpdAdskytAieYYd
+* Vote account address: 7xpGAKm2Afc94L8nQ2EJFDwF4xNuKjWaYiW5bkAmE9RG
+* Data Center: 12212-CA-Toronto
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: no leader slots; 248591 credits earned in epoch 192

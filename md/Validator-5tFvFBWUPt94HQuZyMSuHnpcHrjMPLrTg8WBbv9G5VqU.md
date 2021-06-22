@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: commission is too high: 100% commission
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 8ZvTbWfA7txjkNubA9jnv8CWQtwbaZSzpf7vaDDcxMr5
+* Data Center: 58061-GB-Europe/London
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **None**
 * Stake reason: commission is too high: 100% commission
