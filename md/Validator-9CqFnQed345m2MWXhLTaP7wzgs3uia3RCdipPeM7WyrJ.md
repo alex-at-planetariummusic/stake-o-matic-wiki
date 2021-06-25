@@ -1,3 +1,10 @@
+### [[Testnet Epoch 203|Testnet#Epoch-203]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 28.3% is too high; find a new data center
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎44670.972509869 - removing ◎44669.972509869
+* Vote account address: 3gVMAUC1yyx9Fh1ZsAxRr3MmP7995yxai7fta4dVfRiC
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-FI-Helsinki
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: no leader slots; 164472 credits earned in epoch 201

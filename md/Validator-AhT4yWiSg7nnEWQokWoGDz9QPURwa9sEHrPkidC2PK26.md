@@ -1,3 +1,9 @@
+### [[Testnet Epoch 203|Testnet#Epoch-203]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 28.3% is too high; find a new data center
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account Hzrx4c3afv1MvBCS818B2aWJiC3iUPGVhwAJcFKMfqe8
+* Vote account address: EsbhvpFhMtibeSz8XCMQazcR8nhbk27dUainCbnQvfbo
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: no leader slots; 165526 credits earned in epoch 201
