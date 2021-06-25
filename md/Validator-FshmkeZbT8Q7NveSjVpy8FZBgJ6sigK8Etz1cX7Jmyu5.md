@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: no leader slots; 224620 credits earned in epoch 194
+* Staking activity: target stake amount: ◎210534.991475330, current stake amount: ◎178175.192883471 - reserve depleted
+* Vote account address: 7xpGAKm2Afc94L8nQ2EJFDwF4xNuKjWaYiW5bkAmE9RG
+* Data Center: 12212-CA-Toronto
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: no leader slots; 240937 credits earned in epoch 193

@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: good block production during epoch 194: 183 blocks in 244 slots, 25% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account BPGteniQmK5YyZ6fBqCyFHGXAn8Zt9PAgo3rYtewkt37
+* Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 24940-DE-Falkenstein, 16276-CA-Beauharnois
+* Insufficient self stake: ◎1.029223306
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: good block production during epoch 193: 205 blocks in 228 slots, 11% skip rate
@@ -30,7 +38,7 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎204295.537174103 - adding ◎2504.383288164
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 16276-CA-Beauharnois
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 248 blocks in 272 slots, 9% skip rate

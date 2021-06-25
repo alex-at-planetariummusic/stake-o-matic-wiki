@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: good block production during epoch 194: 157 blocks in 236 slots, 34% skip rate
+* Staking activity: target stake amount: ◎210534.991475330, current stake amount: ◎205242.122990451 - adding ◎5292.868484879
+* Vote account address: 7kge23FTbCXc6dZxMPQfAWLnVFTgGzio5wpXUo9si2mV
+* Data Center: 24940-FI-Helsinki
+* Insufficient self stake: ◎0.007966153
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: good block production during epoch 193: 157 blocks in 236 slots, 34% skip rate

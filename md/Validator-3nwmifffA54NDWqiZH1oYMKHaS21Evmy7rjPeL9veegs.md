@@ -1,10 +1,18 @@
+### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: good block production during epoch 194: 268 blocks in 292 slots, 9% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 4rxeTza6rN4a8F4A6MCiHwP1JfQewSwRR7JHbNhv6Hax
+* Vote account address: 8HfXSEtpDodzLrWvbUuLhH2nU6axzAzL8eoLNZK4GCbM
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-FI-Helsinki, 24940-DE-Nuremburg
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: good block production during epoch 193: 234 blocks in 300 slots, 22% skip rate
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎205063.863663271 - adding ◎8396.742403005
 * Vote account address: 8HfXSEtpDodzLrWvbUuLhH2nU6axzAzL8eoLNZK4GCbM
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-FI-Helsinki, 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg, 24940-FI-Helsinki
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: good block production during epoch 192: 155 blocks in 280 slots, 45% skip rate
