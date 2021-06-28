@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
+* Stake level: **Bonus** (for 15 epochs)
+* Stake reason: good block production during epoch 195: 236 blocks in 268 slots, 12% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account GCRnoRoGtRL2XpDswpD1kqZQD8mBhsJUqGjJbUsvZECV
+* Vote account address: 6tWV1iEX8vNzboPfm6UBuCGmT3p4btaaxidVYc3wRkki
+* Data Center: 16276-FR-Gravelines
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: good block production during epoch 194: 239 blocks in 288 slots, 18% skip rate

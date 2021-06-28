@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: no leader slots; 225279 credits earned in epoch 195
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account GABZxLPEHBqiEvdyBva8cgciXwT7Cu2hm1tPDNA2AVVT
+* Vote account address: FcoY4fMpb8UPgbqJAbkUU5z3YT7YmpoKUM2jGdunT95G
+* Data Center: 16276-PL-Warsaw
+* Insufficient self stake: ◎0.498533838
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: no leader slots; 223478 credits earned in epoch 194

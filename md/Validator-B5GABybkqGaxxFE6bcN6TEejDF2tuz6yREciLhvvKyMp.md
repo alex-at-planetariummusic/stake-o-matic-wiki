@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: insufficient vote credits: 56241 credits earned in epoch 195
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000604228 - not removing ◎0.000604228 (amount too small)
+* Vote account address: 9mPYMu9MUQuykKA9QK1jSVymJJTTRWKMyGsdM1VJFoL7
+* Data Center: 21409-FR-Europe/Paris
+* Insufficient self stake: ◎1.011259405
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: insufficient vote credits: 0 credits earned in epoch 194
