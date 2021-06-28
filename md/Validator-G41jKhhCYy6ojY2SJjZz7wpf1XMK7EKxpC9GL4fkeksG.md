@@ -1,3 +1,9 @@
+### [[Testnet Epoch 204|Testnet#Epoch-204]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: insufficient vote credits: 80879 credits earned in epoch 203
+* Staking activity: creating new stake account 2Ecy8hso9JkxQEHnwLZszeRpAA1ff16KY5aLiPePCLX8
+* Vote account address: 23PDMsXYz8dvJHZuUCvgeKjQpio2MMCKu6tZNqirF2EP
+* Data Center: 8972-FR-Strasbourg
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: insufficient vote credits: 0 credits earned in epoch 202

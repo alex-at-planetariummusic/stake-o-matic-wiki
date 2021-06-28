@@ -1,3 +1,10 @@
+### [[Testnet Epoch 204|Testnet#Epoch-204]]
+* Stake level: **None**
+* Stake reason: insufficient vote credits: 69148 credits earned in epoch 203
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: 7pQT4rjhiXeHVfdpnqJEVwzoxJQzozSV8MazK1psr7Gm
+* Data Center: 56478-GB-Poplar
+* Resident Data Center(s): 9009-GB-London
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 202: 124 blocks in 308 slots, 60% skip rate
@@ -35,7 +42,7 @@
 * Staking activity: stake account busy due to transient stake activation: ALxKiFNwhMwsw5hWCEdxREDExFtJxWACVZSwPbxQmfj3
 * Vote account address: 7pQT4rjhiXeHVfdpnqJEVwzoxJQzozSV8MazK1psr7Gm
 * Data Center: 9009-GB-London
-* Resident Data Center(s): 9009-GB-London, 56478-GB-Poplar
+* Resident Data Center(s): 56478-GB-Poplar, 9009-GB-London
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 196: 44 blocks in 76 slots, 43% skip rate

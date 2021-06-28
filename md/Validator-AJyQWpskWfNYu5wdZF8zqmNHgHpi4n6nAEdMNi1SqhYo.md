@@ -1,3 +1,9 @@
+### [[Testnet Epoch 204|Testnet#Epoch-204]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: no leader slots; 135198 credits earned in epoch 203
+* Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44602.170095623 - reserve depleted
+* Vote account address: FQwrR8DRc7qi9x4SBACAMTaaNZNncMfu17ZAVvCBZqTA
+* Data Center: 24940-DE-Nuremburg
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: no leader slots; 162634 credits earned in epoch 202

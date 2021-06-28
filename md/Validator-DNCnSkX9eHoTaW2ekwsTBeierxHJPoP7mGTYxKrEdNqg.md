@@ -1,3 +1,9 @@
+### [[Testnet Epoch 204|Testnet#Epoch-204]]
+* Stake level: **Bonus** (for 10 epochs)
+* Stake reason: good block production during epoch 203: 117 blocks in 256 slots, 55% skip rate
+* Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
+* Vote account address: DKyskqWXKfLSASoD2cLVdHp4JJXh1qTQDTV7XYnT1Rp1
+* Data Center: 16276-CA-Beauharnois
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: good block production during epoch 202: 155 blocks in 252 slots, 39% skip rate
@@ -16,21 +22,21 @@
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45239.342126859 - removing ◎568.369616990
 * Vote account address: DKyskqWXKfLSASoD2cLVdHp4JJXh1qTQDTV7XYnT1Rp1
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois, 16276-CA-America/Toronto
+* Resident Data Center(s): 16276-CA-America/Toronto, 16276-CA-Beauharnois
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 199: 147 blocks in 240 slots, 39% skip rate
 * Staking activity: target stake amount: ◎45239.342126859, current stake amount: ◎46269.599541788 - removing ◎1030.257414929
 * Vote account address: DKyskqWXKfLSASoD2cLVdHp4JJXh1qTQDTV7XYnT1Rp1
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-America/Toronto, 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois, 16276-CA-America/Toronto
 ### [[Testnet Epoch 199|Testnet#Epoch-199]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 198: 182 blocks in 312 slots, 42% skip rate
 * Staking activity: target stake amount: ◎46269.599541788, current stake amount: ◎47768.453996694 - removing ◎1498.854454906
 * Vote account address: DKyskqWXKfLSASoD2cLVdHp4JJXh1qTQDTV7XYnT1Rp1
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois, 16276-CA-America/Toronto
+* Resident Data Center(s): 16276-CA-America/Toronto, 16276-CA-Beauharnois
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 197: 160 blocks in 300 slots, 47% skip rate
