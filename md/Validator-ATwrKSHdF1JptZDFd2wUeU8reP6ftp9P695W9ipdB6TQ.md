@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: good block production during epoch 196: 257 blocks in 288 slots, 11% skip rate
+* Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎210773.796891617 - removing ◎10795.536147716
+* Vote account address: CnYYmAhuFcyocBbXxoVzPnu37a5ctpLaSr8ja1NGKNZ7
+* Data Center: 24940-DE-Falkenstein
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 195: 241 blocks in 256 slots, 6% skip rate
@@ -20,7 +27,7 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎207410.123453654 - reserve depleted
 * Vote account address: CnYYmAhuFcyocBbXxoVzPnu37a5ctpLaSr8ja1NGKNZ7
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein, 24940-DE-Europe/Berlin
+* Resident Data Center(s): 24940-DE-Europe/Berlin, 24940-DE-Falkenstein
 * infrastructure concentration 11.8% is too high; consider finding a new data center
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 12 epochs)
@@ -36,7 +43,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BMhFiFnaroh6Sf5zrXNf1SD9QG7ioJk2WVr552kn5hpM
 * Vote account address: CnYYmAhuFcyocBbXxoVzPnu37a5ctpLaSr8ja1NGKNZ7
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Europe/Berlin, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 24940-DE-Europe/Berlin
 ### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: good block production during epoch 189: 227 blocks in 256 slots, 12% skip rate
@@ -63,7 +70,7 @@
 * Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎205247.159441161 - reserve depleted
 * Vote account address: CnYYmAhuFcyocBbXxoVzPnu37a5ctpLaSr8ja1NGKNZ7
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Europe/Berlin, 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki, 24940-DE-Europe/Berlin
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 184: 178 blocks in 288 slots, 39% skip rate

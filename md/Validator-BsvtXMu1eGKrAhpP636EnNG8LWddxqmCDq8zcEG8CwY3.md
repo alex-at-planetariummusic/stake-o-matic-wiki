@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: no leader slots; 222865 credits earned in epoch 196
+* Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎1.001636054 - adding ◎199977.259107847
+* Vote account address: ytEKd8gXENNbci3pa3jvv1V8JAg8TxbrZ69eqJLEa5m
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 195: 214 blocks in 256 slots, 17% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: good block production during epoch 196: 254 blocks in 296 slots, 15% skip rate
+* Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎210770.706918240 - removing ◎10792.446174339
+* Vote account address: GbxaecfPrKMXPDDCHnJaqwnZfAumqWsqA57hhC48D8jy
+* Data Center: 24940-DE-Falkenstein
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 195: 237 blocks in 260 slots, 9% skip rate
@@ -49,21 +56,21 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎205587.354059261 - reserve depleted
 * Vote account address: GbxaecfPrKMXPDDCHnJaqwnZfAumqWsqA57hhC48D8jy
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Europe/Berlin, 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami, 24940-DE-Europe/Berlin
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 214 blocks in 264 slots, 19% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 9LUpP7cfMmEsfBwbw8vmAB8F4kbaT95YhN7pkufEp2r9
 * Vote account address: GbxaecfPrKMXPDDCHnJaqwnZfAumqWsqA57hhC48D8jy
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Europe/Berlin, 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami, 24940-DE-Europe/Berlin
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 186: 216 blocks in 288 slots, 25% skip rate
 * Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎205565.430664920 - reserve depleted
 * Vote account address: GbxaecfPrKMXPDDCHnJaqwnZfAumqWsqA57hhC48D8jy
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Europe/Berlin, 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami, 24940-DE-Europe/Berlin
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 184: 248 blocks in 288 slots, 14% skip rate

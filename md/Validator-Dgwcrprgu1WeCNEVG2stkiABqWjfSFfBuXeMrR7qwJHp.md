@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
+* Stake level: **None** (for 16 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 196
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: HhzsBi7Y6DPfcZtYAUcbhNzStpicPar8Psy84yS8ZeVg
+* Data Center: 24940-FI-Helsinki
+* Insufficient self stake: ◎0.997717120
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **None** (for 15 epochs)
 * Stake reason: infrastructure concentration 10.0% is too high; find a new data center

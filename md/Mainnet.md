@@ -1,3 +1,18 @@
+### Epoch 197
+* Minimum vote credits required for epoch 196: 136320 (cluster average: 209724, grace: 35%)
+* Maximum allowed skip rate for epoch 196: 54% (cluster average: 24%, grace: 30%)
+* Solana release 1.6.10 or greater required
+* Maximum commission: 10%
+* Minimum required self stake: ◎100.000000000
+* Maximum active stake allowed: ◎3000000.000000000
+* Maximum infrastructure concentration: 10%
+* Participants must maintain Baseline or Bonus stake level for 5 of the last 10 Testnet epochs
+* 550 validators processed
+* Active stake: ◎337807603.242651908
+* Stake pool size: ◎96789647.374840876 (available for delegation: ◎2407646.842768764)
+* Baseline stake amount: ◎25000.000000000
+* Bonus stake amount: ◎199978.260743901
+* Validators by stake level: None=17, Baseline=56, Bonus=477
 ### Epoch 196
 * Minimum vote credits required for epoch 195: 140062 (cluster average: 215481, grace: 35%)
 * Maximum allowed skip rate for epoch 195: 53% (cluster average: 23%, grace: 30%)
