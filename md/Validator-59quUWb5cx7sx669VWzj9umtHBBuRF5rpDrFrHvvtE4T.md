@@ -1,3 +1,9 @@
+### [[Testnet Epoch 205|Testnet#Epoch-205]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: good block production during epoch 204: 152 blocks in 248 slots, 39% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account BN4o8n1NSpj5M8BvvFBViWUS9TxWY3AV5VL1oCwX4Ycb
+* Vote account address: 7u66wuv5DrkCU4bniv8GXLknPmd8vXSiMbrSJsruQhGb
+* Data Center: 16276-PL-Warsaw
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 182 blocks in 260 slots, 30% skip rate
@@ -52,13 +58,13 @@
 * Staking activity: stake account busy due to transient stake deactivation: BN4o8n1NSpj5M8BvvFBViWUS9TxWY3AV5VL1oCwX4Ycb
 * Vote account address: 7u66wuv5DrkCU4bniv8GXLknPmd8vXSiMbrSJsruQhGb
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 16276-PL-Warsaw
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 194: 306 blocks in 332 slots, 8% skip rate
 * Vote account address: 7u66wuv5DrkCU4bniv8GXLknPmd8vXSiMbrSJsruQhGb
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 16276-PL-Warsaw
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 193: 336 blocks in 356 slots, 6% skip rate

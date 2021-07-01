@@ -1,10 +1,17 @@
+### [[Testnet Epoch 205|Testnet#Epoch-205]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: good block production during epoch 204: 176 blocks in 220 slots, 20% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 4gbSpgWtWPpTcaUyuZiL5Ga7ttqm6b963HQpfx21v9Yo
+* Vote account address: 8em1bwrfEdYf9D123fifSspw4FnMXmDBxzeJvnWk3nVd
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-FI-Helsinki, 24940-DE-Falkenstein
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 214 blocks in 264 slots, 19% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
 * Vote account address: 8em1bwrfEdYf9D123fifSspw4FnMXmDBxzeJvnWk3nVd
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 24940-FI-Helsinki
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: good block production during epoch 202: 252 blocks in 296 slots, 15% skip rate
@@ -19,14 +26,14 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎44670.972509869 - removing ◎544.476354054
 * Vote account address: 8em1bwrfEdYf9D123fifSspw4FnMXmDBxzeJvnWk3nVd
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 24940-FI-Helsinki
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: good block production during epoch 200: 230 blocks in 292 slots, 22% skip rate
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45239.342126859 - removing ◎568.369616990
 * Vote account address: 8em1bwrfEdYf9D123fifSspw4FnMXmDBxzeJvnWk3nVd
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 24940-FI-Helsinki
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 199: 223 blocks in 260 slots, 15% skip rate

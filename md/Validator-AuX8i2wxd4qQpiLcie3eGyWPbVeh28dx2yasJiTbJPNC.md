@@ -1,3 +1,10 @@
+### [[Testnet Epoch 205|Testnet#Epoch-205]]
+* Stake level: **Baseline**
+* Stake reason: poor block production during epoch 204: 34 blocks in 196 slots, 83% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account B8H4qUAqNmUcj36VVAyGkKdk6zJJj6s716ZF793urh6i
+* Vote account address: GjrQJwcqfGf6M1vah2Sf7Pio1sJVqFgZi9cBcsbUEago
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 16276-CA-Beauharnois, 24940-DE-Falkenstein
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 200 blocks in 304 slots, 35% skip rate
@@ -44,21 +51,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: B8H4qUAqNmUcj36VVAyGkKdk6zJJj6s716ZF793urh6i
 * Vote account address: GjrQJwcqfGf6M1vah2Sf7Pio1sJVqFgZi9cBcsbUEago
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 16276-CA-Beauharnois
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 196: 245 blocks in 276 slots, 12% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: B8H4qUAqNmUcj36VVAyGkKdk6zJJj6s716ZF793urh6i
 * Vote account address: GjrQJwcqfGf6M1vah2Sf7Pio1sJVqFgZi9cBcsbUEago
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 16276-CA-Beauharnois
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 195: 260 blocks in 312 slots, 17% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: B8H4qUAqNmUcj36VVAyGkKdk6zJJj6s716ZF793urh6i
 * Vote account address: GjrQJwcqfGf6M1vah2Sf7Pio1sJVqFgZi9cBcsbUEago
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 16276-CA-Beauharnois
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 194: 307 blocks in 320 slots, 5% skip rate

@@ -1,10 +1,17 @@
+### [[Testnet Epoch 205|Testnet#Epoch-205]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: good block production during epoch 204: 1801 blocks in 2288 slots, 22% skip rate
+* Staking activity: target stake amount: ◎47037.197711117, current stake amount: ◎45392.436312903 - reserve depleted
+* Vote account address: HiFjzpR7e5Kv2tdU9jtE4FbH1X8Z9Syia3Uadadx18b5
+* Data Center: 20326-US-Pittsburgh
+* Resident Data Center(s): 16276-CA-Beauharnois, 20326-US-Pittsburgh
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 1790 blocks in 2356 slots, 25% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎45184.697482946 - removing ◎330.192632052
 * Vote account address: HiFjzpR7e5Kv2tdU9jtE4FbH1X8Z9Syia3Uadadx18b5
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 20326-US-Pittsburgh, 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois, 20326-US-Pittsburgh
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: good block production during epoch 202: 1426 blocks in 2356 slots, 40% skip rate

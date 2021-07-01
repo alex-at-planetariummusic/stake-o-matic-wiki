@@ -1,3 +1,9 @@
+### [[Testnet Epoch 205|Testnet#Epoch-205]]
+* Stake level: **Baseline**
+* Stake reason: no leader slots; 125809 credits earned in epoch 204
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 6PmmajTtgWUJVyc3fkQXydSatdqL8oc7wBVE9ZYALauK
+* Data Center: 200350-RU-Moscow
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: insufficient vote credits: 39456 credits earned in epoch 203

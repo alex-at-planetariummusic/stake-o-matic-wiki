@@ -1,17 +1,24 @@
+### [[Testnet Epoch 205|Testnet#Epoch-205]]
+* Stake level: **Bonus** (for 11 epochs)
+* Stake reason: good block production during epoch 204: 86 blocks in 204 slots, 58% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 9fAmPLWcvuUfzFmmwA56kvRQZKBpoc1M3nNTbQA4fAcQ
+* Vote account address: 9dgafu6Sicq4ajG3NBGASMeNwJvhhtkBLY9Pzp2Wjvg1
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt, 16276-FR-Gravelines, 16276-FR-Strasbourg
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: good block production during epoch 203: 144 blocks in 196 slots, 27% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
 * Vote account address: 9dgafu6Sicq4ajG3NBGASMeNwJvhhtkBLY9Pzp2Wjvg1
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-FR-Strasbourg, 16276-DE-Frankfurt, 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines, 16276-FR-Strasbourg, 16276-DE-Frankfurt
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: good block production during epoch 202: 236 blocks in 280 slots, 16% skip rate
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44126.496155815 - reserve depleted
 * Vote account address: 9dgafu6Sicq4ajG3NBGASMeNwJvhhtkBLY9Pzp2Wjvg1
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Gravelines, 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg, 16276-FR-Gravelines
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 201: 179 blocks in 228 slots, 22% skip rate

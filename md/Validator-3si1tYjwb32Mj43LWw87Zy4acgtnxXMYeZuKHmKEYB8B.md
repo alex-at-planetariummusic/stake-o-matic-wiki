@@ -1,3 +1,9 @@
+### [[Testnet Epoch 205|Testnet#Epoch-205]]
+* Stake level: **None**
+* Stake reason: insufficient vote credits: 67682 credits earned in epoch 204
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account FqQeGNTDdQFHJvnqDrHPuYmGNv4Evw4VkTQTM4otTuHz
+* Vote account address: ERxeHi9W3YbLevKKrBi7XdDjzFHcHYMfEKLzXReuoghF
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 203: 124 blocks in 228 slots, 46% skip rate

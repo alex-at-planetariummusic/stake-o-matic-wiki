@@ -1,17 +1,23 @@
+### [[Testnet Epoch 205|Testnet#Epoch-205]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: good block production during epoch 204: 144 blocks in 208 slots, 31% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account DAphGgNNoc5pRmjLV9WVs6eE7i6mtt6Lcm4h43yvN9gL
+* Vote account address: 27e5v4Bhrus4BiYq33rE5c6AvPkAaKdTyZo8C736Arr6
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 203: 162 blocks in 236 slots, 32% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
 * Vote account address: 27e5v4Bhrus4BiYq33rE5c6AvPkAaKdTyZo8C736Arr6
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24961-DE-Schopfheim, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 24961-DE-Schopfheim
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 202: 200 blocks in 260 slots, 24% skip rate
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44126.496155815 - reserve depleted
 * Vote account address: 27e5v4Bhrus4BiYq33rE5c6AvPkAaKdTyZo8C736Arr6
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein, 24961-DE-Schopfheim
+* Resident Data Center(s): 24961-DE-Schopfheim, 24940-DE-Falkenstein
 * infrastructure concentration 28.3% is too high; consider finding a new data center
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 5 epochs)
@@ -19,7 +25,7 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎44670.972509869 - removing ◎544.476354054
 * Vote account address: 27e5v4Bhrus4BiYq33rE5c6AvPkAaKdTyZo8C736Arr6
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24961-DE-Schopfheim, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 24961-DE-Schopfheim
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 200: 26 blocks in 36 slots, 28% skip rate
