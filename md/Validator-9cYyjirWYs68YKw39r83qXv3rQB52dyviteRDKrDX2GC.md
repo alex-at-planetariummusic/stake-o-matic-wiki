@@ -1,10 +1,18 @@
+### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: good block production during epoch 197: 240 blocks in 276 slots, 14% skip rate
+* Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200092.880114774 - removing ◎7099.571825211
+* Vote account address: 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 21409-FR-Europe/Paris, 24940-DE-Nuremburg
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 196: 223 blocks in 256 slots, 13% skip rate
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎210771.102500544 - removing ◎10792.841756643
 * Vote account address: 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg, 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris, 24940-DE-Nuremburg
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 15 epochs)
@@ -20,7 +28,7 @@
 * Staking activity: target stake amount: ◎210534.991475330, current stake amount: ◎205238.098087065 - adding ◎5296.893388265
 * Vote account address: 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg, 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris, 24940-DE-Nuremburg
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)

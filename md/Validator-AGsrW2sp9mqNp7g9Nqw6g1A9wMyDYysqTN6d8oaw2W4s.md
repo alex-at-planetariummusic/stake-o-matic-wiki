@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
+* Stake level: **None**
+* Stake reason: Outdated solana release: 1.6.11
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎200089.598831584 - removing ◎200088.598831584
+* Vote account address: E5sX5xLsupKowpCmSwiBRgPvhUGeKKPGHDRYbpU7rzXE
+* Data Center: 24940-FI-Helsinki
+* Insufficient self stake: ◎0.514492154
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 196: 254 blocks in 308 slots, 18% skip rate

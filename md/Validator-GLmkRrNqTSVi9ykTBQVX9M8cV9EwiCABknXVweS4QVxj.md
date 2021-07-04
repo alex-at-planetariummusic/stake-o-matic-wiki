@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 197
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 9cCvhGpbuw5DfBzV1QYLmFAPaG64ZQBGxdeEqugzcUJ9
+* Vote account address: 6syLbA7pHFWGJetPdB5Hyzf33r7B6zZK7qurwCv4Afqk
+* Data Center: 16509-US-Boardman
+* Insufficient self stake: ◎10.244860814
+* Insufficient testnet participation
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: insufficient vote credits: 0 credits earned in epoch 196

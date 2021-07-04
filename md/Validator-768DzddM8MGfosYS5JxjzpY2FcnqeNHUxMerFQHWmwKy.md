@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: good block production during epoch 197: 272 blocks in 332 slots, 19% skip rate
+* Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200092.130378628 - removing ◎7098.822089065
+* Vote account address: 4Dh6frby55aY5NXdCGYe6yU61xusgzNHBa3GeXWMLPJ4
+* Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 196: 265 blocks in 300 slots, 12% skip rate
@@ -24,7 +30,7 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎205122.407999555 - reserve depleted
 * Vote account address: 4Dh6frby55aY5NXdCGYe6yU61xusgzNHBa3GeXWMLPJ4
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Europe/Berlin, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 24940-DE-Europe/Berlin
 * infrastructure concentration 11.8% is too high; consider finding a new data center
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 12 epochs)
@@ -47,14 +53,14 @@
 * Staking activity: target stake amount: ◎207809.343129810, current stake amount: ◎205703.273887711 - reserve depleted
 * Vote account address: 4Dh6frby55aY5NXdCGYe6yU61xusgzNHBa3GeXWMLPJ4
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Falkenstein, 24940-DE-Europe/Berlin
+* Resident Data Center(s): 24940-DE-Europe/Berlin, 24940-DE-Falkenstein
 ### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: good block production during epoch 188: 194 blocks in 296 slots, 35% skip rate
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎205587.057160116 - reserve depleted
 * Vote account address: 4Dh6frby55aY5NXdCGYe6yU61xusgzNHBa3GeXWMLPJ4
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Falkenstein, 24940-DE-Europe/Berlin
+* Resident Data Center(s): 24940-DE-Europe/Berlin, 24940-DE-Falkenstein
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 221 blocks in 308 slots, 29% skip rate
