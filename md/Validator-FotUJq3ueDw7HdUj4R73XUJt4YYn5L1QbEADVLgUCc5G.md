@@ -1,3 +1,9 @@
+### [[Testnet Epoch 206|Testnet#Epoch-206]]
+* Stake level: **None**
+* Stake reason: Outdated solana release: 1.7.1
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎45926.634804756 - removing ◎45925.634804756
+* Vote account address: sD7XEwdc5DegARbmD2abFFZvQ5vfCFLrJfNuPvJTGbc
+* Data Center: 3216-RU-Shchelkovo
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 204: 169 blocks in 240 slots, 30% skip rate

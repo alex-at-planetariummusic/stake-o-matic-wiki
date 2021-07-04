@@ -1,3 +1,9 @@
+### [[Testnet Epoch 206|Testnet#Epoch-206]]
+* Stake level: **Baseline**
+* Stake reason: no leader slots; 99798 credits earned in epoch 205
+* Staking activity: creating new stake account 5GLkjRf1SLXAqp4Jd3PjreQQNSUzPJ1X3CBj2MjTVATT
+* Vote account address: EKkxUsFj15HnwbCsdhhGuXfsgcJqTWDVakyn9eMjdZXv
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **None** (for 6 epochs)
 * Stake reason: insufficient vote credits: 0 credits earned in epoch 204

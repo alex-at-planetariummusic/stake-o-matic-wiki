@@ -1,3 +1,9 @@
+### [[Testnet Epoch 206|Testnet#Epoch-206]]
+* Stake level: **Baseline**
+* Stake reason: no leader slots; 134865 credits earned in epoch 205
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: E6G3pAbf2dYKt5opRG5PPra7poFmbD63efwE6YnmpmAV
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: Outdated solana release: 1.6.10

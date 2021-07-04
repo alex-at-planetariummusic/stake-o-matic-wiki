@@ -1,17 +1,24 @@
+### [[Testnet Epoch 206|Testnet#Epoch-206]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: good block production during epoch 205: 221 blocks in 268 slots, 18% skip rate
+* Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎44854.504850894 - reserve depleted
+* Vote account address: 8WZk4ix4oG9QsLWjVSgYbVuXCThHpE4DaX2bdFXT4SbB
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 23470-US-Las Vegas, 24940-DE-Falkenstein
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 204: 199 blocks in 256 slots, 23% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 791JLgZihzDTeSUYDdvgNASYckohNs2pKPpE7iDFNTp8
 * Vote account address: 8WZk4ix4oG9QsLWjVSgYbVuXCThHpE4DaX2bdFXT4SbB
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 23470-US-Las Vegas
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 227 blocks in 288 slots, 22% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
 * Vote account address: 8WZk4ix4oG9QsLWjVSgYbVuXCThHpE4DaX2bdFXT4SbB
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 24940-DE-Falkenstein, 23470-US-Las Vegas
+* Resident Data Center(s): 23470-US-Las Vegas, 24940-DE-Falkenstein
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: good block production during epoch 202: 162 blocks in 212 slots, 24% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎44670.972509869 - removing ◎544.476354054
 * Vote account address: 8WZk4ix4oG9QsLWjVSgYbVuXCThHpE4DaX2bdFXT4SbB
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 23470-US-Las Vegas
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: good block production during epoch 200: 229 blocks in 300 slots, 24% skip rate

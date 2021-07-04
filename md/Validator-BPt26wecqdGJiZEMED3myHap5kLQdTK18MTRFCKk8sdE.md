@@ -1,3 +1,9 @@
+### [[Testnet Epoch 206|Testnet#Epoch-206]]
+* Stake level: **None** (for 9 epochs)
+* Stake reason: insufficient vote credits: 0 credits earned in epoch 205
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: GG8xpyJyrcb1JC7wqG7yGTiW2YsL6mBhGWKDf3qxZuZ4
+* Data Center: 8972-FR-Strasbourg
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **None** (for 8 epochs)
 * Stake reason: Outdated solana release: 1.6.7
