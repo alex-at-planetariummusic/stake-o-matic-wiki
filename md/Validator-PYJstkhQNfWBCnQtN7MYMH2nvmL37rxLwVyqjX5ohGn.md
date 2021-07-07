@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
+* Stake level: **Baseline**
+* Stake reason: no leader slots; 210198 credits earned in epoch 198
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25013.581343281 - removing ◎13.581343281
+* Vote account address: aoYUtVYYZd8q5cEKnsKmvbM381VxFTnZbWakJ39GMci
+* Data Center: 8560-ES-Europe/Madrid
+* Insufficient self stake: ◎0.999895884
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.6.11

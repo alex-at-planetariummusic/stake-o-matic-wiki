@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Outdated solana release: 1.6.13
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.002242311 - not removing ◎0.002242311 (amount too small)
+* Vote account address: 9mPYMu9MUQuykKA9QK1jSVymJJTTRWKMyGsdM1VJFoL7
+* Data Center: 21409-FR-Europe/Paris
+* Insufficient self stake: ◎1.012937909
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.6.13

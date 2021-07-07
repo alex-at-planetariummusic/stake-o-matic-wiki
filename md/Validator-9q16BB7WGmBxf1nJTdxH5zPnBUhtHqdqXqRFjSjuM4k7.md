@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
+* Stake level: **Bonus** (for 12 epochs)
+* Stake reason: good block production during epoch 198: 205 blocks in 304 slots, 33% skip rate
+* Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193100.357001613 - removing ◎842.609774079
+* Vote account address: GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC
+* Data Center: 49981-NL-Europe/Amsterdam
+* Resident Data Center(s): 24940-FI-Helsinki, 49981-NL-Europe/Amsterdam, 199610-US-Miami
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 197: 218 blocks in 280 slots, 23% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎210771.462798690 - removing ◎10793.202054789
 * Vote account address: GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 199610-US-Miami, 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki, 199610-US-Miami
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: good block production during epoch 195: 217 blocks in 256 slots, 16% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BUFyJJkHP49nij4UpeegXe57x17ToWXL2zypmwNHzAos
 * Vote account address: GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki, 199610-US-Miami
+* Resident Data Center(s): 199610-US-Miami, 24940-FI-Helsinki
 * infrastructure concentration 10.0% is too high; consider finding a new data center
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
