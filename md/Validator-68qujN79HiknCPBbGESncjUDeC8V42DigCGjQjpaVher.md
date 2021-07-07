@@ -1,10 +1,17 @@
+### [[Testnet Epoch 207|Testnet#Epoch-207]]
+* Stake level: **Baseline**
+* Stake reason: poor block production during epoch 206: 4 blocks in 276 slots, 99% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎46557.066037164 - removing ◎41557.066037164
+* Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
+* Data Center: 28832-RU-Chelyabinsk
+* Resident Data Center(s): 41661-RU-Chelyabinsk
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: good block production during epoch 205: 182 blocks in 268 slots, 33% skip rate
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎45980.968964484 - reserve depleted
 * Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
 * Data Center: 28832-RU-Chelyabinsk
-* Resident Data Center(s): 41661-RU-Chelyabinsk, 28832-RU-Chelyabinsk
+* Resident Data Center(s): 28832-RU-Chelyabinsk, 41661-RU-Chelyabinsk
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 204: 129 blocks in 252 slots, 49% skip rate

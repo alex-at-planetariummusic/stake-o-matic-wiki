@@ -1,3 +1,9 @@
+### [[Testnet Epoch 207|Testnet#Epoch-207]]
+* Stake level: **Bonus**
+* Stake reason: good block production during epoch 206: 4 blocks in 8 slots, 50% skip rate
+* Staking activity: creating new stake account 6UVDEXpDHxxmkvtD3zVt6kSpushXPJ9o2fN5oZvp8ooE
+* Vote account address: DCigAREAdNTd56TXAixbLASwkzNbTidjD5SyuJAayXbx
+* Data Center: 16276-FR-Gravelines
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **None** (for 17 epochs)
 * Stake reason: infrastructure concentration 26.6% is too high; find a new data center
