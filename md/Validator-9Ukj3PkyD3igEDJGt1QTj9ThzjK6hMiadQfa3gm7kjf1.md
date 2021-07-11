@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
+* Stake level: **Bonus** (for 19 epochs)
+* Stake reason: Good block production during epoch 199: 166 blocks in 220 slots, 25% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 32wp92FPmQWmtQ7VGbsdAyRDFpdtHJVGmbF5U8ftF8q4
+* Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
+* Data Center: 16276-CA-Beauharnois
+* Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: good block production during epoch 198: 170 blocks in 240 slots, 30% skip rate
@@ -19,7 +26,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎206006.660321924 - removing ◎6028.399578023
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-US-America/Chicago, 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois, 16276-US-America/Chicago
 * Insufficient testnet participation
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 15 epochs)
@@ -27,7 +34,7 @@
 * Staking activity: target stake amount: ◎205895.552591837, current stake amount: ◎213686.225363656 - removing ◎7790.672771819
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-US-America/Chicago, 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois, 16276-US-America/Chicago
 * Insufficient testnet participation
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus** (for 14 epochs)
@@ -35,7 +42,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 32wp92FPmQWmtQ7VGbsdAyRDFpdtHJVGmbF5U8ftF8q4
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois, 16276-US-America/Chicago
+* Resident Data Center(s): 16276-US-America/Chicago, 16276-CA-Beauharnois
 * Insufficient testnet participation
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)

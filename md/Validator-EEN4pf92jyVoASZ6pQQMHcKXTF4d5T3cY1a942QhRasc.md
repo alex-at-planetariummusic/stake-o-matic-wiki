@@ -1,10 +1,18 @@
+### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
+* Stake level: **Bonus** (for 19 epochs)
+* Stake reason: Good block production during epoch 199: 216 blocks in 236 slots, 9% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: FCFNp7MitrZG438Wtm4xh1nKdXH86G5MsPWTpnRuLegm
+* Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix, 24940-DE-Falkenstein
+* Insufficient self stake: ◎0.513475470
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: good block production during epoch 198: 282 blocks in 324 slots, 13% skip rate
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193102.990996056 - removing ◎845.243768522
 * Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein, 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix, 24940-DE-Falkenstein
 * Insufficient self stake: ◎0.513185047
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 17 epochs)

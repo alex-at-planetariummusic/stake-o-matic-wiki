@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: Poor block production during epoch 199: 16 blocks in 44 slots, 64% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: CCNQKQ8LJZsecs6jFqeBGQSaExPvT4eE7FYEr8QkHvh7
+* Vote account address: 5wNag8umJhaaj9gGdqmBz7Xwwy1NL5yQ1QbvPdQrDd3h
+* Data Center: 8560-GB-Europe/London
+* Insufficient self stake: ◎1.000347037
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 210471 credits earned in epoch 198

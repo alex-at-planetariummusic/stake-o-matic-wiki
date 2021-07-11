@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 199
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 3qL8iNFY3ErCKofLtgnx21ZS66H8kTpdAdskytAieYYd
+* Vote account address: 7xpGAKm2Afc94L8nQ2EJFDwF4xNuKjWaYiW5bkAmE9RG
+* Data Center: 12212-CA-Toronto
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **None**
 * Stake reason: insufficient vote credits: 110616 credits earned in epoch 198
