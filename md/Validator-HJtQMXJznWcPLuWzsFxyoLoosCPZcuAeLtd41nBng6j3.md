@@ -1,3 +1,9 @@
+### [[Testnet Epoch 208|Testnet#Epoch-208]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 207
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎46644.025953063 - removing ◎46643.025953063
+* Vote account address: 8pLQfQh6Np9GTseP9em7r2VpL4qtL7N6V2keyt7baGeW
+* Data Center: 16276-DE-Frankfurt
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 206: 23 blocks in 48 slots, 53% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 208|Testnet#Epoch-208]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 88370 credits earned in epoch 207
+* Staking activity: creating new stake account 46H6x7a4RnnAXUP5nWsieTYJ6R4GFuZnraXgCMAxbxEo
+* Vote account address: 8oWBoZeWTTsmonEPjxjC3fWw3VgNsDriNmNDZ2ajpHr2
+* Data Center: 23470-US-New York
+* Resident Data Center(s): 23470-US-Las Vegas
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 206: 195 blocks in 256 slots, 24% skip rate

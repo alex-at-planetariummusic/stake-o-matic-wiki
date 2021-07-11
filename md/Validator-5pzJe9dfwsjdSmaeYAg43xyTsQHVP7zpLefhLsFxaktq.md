@@ -1,3 +1,10 @@
+### [[Testnet Epoch 208|Testnet#Epoch-208]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 207: 122 blocks in 272 slots, 56% skip rate
+* Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 24940-DE-Falkenstein, 21409-FR-Europe/Paris
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.7.1

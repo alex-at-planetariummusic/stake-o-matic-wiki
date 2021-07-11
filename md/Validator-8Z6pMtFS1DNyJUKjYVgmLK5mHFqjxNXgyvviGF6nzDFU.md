@@ -1,17 +1,24 @@
+### [[Testnet Epoch 208|Testnet#Epoch-208]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: No leader slots; 162291 credits earned in epoch 207
+* Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎49723.306233669 - removing ◎4303.996867178
+* Vote account address: CkXZCBVi1mjeJXXUA76aHVT2sB4E9xcjkTpp3ppiSyuj
+* Data Center: 23470-US-New York
+* Resident Data Center(s): 23470-US-New York, 24940-DE-Falkenstein
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: no leader slots; 181983 credits earned in epoch 206
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account i835Fi2SVi6tZ6eHvK3YmwmHMQXemj78pRcH6ypJQXz
 * Vote account address: CkXZCBVi1mjeJXXUA76aHVT2sB4E9xcjkTpp3ppiSyuj
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York, 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein, 23470-US-New York
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 205: 166 blocks in 256 slots, 36% skip rate
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎1.000000000 - adding ◎49722.306233669
 * Vote account address: CkXZCBVi1mjeJXXUA76aHVT2sB4E9xcjkTpp3ppiSyuj
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 24940-DE-Falkenstein, 23470-US-New York
+* Resident Data Center(s): 23470-US-New York, 24940-DE-Falkenstein
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 204: 168 blocks in 276 slots, 40% skip rate

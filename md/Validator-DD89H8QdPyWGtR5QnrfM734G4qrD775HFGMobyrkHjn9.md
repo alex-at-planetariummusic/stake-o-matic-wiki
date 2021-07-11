@@ -1,3 +1,9 @@
+### [[Testnet Epoch 208|Testnet#Epoch-208]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 207: 197 blocks in 272 slots, 28% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account CUVNg82xTDbrHg7PXZuLtKGbPtvaGAEa7iiACXvSD3Vr
+* Vote account address: EpYFiR1szbHQW1cLSJr1UMBeqJf48mgkNHREJhXBPbRa
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 206: 157 blocks in 200 slots, 22% skip rate

@@ -1,3 +1,17 @@
+### Epoch 208
+* Minimum vote credits required for epoch 207: 94041 (cluster average: 144679, grace: 35%)
+* Maximum allowed skip rate for epoch 207: 61% (cluster average: 31%, grace: 30%)
+* Solana release 1.7.3 or greater required
+* Maximum commission: 100%
+* Minimum required self stake: ◎0.000000000
+* Maximum active stake allowed: ◎3500000.000000000
+* Maximum infrastructure concentration: 25%
+* 2069 validators processed
+* Active stake: ◎80734385.414682272
+* Stake pool size: ◎78200134.469868414 (available for delegation: ◎1826584.756842655)
+* Baseline stake amount: ◎5000.000000000
+* Bonus stake amount: ◎45419.309366491
+* Validators by stake level: None=212, Baseline=152, Bonus=1705
 ### Epoch 207
 * Minimum vote credits required for epoch 206: 105339 (cluster average: 162061, grace: 35%)
 * Maximum allowed skip rate for epoch 206: 58% (cluster average: 28%, grace: 30%)

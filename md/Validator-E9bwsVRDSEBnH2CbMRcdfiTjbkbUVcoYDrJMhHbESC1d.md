@@ -1,3 +1,9 @@
+### [[Testnet Epoch 208|Testnet#Epoch-208]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 207: 130 blocks in 236 slots, 45% skip rate
+* Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: EtbTYUfBRH8rQjgDZQooEr4TqncR2rUcYJ6WV3b6TzTP
+* Data Center: 16276-DE-Frankfurt
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.7.1
@@ -41,7 +47,7 @@
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45239.342126859 - removing ◎568.369616990
 * Vote account address: EtbTYUfBRH8rQjgDZQooEr4TqncR2rUcYJ6WV3b6TzTP
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin, 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt, 24961-DE-Europe/Berlin
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 199: 16 blocks in 20 slots, 20% skip rate
@@ -55,7 +61,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7GKuqyd4cw9pqJqTjmUZLCtmREPtaarRQedDx3zNzRWa
 * Vote account address: EtbTYUfBRH8rQjgDZQooEr4TqncR2rUcYJ6WV3b6TzTP
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt, 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin, 16276-DE-Frankfurt
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 197: 11 blocks in 28 slots, 61% skip rate
