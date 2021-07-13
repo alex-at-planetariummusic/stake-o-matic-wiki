@@ -1,9 +1,17 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 151233 credits earned in epoch 208
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎1.000000000 - adding ◎26372.484780398
+* Vote account address: GAqt1Shrw7dAGtHgSFBcmB5p2MnhCt6LF65MsYQ2F7jr
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 2)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 207: 15 blocks in 32 slots, 54% skip rate
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: GAqt1Shrw7dAGtHgSFBcmB5p2MnhCt6LF65MsYQ2F7jr
 * Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: insufficient vote credits: 95001 credits earned in epoch 206
@@ -58,6 +66,7 @@
 * Staking activity: target stake amount: ◎46269.599541788, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: GAqt1Shrw7dAGtHgSFBcmB5p2MnhCt6LF65MsYQ2F7jr
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: infrastructure concentration 30.1% is too high; find a new data center

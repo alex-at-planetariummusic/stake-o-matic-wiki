@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: Poor block production during epoch 208: 0 blocks in 4 slots, 100% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.030840315 - reserve depleted
+* Vote account address: EkdJ69cqzmcqVNEcaSgpXrcRsZrEWHuJir8ftoBzmZPX
+* Data Center: 45102-JP-Tokyo
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 207: 0 blocks in 20 slots, 100% skip rate
@@ -52,6 +58,7 @@
 * Staking activity: target stake amount: ◎45239.342126859, current stake amount: ◎5057.057464864 - reserve depleted
 * Vote account address: EkdJ69cqzmcqVNEcaSgpXrcRsZrEWHuJir8ftoBzmZPX
 * Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 1)
 ### [[Testnet Epoch 199|Testnet#Epoch-199]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: poor block production during epoch 198: 115 blocks in 324 slots, 65% skip rate
@@ -81,6 +88,7 @@
 * Stake reason: good block production during epoch 194: 11 blocks in 20 slots, 45% skip rate
 * Vote account address: EkdJ69cqzmcqVNEcaSgpXrcRsZrEWHuJir8ftoBzmZPX
 * Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 1)
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 193: 111 blocks in 304 slots, 64% skip rate 
@@ -91,6 +99,7 @@
 * Stake reason: good block production during epoch 192: 144 blocks in 240 slots, 40% skip rate
 * Vote account address: EkdJ69cqzmcqVNEcaSgpXrcRsZrEWHuJir8ftoBzmZPX
 * Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 1)
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 191: 17 blocks in 40 slots, 58% skip rate 
@@ -101,11 +110,13 @@
 * Stake reason: good block production during epoch 190: 33 blocks in 36 slots, 9% skip rate
 * Vote account address: EkdJ69cqzmcqVNEcaSgpXrcRsZrEWHuJir8ftoBzmZPX
 * Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 1)
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 189: 24 blocks in 24 slots, 0% skip rate
 * Vote account address: EkdJ69cqzmcqVNEcaSgpXrcRsZrEWHuJir8ftoBzmZPX
 * Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 1)
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 * Stake level: **Baseline**
 * Stake reason: 367213 credits earned in epoch 188

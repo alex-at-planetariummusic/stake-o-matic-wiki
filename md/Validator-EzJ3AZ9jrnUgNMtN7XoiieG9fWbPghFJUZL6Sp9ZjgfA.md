@@ -1,27 +1,38 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 208: 135 blocks in 288 slots, 54% skip rate
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎45419.309366491 - removing ◎513.571227123
+* Vote account address: EjSJHRbwBafEwVTdLb1HPCmCKMAdwAmA2UJ1BwH4YALC
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 3)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 207: 8 blocks in 20 slots, 60% skip rate
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎49723.306233669 - removing ◎4303.996867178
 * Vote account address: EjSJHRbwBafEwVTdLb1HPCmCKMAdwAmA2UJ1BwH4YALC
 * Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 206: 12 blocks in 32 slots, 63% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account EUAwiFyJHqsq3D3zBzKcfDeGeZWUvEpPCYLDBKa9N29c
 * Vote account address: EjSJHRbwBafEwVTdLb1HPCmCKMAdwAmA2UJ1BwH4YALC
 * Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 205: 16 blocks in 28 slots, 43% skip rate
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎5000.000000000 - adding ◎44723.306233669
 * Vote account address: EjSJHRbwBafEwVTdLb1HPCmCKMAdwAmA2UJ1BwH4YALC
 * Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 204: 12 blocks in 32 slots, 63% skip rate
 * Staking activity: target stake amount: ◎47037.197711117, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: EjSJHRbwBafEwVTdLb1HPCmCKMAdwAmA2UJ1BwH4YALC
 * Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 146947 credits earned in epoch 203

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 208: 19 blocks in 28 slots, 33% skip rate
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
+* Vote account address: 8zBAtvsJpgfp3yXSx51PPow2h9ipqAPUnoAGyRcVpHsG
+* Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 207: 0 blocks in 40 slots, 100% skip rate
@@ -10,6 +17,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎5000.000000000 - adding ◎41644.025953063
 * Vote account address: 8zBAtvsJpgfp3yXSx51PPow2h9ipqAPUnoAGyRcVpHsG
 * Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: poor block production during epoch 205: 0 blocks in 28 slots, 100% skip rate
@@ -40,6 +48,7 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 8zBAtvsJpgfp3yXSx51PPow2h9ipqAPUnoAGyRcVpHsG
 * Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Baseline** (for 9 epochs)
 * Stake reason: poor block production during epoch 200: 4 blocks in 32 slots, 88% skip rate
@@ -96,16 +105,19 @@
 * Stake reason: good block production during epoch 191: 201 blocks in 348 slots, 43% skip rate
 * Vote account address: 8zBAtvsJpgfp3yXSx51PPow2h9ipqAPUnoAGyRcVpHsG
 * Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 190: 220 blocks in 332 slots, 34% skip rate
 * Vote account address: 8zBAtvsJpgfp3yXSx51PPow2h9ipqAPUnoAGyRcVpHsG
 * Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 189: 233 blocks in 296 slots, 22% skip rate
 * Vote account address: 8zBAtvsJpgfp3yXSx51PPow2h9ipqAPUnoAGyRcVpHsG
 * Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 188: 268 blocks in 348 slots, 23% skip rate

@@ -1,21 +1,31 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: No leader slots; 151825 credits earned in epoch 208
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
+* Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
+* Data Center: 56694-RU-Europe/Moscow
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 4)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 162201 credits earned in epoch 207
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 78YtUKUoiG1yPXUsMv9DowmBnS9xcND9Vw27rH75X1jY
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 56694-RU-Europe/Moscow
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 3)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 206: 20 blocks in 24 slots, 17% skip rate
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎1.000000000 - adding ◎46643.025953063
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 56694-RU-Europe/Moscow
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 2)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 205: 20 blocks in 28 slots, 29% skip rate
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 56694-RU-Europe/Moscow
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 1)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 25.8% is too high; find a new data center
@@ -53,18 +63,21 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 199|Testnet#Epoch-199]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: insufficient vote credits: 0 credits earned in epoch 198
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2)
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **None**
 * Stake reason: insufficient vote credits: 0 credits earned in epoch 197
 * Staking activity: stake account busy due to transient stake deactivation: 78YtUKUoiG1yPXUsMv9DowmBnS9xcND9Vw27rH75X1jY
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3)
 * infrastructure concentration 30.1% is too high; consider finding a new data center
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -72,6 +85,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 78YtUKUoiG1yPXUsMv9DowmBnS9xcND9Vw27rH75X1jY
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4)
 * infrastructure concentration 31.7% is too high; consider finding a new data center
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -79,37 +93,44 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 78YtUKUoiG1yPXUsMv9DowmBnS9xcND9Vw27rH75X1jY
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 194: 356 blocks in 400 slots, 11% skip rate
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2)
 * infrastructure concentration 31.0% is too high; consider finding a new data center
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 193: 170 blocks in 408 slots, 59% skip rate 
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 192: 8 blocks in 16 slots, 50% skip rate
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2)
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 191: 36 blocks in 44 slots, 19% skip rate
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 190: 176 blocks in 184 slots, 5% skip rate
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 189: 218 blocks in 224 slots, 3% skip rate
 * Vote account address: 6Po7XKFrGYVijoJdTZEGbCDAs6s9kS9LbN91Ew7rU4Hi
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 188: 297 blocks in 308 slots, 4% skip rate

@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: No leader slots; 141006 credits earned in epoch 208
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 159470 credits earned in epoch 207
@@ -77,37 +83,44 @@
 * Staking activity: stake account busy due to transient stake deactivation: 8ZfU2PkLx3AoXGdphEYCHHQDd6U9YMuL9wWxFSQsh7HC
 * Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 194: 86 blocks in 240 slots, 65% skip rate 
 * Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2)
 * infrastructure concentration 31.0% is too high; consider finding a new data center
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 193: 241 blocks in 284 slots, 16% skip rate
 * Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 192: 310 blocks in 356 slots, 13% skip rate
 * Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2)
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 191: 282 blocks in 304 slots, 8% skip rate
 * Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 190: 282 blocks in 292 slots, 4% skip rate
 * Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 189: 312 blocks in 324 slots, 4% skip rate
 * Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
 * Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 188: 285 blocks in 296 slots, 4% skip rate

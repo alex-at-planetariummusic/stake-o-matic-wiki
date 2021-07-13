@@ -1,15 +1,24 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 150656 credits earned in epoch 208
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
+* Vote account address: EtvzNcuPAYbaD69RWf7ZFJrVa2JKpyfJvS8RtkQex9i
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 207: 43 blocks in 48 slots, 11% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7gJMmpezLzLcTzHHcjd4GGxGHanABnA3YTJ9rEj85vKT
 * Vote account address: EtvzNcuPAYbaD69RWf7ZFJrVa2JKpyfJvS8RtkQex9i
 * Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 206: 23 blocks in 24 slots, 5% skip rate
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎1.000000000 - adding ◎46643.025953063
 * Vote account address: EtvzNcuPAYbaD69RWf7ZFJrVa2JKpyfJvS8RtkQex9i
 * Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.7.1

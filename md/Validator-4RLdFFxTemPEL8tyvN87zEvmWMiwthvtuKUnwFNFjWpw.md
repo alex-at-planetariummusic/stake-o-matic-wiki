@@ -1,21 +1,31 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: No leader slots; 143988 credits earned in epoch 208
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
+* Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
+* Data Center: 49984-UA-Lviv
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 4)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 157274 credits earned in epoch 207
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account CnWd1MWoByAAUk5i76QSSh9vLzLawL5riDKkrypSz345
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 49984-UA-Lviv
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 3)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 206: 137 blocks in 304 slots, 55% skip rate
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎1.000000000 - adding ◎46643.025953063
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 49984-UA-Lviv
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 2)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 205: 104 blocks in 236 slots, 56% skip rate
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 49984-UA-Lviv
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 1)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: insufficient vote credits: 50318 credits earned in epoch 204
@@ -28,18 +38,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account CnWd1MWoByAAUk5i76QSSh9vLzLawL5riDKkrypSz345
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 49984-UA-Lviv
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 1)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 202: 20 blocks in 28 slots, 29% skip rate
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎5000.000000000 - adding ◎41186.979283631
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 49984-UA-Lviv
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 2)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 201: 20 blocks in 28 slots, 29% skip rate
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 49984-UA-Lviv
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Baseline** (for 9 epochs)
 * Stake reason: poor block production during epoch 200: 12 blocks in 36 slots, 67% skip rate

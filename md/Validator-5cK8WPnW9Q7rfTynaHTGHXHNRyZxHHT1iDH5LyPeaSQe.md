@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Baseline** (for 7 epochs)
+* Stake reason: Poor block production during epoch 208: 0 blocks in 20 slots, 100% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 69VVvBBsE6dLXCckWtUwnshH6M1fAgJWEPYg1A3WfU8p
+* Data Center: 3255-UA-Kyiv
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Baseline** (for 6 epochs)
 * Stake reason: Poor block production during epoch 207: 4 blocks in 36 slots, 89% skip rate
@@ -34,18 +40,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 4UVBXSGfzww6Xn1JGp8LTELYn3rhv22qYNmd5cJnGmsz
 * Vote account address: 69VVvBBsE6dLXCckWtUwnshH6M1fAgJWEPYg1A3WfU8p
 * Data Center: 3255-UA-Kyiv
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 1)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 201: 12 blocks in 24 slots, 50% skip rate
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎5000.000000000 - adding ◎39126.496155815
 * Vote account address: 69VVvBBsE6dLXCckWtUwnshH6M1fAgJWEPYg1A3WfU8p
 * Data Center: 3255-UA-Kyiv
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 2)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 200: 16 blocks in 36 slots, 56% skip rate
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 69VVvBBsE6dLXCckWtUwnshH6M1fAgJWEPYg1A3WfU8p
 * Data Center: 3255-UA-Kyiv
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 1)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Baseline** (for 6 epochs)
 * Stake reason: poor block production during epoch 199: 4 blocks in 20 slots, 80% skip rate
@@ -86,6 +95,7 @@
 * Stake reason: good block production during epoch 193: 8 blocks in 16 slots, 50% skip rate
 * Vote account address: 69VVvBBsE6dLXCckWtUwnshH6M1fAgJWEPYg1A3WfU8p
 * Data Center: 3255-UA-Kyiv
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 1)
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: poor block production during epoch 192: 1 blocks in 24 slots, 96% skip rate 

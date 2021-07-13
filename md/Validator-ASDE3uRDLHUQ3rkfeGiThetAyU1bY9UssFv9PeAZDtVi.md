@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **None** (for 4 epochs)
+* Stake reason: Insufficient vote credits: 5419 credits earned in epoch 208
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: FPUQrjBswNZuirQs6GgyrdmHWUxYTPNBNuPnatjbTBmL
+* Data Center: 20473-CA-Toronto
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Outdated Solana release: 1.7.1
@@ -58,18 +64,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Bb9ddVcn6dkyZgSPb7w1UetVwwvTw2VAfzE5Kx9ZabqY
 * Vote account address: FPUQrjBswNZuirQs6GgyrdmHWUxYTPNBNuPnatjbTBmL
 * Data Center: 20473-CA-Toronto
+* Resident Data Center(s): 20473-CA-Toronto (seniority: 1)
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 197: 12 blocks in 24 slots, 50% skip rate
 * Staking activity: stake account busy due to transient stake activation: Bb9ddVcn6dkyZgSPb7w1UetVwwvTw2VAfzE5Kx9ZabqY
 * Vote account address: FPUQrjBswNZuirQs6GgyrdmHWUxYTPNBNuPnatjbTBmL
 * Data Center: 20473-CA-Toronto
+* Resident Data Center(s): 20473-CA-Toronto (seniority: 2)
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 196: 24 blocks in 32 slots, 25% skip rate
 * Staking activity: target stake amount: ◎49207.578438371, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: FPUQrjBswNZuirQs6GgyrdmHWUxYTPNBNuPnatjbTBmL
 * Data Center: 20473-CA-Toronto
+* Resident Data Center(s): 20473-CA-Toronto (seniority: 1)
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: no leader slots; 266864 credits earned in epoch 195

@@ -1,9 +1,17 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 152256 credits earned in epoch 208
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 3cK4Qthj4cKoNoDCkYuykvbBVAo7Dp2Hq6HZdWHvGYNR
+* Data Center: 23470-US-The Bronx
+* Resident Data Center(s): 23470-US-The Bronx (seniority: 2)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 207: 12 blocks in 12 slots, 0% skip rate
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 3cK4Qthj4cKoNoDCkYuykvbBVAo7Dp2Hq6HZdWHvGYNR
 * Data Center: 23470-US-The Bronx
+* Resident Data Center(s): 23470-US-The Bronx (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Outdated solana release: 1.7.1
@@ -22,6 +30,7 @@
 * Staking activity: target stake amount: ◎47037.197711117, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 3cK4Qthj4cKoNoDCkYuykvbBVAo7Dp2Hq6HZdWHvGYNR
 * Data Center: 23470-US-The Bronx
+* Resident Data Center(s): 23470-US-The Bronx (seniority: 1)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Baseline** (for 5 epochs)
 * Stake reason: no leader slots; 154717 credits earned in epoch 203

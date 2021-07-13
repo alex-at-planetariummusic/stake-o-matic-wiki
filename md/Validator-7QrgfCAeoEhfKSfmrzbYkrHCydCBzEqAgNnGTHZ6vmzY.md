@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **None** (for 4 epochs)
+* Stake reason: Outdated Solana release: 1.7.0
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 3xBFk4MhuqDt1Bs7whugNkdZVdXqpurY49eHjBa9F8x4
+* Data Center: 24961-DE-Europe/Berlin
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Outdated Solana release: 1.7.0
@@ -28,18 +34,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 3HtRiiCGN5ztvqDGndPwa4F4JY9SvXfsC86gAupuCJxP
 * Vote account address: 3xBFk4MhuqDt1Bs7whugNkdZVdXqpurY49eHjBa9F8x4
 * Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 202: 16 blocks in 24 slots, 34% skip rate
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎5000.000000000 - adding ◎41186.979283631
 * Vote account address: 3xBFk4MhuqDt1Bs7whugNkdZVdXqpurY49eHjBa9F8x4
 * Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 2)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 201: 20 blocks in 28 slots, 29% skip rate
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 3xBFk4MhuqDt1Bs7whugNkdZVdXqpurY49eHjBa9F8x4
 * Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Baseline** (for 6 epochs)
 * Stake reason: poor block production during epoch 200: 8 blocks in 24 slots, 67% skip rate

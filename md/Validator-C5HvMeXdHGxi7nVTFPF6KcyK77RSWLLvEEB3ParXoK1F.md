@@ -1,9 +1,17 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 208: 40 blocks in 44 slots, 10% skip rate
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 94yGL4kDyfRhozKLUazFjFP6x6JsdgZgCxdzxFrNkLEK
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 207: 45 blocks in 52 slots, 14% skip rate
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 94yGL4kDyfRhozKLUazFjFP6x6JsdgZgCxdzxFrNkLEK
 * Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 25.3% is too high; find a new data center
@@ -81,16 +89,19 @@
 * Stake reason: poor block production during epoch 194: 11 blocks in 36 slots, 70% skip rate 
 * Vote account address: 94yGL4kDyfRhozKLUazFjFP6x6JsdgZgCxdzxFrNkLEK
 * Data Center: 60781-NL-Europe/Amsterdam
+* Resident Data Center(s): 60781-NL-Europe/Amsterdam (seniority: 1)
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 193: 12 blocks in 24 slots, 50% skip rate
 * Vote account address: 94yGL4kDyfRhozKLUazFjFP6x6JsdgZgCxdzxFrNkLEK
 * Data Center: 60781-NL-Europe/Amsterdam
+* Resident Data Center(s): 60781-NL-Europe/Amsterdam (seniority: 2)
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 192: 236 blocks in 340 slots, 31% skip rate
 * Vote account address: 94yGL4kDyfRhozKLUazFjFP6x6JsdgZgCxdzxFrNkLEK
 * Data Center: 60781-NL-Europe/Amsterdam
+* Resident Data Center(s): 60781-NL-Europe/Amsterdam (seniority: 1)
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: poor block production during epoch 191: 91 blocks in 352 slots, 75% skip rate 
@@ -106,6 +117,7 @@
 * Stake reason: good block production during epoch 189: 147 blocks in 320 slots, 55% skip rate
 * Vote account address: 94yGL4kDyfRhozKLUazFjFP6x6JsdgZgCxdzxFrNkLEK
 * Data Center: 60781-NL-Europe/Amsterdam
+* Resident Data Center(s): 60781-NL-Europe/Amsterdam (seniority: 1)
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 188: 295 blocks in 324 slots, 9% skip rate

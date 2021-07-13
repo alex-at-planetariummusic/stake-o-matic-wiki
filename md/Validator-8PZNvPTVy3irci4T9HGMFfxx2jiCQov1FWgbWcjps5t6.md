@@ -1,9 +1,17 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 146215 credits earned in epoch 208
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: H9EV1Cp2HnBQftxnmqSBPxpLJNJrVtjDjkzquhuoVCLi
+* Data Center: 59577-UA-Lviv
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 2)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 207: 10 blocks in 20 slots, 50% skip rate
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: H9EV1Cp2HnBQftxnmqSBPxpLJNJrVtjDjkzquhuoVCLi
 * Data Center: 59577-UA-Lviv
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Outdated solana release: 1.7.1
@@ -28,6 +36,7 @@
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: H9EV1Cp2HnBQftxnmqSBPxpLJNJrVtjDjkzquhuoVCLi
 * Data Center: 39247-UA-Lviv
+* Resident Data Center(s): 39247-UA-Lviv (seniority: 1)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Baseline** (for 13 epochs)
 * Stake reason: poor block production during epoch 202: 11 blocks in 48 slots, 78% skip rate

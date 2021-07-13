@@ -1,15 +1,24 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 208: 198 blocks in 268 slots, 27% skip rate
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎45419.309366491 - removing ◎513.571227123
+* Vote account address: HP6GdVFyhzt9HKAc3M8YYxNKAjdS6YzXDd8GTnfhwPnv
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 207: 8 blocks in 12 slots, 34% skip rate
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎49723.306233669 - removing ◎4303.996867178
 * Vote account address: HP6GdVFyhzt9HKAc3M8YYxNKAjdS6YzXDd8GTnfhwPnv
 * Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 206: 5 blocks in 8 slots, 38% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 2B1p8scJzPGHurdoqatYEdAeDm3UfQ63RQvJRkaA9UnT
 * Vote account address: HP6GdVFyhzt9HKAc3M8YYxNKAjdS6YzXDd8GTnfhwPnv
 * Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3)
 * infrastructure concentration 25.3% is too high; consider finding a new data center
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -17,12 +26,14 @@
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎1.000000000 - adding ◎49722.306233669
 * Vote account address: HP6GdVFyhzt9HKAc3M8YYxNKAjdS6YzXDd8GTnfhwPnv
 * Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 204: 3 blocks in 8 slots, 63% skip rate
 * Staking activity: target stake amount: ◎47037.197711117, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: HP6GdVFyhzt9HKAc3M8YYxNKAjdS6YzXDd8GTnfhwPnv
 * Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **None** (for 15 epochs)
 * Stake reason: insufficient vote credits: 0 credits earned in epoch 203

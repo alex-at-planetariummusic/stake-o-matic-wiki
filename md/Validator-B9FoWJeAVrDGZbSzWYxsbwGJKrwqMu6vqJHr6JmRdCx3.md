@@ -1,3 +1,10 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 208: 7 blocks in 12 slots, 42% skip rate
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: DCigAREAdNTd56TXAixbLASwkzNbTidjD5SyuJAayXbx
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 207: 0 blocks in 4 slots, 100% skip rate
@@ -10,6 +17,7 @@
 * Staking activity: creating new stake account 6UVDEXpDHxxmkvtD3zVt6kSpushXPJ9o2fN5oZvp8ooE
 * Vote account address: DCigAREAdNTd56TXAixbLASwkzNbTidjD5SyuJAayXbx
 * Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **None** (for 17 epochs)
 * Stake reason: infrastructure concentration 26.6% is too high; find a new data center

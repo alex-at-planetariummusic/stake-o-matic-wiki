@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **None** (for 5 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 208
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 4ZQjR9FovFrSvhCp6iBPqEuQAm9qRfSKftVorJWXsjGh
+* Data Center: 16276-EN-London
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient vote credits: 608 credits earned in epoch 207
@@ -58,18 +64,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Gba1KzfdWNu7B6nGJpNPkSA8eAvaV1o5UXTnfmcwZugn
 * Vote account address: 4ZQjR9FovFrSvhCp6iBPqEuQAm9qRfSKftVorJWXsjGh
 * Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 1)
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 197: 15 blocks in 28 slots, 47% skip rate
 * Staking activity: stake account busy due to transient stake activation: Gba1KzfdWNu7B6nGJpNPkSA8eAvaV1o5UXTnfmcwZugn
 * Vote account address: 4ZQjR9FovFrSvhCp6iBPqEuQAm9qRfSKftVorJWXsjGh
 * Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 2)
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 196: 24 blocks in 32 slots, 25% skip rate
 * Staking activity: target stake amount: ◎49207.578438371, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 4ZQjR9FovFrSvhCp6iBPqEuQAm9qRfSKftVorJWXsjGh
 * Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 1)
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 260505 credits earned in epoch 195

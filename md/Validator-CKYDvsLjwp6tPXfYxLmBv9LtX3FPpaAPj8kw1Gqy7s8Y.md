@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: No leader slots; 145543 credits earned in epoch 208
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - adding ◎4999.000000000
+* Vote account address: FUD9Bq3Q8M9Ekg9U3q4VHyUqmmHyTTSnFLaDU8gFDbzb
+* Data Center: 16276-FR-Gravelines
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 207: 4 blocks in 12 slots, 67% skip rate

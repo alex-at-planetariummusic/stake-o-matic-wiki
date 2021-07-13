@@ -1,15 +1,24 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 208: 26 blocks in 28 slots, 8% skip rate
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
+* Vote account address: CReQuhbx6td1nKRV1QeEynhmZB6PfLv2RtX5uoUSAHco
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 207: 12 blocks in 12 slots, 0% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account DouyoLqb2HVbBN9q23z5x69nBJSc4TV7V2xSHqVoxNqU
 * Vote account address: CReQuhbx6td1nKRV1QeEynhmZB6PfLv2RtX5uoUSAHco
 * Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 206: 22 blocks in 24 slots, 9% skip rate
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎5000.000000000 - adding ◎41644.025953063
 * Vote account address: CReQuhbx6td1nKRV1QeEynhmZB6PfLv2RtX5uoUSAHco
 * Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: no leader slots; 156034 credits earned in epoch 205
@@ -64,6 +73,7 @@
 * Staking activity: target stake amount: ◎47738.728760853, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: CReQuhbx6td1nKRV1QeEynhmZB6PfLv2RtX5uoUSAHco
 * Data Center: 8560-DE-Europe/Berlin
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: poor block production during epoch 196: 14 blocks in 44 slots, 69% skip rate

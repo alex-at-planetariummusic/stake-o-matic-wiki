@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **None** (for 16 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 208
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 2DdhVJGcRV7jiRnYJ77bkoDM7N6yK2KznprBrkANyKRS
+* Vote account address: AZvj9HugJD3jpHwoSE2Ax1ipSgnEohazJVfCnrFutCrH
+* Data Center: 24961-DE-Europe/Berlin
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **None** (for 15 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 207
@@ -86,26 +92,31 @@
 * Stake reason: insufficient vote credits: 0 credits earned in epoch 193
 * Vote account address: AZvj9HugJD3jpHwoSE2Ax1ipSgnEohazJVfCnrFutCrH
 * Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 193|Testnet#Epoch-193]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 192: 191 blocks in 328 slots, 42% skip rate
 * Vote account address: AZvj9HugJD3jpHwoSE2Ax1ipSgnEohazJVfCnrFutCrH
 * Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 2)
 ### [[Testnet Epoch 192|Testnet#Epoch-192]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 191: 367 blocks in 384 slots, 5% skip rate
 * Vote account address: AZvj9HugJD3jpHwoSE2Ax1ipSgnEohazJVfCnrFutCrH
 * Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 191|Testnet#Epoch-191]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 190: 371 blocks in 380 slots, 3% skip rate
 * Vote account address: AZvj9HugJD3jpHwoSE2Ax1ipSgnEohazJVfCnrFutCrH
 * Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 190|Testnet#Epoch-190]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 189: 244 blocks in 248 slots, 2% skip rate
 * Vote account address: AZvj9HugJD3jpHwoSE2Ax1ipSgnEohazJVfCnrFutCrH
 * Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 189|Testnet#Epoch-189]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 188: 301 blocks in 380 slots, 21% skip rate

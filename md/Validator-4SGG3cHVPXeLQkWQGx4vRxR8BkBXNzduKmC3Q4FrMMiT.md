@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 208: 13 blocks in 40 slots, 68% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 2cm9F5mio6z9CBdqUm8yCHi4N2czKPWzuJpRGxXBMEw9
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Outdated Solana release: 1.7.0
@@ -28,6 +34,7 @@
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 2cm9F5mio6z9CBdqUm8yCHi4N2czKPWzuJpRGxXBMEw9
 * Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 28.3% is too high; find a new data center

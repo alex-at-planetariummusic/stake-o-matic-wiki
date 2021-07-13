@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Baseline** (for 7 epochs)
+* Stake reason: Poor block production during epoch 208: 0 blocks in 28 slots, 100% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5060.079835441 - removing ◎60.079835441
+* Vote account address: B61EXvkfFJMNMd6WmGqbb4SMFGypoxE111FnB9eDFDuW
+* Data Center: 852-CA-Burnaby
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Baseline** (for 6 epochs)
 * Stake reason: Poor block production during epoch 207: 1 blocks in 24 slots, 96% skip rate
@@ -40,6 +46,7 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎5061.847518634 - reserve depleted
 * Vote account address: B61EXvkfFJMNMd6WmGqbb4SMFGypoxE111FnB9eDFDuW
 * Data Center: 852-CA-Burnaby
+* Resident Data Center(s): 852-CA-Burnaby (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: no leader slots; 174002 credits earned in epoch 200

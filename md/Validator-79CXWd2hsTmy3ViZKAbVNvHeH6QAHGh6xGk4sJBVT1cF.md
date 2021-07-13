@@ -1,21 +1,31 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 208: 31 blocks in 32 slots, 4% skip rate
+* Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
+* Vote account address: 5i3KwUbA9DCprhEWAHtModejf7gMEWEr83PJErPcydN9
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 4)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 207: 20 blocks in 28 slots, 29% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account ErVTxAkJrmDL16Wn4MvuUp7FLoWDxoTnLQhgGP7oDq1i
 * Vote account address: 5i3KwUbA9DCprhEWAHtModejf7gMEWEr83PJErPcydN9
 * Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 3)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 206: 22 blocks in 24 slots, 9% skip rate
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎5000.000000000 - adding ◎41644.025953063
 * Vote account address: 5i3KwUbA9DCprhEWAHtModejf7gMEWEr83PJErPcydN9
 * Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 205: 27 blocks in 28 slots, 4% skip rate
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 5i3KwUbA9DCprhEWAHtModejf7gMEWEr83PJErPcydN9
 * Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 138969 credits earned in epoch 204

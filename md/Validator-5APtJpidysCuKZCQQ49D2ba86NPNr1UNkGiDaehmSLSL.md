@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: Poor block production during epoch 208: 7 blocks in 36 slots, 81% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 3CQ2k2nmajhtcfVwQ6QdWfkMSc95z4V4Ae7B33eqUqKp
+* Data Center: 49984-UA-Boryslav
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: Poor block production during epoch 207: 0 blocks in 216 slots, 100% skip rate
@@ -10,30 +16,35 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 3CQ2k2nmajhtcfVwQ6QdWfkMSc95z4V4Ae7B33eqUqKp
 * Data Center: 49984-UA-Boryslav
+* Resident Data Center(s): 49984-UA-Boryslav (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 205: 0 blocks in 12 slots, 100% skip rate
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎44854.504850894 - removing ◎39854.504850894
 * Vote account address: 3CQ2k2nmajhtcfVwQ6QdWfkMSc95z4V4Ae7B33eqUqKp
 * Data Center: 49984-UA-Boryslav
+* Resident Data Center(s): 49984-UA-Boryslav (seniority: 2)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 204: 16 blocks in 20 slots, 20% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 6KaaURu5ovtYMBU7LTgfmXohdE4skSw6NdmFF1macC1c
 * Vote account address: 3CQ2k2nmajhtcfVwQ6QdWfkMSc95z4V4Ae7B33eqUqKp
 * Data Center: 49984-UA-Boryslav
+* Resident Data Center(s): 49984-UA-Boryslav (seniority: 3)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 203: 12 blocks in 20 slots, 40% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎5000.000000000 - adding ◎39854.504850894
 * Vote account address: 3CQ2k2nmajhtcfVwQ6QdWfkMSc95z4V4Ae7B33eqUqKp
 * Data Center: 49984-UA-Boryslav
+* Resident Data Center(s): 49984-UA-Boryslav (seniority: 2)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 202: 24 blocks in 40 slots, 40% skip rate
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 3CQ2k2nmajhtcfVwQ6QdWfkMSc95z4V4Ae7B33eqUqKp
 * Data Center: 49984-UA-Boryslav
+* Resident Data Center(s): 49984-UA-Boryslav (seniority: 1)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 162131 credits earned in epoch 201

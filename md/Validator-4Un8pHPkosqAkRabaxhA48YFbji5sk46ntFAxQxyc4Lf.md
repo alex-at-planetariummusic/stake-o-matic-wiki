@@ -1,9 +1,16 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 68662 credits earned in epoch 208
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: AwMi9x7apDh6rKarMviY1S2ViU7y2aawAzv9jasQXZoh
+* Data Center: 39593-RU-Yoshkar-Ola
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 207: 15 blocks in 20 slots, 25% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 5tZUS37BVskxXszya3VD2xGXDL1h3j5ciBro5EWew8vT
 * Vote account address: AwMi9x7apDh6rKarMviY1S2ViU7y2aawAzv9jasQXZoh
 * Data Center: 39593-RU-Yoshkar-Ola
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 206: 8 blocks in 44 slots, 82% skip rate
@@ -40,6 +47,7 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: AwMi9x7apDh6rKarMviY1S2ViU7y2aawAzv9jasQXZoh
 * Data Center: 41786-RU-Yoshkar-Ola
+* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 165635 credits earned in epoch 200

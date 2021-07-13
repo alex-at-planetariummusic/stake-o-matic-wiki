@@ -1,3 +1,9 @@
+### [[Testnet Epoch 209|Testnet#Epoch-209]]
+* Stake level: **None** (for 11 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 208
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 2LCU3VPmn9KtUrDddKkhqo252PQ3MBD14SqLhWa8UVS9
+* Vote account address: HqMPmbpeaBGTCsyjY9AjcRyU39C1L32UbjcxDqGt7SA8
+* Data Center: 23470-US-Miami
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **None** (for 10 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 207
@@ -70,6 +76,7 @@
 * Staking activity: stake account busy due to stake activation of 5TDYtq9xrrE4Q7ZFacuYyx6WHk2ZcwnVr4L1PYswwu64
 * Vote account address: HqMPmbpeaBGTCsyjY9AjcRyU39C1L32UbjcxDqGt7SA8
 * Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 1)
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 210710 credits earned in epoch 195
