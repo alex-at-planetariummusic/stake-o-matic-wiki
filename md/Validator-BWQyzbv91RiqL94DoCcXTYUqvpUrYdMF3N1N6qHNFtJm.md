@@ -1,21 +1,31 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 200: 26 blocks in 32 slots, 19% skip rate
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎192380.573538216 - removing ◎12192.269077039
+* Vote account address: xDnhMxMagvYC9f3CzSY8Xxk6SLCoqE875S35GL41uve
+* Data Center: 58061-NL-Dronten
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 4)
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 199: 30 blocks in 36 slots, 17% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 8SMyXaYeAgUqE52tKfFhPt3t6aAbwMZbRbdnHURrCKT9
 * Vote account address: xDnhMxMagvYC9f3CzSY8Xxk6SLCoqE875S35GL41uve
 * Data Center: 58061-NL-Dronten
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 3)
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 198: 48 blocks in 52 slots, 8% skip rate
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎25028.189828568 - adding ◎167229.557398966
 * Vote account address: xDnhMxMagvYC9f3CzSY8Xxk6SLCoqE875S35GL41uve
 * Data Center: 58061-NL-Dronten
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 2)
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 197: 16 blocks in 16 slots, 0% skip rate
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎25013.924688542 - reserve depleted
 * Vote account address: xDnhMxMagvYC9f3CzSY8Xxk6SLCoqE875S35GL41uve
 * Data Center: 58061-NL-Dronten
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 1)
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: no leader slots; 226601 credits earned in epoch 196

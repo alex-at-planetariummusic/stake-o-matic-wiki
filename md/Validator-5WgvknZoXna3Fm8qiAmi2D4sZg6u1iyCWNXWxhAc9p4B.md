@@ -1,9 +1,18 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 200: 12 blocks in 20 slots, 40% skip rate
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎192381.308740417 - removing ◎12193.004279240
+* Vote account address: 4QMtvpJ2cFLWAa363dZsr46aBeDAnEsF66jomv4eVqu4
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 199: 32 blocks in 40 slots, 20% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 9SaAgmauCGEkWaDkTPXrMWpxfrku5hDqVw8nSEJjpaG7
 * Vote account address: 4QMtvpJ2cFLWAa363dZsr46aBeDAnEsF66jomv4eVqu4
 * Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -11,6 +20,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎25028.567618782 - adding ◎167229.179608752
 * Vote account address: 4QMtvpJ2cFLWAa363dZsr46aBeDAnEsF66jomv4eVqu4
 * Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus**
@@ -18,6 +28,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎25014.327913499 - reserve depleted
 * Vote account address: 4QMtvpJ2cFLWAa363dZsr46aBeDAnEsF66jomv4eVqu4
 * Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Baseline** (for 4 epochs)

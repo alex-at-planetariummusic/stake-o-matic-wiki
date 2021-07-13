@@ -1,9 +1,19 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 200: 197 blocks in 276 slots, 29% skip rate
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186612.596294295 - removing ◎6424.291833118
+* Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
+* Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 5)
+* Insufficient self stake: ◎1.024410693
+* Insufficient testnet participation
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 199: 44 blocks in 52 slots, 16% skip rate
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎193105.033102335 - removing ◎6589.457114245
 * Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 4)
 * Insufficient self stake: ◎1.023878100
 * Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
@@ -12,6 +22,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account B9TcoVzRTd8AnJiQFsiHD3JMu2htot7msT2TEkBuZJNC
 * Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 3)
 * Insufficient self stake: ◎1.023357298
 * Insufficient testnet participation
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
@@ -20,6 +31,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎25025.571131922 - adding ◎167967.737157641
 * Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 2)
 * Insufficient self stake: ◎1.022805518
 * Insufficient testnet participation
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
@@ -28,6 +40,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎25012.338219018 - reserve depleted
 * Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
 * Insufficient self stake: ◎1.022264684
 * Insufficient testnet participation
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
@@ -44,6 +57,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account B9TcoVzRTd8AnJiQFsiHD3JMu2htot7msT2TEkBuZJNC
 * Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
 * Insufficient self stake: ◎1.021312465
 * Insufficient testnet participation
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
@@ -52,12 +66,14 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎25038.349659259 - adding ◎188422.256407017
 * Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 2)
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 192: 39 blocks in 44 slots, 12% skip rate
 * Staking activity: target stake amount: ◎207293.032432347, current stake amount: ◎25026.382555911 - reserve depleted
 * Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: no leader slots; 256725 credits earned in epoch 190
@@ -113,6 +129,7 @@
 * Stake reason: good block production during epoch 180: 124 blocks in 236 slots, 48% skip rate
 * Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
 ### [[Mainnet Epoch 180|Mainnet#Epoch-180]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 179: 104 blocks in 240 slots, 57% skip rate 

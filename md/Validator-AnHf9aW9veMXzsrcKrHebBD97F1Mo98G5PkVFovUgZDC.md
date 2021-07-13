@@ -1,9 +1,18 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 200: 157 blocks in 208 slots, 25% skip rate
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186617.464416724 - removing ◎6429.159955547
+* Vote account address: 9APxFUuvWfxWQj31ZCW2XBzfrjnaaSNEzZvnWHqzpvhH
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 5)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 199: 36 blocks in 36 slots, 0% skip rate
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎193113.778402420 - removing ◎6598.202414330
 * Vote account address: 9APxFUuvWfxWQj31ZCW2XBzfrjnaaSNEzZvnWHqzpvhH
 * Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -11,6 +20,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BoN5A9fndHoUuezWeEjyXUWAD823ghGcprcJsFR8N8LY
 * Vote account address: 9APxFUuvWfxWQj31ZCW2XBzfrjnaaSNEzZvnWHqzpvhH
 * Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -18,6 +28,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎25027.549635351 - adding ◎167965.758654212
 * Vote account address: 9APxFUuvWfxWQj31ZCW2XBzfrjnaaSNEzZvnWHqzpvhH
 * Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus**
@@ -25,6 +36,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎25013.771977260 - reserve depleted
 * Vote account address: 9APxFUuvWfxWQj31ZCW2XBzfrjnaaSNEzZvnWHqzpvhH
 * Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Baseline** (for 5 epochs)

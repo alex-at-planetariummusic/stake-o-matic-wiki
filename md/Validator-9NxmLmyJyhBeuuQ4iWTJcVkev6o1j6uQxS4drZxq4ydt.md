@@ -1,15 +1,24 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 200631 credits earned in epoch 200
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎64373.412696999 - reserve depleted
+* Vote account address: FHzRAdYm8BNpgV9cDYMLmQNUff7GhX23ArXhVqE9t5pn
+* Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 3)
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 199: 7 blocks in 12 slots, 42% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account EXZ3Hpt4PmagGrBcRDJFAPQENGVXkSZHkHNuCgnZNijL
 * Vote account address: FHzRAdYm8BNpgV9cDYMLmQNUff7GhX23ArXhVqE9t5pn
 * Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 2)
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 198: 12 blocks in 16 slots, 25% skip rate
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎1.000552793 - adding ◎64337.133172867
 * Vote account address: FHzRAdYm8BNpgV9cDYMLmQNUff7GhX23ArXhVqE9t5pn
 * Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 1)
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.6.11

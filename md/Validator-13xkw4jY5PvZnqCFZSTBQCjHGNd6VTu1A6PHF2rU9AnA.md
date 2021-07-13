@@ -1,9 +1,18 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 200: 34 blocks in 44 slots, 23% skip rate
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎25028.415715729 - adding ◎155159.888745448
+* Vote account address: ennomYMmVHey3KmNZCks4AnM1SEoimKoYzd1P1H72GN
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 2)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 199: 45 blocks in 52 slots, 14% skip rate
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎25014.312514730 - reserve depleted
 * Vote account address: ennomYMmVHey3KmNZCks4AnM1SEoimKoYzd1P1H72GN
 * Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Baseline** (for 4 epochs)

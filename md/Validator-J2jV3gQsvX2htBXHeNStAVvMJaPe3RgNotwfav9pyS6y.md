@@ -1,9 +1,19 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 13 epochs)
+* Stake reason: Good block production during epoch 200: 151 blocks in 280 slots, 47% skip rate
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186567.627410111 - removing ◎6379.322948934
+* Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
+* Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 16)
+* Insufficient self stake: ◎1.030527023
+* Insufficient testnet participation
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 199: 170 blocks in 288 slots, 41% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: Cqp8sYP9NKVvtPURzh8hgfe6oiBcGPUq1XUjcadNRFra
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 15)
 * Insufficient self stake: ◎1.029969826
 * Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
@@ -12,6 +22,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193099.926559256 - removing ◎842.179331722
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 14)
 * Insufficient self stake: ◎1.029407917
 * Insufficient testnet participation
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
@@ -20,6 +31,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200087.782453385 - removing ◎7094.474163822
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 13)
 * Insufficient self stake: ◎1.028839540
 * Insufficient testnet participation
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
@@ -28,6 +40,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎206008.577776855 - removing ◎6030.317032954
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 12)
 * Insufficient self stake: ◎1.028276387
 * Insufficient testnet participation
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
@@ -36,6 +49,7 @@
 * Staking activity: target stake amount: ◎205895.552591837, current stake amount: ◎213691.879507129 - removing ◎7796.326915292
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 11)
 * Insufficient self stake: ◎1.027712231
 * Insufficient testnet participation
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
@@ -44,6 +58,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Cqp8sYP9NKVvtPURzh8hgfe6oiBcGPUq1XUjcadNRFra
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 10)
 * Insufficient self stake: ◎1.027141010
 * Insufficient testnet participation
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
@@ -52,69 +67,82 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎205112.738390784 - adding ◎8347.867675492
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 9)
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 192: 207 blocks in 320 slots, 36% skip rate
 * Staking activity: target stake amount: ◎207293.032432347, current stake amount: ◎205000.559846688 - reserve depleted
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 8)
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 190: 269 blocks in 308 slots, 13% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: Cqp8sYP9NKVvtPURzh8hgfe6oiBcGPUq1XUjcadNRFra
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 7)
 ### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 189: 16 blocks in 16 slots, 0% skip rate
 * Staking activity: target stake amount: ◎207809.343129810, current stake amount: ◎205582.689680533 - reserve depleted
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 6)
 ### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 188: 166 blocks in 260 slots, 37% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Cqp8sYP9NKVvtPURzh8hgfe6oiBcGPUq1XUjcadNRFra
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 5)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 187: 140 blocks in 236 slots, 41% skip rate
 * Staking activity: stake account busy due to transient stake activation: Cqp8sYP9NKVvtPURzh8hgfe6oiBcGPUq1XUjcadNRFra
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 4)
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **None**
 * Stake reason: insufficient vote credits: 81871 credits earned in epoch 186
 * Staking activity: stake account busy due to transient stake deactivation: Cqp8sYP9NKVvtPURzh8hgfe6oiBcGPUq1XUjcadNRFra
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 3)
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 184: 212 blocks in 292 slots, 28% skip rate
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 4)
 ### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 183: 222 blocks in 300 slots, 26% skip rate
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 3)
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 182: 239 blocks in 288 slots, 18% skip rate
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 2)
 ### [[Mainnet Epoch 182|Mainnet#Epoch-182]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 181: 269 blocks in 344 slots, 22% skip rate
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)
 ### [[Mainnet Epoch 181|Mainnet#Epoch-181]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 180: 154 blocks in 236 slots, 35% skip rate
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)
 ### [[Mainnet Epoch 180|Mainnet#Epoch-180]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 179: 221 blocks in 304 slots, 28% skip rate
 * Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)

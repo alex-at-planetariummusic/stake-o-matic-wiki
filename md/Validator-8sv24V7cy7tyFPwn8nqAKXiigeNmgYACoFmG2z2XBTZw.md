@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **None** (for 7 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 200
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000658104 - not removing ◎0.000658104 (amount too small)
+* Vote account address: 83b3MHxfxGLYkhfjT3nFtPRmYL3eKk5EMALsVAHAmgqK
+* Data Center: 14618-US-Ashburn
+* Insufficient self stake: ◎10.233889801
+* Insufficient testnet participation
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **None** (for 6 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 199
@@ -52,6 +60,7 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎1.000486711 - reserve depleted
 * Vote account address: 83b3MHxfxGLYkhfjT3nFtPRmYL3eKk5EMALsVAHAmgqK
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.6.7
@@ -118,3 +127,4 @@
 * Stake reason: good block production during epoch 179: 156 blocks in 240 slots, 35% skip rate
 * Vote account address: 83b3MHxfxGLYkhfjT3nFtPRmYL3eKk5EMALsVAHAmgqK
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)

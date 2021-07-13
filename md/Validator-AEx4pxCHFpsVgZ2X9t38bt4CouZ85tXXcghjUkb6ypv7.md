@@ -1,9 +1,19 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 200: 173 blocks in 220 slots, 22% skip rate
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186613.360410320 - removing ◎6425.055949143
+* Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
+* Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 5)
+* Insufficient self stake: ◎5.130568112
+* Insufficient testnet participation
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 199: 38 blocks in 40 slots, 5% skip rate
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎193105.819810875 - removing ◎6590.243822785
 * Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 4)
 * Insufficient self stake: ◎5.127879722
 * Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
@@ -12,6 +22,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 1GQBJPR8u8CUTHRSDZmNT8brCfSb9rb9odYiHRsvFG3
 * Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 3)
 * Insufficient self stake: ◎5.125248835
 * Insufficient testnet participation
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
@@ -20,6 +31,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎25025.383489982 - adding ◎167967.924799581
 * Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 2)
 * Insufficient self stake: ◎5.122498286
 * Insufficient testnet participation
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
@@ -28,6 +40,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎25012.125284756 - reserve depleted
 * Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)
 * Insufficient self stake: ◎5.119784435
 * Insufficient testnet participation
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
@@ -44,6 +57,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 1GQBJPR8u8CUTHRSDZmNT8brCfSb9rb9odYiHRsvFG3
 * Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)
 * Insufficient self stake: ◎5.114909869
 * Insufficient testnet participation
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
@@ -52,12 +66,14 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎25038.182382827 - adding ◎188422.423683449
 * Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 2)
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 192: 16 blocks in 32 slots, 50% skip rate
 * Staking activity: target stake amount: ◎207293.032432347, current stake amount: ◎25025.797358464 - reserve depleted
 * Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: no leader slots; 253570 credits earned in epoch 190
@@ -118,3 +134,4 @@
 * Stake reason: good block production during epoch 179: 141 blocks in 252 slots, 45% skip rate
 * Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
 * Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)

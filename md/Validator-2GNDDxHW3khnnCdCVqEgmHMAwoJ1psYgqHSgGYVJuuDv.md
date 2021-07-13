@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 191333 credits earned in epoch 200
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25013.073474745 - removing ◎13.073474745
+* Vote account address: 27LkBkFi8hwVrQiSdhqo9Rq5hkc6Tn1QYPXvyG7xa6TC
+* Data Center: 41661-RU-Chelyabinsk
+* Insufficient self stake: ◎25.172705961
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 205990 credits earned in epoch 199

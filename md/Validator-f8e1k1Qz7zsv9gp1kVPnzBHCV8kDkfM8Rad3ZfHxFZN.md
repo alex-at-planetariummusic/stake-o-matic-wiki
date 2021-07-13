@@ -1,9 +1,19 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 200: 18 blocks in 20 slots, 10% skip rate
+* Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎192372.414545164 - removing ◎12184.110083987
+* Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
+* Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 4)
+* Insufficient self stake: ◎5.126373705
+* Insufficient testnet participation
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 199: 35 blocks in 52 slots, 33% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 9hcaNQ6pgV4WAGmhgf1Jm8DFgDSN9D87RrTVtv1FHV8h
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 3)
 * Insufficient self stake: ◎5.123662363
 * Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
@@ -12,6 +22,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎25026.370600488 - adding ◎167231.376627046
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 2)
 * Insufficient self stake: ◎5.121018325
 * Insufficient testnet participation
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
@@ -20,6 +31,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎25013.120826282 - reserve depleted
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
 * Insufficient self stake: ◎5.118307091
 * Insufficient testnet participation
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
@@ -36,6 +48,7 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25012.325738320 - removing ◎12.325738320
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
 * Insufficient self stake: ◎5.112990675
 * Insufficient testnet participation
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
@@ -44,6 +57,7 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25010.459977796 - removing ◎10.459977796
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 2)
 * Insufficient self stake: ◎5.110471062
 * Insufficient testnet participation
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
@@ -52,30 +66,35 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎207385.781572029 - removing ◎182385.781572029
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 3)
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 192: 123 blocks in 248 slots, 51% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 9hcaNQ6pgV4WAGmhgf1Jm8DFgDSN9D87RrTVtv1FHV8h
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 4)
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: no leader slots; 256626 credits earned in epoch 190
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 9hcaNQ6pgV4WAGmhgf1Jm8DFgDSN9D87RrTVtv1FHV8h
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 3)
 ### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: no leader slots; 272716 credits earned in epoch 189
 * Staking activity: target stake amount: ◎207809.343129810, current stake amount: ◎1.001331068 - adding ◎207808.341798742
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 2)
 ### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 188: 19 blocks in 24 slots, 21% skip rate
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎1.000793554 - reserve depleted
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: insufficient vote credits: 107498 credits earned in epoch 187
@@ -118,3 +137,4 @@
 * Stake reason: good block production during epoch 179: 113 blocks in 224 slots, 50% skip rate
 * Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)

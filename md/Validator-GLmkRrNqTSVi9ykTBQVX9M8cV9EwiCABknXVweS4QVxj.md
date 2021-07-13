@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
+* Stake level: **None** (for 6 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 200
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 9cCvhGpbuw5DfBzV1QYLmFAPaG64ZQBGxdeEqugzcUJ9
+* Vote account address: 6syLbA7pHFWGJetPdB5Hyzf33r7B6zZK7qurwCv4Afqk
+* Data Center: 16509-US-Boardman
+* Insufficient self stake: ◎10.244860814
+* Insufficient testnet participation
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 199
@@ -64,6 +72,7 @@
 * Staking activity: target stake amount: ◎204775.166184278, current stake amount: ◎25013.533974444 - reserve depleted
 * Vote account address: 6syLbA7pHFWGJetPdB5Hyzf33r7B6zZK7qurwCv4Afqk
 * Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
 ### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: no leader slots; 224492 credits earned in epoch 189
