@@ -1,3 +1,10 @@
+### [[Testnet Epoch 210|Testnet#Epoch-210]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 7509 credits earned in epoch 209
+* Staking activity: creating new stake account 7Xp9x6FGczwBT9hMLpakEWU44xT8EuyNb4U3gZuFPd53
+* Vote account address: CAVQUXwv6CkUFQues2aP3P9DZtiZdESfiHdn1ym4Shu2
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 208: 202 blocks in 276 slots, 27% skip rate

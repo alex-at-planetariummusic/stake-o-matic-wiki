@@ -1,3 +1,10 @@
+### [[Testnet Epoch 210|Testnet#Epoch-210]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: No leader slots; 165353 credits earned in epoch 209
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 4U1rJEYUyPrxQwdMRtsUeHsoMuSNd4soyz1wRsXhH2RK
+* Vote account address: 7W4uoUr96EobnYXkYzaDwFNdQ9R9Wxg64rdc3JGnk87F
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 208: 43 blocks in 328 slots, 87% skip rate
