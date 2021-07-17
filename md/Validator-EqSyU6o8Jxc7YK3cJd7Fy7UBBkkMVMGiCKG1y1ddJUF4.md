@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: Commission is too high: 100% commission
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: HaEqw4MVBiK22xoZxsKqpZa83kXtyJA2mPHsR5fDPrVL
+* Data Center: 24940-DE-Falkenstein
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Commission is too high: 100% commission

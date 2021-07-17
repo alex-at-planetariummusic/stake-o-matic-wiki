@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 201: 25 blocks in 32 slots, 22% skip rate
+* Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎1.000560658 - reserve depleted
+* Vote account address: AWmcz3z2p3NRhB1A47MxjGx1VXGHAyM9Kvf9qD5ogzkP
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 114320 credits earned in epoch 200

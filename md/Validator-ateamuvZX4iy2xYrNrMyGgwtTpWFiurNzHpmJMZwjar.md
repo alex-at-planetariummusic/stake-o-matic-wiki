@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: Good block production during epoch 201: 745 blocks in 884 slots, 16% skip rate
+* Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180285.418937494 - removing ◎27370.909830730
+* Vote account address: ateamaZDqNWDztxnVKZhRsp4ac53KvT1rVKyU5LnL6o
+* Data Center: 15169-BE-Brussels
+* Resident Data Center(s): 15169-BE-Brussels (seniority: 10)
+* Insufficient self stake: ◎4.087247505
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 200: 978 blocks in 1140 slots, 15% skip rate
@@ -28,7 +36,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200088.080754120 - removing ◎7094.772464557
 * Vote account address: ateamaZDqNWDztxnVKZhRsp4ac53KvT1rVKyU5LnL6o
 * Data Center: 15169-BE-Brussels
-* Resident Data Center(s): 15169-BE-Brussels (seniority: 6),15169-US-Council Bluffs (seniority: 1)
+* Resident Data Center(s): 15169-US-Council Bluffs (seniority: 1),15169-BE-Brussels (seniority: 6)
 * Insufficient self stake: ◎4.078322677
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 11 epochs)

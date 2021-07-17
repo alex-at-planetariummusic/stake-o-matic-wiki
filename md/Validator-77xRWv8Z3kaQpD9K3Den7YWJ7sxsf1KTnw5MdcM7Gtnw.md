@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 197152 credits earned in epoch 201
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 8naJ8sfB2TKFneH7g5mLcQSTSNQaNS6ZN4B4nx5RNbbQ
+* Vote account address: HSV5EHECVyJhDFV1uApzXbU7uK17Z1FXcvtJvHyi2jXC
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15)
+* Insufficient self stake: ◎0.515832911
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 201122 credits earned in epoch 200
