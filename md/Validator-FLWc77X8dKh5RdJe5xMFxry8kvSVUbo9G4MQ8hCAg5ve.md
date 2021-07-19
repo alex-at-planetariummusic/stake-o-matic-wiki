@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 183423 credits earned in epoch 202
+* Staking activity: creating new stake account NYRownQRtSfMr7ozK9QQYtr1vJ9pJtF15zLrwXejxdp
+* Vote account address: EcZBjDPzSZLdsyKCBq26MZMYFfiinZsfcL3SwWMK1eNL
+* Data Center: 24961-DE-Andernach
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 48456 credits earned in epoch 201
