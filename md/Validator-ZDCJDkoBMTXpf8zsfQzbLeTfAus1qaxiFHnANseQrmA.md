@@ -1,3 +1,10 @@
+### [[Testnet Epoch 211|Testnet#Epoch-211]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 210: 3 blocks in 4 slots, 25% skip rate
+* Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎1.033886083 - reserve depleted
+* Vote account address: FLYB5UT8oioEfxcZyFen5a9ZSuu6ujmA46voTkEfR4H3
+* Data Center: 9506-SG-Ulu Bedok
+* Resident Data Center(s): 9506-SG-Ulu Bedok (seniority: 1)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Insufficient vote credits: 75497 credits earned in epoch 209
