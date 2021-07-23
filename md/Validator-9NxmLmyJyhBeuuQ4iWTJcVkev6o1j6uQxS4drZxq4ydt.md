@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 203: 47 blocks in 132 slots, 65% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25012.330708207 - removing ◎12.330708207
+* Vote account address: FHzRAdYm8BNpgV9cDYMLmQNUff7GhX23ArXhVqE9t5pn
+* Data Center: 45102-JP-Tokyo
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 202: 11 blocks in 60 slots, 82% skip rate

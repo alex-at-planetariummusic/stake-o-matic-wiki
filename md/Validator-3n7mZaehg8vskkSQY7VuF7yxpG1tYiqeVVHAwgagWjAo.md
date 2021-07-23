@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 173120 credits earned in epoch 203
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account HNBviBxrA9PJFymyCivXHW1azTWg44XNjYVjFmQSNcB6
+* Vote account address: AWmcz3z2p3NRhB1A47MxjGx1VXGHAyM9Kvf9qD5ogzkP
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 202: 24 blocks in 28 slots, 15% skip rate

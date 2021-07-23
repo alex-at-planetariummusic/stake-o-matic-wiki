@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 203: 20 blocks in 24 slots, 17% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 6FPng2RfV5MsCf6xZKzEUuWQQwUDqpSrszonoBaR4Mv7
+* Vote account address: EwrqSY9iGTeMSfPKz2LGegdWCdXmfMyb4Ef49AjMiJER
+* Data Center: 18450-US-Ogden
+* Resident Data Center(s): 18450-US-Ogden (seniority: 3)
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 202: 42 blocks in 44 slots, 5% skip rate
