@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 118288 credits earned in epoch 204
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.000370531 - adding ◎24998.999629469
+* Vote account address: HaEqw4MVBiK22xoZxsKqpZa83kXtyJA2mPHsR5fDPrVL
+* Data Center: 24940-DE-Falkenstein
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Commission is too high: 100% commission

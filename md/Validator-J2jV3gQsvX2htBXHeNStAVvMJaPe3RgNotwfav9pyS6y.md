@@ -1,3 +1,12 @@
+### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 204: 25 blocks in 76 slots, 68% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account Cqp8sYP9NKVvtPURzh8hgfe6oiBcGPUq1XUjcadNRFra
+* Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
+* Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 16)
+* Insufficient self stake: ◎6.030306412
+* Insufficient testnet participation
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 203: 143 blocks in 288 slots, 51% skip rate

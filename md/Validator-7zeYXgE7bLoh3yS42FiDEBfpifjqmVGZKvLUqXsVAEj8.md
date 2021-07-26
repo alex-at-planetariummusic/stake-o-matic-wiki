@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: No leader slots; 168053 credits earned in epoch 204
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account Hv4WhnH48umuqeF4tX9dVDeHw2ohqeghtFzvWFZfn1ce
+* Vote account address: A7DJ6UaKkpdYE3ujy3gPWBRQ5QjQuTQGbbcu4fjYYsWu
+* Data Center: 23470-US-America/Chicago
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 172839 credits earned in epoch 203
