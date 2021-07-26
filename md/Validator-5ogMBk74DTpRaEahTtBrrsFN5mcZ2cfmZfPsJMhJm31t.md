@@ -1,3 +1,10 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 212: 184 blocks in 224 slots, 18% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: DcoVXe2JTNyiHDybVtnXfrhhoa4mXkiY68kn1np8v82h
+* Vote account address: 3cK4Qthj4cKoNoDCkYuykvbBVAo7Dp2Hq6HZdWHvGYNR
+* Data Center: 23470-US-The Bronx
+* Resident Data Center(s): 23470-US-The Bronx (seniority: 5)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: No leader slots; 143914 credits earned in epoch 210

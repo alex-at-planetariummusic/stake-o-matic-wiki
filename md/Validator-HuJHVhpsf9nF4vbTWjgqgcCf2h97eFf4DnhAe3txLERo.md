@@ -1,3 +1,10 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 212: 149 blocks in 216 slots, 32% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 5toiHBPZQHTXyMUbCsBs1VRchkK3tPYErNCUu58P6suc
+* Vote account address: 85tjWWxQwGQksVYPrEnDDKVwPA2LQnZoAQU2xnJyfknS
+* Data Center: 15435-NL-Rolde
+* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 3),15435-NL-Rolde (seniority: 5)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 210: 148 blocks in 236 slots, 38% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 5toiHBPZQHTXyMUbCsBs1VRchkK3tPYErNCUu58P6suc
 * Vote account address: 85tjWWxQwGQksVYPrEnDDKVwPA2LQnZoAQU2xnJyfknS
 * Data Center: 15435-NL-Rolde
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 1),15435-NL-Akmarijp (seniority: 7)
+* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 7),15435-NL-Rolde (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 206: 197 blocks in 264 slots, 26% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 212: 231 blocks in 288 slots, 20% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: GULxzAm19RxYQK8oFYhcTb1ud5C7kpcpPZ4PydvcWque
+* Vote account address: J813pcd1y5eX9Kh4GZZ7tVoG6rksQVPmFUTCin5wv8y9
+* Data Center: 16276-PL-Warsaw
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 6)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 210: 151 blocks in 248 slots, 40% skip rate
@@ -109,13 +116,13 @@
 * Staking activity: stake account busy due to transient stake deactivation: GULxzAm19RxYQK8oFYhcTb1ud5C7kpcpPZ4PydvcWque
 * Vote account address: J813pcd1y5eX9Kh4GZZ7tVoG6rksQVPmFUTCin5wv8y9
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 1),16276-FR-Roubaix (seniority: 2)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),24940-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 194: 289 blocks in 332 slots, 13% skip rate
 * Vote account address: J813pcd1y5eX9Kh4GZZ7tVoG6rksQVPmFUTCin5wv8y9
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 2),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),24940-DE-Europe/Berlin (seniority: 2)
 ### [[Testnet Epoch 194|Testnet#Epoch-194]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 193: 27 blocks in 32 slots, 16% skip rate

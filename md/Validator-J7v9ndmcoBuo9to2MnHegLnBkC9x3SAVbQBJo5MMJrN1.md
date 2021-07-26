@@ -1,17 +1,24 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Bonus** (for 23 epochs)
+* Stake reason: Good block production during epoch 212: 2124 blocks in 2568 slots, 18% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 9fFMvfFbeiuu5frHPnqvKR13p8XmXiw47sS3wKs8oHLH
+* Vote account address: HiFjzpR7e5Kv2tdU9jtE4FbH1X8Z9Syia3Uadadx18b5
+* Data Center: 20326-US-Pittsburgh
+* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 9),16276-CA-Beauharnois (seniority: 3)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 210: 1748 blocks in 2416 slots, 28% skip rate
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎44806.211970223 - removing ◎1109.120500850
 * Vote account address: HiFjzpR7e5Kv2tdU9jtE4FbH1X8Z9Syia3Uadadx18b5
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),20326-US-Pittsburgh (seniority: 8)
+* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 8),16276-CA-Beauharnois (seniority: 4)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 209: 2045 blocks in 2504 slots, 19% skip rate
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎45419.695650161 - removing ◎1124.649651938
 * Vote account address: HiFjzpR7e5Kv2tdU9jtE4FbH1X8Z9Syia3Uadadx18b5
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 5),20326-US-Pittsburgh (seniority: 7)
+* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 7),16276-CA-Beauharnois (seniority: 5)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 208: 2123 blocks in 2672 slots, 21% skip rate
@@ -25,14 +32,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 9fFMvfFbeiuu5frHPnqvKR13p8XmXiw47sS3wKs8oHLH
 * Vote account address: HiFjzpR7e5Kv2tdU9jtE4FbH1X8Z9Syia3Uadadx18b5
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 7),20326-US-Pittsburgh (seniority: 5)
+* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 5),16276-CA-Beauharnois (seniority: 7)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: good block production during epoch 206: 2030 blocks in 2424 slots, 17% skip rate
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎46464.485806849 - adding ◎179.540146214
 * Vote account address: HiFjzpR7e5Kv2tdU9jtE4FbH1X8Z9Syia3Uadadx18b5
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 4),16276-CA-Beauharnois (seniority: 8)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 8),20326-US-Pittsburgh (seniority: 4)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: good block production during epoch 205: 2055 blocks in 2392 slots, 15% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎47037.197711117, current stake amount: ◎45392.436312903 - reserve depleted
 * Vote account address: HiFjzpR7e5Kv2tdU9jtE4FbH1X8Z9Syia3Uadadx18b5
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 10),20326-US-Pittsburgh (seniority: 2)
+* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 2),16276-CA-Beauharnois (seniority: 10)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 1790 blocks in 2356 slots, 25% skip rate

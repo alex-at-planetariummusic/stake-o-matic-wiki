@@ -1,3 +1,10 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 212: 172 blocks in 240 slots, 29% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 6i6YVSChDK5AT4qQdJKqq3wDxGWLVK1d1TSbqyMcURvC
+* Vote account address: 8oWBoZeWTTsmonEPjxjC3fWw3VgNsDriNmNDZ2ajpHr2
+* Data Center: 23470-US-New York
+* Resident Data Center(s): 23470-US-New York (seniority: 4),23470-US-Las Vegas (seniority: 6)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 143684 credits earned in epoch 210
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎1.000000000 - adding ◎44294.045998223
 * Vote account address: 8oWBoZeWTTsmonEPjxjC3fWw3VgNsDriNmNDZ2ajpHr2
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 2),23470-US-Las Vegas (seniority: 8)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 8),23470-US-New York (seniority: 2)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 208: 161 blocks in 232 slots, 31% skip rate
 * Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 8oWBoZeWTTsmonEPjxjC3fWw3VgNsDriNmNDZ2ajpHr2
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 9),23470-US-New York (seniority: 1)
+* Resident Data Center(s): 23470-US-New York (seniority: 1),23470-US-Las Vegas (seniority: 9)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 88370 credits earned in epoch 207

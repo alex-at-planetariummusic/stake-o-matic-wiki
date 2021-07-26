@@ -1,3 +1,10 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 183515 credits earned in epoch 212
+* Staking activity: stake account busy due to transient stake activation: 2A3S14YYM8CyPgNGYVqJfMDHZiywEPwu87sokjLp1BUo
+* Vote account address: FTYTfjD81CyJmhS2WkcYJYewJULa6X8SgtM8Qd9A7dq6
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 210

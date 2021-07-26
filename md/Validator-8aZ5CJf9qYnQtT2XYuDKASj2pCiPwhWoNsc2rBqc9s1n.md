@@ -1,3 +1,9 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 156746 credits earned in epoch 212
+* Staking activity: stake account busy due to transient stake activation: 8ZfU2PkLx3AoXGdphEYCHHQDd6U9YMuL9wWxFSQsh7HC
+* Vote account address: 6itEZd3WBPgHgEg5W3EA5rPguhrChKkmwdzzUXh75nhr
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: infrastructure concentration 25.5% is too high; find a new data center

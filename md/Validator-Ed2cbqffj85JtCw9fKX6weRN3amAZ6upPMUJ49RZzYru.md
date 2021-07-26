@@ -1,3 +1,10 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Bonus** (for 23 epochs)
+* Stake reason: Good block production during epoch 212: 146 blocks in 212 slots, 32% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: EwJLzuaZ5KCvVRXtDVmxnWkGzc3uHC6WiDn3jL69SyJj
+* Vote account address: EVWkBJWQEVaJGP3WDKn2tav5x7V4qzX1UJ3cnbK5PaHP
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 21)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 210: 113 blocks in 180 slots, 38% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 213|Testnet#Epoch-213]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 178732 credits earned in epoch 212
+* Staking activity: stake account busy due to transient stake activation: BRpcosoyNDzmA3mXYS7QRq1phe9d4ZFqBZ9aubdZckZ5
+* Vote account address: 3Bajgu1jazzurSiN4DBaxC4S2PsDP5JWnoqteL2LWs2o
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **None** (for 6 epochs)
 * Stake reason: Outdated Solana release: 1.7.1
