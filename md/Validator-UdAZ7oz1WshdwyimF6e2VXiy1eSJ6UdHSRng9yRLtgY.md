@@ -1,3 +1,10 @@
+### [[Testnet Epoch 214|Testnet#Epoch-214]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: Poor block production during epoch 213: 4 blocks in 220 slots, 99% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 9b5BVLb7EutUBZpnAWEXmweBu1gpNGTC2dvZ5BTdNwTR
+* Data Center: 3255-UA-Lviv
+* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 5)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 212: 0 blocks in 232 slots, 100% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎44295.045998223 - removing ◎597.954528850
 * Vote account address: 9b5BVLb7EutUBZpnAWEXmweBu1gpNGTC2dvZ5BTdNwTR
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 7),3255-UA-Kyiv (seniority: 1)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 1),41018-UA-Europe/Kiev (seniority: 7)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 209: 185 blocks in 276 slots, 33% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44670.972509869 - reserve depleted
 * Vote account address: 9b5BVLb7EutUBZpnAWEXmweBu1gpNGTC2dvZ5BTdNwTR
 * Data Center: 41018-UA-Europe/Kiev
-* Resident Data Center(s): 49984-UA-Boryslav (seniority: 1),41018-UA-Europe/Kiev (seniority: 1)
+* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 1),49984-UA-Boryslav (seniority: 1)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 201: 16 blocks in 24 slots, 34% skip rate

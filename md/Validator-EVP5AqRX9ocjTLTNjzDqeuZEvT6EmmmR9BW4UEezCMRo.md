@@ -1,3 +1,10 @@
+### [[Testnet Epoch 214|Testnet#Epoch-214]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 83298 credits earned in epoch 213
+* Staking activity: creating new stake account ASvSPoU5sZDiGc2PEM5pGqvJM7rUNCKP5xiHv7AroS79
+* Vote account address: 3X9dmhgcArgpzQbzFuYAEDPhhYmDNtJJ8APUeFQ5ph99
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 90113 credits earned in epoch 212

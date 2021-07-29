@@ -1,3 +1,10 @@
+### [[Testnet Epoch 214|Testnet#Epoch-214]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 213: 59 blocks in 68 slots, 14% skip rate
+* Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎5176.847756584 - reserve depleted
+* Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 212: 32 blocks in 40 slots, 20% skip rate
@@ -80,7 +87,7 @@
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45758.515189324 - removing ◎1087.542679455
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 4766-KR-Gangnam-gu
-* Resident Data Center(s): 4766-KR-Gangnam-gu (seniority: 2),4766-KR-Yongdu-dong (seniority: 6)
+* Resident Data Center(s): 4766-KR-Yongdu-dong (seniority: 6),4766-KR-Gangnam-gu (seniority: 2)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 199: 137 blocks in 296 slots, 54% skip rate

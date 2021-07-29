@@ -1,3 +1,10 @@
+### [[Testnet Epoch 214|Testnet#Epoch-214]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 213: 1 blocks in 4 slots, 75% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account Et5kKRdsZp4mdr1PXxee6mYpw6W7benJUQHhtwtvSCZY
+* Vote account address: FLYB5UT8oioEfxcZyFen5a9ZSuu6ujmA46voTkEfR4H3
+* Data Center: 9506-SG-Ulu Bedok
+* Resident Data Center(s): 9506-SG-Ulu Bedok (seniority: 1)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 184115 credits earned in epoch 212
