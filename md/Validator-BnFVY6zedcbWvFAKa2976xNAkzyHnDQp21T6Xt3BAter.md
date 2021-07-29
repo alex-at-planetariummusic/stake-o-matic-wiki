@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 179446 credits earned in epoch 205
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account CWprtzCcSxtvxdytzDJKN2SizZyPRtDAU1sRzC3M1Q5S
+* Vote account address: 7GekE3x31ArGMZWxoSWyvguTogCQkrhm9isdjMRGWwL6
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4)
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 204: 33 blocks in 36 slots, 9% skip rate

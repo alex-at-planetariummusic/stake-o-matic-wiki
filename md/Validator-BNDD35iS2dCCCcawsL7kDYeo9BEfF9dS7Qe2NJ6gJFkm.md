@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 205: 0 blocks in 4 slots, 100% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 8V4H6iUNhzaateLfQB5xVKQrVfVACzuSjUrAyM8sPEr4
+* Vote account address: 4R2eqfCDqN3UesKPW4kSTZVd55955V4awbof4vBuWibY
+* Data Center: 16276-FR-Gravelines
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 204: 4 blocks in 8 slots, 50% skip rate

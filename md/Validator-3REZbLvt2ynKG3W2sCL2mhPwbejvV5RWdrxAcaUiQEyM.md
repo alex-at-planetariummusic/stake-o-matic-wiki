@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 11.5% is too high; find a new data center
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 2VsysnmJ4pC8meU8heZ3GmW8bVVNGJr5Y5ajSCdSrBfT
+* Vote account address: aD54pzcjCRFdoeNpiuMJbeYejAAd2W55iyXJnYwoP6R
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 166259 credits earned in epoch 204
