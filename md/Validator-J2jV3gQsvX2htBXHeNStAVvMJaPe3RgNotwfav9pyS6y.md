@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 74118 credits earned in epoch 206
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎139991.131939518 - removing ◎139990.131939518
+* Vote account address: Dz4aYDW7NvtDQXB62gcLWaA467zcYtnLiSgyiH57ZwUF
+* Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 16)
+* Insufficient self stake: ◎6.033607625
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 205: 31 blocks in 60 slots, 49% skip rate
