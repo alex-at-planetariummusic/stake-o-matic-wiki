@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 209: 13 blocks in 16 slots, 19% skip rate
+* Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎8779.610308673 - adding ◎118678.901956236
+* Vote account address: DDmp7zGUzKhXsZhnUynohWrrKyWFf9gSJcGacihRRHuU
+* Data Center: 24961-DE-Lauchhammer
+* Resident Data Center(s): 24961-DE-Lauchhammer (seniority: 1)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 351080 credits earned in epoch 208

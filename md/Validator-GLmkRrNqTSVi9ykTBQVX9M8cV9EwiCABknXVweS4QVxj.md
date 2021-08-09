@@ -1,3 +1,12 @@
+### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 209: 59 blocks in 68 slots, 14% skip rate
+* Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎25011.945306764 - reserve depleted
+* Vote account address: 6syLbA7pHFWGJetPdB5Hyzf33r7B6zZK7qurwCv4Afqk
+* Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 1)
+* Insufficient self stake: ◎10.249755861
+* Insufficient testnet participation
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **None** (for 14 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 208

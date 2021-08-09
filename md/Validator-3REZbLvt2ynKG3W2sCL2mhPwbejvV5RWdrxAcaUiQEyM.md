@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 342745 credits earned in epoch 209
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.001488049 - reserve depleted
+* Vote account address: aD54pzcjCRFdoeNpiuMJbeYejAAd2W55iyXJnYwoP6R
+* Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: infrastructure concentration 11.1% is too high; find a new data center
