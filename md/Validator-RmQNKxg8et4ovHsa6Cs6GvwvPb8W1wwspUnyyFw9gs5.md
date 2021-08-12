@@ -1,3 +1,10 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 217: 0 blocks in 4 slots, 100% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: J7CcKq9jKaeDQmteysJyrjvmf4nf2DwWFAPJHCF1zTLn
+* Data Center: 58061-GB-Europe/London
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 3)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **None** (for 10 epochs)
 * Stake reason: Insufficient vote credits: 97894 credits earned in epoch 215

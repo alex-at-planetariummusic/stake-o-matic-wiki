@@ -1,3 +1,10 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 217: 169 blocks in 260 slots, 35% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 7HhUhhWHBrYByqjenVVH98XqxB2JvfuRaEN4NGuE3orC
+* Vote account address: D7Upvp2Y9ViTfHyBkxoNm4WkHCfC4A4jXU1F6BWiAJop
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 215: 31 blocks in 36 slots, 14% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
 * Vote account address: D7Upvp2Y9ViTfHyBkxoNm4WkHCfC4A4jXU1F6BWiAJop
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.7.2
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎44854.504850894 - removing ◎44853.504850894
 * Vote account address: D7Upvp2Y9ViTfHyBkxoNm4WkHCfC4A4jXU1F6BWiAJop
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),24940-DE-Falkenstein (seniority: 7)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),16276-FR-Roubaix (seniority: 2)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 204: 181 blocks in 248 slots, 28% skip rate

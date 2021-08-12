@@ -1,17 +1,24 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **Bonus** (for 27 epochs)
+* Stake reason: Good block production during epoch 217: 264 blocks in 308 slots, 15% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 3U8xoYoq8hMyoW6NFNrQQ3ben7KJCYvjy5B4Ki8SzMuH
+* Vote account address: E6NakaSmdnMuZKL1ptHGbVPHhsnqzRgvAwjSL2Lytnjp
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 11),23470-US-Las Vegas (seniority: 7)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 215: 230 blocks in 264 slots, 13% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 3U8xoYoq8hMyoW6NFNrQQ3ben7KJCYvjy5B4Ki8SzMuH
 * Vote account address: E6NakaSmdnMuZKL1ptHGbVPHhsnqzRgvAwjSL2Lytnjp
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 12),23470-US-Las Vegas (seniority: 6)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 6),24940-FI-Helsinki (seniority: 12)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 214: 180 blocks in 220 slots, 19% skip rate
 * Staking activity: stake account busy due to transient stake activation: 3U8xoYoq8hMyoW6NFNrQQ3ben7KJCYvjy5B4Ki8SzMuH
 * Vote account address: E6NakaSmdnMuZKL1ptHGbVPHhsnqzRgvAwjSL2Lytnjp
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 13),23470-US-Las Vegas (seniority: 5)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 5),24940-FI-Helsinki (seniority: 13)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 213: 214 blocks in 248 slots, 14% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎44295.045998223 - removing ◎597.954528850
 * Vote account address: E6NakaSmdnMuZKL1ptHGbVPHhsnqzRgvAwjSL2Lytnjp
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),23470-US-Las Vegas (seniority: 2)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 2),24940-FI-Helsinki (seniority: 16)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 209: 215 blocks in 280 slots, 24% skip rate

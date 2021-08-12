@@ -1,3 +1,10 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **Bonus** (for 27 epochs)
+* Stake reason: Good block production during epoch 217: 224 blocks in 268 slots, 17% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 92pgAyCTzwjL7xLNNMenSXNDJDD7XfNARUzo4AAYAK7q
+* Vote account address: CeV655shocLEGGo7mhMysWQTQ5GCJy4jKXMyL4iSW1an
+* Data Center: 21409-FR-Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),21409-FR-Paris (seniority: 9)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 215: 195 blocks in 224 slots, 13% skip rate
@@ -18,28 +25,28 @@
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: CeV655shocLEGGo7mhMysWQTQ5GCJy4jKXMyL4iSW1an
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),21409-FR-Paris (seniority: 10)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 10),21409-FR-Europe/Paris (seniority: 6)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 212: 234 blocks in 256 slots, 9% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 92pgAyCTzwjL7xLNNMenSXNDJDD7XfNARUzo4AAYAK7q
 * Vote account address: CeV655shocLEGGo7mhMysWQTQ5GCJy4jKXMyL4iSW1an
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),21409-FR-Paris (seniority: 11)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 11),21409-FR-Europe/Paris (seniority: 5)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 210: 175 blocks in 228 slots, 24% skip rate
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎44295.045998223 - removing ◎597.954528850
 * Vote account address: CeV655shocLEGGo7mhMysWQTQ5GCJy4jKXMyL4iSW1an
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),21409-FR-Paris (seniority: 12)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 12),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 209: 221 blocks in 256 slots, 14% skip rate
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎44905.738139368 - removing ◎610.692141145
 * Vote account address: CeV655shocLEGGo7mhMysWQTQ5GCJy4jKXMyL4iSW1an
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),21409-FR-Paris (seniority: 13)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 13),21409-FR-Europe/Paris (seniority: 3)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 208: 175 blocks in 244 slots, 29% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 92pgAyCTzwjL7xLNNMenSXNDJDD7XfNARUzo4AAYAK7q
 * Vote account address: CeV655shocLEGGo7mhMysWQTQ5GCJy4jKXMyL4iSW1an
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 15),21409-FR-Europe/Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),21409-FR-Paris (seniority: 15)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: good block production during epoch 206: 149 blocks in 228 slots, 35% skip rate

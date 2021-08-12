@@ -1,3 +1,10 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **Bonus** (for 27 epochs)
+* Stake reason: Good block production during epoch 217: 287 blocks in 316 slots, 10% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 9usCjys2K5rcJL9RJjq8dvbNyrYeW5MdHkSVSH3k5d6n
+* Vote account address: 2h2VrJsHCf1Gz4LwA4gH49NiMhSSRgrFTZnu2Q58qsW7
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 17)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 215: 222 blocks in 240 slots, 8% skip rate
@@ -67,21 +74,21 @@
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎44854.504850894 - reserve depleted
 * Vote account address: 2h2VrJsHCf1Gz4LwA4gH49NiMhSSRgrFTZnu2Q58qsW7
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 3216-RU-Kostroma (seniority: 1),16276-DE-Frankfurt (seniority: 7)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 7),3216-RU-Kostroma (seniority: 1)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 204: 193 blocks in 256 slots, 25% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 9usCjys2K5rcJL9RJjq8dvbNyrYeW5MdHkSVSH3k5d6n
 * Vote account address: 2h2VrJsHCf1Gz4LwA4gH49NiMhSSRgrFTZnu2Q58qsW7
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 3216-RU-Kostroma (seniority: 2),16276-DE-Frankfurt (seniority: 6)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 6),3216-RU-Kostroma (seniority: 2)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 234 blocks in 292 slots, 20% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
 * Vote account address: 2h2VrJsHCf1Gz4LwA4gH49NiMhSSRgrFTZnu2Q58qsW7
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 5),3216-RU-Kostroma (seniority: 3)
+* Resident Data Center(s): 3216-RU-Kostroma (seniority: 3),16276-DE-Frankfurt (seniority: 5)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: good block production during epoch 202: 198 blocks in 256 slots, 23% skip rate

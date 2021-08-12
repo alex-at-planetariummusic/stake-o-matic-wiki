@@ -1,10 +1,17 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 217: 110 blocks in 208 slots, 48% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 6i6YVSChDK5AT4qQdJKqq3wDxGWLVK1d1TSbqyMcURvC
+* Vote account address: 8oWBoZeWTTsmonEPjxjC3fWw3VgNsDriNmNDZ2ajpHr2
+* Data Center: 23470-US-New York
+* Resident Data Center(s): 23470-US-New York (seniority: 8),23470-US-Las Vegas (seniority: 2)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 215: 218 blocks in 260 slots, 17% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 6i6YVSChDK5AT4qQdJKqq3wDxGWLVK1d1TSbqyMcURvC
 * Vote account address: 8oWBoZeWTTsmonEPjxjC3fWw3VgNsDriNmNDZ2ajpHr2
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 3),23470-US-New York (seniority: 7)
+* Resident Data Center(s): 23470-US-New York (seniority: 7),23470-US-Las Vegas (seniority: 3)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 214: 124 blocks in 216 slots, 43% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 6i6YVSChDK5AT4qQdJKqq3wDxGWLVK1d1TSbqyMcURvC
 * Vote account address: 8oWBoZeWTTsmonEPjxjC3fWw3VgNsDriNmNDZ2ajpHr2
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 6),23470-US-New York (seniority: 4)
+* Resident Data Center(s): 23470-US-New York (seniority: 4),23470-US-Las Vegas (seniority: 6)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 143684 credits earned in epoch 210
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎1.000000000 - adding ◎44294.045998223
 * Vote account address: 8oWBoZeWTTsmonEPjxjC3fWw3VgNsDriNmNDZ2ajpHr2
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 8),23470-US-New York (seniority: 2)
+* Resident Data Center(s): 23470-US-New York (seniority: 2),23470-US-Las Vegas (seniority: 8)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 208: 161 blocks in 232 slots, 31% skip rate

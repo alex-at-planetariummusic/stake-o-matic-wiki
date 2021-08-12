@@ -1,3 +1,10 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 217
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 2KySAFBR9R8xTWrTaahzyCz1gjWQYxHprKYnDYNnKsa7
+* Vote account address: 6GSDmDvD7UNJvsHD9pqZPzywXdU6BKkBiJQbwgLsstwJ
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 13)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 215: 107 blocks in 240 slots, 56% skip rate

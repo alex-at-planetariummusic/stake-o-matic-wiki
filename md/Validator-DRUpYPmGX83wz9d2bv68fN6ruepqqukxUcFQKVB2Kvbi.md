@@ -1,3 +1,10 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **Bonus** (for 11 epochs)
+* Stake reason: Good block production during epoch 217: 239 blocks in 264 slots, 10% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: DcgEHu6KktijvqWpnNBbXiNwhawNXX6RdDTPMuSoaUE8
+* Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
+* Data Center: 23470-US-Piscataway
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 6),24961-DE-Europe/Berlin (seniority: 5)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 215: 207 blocks in 224 slots, 8% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: stake account busy due to transient stake activation: DcgEHu6KktijvqWpnNBbXiNwhawNXX6RdDTPMuSoaUE8
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 4),24961-DE-Europe/Berlin (seniority: 7)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 7),23470-US-Piscataway (seniority: 4)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 213: 235 blocks in 260 slots, 10% skip rate
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 8),23470-US-Piscataway (seniority: 3)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 3),24961-DE-Europe/Berlin (seniority: 8)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 212: 195 blocks in 232 slots, 16% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎44295.045998223 - removing ◎597.954528850
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 10),23470-US-Piscataway (seniority: 1)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 1),24961-DE-Europe/Berlin (seniority: 10)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 209: 209 blocks in 244 slots, 15% skip rate

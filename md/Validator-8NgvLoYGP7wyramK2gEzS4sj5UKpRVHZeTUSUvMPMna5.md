@@ -1,3 +1,10 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **Bonus** (for 27 epochs)
+* Stake reason: Good block production during epoch 217: 225 blocks in 288 slots, 22% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: LkNMZh7hN1pf8RmRXY9breqg5doWxoYcMxS9oNu1do9
+* Vote account address: 6iUGmpmWjubbH5tQmobPHDEz3NV8qL496ujCQcXTA5vf
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 14)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 215: 152 blocks in 168 slots, 10% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: LkNMZh7hN1pf8RmRXY9breqg5doWxoYcMxS9oNu1do9
 * Vote account address: 6iUGmpmWjubbH5tQmobPHDEz3NV8qL496ujCQcXTA5vf
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24940-DE-Nuremburg (seniority: 10)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 10),24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 210: 187 blocks in 252 slots, 26% skip rate
@@ -53,14 +60,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account LkNMZh7hN1pf8RmRXY9breqg5doWxoYcMxS9oNu1do9
 * Vote account address: 6iUGmpmWjubbH5tQmobPHDEz3NV8qL496ujCQcXTA5vf
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 6),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24940-DE-Nuremburg (seniority: 6)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: good block production during epoch 206: 189 blocks in 236 slots, 20% skip rate
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎44854.504850894 - adding ◎1789.521102169
 * Vote account address: 6iUGmpmWjubbH5tQmobPHDEz3NV8qL496ujCQcXTA5vf
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24940-DE-Nuremburg (seniority: 5)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),24940-FI-Helsinki (seniority: 6)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: good block production during epoch 205: 218 blocks in 272 slots, 20% skip rate
@@ -74,21 +81,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account LkNMZh7hN1pf8RmRXY9breqg5doWxoYcMxS9oNu1do9
 * Vote account address: 6iUGmpmWjubbH5tQmobPHDEz3NV8qL496ujCQcXTA5vf
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),24940-DE-Nuremburg (seniority: 3)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 206 blocks in 284 slots, 28% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
 * Vote account address: 6iUGmpmWjubbH5tQmobPHDEz3NV8qL496ujCQcXTA5vf
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),24940-DE-Nuremburg (seniority: 2)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),24940-FI-Helsinki (seniority: 9)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: good block production during epoch 202: 209 blocks in 276 slots, 25% skip rate
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44126.496155815 - reserve depleted
 * Vote account address: 6iUGmpmWjubbH5tQmobPHDEz3NV8qL496ujCQcXTA5vf
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-FI-Helsinki (seniority: 10)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),24940-DE-Nuremburg (seniority: 1)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: good block production during epoch 201: 159 blocks in 208 slots, 24% skip rate

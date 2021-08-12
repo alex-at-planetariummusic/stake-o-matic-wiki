@@ -1,3 +1,9 @@
+### [[Testnet Epoch 218|Testnet#Epoch-218]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: infrastructure concentration 25.2% is too high; find a new data center
+* Staking activity: stake account busy due to transient stake deactivation: 8VVkcSuszjM4MwxZVSEaCuqmbzTUTg3DvGpioRqDpiAf
+* Vote account address: AwUytTeuDAs4yPGuPZCv14bDJeQLK4oai8FWNgdkHApf
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 25.9% is too high; find a new data center
