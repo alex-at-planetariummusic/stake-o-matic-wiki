@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 211: 5 blocks in 8 slots, 38% skip rate
+* Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎25012.267514675 - adding ◎58811.807036560
+* Vote account address: 6T7SEeBwdFov3vYVFt1vt7mEU1w57TbevvETqipp9DW3
+* Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 343839 credits earned in epoch 209
