@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 212: 22 blocks in 40 slots, 45% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 47DfAX4gjDjuDzXxMJ1YuDpUimck7fiFB9mtSKXL18hE
+* Vote account address: EdqawSJpVZ34UmffcEk62P33H59YcWngxFVbutTXqpcp
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 211: 20 blocks in 20 slots, 0% skip rate

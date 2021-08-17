@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 212: 19 blocks in 20 slots, 5% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account efDUjRMbNDUs4SKdK1dXhedFTJUJgHpdZ8uAYa322x9
+* Vote account address: ErzAkDdp3PHQjRHWRLFtrv6ZW6hgt7iuzkZa12rherRx
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1)
+* Insufficient self stake: ◎24.659748090
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 325352 credits earned in epoch 211

@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 168842 credits earned in epoch 212
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 7hoKZAtqD4oTcjbXFqrFAofYjc33mMzdnQKTqFoJE7PT
+* Vote account address: A8ARsTnLNEieHGNvnjoiJj9A1JY98dXbnohA18YRmDzN
+* Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 316073 credits earned in epoch 211

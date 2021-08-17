@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
+* Stake level: **None** (for 8 epochs)
+* Stake reason: infrastructure concentration 10.5% is too high; find a new data center
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.002601048 - not removing ◎0.002601048 (amount too small)
+* Vote account address: H97b7WujYu1qRLdngfSWVxsXpasMoTaCfRbNx3qvu3ev
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: infrastructure concentration 10.7% is too high; find a new data center
