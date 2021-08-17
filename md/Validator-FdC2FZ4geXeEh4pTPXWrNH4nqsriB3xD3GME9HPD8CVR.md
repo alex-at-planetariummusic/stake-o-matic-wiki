@@ -1,3 +1,11 @@
+### [[Testnet Epoch 220|Testnet#Epoch-220]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 219: 39 blocks in 268 slots, 86% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎46033.143606724 - removing ◎41033.143606724
+* Vote account address: CVHqXZYPggbU289HhEVKzcCBW5wjVe4F2Msbg7gzegUo
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4)
+* infrastructure concentration 25.9% is too high; consider finding a new data center
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 217: 146 blocks in 228 slots, 36% skip rate
@@ -28,7 +36,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 4hr7SArsZqRaNb7SvyC4WhNWPKbHUMx7Xx7E9DC5ZD7h
 * Vote account address: CVHqXZYPggbU289HhEVKzcCBW5wjVe4F2Msbg7gzegUo
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 179949 credits earned in epoch 212

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 220|Testnet#Epoch-220]]
+* Stake level: **Bonus** (for 28 epochs)
+* Stake reason: Good block production during epoch 219: 171 blocks in 264 slots, 36% skip rate
+* Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎47166.117586150 - removing ◎663.219869631
+* Vote account address: FRBAEM2GfxQFZizdhQHePi9DCzCG55SUFovSLY5Z3BAq
+* Data Center: 41668-RU-Kazan’
+* Resident Data Center(s): 21409-FR-Paris (seniority: 3),41668-RU-Kazan’ (seniority: 11)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 217: 188 blocks in 292 slots, 36% skip rate
@@ -18,21 +25,21 @@
 * Staking activity: stake account busy due to transient stake activation: U2FBvrehqkLZPbDZ9wo25cYGgTg8boXcJVPD3bnVZZr
 * Vote account address: FRBAEM2GfxQFZizdhQHePi9DCzCG55SUFovSLY5Z3BAq
 * Data Center: 41668-RU-Kazan’
-* Resident Data Center(s): 21409-FR-Paris (seniority: 6),41668-RU-Kazan’ (seniority: 8)
+* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 8),21409-FR-Paris (seniority: 6)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 213: 175 blocks in 228 slots, 24% skip rate
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎44125.810064100 - reserve depleted
 * Vote account address: FRBAEM2GfxQFZizdhQHePi9DCzCG55SUFovSLY5Z3BAq
 * Data Center: 41668-RU-Kazan’
-* Resident Data Center(s): 21409-FR-Paris (seniority: 7),41668-RU-Kazan’ (seniority: 7)
+* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 7),21409-FR-Paris (seniority: 7)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 212: 165 blocks in 208 slots, 21% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: U2FBvrehqkLZPbDZ9wo25cYGgTg8boXcJVPD3bnVZZr
 * Vote account address: FRBAEM2GfxQFZizdhQHePi9DCzCG55SUFovSLY5Z3BAq
 * Data Center: 41668-RU-Kazan’
-* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 6),21409-FR-Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 8),41668-RU-Kazan’ (seniority: 6)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 210: 193 blocks in 264 slots, 27% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎46540.839801486 - adding ◎103.186151577
 * Vote account address: FRBAEM2GfxQFZizdhQHePi9DCzCG55SUFovSLY5Z3BAq
 * Data Center: 41668-RU-Kazan’
-* Resident Data Center(s): 21409-FR-Paris (seniority: 13),41668-RU-Kazan’ (seniority: 1)
+* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 1),21409-FR-Paris (seniority: 13)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: good block production during epoch 205: 228 blocks in 280 slots, 19% skip rate

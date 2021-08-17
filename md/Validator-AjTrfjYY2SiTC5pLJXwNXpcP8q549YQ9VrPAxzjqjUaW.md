@@ -1,10 +1,17 @@
+### [[Testnet Epoch 220|Testnet#Epoch-220]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 219: 51 blocks in 224 slots, 78% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
+* Data Center: 24961-DE-Schopfheim
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 217: 87 blocks in 344 slots, 75% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 2mBC9XmEJELFXjMknxXrgwsZvZutnreTWpXEMtmaDxiQ
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 1),21409-FR-Europe/Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),24961-DE-Schopfheim (seniority: 1)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 215: 81 blocks in 244 slots, 67% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 2mBC9XmEJELFXjMknxXrgwsZvZutnreTWpXEMtmaDxiQ
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),24961-DE-Andernach (seniority: 2)
+* Resident Data Center(s): 24961-DE-Andernach (seniority: 2),21409-FR-Europe/Paris (seniority: 8)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 209: 20 blocks in 28 slots, 29% skip rate
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎5000.000000000 - adding ◎39295.045998223
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 24961-DE-Andernach (seniority: 3),21409-FR-Europe/Paris (seniority: 9)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),24961-DE-Andernach (seniority: 3)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 208: 139 blocks in 208 slots, 34% skip rate

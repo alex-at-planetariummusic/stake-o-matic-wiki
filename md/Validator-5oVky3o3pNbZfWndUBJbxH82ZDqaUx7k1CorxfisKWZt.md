@@ -1,3 +1,10 @@
+### [[Testnet Epoch 220|Testnet#Epoch-220]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 219: 100 blocks in 216 slots, 54% skip rate
+* Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
+* Vote account address: FCMYcVVSSD4y96qfNobKo16L7zLyRDkvcfGSGVavXX5e
+* Data Center: 49984-UA-Boryslav
+* Resident Data Center(s): 49984-UA-Boryslav (seniority: 5)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 217: 254 blocks in 268 slots, 6% skip rate

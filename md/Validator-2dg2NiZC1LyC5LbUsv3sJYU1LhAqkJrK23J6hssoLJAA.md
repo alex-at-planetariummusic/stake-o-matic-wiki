@@ -1,3 +1,10 @@
+### [[Testnet Epoch 220|Testnet#Epoch-220]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 219: 93 blocks in 280 slots, 67% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎46033.143606724 - removing ◎41033.143606724
+* Vote account address: AXAG88fwHfEuUppqyyPiRmBmpQUQj4ojvzt27BVDZMQC
+* Data Center: 48607-RU-Krasnyy Bor
+* Resident Data Center(s): 48607-RU-Krasnyy Bor (seniority: 4),48607-RU-Europe/Moscow (seniority: 4)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 217: 207 blocks in 240 slots, 14% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account FdsjjjDE9rTRiT7YaGKtfUJzN6H7euBT5KMm1rWdZ7eq
 * Vote account address: AXAG88fwHfEuUppqyyPiRmBmpQUQj4ojvzt27BVDZMQC
 * Data Center: 48607-RU-Krasnyy Bor
-* Resident Data Center(s): 48607-RU-Krasnyy Bor (seniority: 4),48607-RU-Europe/Moscow (seniority: 6)
+* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 6),48607-RU-Krasnyy Bor (seniority: 4)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 214: 15 blocks in 24 slots, 38% skip rate
