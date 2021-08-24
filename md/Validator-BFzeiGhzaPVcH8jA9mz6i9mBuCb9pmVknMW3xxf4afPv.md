@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 125242 credits earned in epoch 214
+* Staking activity: creating new stake account FrDPPn4nm8E64roA3eNND2RyBD22wuV87BaFXbQmNHpS
+* Vote account address: 8dY5bV5Ur1Yf9Z21ETZBRNQCMFtTr8ZdByeTo8tNAxFW
+* Data Center: 15497-UA-Europe/Kiev
+* Resident Data Center(s): 15497-UA-Europe/Kiev (seniority: 5)
+* Insufficient self stake: ◎22.997717120
 ### [[Mainnet Epoch 214|Mainnet#Epoch-214]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 213: 267 blocks in 288 slots, 8% skip rate

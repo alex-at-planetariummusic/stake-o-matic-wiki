@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 214: 16 blocks in 20 slots, 20% skip rate
+* Staking activity: target stake amount: ◎122212.013967839, current stake amount: ◎25012.223708924 - reserve depleted
+* Vote account address: 8GERjfptn6PXXEPVmRbJQ3KwESf2wLbamFk71LGsQHcZ
+* Data Center: 197071-DE-Europe/Berlin
+* Resident Data Center(s): 197071-DE-Europe/Berlin (seniority: 1)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 214|Mainnet#Epoch-214]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 213: 3 blocks in 8 slots, 63% skip rate

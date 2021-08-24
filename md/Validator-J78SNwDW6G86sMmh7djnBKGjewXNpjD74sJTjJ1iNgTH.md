@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 10.3% is too high; find a new data center
+* Staking activity: creating new stake account 26gbcBLHRNcwQ1aNqojexL9e4hcYLUV4H6Usb65ZsoV7
+* Vote account address: AT1kLQm1uYB5XZVocNUn9QkH3NPJRjRvf5orGS469xuy
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 209: 136 blocks in 148 slots, 9% skip rate
