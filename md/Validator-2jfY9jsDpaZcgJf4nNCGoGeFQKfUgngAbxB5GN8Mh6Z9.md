@@ -1,3 +1,9 @@
+### [[Testnet Epoch 223|Testnet#Epoch-223]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 227628 credits earned in epoch 222
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 9DEsojwreGZx5XTYNJMwP4LkpGjRhzVyCwT3D4U9DPbg
+* Data Center: 16276-CA-Beauharnois
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 81294 credits earned in epoch 219

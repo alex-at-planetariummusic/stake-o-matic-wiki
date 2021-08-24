@@ -1,3 +1,10 @@
+### [[Testnet Epoch 223|Testnet#Epoch-223]]
+* Stake level: **Bonus** (for 29 epochs)
+* Stake reason: Good block production during epoch 222: 221 blocks in 272 slots, 19% skip rate
+* Staking activity: stake account busy due to transient stake activation: 8eY4KKffYZ1u7j76zYC4oxhQALx1ZkC2gPtZvgmjeS5k
+* Vote account address: 5RnzKPvaRETE5SuQ9h4MDgv4GDBqUUqcAEEU9HXYFH9E
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 27)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 219: 179 blocks in 240 slots, 26% skip rate

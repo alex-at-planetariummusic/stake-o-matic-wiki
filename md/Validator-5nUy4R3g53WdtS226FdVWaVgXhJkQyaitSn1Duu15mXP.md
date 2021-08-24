@@ -1,3 +1,10 @@
+### [[Testnet Epoch 223|Testnet#Epoch-223]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 222: 84 blocks in 228 slots, 64% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: C96pZVpMFMnJdY3BfD8EvtFnU74TAWhmTvnk1qN2BpxL
+* Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 6),24940-DE-Falkenstein (seniority: 3)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 219: 122 blocks in 236 slots, 49% skip rate
@@ -25,14 +32,14 @@
 * Staking activity: target stake amount: ◎48627.221310778, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 4),24940-DE-Falkenstein (seniority: 7)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),201814-PL-Europe/Warsaw (seniority: 4)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 164037 credits earned in epoch 213
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account C96pZVpMFMnJdY3BfD8EvtFnU74TAWhmTvnk1qN2BpxL
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 3),24940-DE-Falkenstein (seniority: 8)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),201814-PL-Europe/Warsaw (seniority: 3)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 183758 credits earned in epoch 212

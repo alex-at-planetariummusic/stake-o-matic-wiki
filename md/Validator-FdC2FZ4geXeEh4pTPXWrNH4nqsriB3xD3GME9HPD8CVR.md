@@ -1,3 +1,10 @@
+### [[Testnet Epoch 223|Testnet#Epoch-223]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: Poor block production during epoch 222: 0 blocks in 44 slots, 100% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: CVHqXZYPggbU289HhEVKzcCBW5wjVe4F2Msbg7gzegUo
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 219: 39 blocks in 268 slots, 86% skip rate
@@ -36,21 +43,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 4hr7SArsZqRaNb7SvyC4WhNWPKbHUMx7Xx7E9DC5ZD7h
 * Vote account address: CVHqXZYPggbU289HhEVKzcCBW5wjVe4F2Msbg7gzegUo
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-FI-Helsinki (seniority: 2)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 179949 credits earned in epoch 212
 * Staking activity: stake account busy due to transient stake activation: 4hr7SArsZqRaNb7SvyC4WhNWPKbHUMx7Xx7E9DC5ZD7h
 * Vote account address: CVHqXZYPggbU289HhEVKzcCBW5wjVe4F2Msbg7gzegUo
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 210: 20 blocks in 32 slots, 38% skip rate
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: CVHqXZYPggbU289HhEVKzcCBW5wjVe4F2Msbg7gzegUo
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-FI-Helsinki (seniority: 2)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 37296 credits earned in epoch 209

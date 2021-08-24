@@ -1,3 +1,9 @@
+### [[Testnet Epoch 223|Testnet#Epoch-223]]
+* Stake level: **None** (for 8 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 222
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account GkEM3g4CePUeJ9RUK5xTyrd8wRzSHB1S7Hut52WRGyjk
+* Vote account address: CKnFHn5dRhAZ3AzR5cWZTpVbB6AXXr1SR6usQhYPALVU
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: infrastructure concentration 25.9% is too high; find a new data center

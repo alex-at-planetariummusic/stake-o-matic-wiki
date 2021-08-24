@@ -1,3 +1,10 @@
+### [[Testnet Epoch 223|Testnet#Epoch-223]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.6.21
+* Staking activity: stake account busy due to transient stake deactivation: 4Ae3yJwKNFjK9bCZnPiPBJduik6f6N2yxShyfrtAjqSZ
+* Vote account address: 7emYDC5re2f6CTMVZ1J61C6TZxNRjVaqZpp9vdUd88Vq
+* Data Center: 24961-DE-Düsseldorf
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 20)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 219: 125 blocks in 308 slots, 60% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 223|Testnet#Epoch-223]]
+* Stake level: **Bonus** (for 12 epochs)
+* Stake reason: Good block production during epoch 222: 184 blocks in 224 slots, 18% skip rate
+* Staking activity: stake account busy due to transient stake activation: GULxzAm19RxYQK8oFYhcTb1ud5C7kpcpPZ4PydvcWque
+* Vote account address: J813pcd1y5eX9Kh4GZZ7tVoG6rksQVPmFUTCin5wv8y9
+* Data Center: 16276-PL-Warsaw
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 12)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 219: 109 blocks in 232 slots, 54% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎5000.000000000 - adding ◎41644.025953063
 * Vote account address: J813pcd1y5eX9Kh4GZZ7tVoG6rksQVPmFUTCin5wv8y9
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),16276-PL-Warsaw (seniority: 1)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),16276-FR-Roubaix (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: poor block production during epoch 205: 47 blocks in 252 slots, 82% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44126.496155815 - reserve depleted
 * Vote account address: J813pcd1y5eX9Kh4GZZ7tVoG6rksQVPmFUTCin5wv8y9
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),16276-FR-Strasbourg (seniority: 1)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),16276-FR-Roubaix (seniority: 5)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 201: 161 blocks in 252 slots, 37% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎45239.342126859, current stake amount: ◎46269.599541788 - removing ◎1030.257414929
 * Vote account address: J813pcd1y5eX9Kh4GZZ7tVoG6rksQVPmFUTCin5wv8y9
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-FR-Roubaix (seniority: 4)
 ### [[Testnet Epoch 199|Testnet#Epoch-199]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 198: 279 blocks in 376 slots, 26% skip rate

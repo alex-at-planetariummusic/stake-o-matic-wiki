@@ -1,3 +1,10 @@
+### [[Testnet Epoch 223|Testnet#Epoch-223]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 31966 credits earned in epoch 222
+* Staking activity: stake account busy due to transient stake deactivation: Bkb5Yf4Ww6fJtNm6yW3LvkM4a51NQnzARo8yGq7VGMME
+* Vote account address: 4diQUSVxzgY2KKsJUtXKbjbHuvwDF36qL9fWMurGe7P6
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 219: 4 blocks in 168 slots, 98% skip rate
