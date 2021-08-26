@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 216|Mainnet#Epoch-216]]
+* Stake level: **Bonus** (for 15 epochs)
+* Stake reason: Good block production during epoch 215: 204 blocks in 224 slots, 9% skip rate
+* Staking activity: target stake amount: ◎117608.867212503, current stake amount: ◎122174.492014766 - removing ◎4565.624802263
+* Vote account address: F9PZNSEtgbqmgsa4mkgkAuLFYQ8nHzn1UqubJQiLkBn3
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15)
+* infrastructure concentration 10.1% is too high; consider finding a new data center
 ### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 214: 209 blocks in 216 slots, 4% skip rate
