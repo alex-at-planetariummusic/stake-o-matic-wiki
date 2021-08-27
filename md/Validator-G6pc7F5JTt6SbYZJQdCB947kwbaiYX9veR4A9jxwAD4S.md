@@ -1,3 +1,9 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **None** (for 23 epochs)
+* Stake reason: infrastructure concentration 25.2% is too high; find a new data center
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 4q2En1GsxtmPFhbmRPVESFqW4gfsL7HUbmpdHinjRwCf
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **None** (for 22 epochs)
 * Stake reason: Outdated Solana release: 1.6.9

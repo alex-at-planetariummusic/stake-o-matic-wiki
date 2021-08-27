@@ -1,3 +1,10 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 223: 218 blocks in 248 slots, 13% skip rate
+* Staking activity: target stake amount: ◎44346.337022444, current stake amount: ◎47329.994642659 - removing ◎2983.657620215
+* Vote account address: G3Q99wonMC26w4f3tPCr31ACfBYxe2CBkWjwe5ohdogZ
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 222: 162 blocks in 204 slots, 21% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎46147.349330196, current stake amount: ◎5062.795783698 - reserve depleted
 * Vote account address: G3Q99wonMC26w4f3tPCr31ACfBYxe2CBkWjwe5ohdogZ
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24940-DE-Falkenstein (seniority: 10)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 214: 3 blocks in 16 slots, 82% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BqFjzgWJqGxnwadtpnb8eJu6B9oh328UN8usdHXnMjyH
 * Vote account address: G3Q99wonMC26w4f3tPCr31ACfBYxe2CBkWjwe5ohdogZ
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 1),21409-FR-Europe/Paris (seniority: 1),24940-DE-Falkenstein (seniority: 12)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),41668-RU-Kazan’ (seniority: 1),24940-DE-Falkenstein (seniority: 12)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 212: 27 blocks in 48 slots, 44% skip rate

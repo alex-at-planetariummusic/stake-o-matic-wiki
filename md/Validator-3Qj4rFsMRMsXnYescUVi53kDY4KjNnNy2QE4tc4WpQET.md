@@ -1,3 +1,10 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 223: 206 blocks in 244 slots, 16% skip rate
+* Staking activity: target stake amount: ◎44346.337022444, current stake amount: ◎5000.000000000 - reserve depleted
+* Vote account address: CUFxVFWjx5vkmhKggvSVvuRfYgQn4NFjj815iLwJ9Vsa
+* Data Center: 44923-RU-St Petersburg
+* Resident Data Center(s): 44923-RU-St Petersburg (seniority: 26)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 222: 74 blocks in 252 slots, 71% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Outdated Solana release: 1.6.22
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 7emYDC5re2f6CTMVZ1J61C6TZxNRjVaqZpp9vdUd88Vq
+* Data Center: 24961-DE-Düsseldorf
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 19)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **None**
 * Stake reason: Outdated Solana release: 1.6.21

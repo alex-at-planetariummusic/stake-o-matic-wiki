@@ -1,3 +1,10 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **Bonus** (for 26 epochs)
+* Stake reason: Good block production during epoch 223: 175 blocks in 240 slots, 28% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account SbosdeQyuskUGnnATv3D6Gptzx4EqSunuGMGKVgzqE1
+* Vote account address: BnrJapdqXvkk3mneWfSFpRPonpZk2AB3VJw7WtcmP71k
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 17)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 222: 186 blocks in 220 slots, 16% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
 * Vote account address: BnrJapdqXvkk3mneWfSFpRPonpZk2AB3VJw7WtcmP71k
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 7),21409-FR-Paris (seniority: 2)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 2),23470-US-Miami (seniority: 7)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 207: 192 blocks in 232 slots, 18% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account SbosdeQyuskUGnnATv3D6Gptzx4EqSunuGMGKVgzqE1
 * Vote account address: BnrJapdqXvkk3mneWfSFpRPonpZk2AB3VJw7WtcmP71k
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 6),21409-FR-Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 3),23470-US-Miami (seniority: 6)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: good block production during epoch 206: 245 blocks in 300 slots, 19% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account SbosdeQyuskUGnnATv3D6Gptzx4EqSunuGMGKVgzqE1
 * Vote account address: BnrJapdqXvkk3mneWfSFpRPonpZk2AB3VJw7WtcmP71k
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 21409-FR-Paris (seniority: 6),23470-US-Miami (seniority: 3)
+* Resident Data Center(s): 23470-US-Miami (seniority: 3),21409-FR-Paris (seniority: 6)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 203: 150 blocks in 228 slots, 35% skip rate

@@ -1,3 +1,11 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **Bonus** (for 30 epochs)
+* Stake reason: Good block production during epoch 223: 170 blocks in 228 slots, 26% skip rate
+* Staking activity: target stake amount: ◎44346.337022444, current stake amount: ◎47326.369758341 - removing ◎2980.032735897
+* Vote account address: 8ovjYCTrQDSMaj1pzjwNybQLWFUmt9vLgvQn2afX3d8
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 28)
+* infrastructure concentration 25.2% is too high; consider finding a new data center
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 222: 187 blocks in 260 slots, 29% skip rate

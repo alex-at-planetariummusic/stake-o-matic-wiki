@@ -1,10 +1,17 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **Bonus** (for 26 epochs)
+* Stake reason: Good block production during epoch 223: 200 blocks in 220 slots, 10% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account EwkbQVcfcbNnK4iEPAM4iUP1N4F6FKbYU81V9R3bUVJQ
+* Vote account address: H16d8Vywv1777Q84TfUKfzBL9NgzEbj5pGDsRjwn1jDt
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),16276-FR-Gravelines (seniority: 8)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 222: 211 blocks in 240 slots, 13% skip rate
 * Staking activity: stake account busy due to transient stake activation: EwkbQVcfcbNnK4iEPAM4iUP1N4F6FKbYU81V9R3bUVJQ
 * Vote account address: H16d8Vywv1777Q84TfUKfzBL9NgzEbj5pGDsRjwn1jDt
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 7),24940-FI-Helsinki (seniority: 11)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 11),16276-FR-Gravelines (seniority: 7)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 219: 193 blocks in 248 slots, 23% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎43598.804034553, current stake amount: ◎43697.091469373 - removing ◎98.287434820
 * Vote account address: H16d8Vywv1777Q84TfUKfzBL9NgzEbj5pGDsRjwn1jDt
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 17),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24940-FI-Helsinki (seniority: 17)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 210: 175 blocks in 280 slots, 38% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 223: 200 blocks in 252 slots, 21% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 27ZoK8meZquA5rcSSMbQP2swbo111nHGa16KQY81bd2o
+* Vote account address: GEC2DBw1rarfGJg7zLrLgayzcCifAzQ5BgeeNCU7WhD9
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 6),21409-FR-Boulogne-Billancourt (seniority: 14)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 222: 176 blocks in 220 slots, 20% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 27ZoK8meZquA5rcSSMbQP2swbo111nHGa16KQY81bd2o
 * Vote account address: GEC2DBw1rarfGJg7zLrLgayzcCifAzQ5BgeeNCU7WhD9
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 18),23470-US-Miami (seniority: 2)
+* Resident Data Center(s): 23470-US-Miami (seniority: 2),21409-FR-Boulogne-Billancourt (seniority: 18)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 214: 83 blocks in 200 slots, 59% skip rate

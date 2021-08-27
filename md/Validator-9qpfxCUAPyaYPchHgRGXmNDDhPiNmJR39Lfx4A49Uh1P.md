@@ -1,3 +1,10 @@
+### [[Testnet Epoch 224|Testnet#Epoch-224]]
+* Stake level: **Bonus** (for 27 epochs)
+* Stake reason: Good block production during epoch 223: 449 blocks in 492 slots, 9% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 5rYWTcr7fQGHQ3rt2VSLcpSp2v56dh7j8MwMEhGxYKcp
+* Vote account address: 2gGUKM9PkFjWyctM3BNRTuRJbM4fJUbsfjndtpqXGcc8
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 23)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 222: 429 blocks in 508 slots, 16% skip rate
@@ -137,21 +144,21 @@
 * Staking activity: target stake amount: ◎46269.599541788, current stake amount: ◎47768.453996694 - removing ◎1498.854454906
 * Vote account address: 2gGUKM9PkFjWyctM3BNRTuRJbM4fJUbsfjndtpqXGcc8
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-FR-Gravelines (seniority: 3)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 198|Testnet#Epoch-198]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 197: 279 blocks in 360 slots, 23% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 5rYWTcr7fQGHQ3rt2VSLcpSp2v56dh7j8MwMEhGxYKcp
 * Vote account address: 2gGUKM9PkFjWyctM3BNRTuRJbM4fJUbsfjndtpqXGcc8
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 196: 209 blocks in 288 slots, 28% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 5rYWTcr7fQGHQ3rt2VSLcpSp2v56dh7j8MwMEhGxYKcp
 * Vote account address: 2gGUKM9PkFjWyctM3BNRTuRJbM4fJUbsfjndtpqXGcc8
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 195: 231 blocks in 344 slots, 33% skip rate
