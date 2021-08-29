@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
+* Stake level: **None** (for 4 epochs)
+* Stake reason: Insufficient vote credits: 194564 credits earned in epoch 216
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001231768 - not removing ◎0.001231768 (amount too small)
+* Vote account address: FK466vE8ZPSuntKFT415H16qRJ26UPzmXZXb3jq42jaE
+* Data Center: 12212-CA-Toronto
+* Resident Data Center(s): 12212-CA-Toronto (seniority: 25)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 216|Mainnet#Epoch-216]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Outdated Solana release: 1.6.18

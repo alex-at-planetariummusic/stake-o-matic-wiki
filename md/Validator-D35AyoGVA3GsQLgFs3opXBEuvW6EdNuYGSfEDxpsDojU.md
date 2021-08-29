@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: Poor block production during epoch 216: 10 blocks in 24 slots, 59% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.524180823 - removing ◎11.524180823
+* Vote account address: B2oxgLLGYQvrEwt3PXGU99Y6g2SwVT8zBG1fuzt3GK9a
+* Data Center: 21409-FR-Paris
 ### [[Mainnet Epoch 216|Mainnet#Epoch-216]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 337885 credits earned in epoch 215

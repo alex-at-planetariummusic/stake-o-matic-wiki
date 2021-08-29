@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 159572 credits earned in epoch 216
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎117636.025700676 - removing ◎117635.025700676
+* Vote account address: 9diFDvrfJD8RvBBF36cMLyQAnvafbeu3KFKAwv4od5nX
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 31)
 ### [[Mainnet Epoch 216|Mainnet#Epoch-216]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 215: 198 blocks in 204 slots, 3% skip rate
