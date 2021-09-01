@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 347363 credits earned in epoch 217
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 7BfhcU1kgx4KSphHubDvxcQWPEzJEFhUcgpABHwNCHRp
+* Vote account address: 36jVWrHfpyN2RvXCkGA75qdzcBqFfMcyKbC2qg4o2gA8
+* Data Center: 24961-DE-Düsseldorf
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 32)
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 216: 212 blocks in 236 slots, 11% skip rate

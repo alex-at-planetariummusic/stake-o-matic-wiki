@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
+* Stake level: **None** (for 29 epochs)
+* Stake reason: Active stake is too high: ◎4278061.539244634
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.015271805 - not removing ◎0.015271805 (amount too small)
+* Vote account address: FQwewNXahV7MiZcLpY6p1xhUs2acVGQ3U5Xxc7FzV571
+* Data Center: 20326-NL-Amsterdam
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **None** (for 28 epochs)
 * Stake reason: Active stake is too high: ◎4274667.915626747

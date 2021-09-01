@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 315887 credits earned in epoch 217
+* Staking activity: stake account busy due to transient stake activation: 7bQntWArJSNEetJZJp8uqWsCDQGiQJU6thx2EXgc4NHm
+* Vote account address: 7iEP8fEN2be9CZdeiXirtVZTzLKQCEsfMA4E4eeik8T2
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24940-FI-Helsinki (seniority: 24)
+* Insufficient self stake: ◎0.519090690
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 216: 160 blocks in 224 slots, 29% skip rate

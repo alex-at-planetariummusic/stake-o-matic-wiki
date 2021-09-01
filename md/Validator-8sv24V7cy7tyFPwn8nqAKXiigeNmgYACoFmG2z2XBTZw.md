@@ -1,3 +1,12 @@
+### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 217: 145 blocks in 148 slots, 3% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: BCXD7MtQfc4yWMUmpuGn5nNoiGQBrmFMeyUvJUMVkCJn
+* Vote account address: 83b3MHxfxGLYkhfjT3nFtPRmYL3eKk5EMALsVAHAmgqK
+* Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 5)
+* Insufficient self stake: ◎10.277870723
+* Insufficient testnet participation
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 216: 230 blocks in 240 slots, 5% skip rate

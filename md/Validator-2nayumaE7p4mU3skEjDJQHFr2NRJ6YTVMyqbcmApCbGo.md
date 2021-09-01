@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.6.18
+* Staking activity: stake account busy due to transient stake deactivation: 9KWeZCaUmD4miL6GsSkYN9nhCtd9jzfcZw1yruTQF7gp
+* Vote account address: 8KokPGKTfneh2YZtd7iFMqnAsdoErKRmLTFrtHmTGUsB
+* Data Center: 16276-FR-Strasbourg
+* Insufficient self stake: ◎78.364036284
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 333288 credits earned in epoch 216
