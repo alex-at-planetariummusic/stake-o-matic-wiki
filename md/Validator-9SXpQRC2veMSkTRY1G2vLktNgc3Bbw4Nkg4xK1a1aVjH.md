@@ -1,3 +1,10 @@
+### [[Testnet Epoch 226|Testnet#Epoch-226]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 111112 credits earned in epoch 225
+* Staking activity: stake account busy due to transient stake deactivation: 3GV5qV2ME7W47Wict5PdVXMRxGmEoU552Wcs7MfPMKyD
+* Vote account address: FjCensownSJJNZd22aRD6HBdjwsuX6HYx7BptqQzAXz8
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 28)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 224: 424 blocks in 456 slots, 8% skip rate
