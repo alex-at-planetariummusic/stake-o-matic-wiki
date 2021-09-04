@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 218: 38 blocks in 40 slots, 5% skip rate
+* Staking activity: stake account busy due to transient stake activation: F466K5PbfaAwb1EeGEjjp3uKPh92Uiu9QMztJknBQvBq
+* Vote account address: 2WSAYcYURcV7SfHxThsoaRh7NpZnRQRDruy6a3vm6qQs
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 1)
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 347036 credits earned in epoch 217

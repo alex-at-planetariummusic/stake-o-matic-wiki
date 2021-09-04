@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 160028 credits earned in epoch 218
+* Staking activity: stake account busy due to transient stake deactivation: 8p8fgyi74GRm8A8resDmfsYVr2VNSTqE196wtZvXo5Te
+* Vote account address: 3isNAiakCHwSrZEWyBEccFtejydwAbsdbWzTp5FkXDAP
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 33)
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 217: 143 blocks in 168 slots, 15% skip rate

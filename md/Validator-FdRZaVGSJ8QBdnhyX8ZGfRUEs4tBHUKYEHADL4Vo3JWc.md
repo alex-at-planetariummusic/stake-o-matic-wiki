@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 362661 credits earned in epoch 218
+* Staking activity: stake account busy due to transient stake deactivation: 6SpB5FkCsqNd9bP89nRLvwXH3a4bVPFVJd4BdnQVvUpi
+* Vote account address: 4hoZBjJrFqJf9Bhop5sAwdidFM8qM88EQJQwbfgs1pkP
+* Data Center: 0-Unknown
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 331764 credits earned in epoch 217
