@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: No leader slots; 335091 credits earned in epoch 219
+* Staking activity: stake account busy due to transient stake deactivation: AP2R7pgS1NcpZRigEY1CHXHjRtxDUcqA2uH3tJRzX7MD
+* Vote account address: 5GJ8DWfzxXguFpFAaZsyDDVp3kp7ymHrBvMA5XRjpvbV
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 4)
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 335064 credits earned in epoch 218
