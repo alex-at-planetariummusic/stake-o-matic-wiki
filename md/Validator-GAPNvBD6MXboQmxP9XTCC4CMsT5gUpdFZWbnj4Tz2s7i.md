@@ -1,3 +1,9 @@
+### [[Testnet Epoch 228|Testnet#Epoch-228]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 227: 65 blocks in 320 slots, 80% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
+* Data Center: 174-DK-Klampenborg
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 225: 8 blocks in 32 slots, 75% skip rate
@@ -64,14 +70,14 @@
 * Staking activity: stake account busy due to transient stake activation: vKbhmGhuDP3jyEKsoHYZayMwaWCcD9LozSakuWkEE2K
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Klampenborg
-* Resident Data Center(s): 3257-NL-Hoofddorp (seniority: 3),174-DK-Klampenborg (seniority: 2)
+* Resident Data Center(s): 174-DK-Klampenborg (seniority: 2),3257-NL-Hoofddorp (seniority: 3)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 210: 13 blocks in 24 slots, 46% skip rate
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Klampenborg
-* Resident Data Center(s): 3257-NL-Hoofddorp (seniority: 4),174-DK-Klampenborg (seniority: 1)
+* Resident Data Center(s): 174-DK-Klampenborg (seniority: 1),3257-NL-Hoofddorp (seniority: 4)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Baseline** (for 7 epochs)
 * Stake reason: Poor block production during epoch 209: 7 blocks in 24 slots, 71% skip rate

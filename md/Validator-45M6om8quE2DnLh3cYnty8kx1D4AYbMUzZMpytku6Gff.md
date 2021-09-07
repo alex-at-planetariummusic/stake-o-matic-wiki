@@ -1,3 +1,9 @@
+### [[Testnet Epoch 228|Testnet#Epoch-228]]
+* Stake level: **None** (for 27 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 227
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account FoSt7s4tVww9cy5WgAQy3D5fTPMv2waUBvjdEWpxnv8w
+* Vote account address: 7rqpbtmg8m83qpcg7hd27yWR8MRzzpX8HZoC8PBaQgui
+* Data Center: 40021-US-St Louis
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **None** (for 26 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 225
