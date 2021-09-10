@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 202692 credits earned in epoch 221
+* Staking activity: stake account busy due to transient stake deactivation: AG8MPH2VZpLYMovvFBRenHUZxqsDx2fjP87wf6QmUPBV
+* Vote account address: 8ZvTbWfA7txjkNubA9jnv8CWQtwbaZSzpf7vaDDcxMr5
+* Data Center: 58061-GB-Europe/London
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 18)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 219: 164 blocks in 196 slots, 17% skip rate

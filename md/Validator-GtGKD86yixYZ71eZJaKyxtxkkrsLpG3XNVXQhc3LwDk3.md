@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 221: 138 blocks in 152 slots, 10% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 9rFMxLq9fKumAYgrSdRS4qGsLSN5gKnk24TV75K2oW1m
+* Vote account address: FruGfb9XUJMLWVJGDh5jXsy6tCvUNvuGu7WzvgBYUbkT
+* Data Center: 18450-US-America/Chicago
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 6)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 219: 168 blocks in 168 slots, 0% skip rate

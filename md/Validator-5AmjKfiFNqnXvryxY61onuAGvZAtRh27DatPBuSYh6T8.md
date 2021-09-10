@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 168780 credits earned in epoch 221
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000397135 - not removing ◎0.000397135 (amount too small)
+* Vote account address: HBoQV5KNk4upoeBzWi6c6mARwwHGn3mqKTLcKcBvbqJy
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 228656 credits earned in epoch 219

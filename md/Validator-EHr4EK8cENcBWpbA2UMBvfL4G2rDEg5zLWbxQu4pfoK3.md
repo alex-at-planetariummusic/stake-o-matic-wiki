@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 380413 credits earned in epoch 221
+* Staking activity: stake account busy due to transient stake deactivation: A4WhVjMpsgGb374pVLusUs48XN8u8oWFfuSsatMizqve
+* Vote account address: 36gsYRRqbxjNMawYaHYQkfyBARaY89FtS5C2ZK8m73JP
+* Data Center: 16276-FR-Gravelines
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 381344 credits earned in epoch 219

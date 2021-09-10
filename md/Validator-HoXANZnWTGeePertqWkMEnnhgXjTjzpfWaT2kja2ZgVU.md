@@ -1,3 +1,12 @@
+### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
+* Stake level: **Bonus** (for 13 epochs)
+* Stake reason: Good block production during epoch 221: 163 blocks in 176 slots, 8% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 8xC2QG8XgVF4MgYZy5rUAt97dWkpmzLtCx85n67wLTDv
+* Vote account address: 4dmBLJcchyfucSxkVmrymmsnVpZm3rBkp7kbF7qHTTYW
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35)
+* Insufficient self stake: ◎0.008076533
+* Insufficient testnet participation
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 219: 206 blocks in 216 slots, 5% skip rate
