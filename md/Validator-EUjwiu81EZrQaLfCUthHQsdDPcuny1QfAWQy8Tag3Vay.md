@@ -1,3 +1,10 @@
+### [[Testnet Epoch 229|Testnet#Epoch-229]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 234061 credits earned in epoch 228
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account B2EMicS6fxVYHA5U7R6Zd4b6Nr4zFBwbC4vwCXqbVB8H
+* Vote account address: 3LCnaAH7Cipt9jdcZ4kQPWDcahhPV8euh8wiBhTL375a
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 20)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 19 blocks in 36 slots, 48% skip rate

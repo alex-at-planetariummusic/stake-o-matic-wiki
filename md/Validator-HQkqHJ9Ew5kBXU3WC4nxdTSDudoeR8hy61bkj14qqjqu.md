@@ -1,3 +1,9 @@
+### [[Testnet Epoch 229|Testnet#Epoch-229]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 207509 credits earned in epoch 228
+* Staking activity: stake account busy due to stake activation of GbdCL3prYAk18QhgmnTDA6JCbfw9AVHjp9NceMu7sDn7
+* Vote account address: CnjiEVtvfGByT4rAPjU74o795BpTuEXwVFvgFCZn8YqJ
+* Data Center: 24961-DE-Europe/Berlin
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 223: 8 blocks in 8 slots, 0% skip rate

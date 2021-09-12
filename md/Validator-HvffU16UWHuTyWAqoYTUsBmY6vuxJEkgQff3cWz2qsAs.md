@@ -1,3 +1,10 @@
+### [[Testnet Epoch 229|Testnet#Epoch-229]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 72775 credits earned in epoch 228
+* Staking activity: stake account busy due to stake activation of HMw8nzcppZdunEbVnwwpNmR42qKpaSkcSxd55rmvfHte
+* Vote account address: H5cctJPwq1dv4rf8VgKS2x6jD3waxyjS6LE5uWPRgHML
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 227
