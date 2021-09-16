@@ -1,3 +1,10 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 229: 44 blocks in 196 slots, 78% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: DcgEHu6KktijvqWpnNBbXiNwhawNXX6RdDTPMuSoaUE8
+* Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 12)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 228: 195 blocks in 256 slots, 24% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: DcgEHu6KktijvqWpnNBbXiNwhawNXX6RdDTPMuSoaUE8
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),23470-US-Piscataway (seniority: 10)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 10),24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 223: 213 blocks in 244 slots, 13% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account DcgEHu6KktijvqWpnNBbXiNwhawNXX6RdDTPMuSoaUE8
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 2),23470-US-Piscataway (seniority: 9)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 9),24961-DE-Europe/Berlin (seniority: 2)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 222: 132 blocks in 224 slots, 42% skip rate
 * Staking activity: stake account busy due to transient stake activation: DcgEHu6KktijvqWpnNBbXiNwhawNXX6RdDTPMuSoaUE8
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 3),23470-US-Piscataway (seniority: 8)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 8),24961-DE-Europe/Berlin (seniority: 3)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 219: 149 blocks in 216 slots, 32% skip rate
@@ -53,14 +60,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: DcgEHu6KktijvqWpnNBbXiNwhawNXX6RdDTPMuSoaUE8
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 6),24961-DE-Europe/Berlin (seniority: 5)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 5),23470-US-Piscataway (seniority: 6)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 215: 207 blocks in 224 slots, 8% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account DcgEHu6KktijvqWpnNBbXiNwhawNXX6RdDTPMuSoaUE8
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 5),24961-DE-Europe/Berlin (seniority: 6)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 6),23470-US-Piscataway (seniority: 5)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 214: 139 blocks in 184 slots, 25% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: 5NquiBjDhqaS6BfqLyb2QgCUAheiKPd7cxMgzzb8Jb9y
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 3),24961-DE-Europe/Berlin (seniority: 8)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 8),23470-US-Piscataway (seniority: 3)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 212: 195 blocks in 232 slots, 16% skip rate

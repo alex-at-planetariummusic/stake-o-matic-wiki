@@ -1,3 +1,10 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **Bonus** (for 28 epochs)
+* Stake reason: Good block production during epoch 229: 194 blocks in 248 slots, 22% skip rate
+* Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
+* Vote account address: ArmcmhtXCiSV2A57udJjUqEocebCTVGfUMGH3T6am2T7
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 23)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 228: 262 blocks in 312 slots, 17% skip rate
@@ -130,14 +137,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account CT9YCBzeZfLFUMQJEA62dXA4MoBfYF5aiwxGNpayNHu3
 * Vote account address: ArmcmhtXCiSV2A57udJjUqEocebCTVGfUMGH3T6am2T7
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1),23470-US-Miami (seniority: 4)
+* Resident Data Center(s): 23470-US-Miami (seniority: 4),16276-DE-Frankfurt (seniority: 1)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 203: 151 blocks in 212 slots, 29% skip rate
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
 * Vote account address: ArmcmhtXCiSV2A57udJjUqEocebCTVGfUMGH3T6am2T7
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2),23470-US-Miami (seniority: 3)
+* Resident Data Center(s): 23470-US-Miami (seniority: 3),16276-DE-Frankfurt (seniority: 2)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 202: 184 blocks in 240 slots, 24% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎44670.972509869 - removing ◎544.476354054
 * Vote account address: ArmcmhtXCiSV2A57udJjUqEocebCTVGfUMGH3T6am2T7
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 1),16276-DE-Frankfurt (seniority: 4)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 4),23470-US-Miami (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 200: 186 blocks in 260 slots, 29% skip rate

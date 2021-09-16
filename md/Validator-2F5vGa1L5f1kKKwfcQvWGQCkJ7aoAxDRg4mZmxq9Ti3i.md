@@ -1,3 +1,10 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 229: 47 blocks in 216 slots, 79% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: DzTezV1iPhrtFjV8Qss9wKWx4LaXmcVnBue3KsKYBCDS
+* Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),23470-US-Las Vegas (seniority: 17)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 228: 142 blocks in 172 slots, 18% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),23470-US-Las Vegas (seniority: 19)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 19),24940-FI-Helsinki (seniority: 2)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 225: 258 blocks in 316 slots, 19% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: DzTezV1iPhrtFjV8Qss9wKWx4LaXmcVnBue3KsKYBCDS
 * Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),23470-US-Las Vegas (seniority: 20)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 20),24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 224: 204 blocks in 224 slots, 9% skip rate

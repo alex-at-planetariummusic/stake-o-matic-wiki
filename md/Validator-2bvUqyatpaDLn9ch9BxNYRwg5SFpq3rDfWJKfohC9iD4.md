@@ -1,3 +1,10 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 217716 credits earned in epoch 229
+* Staking activity: stake account busy due to transient stake deactivation: BrUdUaEraVaSYXtu5UnBY8Nm7uryLDN2ANaKVMJt5oug
+* Vote account address: EdGRtUNRKPE9zvP12bd2okjn9cSoHS8gaon113AsKfLt
+* Data Center: 56694-RU-Europe/Moscow
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 6)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 233022 credits earned in epoch 228

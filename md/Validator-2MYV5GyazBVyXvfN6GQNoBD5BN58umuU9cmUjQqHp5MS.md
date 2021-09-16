@@ -1,3 +1,10 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 229: 4 blocks in 16 slots, 75% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 9sCGZpHLd9dsFuTrrNAmHqsNzJPnABZfqJq5MAmCz9W7
+* Vote account address: DbH7yJDLwud3p3pDrrTT8JPkm2zu2VkABApKg4h9ESyj
+* Data Center: 58061-GB-Europe/London
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 1)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 228: 18 blocks in 28 slots, 36% skip rate

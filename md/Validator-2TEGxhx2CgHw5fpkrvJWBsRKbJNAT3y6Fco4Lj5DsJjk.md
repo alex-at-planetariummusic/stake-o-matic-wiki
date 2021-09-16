@@ -1,3 +1,10 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **None** (for 9 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 229
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 2KySAFBR9R8xTWrTaahzyCz1gjWQYxHprKYnDYNnKsa7
+* Vote account address: 6GSDmDvD7UNJvsHD9pqZPzywXdU6BKkBiJQbwgLsstwJ
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 5)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **None** (for 8 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 228

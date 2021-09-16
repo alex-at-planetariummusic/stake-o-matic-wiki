@@ -1,3 +1,10 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 229: 199 blocks in 252 slots, 22% skip rate
+* Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎5000.000000000 - reserve depleted
+* Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),201814-PL-Europe/Warsaw (seniority: 8)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 228: 91 blocks in 268 slots, 67% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),201814-PL-Europe/Warsaw (seniority: 7)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 7),24940-DE-Falkenstein (seniority: 4)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 217: 207 blocks in 280 slots, 27% skip rate
 * Staking activity: target stake amount: ◎46033.143606724, current stake amount: ◎46150.324925434 - removing ◎117.181318710
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),201814-PL-Europe/Warsaw (seniority: 6)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 6),24940-DE-Falkenstein (seniority: 5)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 215: 181 blocks in 252 slots, 29% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),201814-PL-Europe/Warsaw (seniority: 1)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),24940-DE-Falkenstein (seniority: 10)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 20435 credits earned in epoch 209

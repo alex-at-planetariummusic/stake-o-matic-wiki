@@ -1,3 +1,10 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **Bonus** (for 22 epochs)
+* Stake reason: Good block production during epoch 229: 224 blocks in 272 slots, 18% skip rate
+* Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
+* Vote account address: EydfUUyQ6xm2mJwQrvxWSV7YczYrF8yuvN2H2xqNycDc
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 22)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 228: 148 blocks in 180 slots, 18% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎17623.785239224 - adding ◎29020.240713839
 * Vote account address: EydfUUyQ6xm2mJwQrvxWSV7YczYrF8yuvN2H2xqNycDc
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24940-DE-Falkenstein (seniority: 2)
 * infrastructure concentration 26.3% is too high; consider finding a new data center
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 4 epochs)
@@ -139,7 +146,7 @@
 * Staking activity: target stake amount: ◎47037.197711117, current stake amount: ◎17623.785239224 - reserve depleted
 * Vote account address: EydfUUyQ6xm2mJwQrvxWSV7YczYrF8yuvN2H2xqNycDc
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),24940-FI-Helsinki (seniority: 3)
 * infrastructure concentration 25.8% is too high; consider finding a new data center
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -154,7 +161,7 @@
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎1.000000000 - adding ◎17622.785239224
 * Vote account address: EydfUUyQ6xm2mJwQrvxWSV7YczYrF8yuvN2H2xqNycDc
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: infrastructure concentration 27.3% is too high; find a new data center

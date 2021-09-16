@@ -1,17 +1,24 @@
+### [[Testnet Epoch 230|Testnet#Epoch-230]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 229: 222 blocks in 248 slots, 11% skip rate
+* Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
+* Vote account address: 2ttr3NuymiknoS5jBV3aZpLSrk28UdG9w5Ajm8iUVBns
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 17),16276-DE-Frankfurt (seniority: 6)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 228: 208 blocks in 244 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: AsYCswygHawhMLaBU69uZwrv5hhoZdSNJvXGcFMXBjk6
 * Vote account address: 2ttr3NuymiknoS5jBV3aZpLSrk28UdG9w5Ajm8iUVBns
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 18),16276-DE-Frankfurt (seniority: 5)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 5),23470-US-Las Vegas (seniority: 18)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 227: 27 blocks in 40 slots, 33% skip rate
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: 2ttr3NuymiknoS5jBV3aZpLSrk28UdG9w5Ajm8iUVBns
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 19),16276-DE-Frankfurt (seniority: 4)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 4),23470-US-Las Vegas (seniority: 19)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 225: 30 blocks in 36 slots, 17% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎46426.869643469, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 2ttr3NuymiknoS5jBV3aZpLSrk28UdG9w5Ajm8iUVBns
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2),23470-US-Las Vegas (seniority: 21)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 21),16276-DE-Frankfurt (seniority: 2)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 223: 236 blocks in 264 slots, 11% skip rate
