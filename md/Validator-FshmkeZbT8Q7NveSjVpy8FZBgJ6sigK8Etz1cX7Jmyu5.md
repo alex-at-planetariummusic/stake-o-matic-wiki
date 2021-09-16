@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 222: 69 blocks in 104 slots, 34% skip rate
+* Staking activity: target stake amount: ◎104609.901914827, current stake amount: ◎25012.450961662 - reserve depleted
+* Vote account address: 7xpGAKm2Afc94L8nQ2EJFDwF4xNuKjWaYiW5bkAmE9RG
+* Data Center: 12212-CA-Toronto
+* Resident Data Center(s): 12212-CA-Toronto (seniority: 4)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 221: 42 blocks in 88 slots, 53% skip rate

@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 222: 35 blocks in 68 slots, 49% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: L9oK1m23yA2bwamjDJfrYo6Bs8DgNoQThj3cYcDy67v
+* Vote account address: BGLiWCvSstg7chDyWSDe5JrSD694PKpz1jHmsk5XyVxn
+* Data Center: 58061-GB-Europe/London
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 221: 91 blocks in 156 slots, 42% skip rate

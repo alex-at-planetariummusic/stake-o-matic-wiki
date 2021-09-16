@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 222: 0 blocks in 36 slots, 100% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 7PvatvDT3gkG9CqwevFcWF6rvLDCfr1Yg5YCSFFycc8f
+* Vote account address: 82n1Pd5fSmmTBXuRfuaXbaKYkT6EnzA6PaZwFRGs83cB
+* Data Center: 16276-CA-Beauharnois
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 384098 credits earned in epoch 221

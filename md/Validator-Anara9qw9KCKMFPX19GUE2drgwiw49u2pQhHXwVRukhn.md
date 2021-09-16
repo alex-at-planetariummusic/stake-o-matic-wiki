@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
+* Stake level: **Bonus** (for 40 epochs)
+* Stake reason: Good block production during epoch 222: 297 blocks in 320 slots, 8% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: F5d8g4oqHGJkU68hgr975h4tgjQxZRswTPSHJbkvakdD
+* Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 28)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 221: 388 blocks in 404 slots, 4% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144902.860395164 - removing ◎1191.693388808
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 20278-US-Chicago (seniority: 1),24940-DE-Falkenstein (seniority: 12)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12),20278-US-Chicago (seniority: 1)
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 203: 192 blocks in 240 slots, 20% skip rate
@@ -130,14 +137,14 @@
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180287.598524373 - removing ◎27373.089417609
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),20278-US-Chicago (seniority: 4)
+* Resident Data Center(s): 20278-US-Chicago (seniority: 4),24940-DE-Falkenstein (seniority: 9)
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 200: 176 blocks in 220 slots, 20% skip rate
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186568.970761952 - removing ◎6380.666300775
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 20278-US-Chicago
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),20278-US-Chicago (seniority: 5)
+* Resident Data Center(s): 20278-US-Chicago (seniority: 5),24940-DE-Falkenstein (seniority: 8)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 19 epochs)
@@ -153,7 +160,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193101.308648292 - removing ◎843.561420758
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 20278-US-Chicago
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),20278-US-Chicago (seniority: 3)
+* Resident Data Center(s): 20278-US-Chicago (seniority: 3),24940-DE-Falkenstein (seniority: 10)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 17 epochs)
@@ -161,7 +168,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200089.221836649 - removing ◎7095.913547086
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 20278-US-Chicago
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),20278-US-Chicago (seniority: 2)
+* Resident Data Center(s): 20278-US-Chicago (seniority: 2),24940-DE-Falkenstein (seniority: 11)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 16 epochs)
@@ -169,7 +176,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎210768.662231614 - removing ◎10790.401487713
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 20278-US-Chicago
-* Resident Data Center(s): 20278-US-Chicago (seniority: 1),24940-DE-Falkenstein (seniority: 12)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12),20278-US-Chicago (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 15 epochs)

@@ -1,3 +1,12 @@
+### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 145445 credits earned in epoch 222
+* Staking activity: stake account busy due to transient stake deactivation: BCXD7MtQfc4yWMUmpuGn5nNoiGQBrmFMeyUvJUMVkCJn
+* Vote account address: 83b3MHxfxGLYkhfjT3nFtPRmYL3eKk5EMALsVAHAmgqK
+* Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 7)
+* Insufficient self stake: ◎10.299970091
+* Insufficient testnet participation
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 221: 141 blocks in 152 slots, 8% skip rate

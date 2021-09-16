@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
+* Stake level: **Baseline** (for 8 epochs)
+* Stake reason: Poor block production during epoch 222: 4 blocks in 56 slots, 93% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: B5EqorLVZvsUnbFdd5kRQk4rLh1TJAfKLZJ18vXGapGP
+* Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
+* Data Center: 4657-SG-Singapore
+* Resident Data Center(s): 4657-SG-Singapore (seniority: 12)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Baseline** (for 7 epochs)
 * Stake reason: Poor block production during epoch 221: 9 blocks in 40 slots, 78% skip rate

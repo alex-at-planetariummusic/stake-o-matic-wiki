@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
+* Stake level: **Bonus** (for 40 epochs)
+* Stake reason: Good block production during epoch 222: 2441 blocks in 2544 slots, 5% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: CfhG92TNKNc6S1ay7NWMGg1kBEVvAADgEG7zeSMoejg4
+* Vote account address: RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y
+* Data Center: 201730-CZ-Europe/Prague
+* Resident Data Center(s): 201730-CZ-Europe/Prague (seniority: 34)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 221: 2350 blocks in 2456 slots, 5% skip rate
@@ -240,14 +248,14 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎205593.066750007 - reserve depleted
 * Vote account address: RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y
 * Data Center: 201730-CZ-Europe/Prague
-* Resident Data Center(s): 5610-CZ-Zabreh (seniority: 1),201730-CZ-Europe/Prague (seniority: 3)
+* Resident Data Center(s): 201730-CZ-Europe/Prague (seniority: 3),5610-CZ-Zabreh (seniority: 1)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 1665 blocks in 3080 slots, 46% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: CfhG92TNKNc6S1ay7NWMGg1kBEVvAADgEG7zeSMoejg4
 * Vote account address: RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y
 * Data Center: 201730-CZ-Europe/Prague
-* Resident Data Center(s): 5610-CZ-Zabreh (seniority: 2),201730-CZ-Europe/Prague (seniority: 2)
+* Resident Data Center(s): 201730-CZ-Europe/Prague (seniority: 2),5610-CZ-Zabreh (seniority: 2)
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 186: 2353 blocks in 3012 slots, 22% skip rate
