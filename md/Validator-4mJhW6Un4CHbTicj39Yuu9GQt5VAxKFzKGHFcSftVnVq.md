@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 223: 89 blocks in 112 slots, 21% skip rate
+* Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104659.306044358 - reserve depleted
+* Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
+* Data Center: 45899-VN-Hanoi
+* Resident Data Center(s): 45899-VN-Hanoi (seniority: 6)
+* Insufficient self stake: ◎71.149517637
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 222: 117 blocks in 144 slots, 19% skip rate

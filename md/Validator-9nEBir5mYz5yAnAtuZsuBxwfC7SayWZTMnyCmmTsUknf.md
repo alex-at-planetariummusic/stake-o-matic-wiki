@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
+* Stake level: **Bonus** (for 28 epochs)
+* Stake reason: Good block production during epoch 223: 222 blocks in 228 slots, 3% skip rate
+* Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104660.931355992 - reserve depleted
+* Vote account address: 6HNqJpARCvuabtvJFWXbTedMrRpZHZYd7MgYmuFhcbXM
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 28)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 222: 161 blocks in 164 slots, 2% skip rate
@@ -148,7 +155,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186621.562297441 - removing ◎6433.257836264
 * Vote account address: 6HNqJpARCvuabtvJFWXbTedMrRpZHZYd7MgYmuFhcbXM
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),16276-FR-Gravelines (seniority: 7)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 7),24940-FI-Helsinki (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 6 epochs)
@@ -156,7 +163,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎192368.616522065 - removing ◎5853.040533975
 * Vote account address: 6HNqJpARCvuabtvJFWXbTedMrRpZHZYd7MgYmuFhcbXM
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Gravelines (seniority: 6)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 6),24940-FI-Helsinki (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 5 epochs)
@@ -172,7 +179,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200093.310811455 - removing ◎7100.002521892
 * Vote account address: 6HNqJpARCvuabtvJFWXbTedMrRpZHZYd7MgYmuFhcbXM
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-FR-Gravelines (seniority: 4)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),24940-FI-Helsinki (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -188,7 +195,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 756nK6ecqB5o9BB113i6voUj5LDVYT6TyKpx5fWihr5b
 * Vote account address: 6HNqJpARCvuabtvJFWXbTedMrRpZHZYd7MgYmuFhcbXM
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),16276-FR-Gravelines (seniority: 2)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24940-FI-Helsinki (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus**

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
+* Stake level: **Bonus** (for 41 epochs)
+* Stake reason: Good block production during epoch 223: 156 blocks in 180 slots, 14% skip rate
+* Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104655.602141884 - reserve depleted
+* Vote account address: Csp2hDVRX4cRitFEswJJcoH9ju4rcPUSsqU9pkh5JBQU
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 27)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 222: 153 blocks in 160 slots, 5% skip rate
@@ -122,7 +129,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144901.952351617 - removing ◎1190.785345261
 * Vote account address: Csp2hDVRX4cRitFEswJJcoH9ju4rcPUSsqU9pkh5JBQU
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 10),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),16276-EN-London (seniority: 10)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)
@@ -138,7 +145,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152993.412337102 - removing ◎1198.099985642
 * Vote account address: Csp2hDVRX4cRitFEswJJcoH9ju4rcPUSsqU9pkh5JBQU
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 8),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-EN-London (seniority: 8)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 21 epochs)
@@ -154,7 +161,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186620.402102684 - removing ◎6432.097641507
 * Vote account address: Csp2hDVRX4cRitFEswJJcoH9ju4rcPUSsqU9pkh5JBQU
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),16276-EN-London (seniority: 6)
+* Resident Data Center(s): 16276-EN-London (seniority: 6),24940-DE-Falkenstein (seniority: 6)
 * Insufficient self stake: ◎0.514081143
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 19 epochs)
@@ -162,7 +169,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎192367.186721985 - removing ◎5851.610733895
 * Vote account address: Csp2hDVRX4cRitFEswJJcoH9ju4rcPUSsqU9pkh5JBQU
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),16276-EN-London (seniority: 5)
+* Resident Data Center(s): 16276-EN-London (seniority: 5),24940-DE-Falkenstein (seniority: 7)
 * Insufficient self stake: ◎0.513792380
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
@@ -170,7 +177,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193102.980021850 - removing ◎845.232794316
 * Vote account address: Csp2hDVRX4cRitFEswJJcoH9ju4rcPUSsqU9pkh5JBQU
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 4),24940-DE-Falkenstein (seniority: 8)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),16276-EN-London (seniority: 4)
 * Insufficient self stake: ◎0.513500079
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 17 epochs)
@@ -186,7 +193,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎210761.742522191 - removing ◎10783.481778290
 * Vote account address: Csp2hDVRX4cRitFEswJJcoH9ju4rcPUSsqU9pkh5JBQU
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),16276-EN-London (seniority: 2)
+* Resident Data Center(s): 16276-EN-London (seniority: 2),24940-DE-Falkenstein (seniority: 10)
 * Insufficient self stake: ◎0.512917797
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 15 epochs)
@@ -194,7 +201,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 3n8EKjPrntqbz5T2JeayFvP8ecRNJkj2BsTuV56Z6GpV
 * Vote account address: Csp2hDVRX4cRitFEswJJcoH9ju4rcPUSsqU9pkh5JBQU
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 1),24940-DE-Falkenstein (seniority: 11)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-EN-London (seniority: 1)
 * Insufficient self stake: ◎0.512631671
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus** (for 14 epochs)

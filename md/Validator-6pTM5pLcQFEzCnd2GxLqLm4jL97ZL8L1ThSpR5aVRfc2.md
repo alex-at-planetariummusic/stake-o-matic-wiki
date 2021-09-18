@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
+* Stake level: **None** (for 12 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 223
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001205151 - not removing ◎0.001205151 (amount too small)
+* Vote account address: 7rhm6RffTmi6WLrMjviwEYebm3D9ugUNBvj9t4iUzZTW
+* Data Center: 16509-US-Boardman
+* Insufficient self stake: ◎1.028666618
+* Insufficient testnet participation
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **None** (for 11 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 222

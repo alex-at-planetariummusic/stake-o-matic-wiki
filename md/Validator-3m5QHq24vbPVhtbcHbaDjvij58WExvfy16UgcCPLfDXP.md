@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
+* Stake level: **Bonus** (for 40 epochs)
+* Stake reason: Good block production during epoch 223: 145 blocks in 180 slots, 20% skip rate
+* Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104658.100533788 - reserve depleted
+* Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
+* Data Center: 57043-NL-Europe/Amsterdam
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 28)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 222: 186 blocks in 204 slots, 9% skip rate
@@ -130,14 +137,14 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152995.546329302 - removing ◎1200.233977842
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 2),57043-NL-Europe/Amsterdam (seniority: 9)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 9),57043-NL-Amsterdam (seniority: 2)
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 201: 219 blocks in 252 slots, 14% skip rate
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180290.479568799 - removing ◎27375.970462035
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 3),57043-NL-Europe/Amsterdam (seniority: 8)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 8),57043-NL-Amsterdam (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 19 epochs)
@@ -145,7 +152,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186622.233638881 - removing ◎6433.929177704
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 4),57043-NL-Europe/Amsterdam (seniority: 7)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 7),57043-NL-Amsterdam (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 18 epochs)
@@ -161,7 +168,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193104.263854836 - removing ◎846.516627302
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 5),57043-NL-Amsterdam (seniority: 6)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 6),57043-NL-Europe/Amsterdam (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 16 epochs)
@@ -169,7 +176,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200093.655369846 - removing ◎7100.347080283
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 7),57043-NL-Europe/Amsterdam (seniority: 4)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 4),57043-NL-Amsterdam (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 15 epochs)
@@ -193,7 +200,7 @@
 * Staking activity: target stake amount: ◎210534.991475330, current stake amount: ◎207519.126839869 - adding ◎3015.864635461
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 1),57043-NL-Amsterdam (seniority: 10)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 10),57043-NL-Europe/Amsterdam (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 12 epochs)

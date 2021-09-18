@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
+* Stake level: **Bonus** (for 38 epochs)
+* Stake reason: Good block production during epoch 223: 183 blocks in 192 slots, 5% skip rate
+* Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104659.741019703 - reserve depleted
+* Vote account address: 4sFsBDei4m7UXwuMeAGVmnJxZe9peJ5tvq581HoT9aH9
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 28)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 222: 168 blocks in 168 slots, 0% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152993.859752383 - removing ◎1198.547400923
 * Vote account address: 4sFsBDei4m7UXwuMeAGVmnJxZe9peJ5tvq581HoT9aH9
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 9),23470-US-Miami (seniority: 1)
+* Resident Data Center(s): 23470-US-Miami (seniority: 1),16276-FR-Gravelines (seniority: 9)
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 201: 203 blocks in 232 slots, 13% skip rate
@@ -174,7 +181,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎206011.245276667 - removing ◎6032.984532766
 * Vote account address: 4sFsBDei4m7UXwuMeAGVmnJxZe9peJ5tvq581HoT9aH9
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 23470-US-Miami (seniority: 7),16276-FR-Gravelines (seniority: 3)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),23470-US-Miami (seniority: 7)
 * Insufficient self stake: ◎0.512900232
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 12 epochs)
@@ -182,7 +189,7 @@
 * Staking activity: target stake amount: ◎205895.552591837, current stake amount: ◎213696.921874864 - removing ◎7801.369283027
 * Vote account address: 4sFsBDei4m7UXwuMeAGVmnJxZe9peJ5tvq581HoT9aH9
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),23470-US-Miami (seniority: 8)
+* Resident Data Center(s): 23470-US-Miami (seniority: 8),16276-FR-Gravelines (seniority: 2)
 * Insufficient self stake: ◎0.512612196
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus** (for 11 epochs)
@@ -190,7 +197,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 4pXSPRcjYdJwm74FYY4pJ3P7jaZBKoja6WNvbq6bjkJb
 * Vote account address: 4sFsBDei4m7UXwuMeAGVmnJxZe9peJ5tvq581HoT9aH9
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),23470-US-Miami (seniority: 9)
+* Resident Data Center(s): 23470-US-Miami (seniority: 9),16276-FR-Gravelines (seniority: 1)
 * Insufficient self stake: ◎0.512320853
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 10 epochs)

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
+* Stake level: **Bonus** (for 27 epochs)
+* Stake reason: Good block production during epoch 223: 173 blocks in 188 slots, 8% skip rate
+* Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104661.931900645 - reserve depleted
+* Vote account address: BeNvYv2pd3MRJBBSGiMPSRVYcafKAXocNNp79GoaHfoP
+* Data Center: 16276-PL-Warsaw
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 26)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 222: 160 blocks in 172 slots, 7% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151875.289769631 - removing ◎7048.039800625
 * Vote account address: BeNvYv2pd3MRJBBSGiMPSRVYcafKAXocNNp79GoaHfoP
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 8),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-PL-Warsaw (seniority: 8)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 8 epochs)
@@ -155,7 +162,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎192367.862586821 - removing ◎5852.286598731
 * Vote account address: BeNvYv2pd3MRJBBSGiMPSRVYcafKAXocNNp79GoaHfoP
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 4),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-PL-Warsaw (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 4 epochs)
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎1.001595338 - adding ◎199977.259148563
 * Vote account address: BeNvYv2pd3MRJBBSGiMPSRVYcafKAXocNNp79GoaHfoP
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),16276-PL-Warsaw (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus**

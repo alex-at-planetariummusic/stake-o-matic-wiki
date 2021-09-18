@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
+* Stake level: **Bonus** (for 35 epochs)
+* Stake reason: Good block production during epoch 223: 178 blocks in 200 slots, 11% skip rate
+* Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104660.543938257 - reserve depleted
+* Vote account address: F7MeskoJC8pFwUsw3tNPA5ct8H1FRpuyi4JhFSLBsH4Y
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 23),24940-DE-Falkenstein (seniority: 6)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 222: 180 blocks in 192 slots, 7% skip rate
@@ -11,21 +18,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: Cs1Yhg9oYenj3hPkrpWjp2Jd5iMuFf2PM6PCJHTS8gHT
 * Vote account address: F7MeskoJC8pFwUsw3tNPA5ct8H1FRpuyi4JhFSLBsH4Y
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 25),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-FR-Roubaix (seniority: 25)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 219: 177 blocks in 184 slots, 4% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: Cs1Yhg9oYenj3hPkrpWjp2Jd5iMuFf2PM6PCJHTS8gHT
 * Vote account address: F7MeskoJC8pFwUsw3tNPA5ct8H1FRpuyi4JhFSLBsH4Y
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 26),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-FR-Roubaix (seniority: 26)
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 218: 199 blocks in 208 slots, 5% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: Cs1Yhg9oYenj3hPkrpWjp2Jd5iMuFf2PM6PCJHTS8gHT
 * Vote account address: F7MeskoJC8pFwUsw3tNPA5ct8H1FRpuyi4JhFSLBsH4Y
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 27),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),16276-FR-Roubaix (seniority: 27)
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 217: 157 blocks in 164 slots, 5% skip rate
