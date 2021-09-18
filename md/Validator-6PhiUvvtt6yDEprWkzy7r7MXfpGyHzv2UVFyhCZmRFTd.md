@@ -1,3 +1,9 @@
+### [[Testnet Epoch 231|Testnet#Epoch-231]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 222776 credits earned in epoch 230
+* Staking activity: stake account busy due to transient stake activation: 541iSg1k2erskF5BegkAtM6Z4e3GhFRnepvs2vrtdAow
+* Vote account address: 7qdyYSDGYY8ERD4QL55w9XKGr7Bj4nz4c18ZftackQiY
+* Data Center: 47433-RU-Kemerovo
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 218345 credits earned in epoch 229

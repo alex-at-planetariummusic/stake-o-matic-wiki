@@ -1,17 +1,24 @@
+### [[Testnet Epoch 231|Testnet#Epoch-231]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.6.25
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5046.090902791 - removing ◎5045.090902791
+* Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
+* Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 2),8560-DE-Bonn (seniority: 5)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 229: 31 blocks in 240 slots, 88% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: AoQe4BCCV1vggd3VKgiSme9ZvSLRYKoh7RoVYM6EBkrC
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-DE-Bonn
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 3),8560-DE-Bonn (seniority: 6)
+* Resident Data Center(s): 8560-DE-Bonn (seniority: 6),8560-US-America/Chicago (seniority: 3)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 228: 209 blocks in 284 slots, 27% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: AoQe4BCCV1vggd3VKgiSme9ZvSLRYKoh7RoVYM6EBkrC
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-DE-Bonn
-* Resident Data Center(s): 8560-DE-Bonn (seniority: 7),8560-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 4),8560-DE-Bonn (seniority: 7)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 227: 246 blocks in 276 slots, 11% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: AoQe4BCCV1vggd3VKgiSme9ZvSLRYKoh7RoVYM6EBkrC
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-DE-Bonn
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 9),8560-DE-Bonn (seniority: 2)
+* Resident Data Center(s): 8560-DE-Bonn (seniority: 2),8560-US-America/Chicago (seniority: 9)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 219: 185 blocks in 240 slots, 23% skip rate

@@ -1,24 +1,31 @@
+### [[Testnet Epoch 231|Testnet#Epoch-231]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: No leader slots; 223015 credits earned in epoch 230
+* Staking activity: stake account busy due to transient stake deactivation: BhiXnbe1SaaX5mwwqedwmtMcsowP9eNbRaLs7pwtGhT9
+* Vote account address: J8dVLHgjsGPtzi9zSKgoXhsWYF3r657dDagNSfxU9v3q
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 4),24940-DE-Falkenstein (seniority: 12)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 216290 credits earned in epoch 229
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BhiXnbe1SaaX5mwwqedwmtMcsowP9eNbRaLs7pwtGhT9
 * Vote account address: J8dVLHgjsGPtzi9zSKgoXhsWYF3r657dDagNSfxU9v3q
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 13),16276-EN-London (seniority: 3)
+* Resident Data Center(s): 16276-EN-London (seniority: 3),24940-DE-Falkenstein (seniority: 13)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 233066 credits earned in epoch 228
 * Staking activity: stake account busy due to transient stake activation: BhiXnbe1SaaX5mwwqedwmtMcsowP9eNbRaLs7pwtGhT9
 * Vote account address: J8dVLHgjsGPtzi9zSKgoXhsWYF3r657dDagNSfxU9v3q
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 2),24940-DE-Falkenstein (seniority: 14)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 14),16276-EN-London (seniority: 2)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 204 blocks in 256 slots, 21% skip rate
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: J8dVLHgjsGPtzi9zSKgoXhsWYF3r657dDagNSfxU9v3q
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 1),24940-DE-Falkenstein (seniority: 15)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 15),16276-EN-London (seniority: 1)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 122161 credits earned in epoch 225
@@ -32,14 +39,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BhiXnbe1SaaX5mwwqedwmtMcsowP9eNbRaLs7pwtGhT9
 * Vote account address: J8dVLHgjsGPtzi9zSKgoXhsWYF3r657dDagNSfxU9v3q
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 17),16276-EN-London (seniority: 1)
+* Resident Data Center(s): 16276-EN-London (seniority: 1),24940-DE-Falkenstein (seniority: 17)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 223: 21 blocks in 28 slots, 25% skip rate
 * Staking activity: stake account busy due to transient stake activation: BhiXnbe1SaaX5mwwqedwmtMcsowP9eNbRaLs7pwtGhT9
 * Vote account address: J8dVLHgjsGPtzi9zSKgoXhsWYF3r657dDagNSfxU9v3q
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 2),24940-DE-Falkenstein (seniority: 18)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 18),16276-EN-London (seniority: 2)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 222: 27 blocks in 32 slots, 16% skip rate

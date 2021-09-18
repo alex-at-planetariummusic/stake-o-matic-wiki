@@ -1,17 +1,24 @@
+### [[Testnet Epoch 231|Testnet#Epoch-231]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 230: 12 blocks in 20 slots, 40% skip rate
+* Staking activity: stake account busy due to transient stake activation: fQjdVYUju7gEYJbgdZa9PMC2UQAwDKrVfQLpDfdwFh2
+* Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
+* Data Center: 41661-RU-Chelyabinsk
+* Resident Data Center(s): 28832-RU-Chelyabinsk (seniority: 10),41661-RU-Chelyabinsk (seniority: 2)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 229: 166 blocks in 236 slots, 30% skip rate
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎5121.190397226 - reserve depleted
 * Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
 * Data Center: 41661-RU-Chelyabinsk
-* Resident Data Center(s): 28832-RU-Chelyabinsk (seniority: 11),41661-RU-Chelyabinsk (seniority: 1)
+* Resident Data Center(s): 41661-RU-Chelyabinsk (seniority: 1),28832-RU-Chelyabinsk (seniority: 11)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 228: 104 blocks in 224 slots, 54% skip rate
 * Staking activity: target stake amount: ◎42859.842037136, current stake amount: ◎5060.283361845 - reserve depleted
 * Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 28832-RU-Chelyabinsk (seniority: 12),15440-RU-Europe/Moscow (seniority: 1)
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 1),28832-RU-Chelyabinsk (seniority: 12)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 227: 39 blocks in 240 slots, 84% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: fQjdVYUju7gEYJbgdZa9PMC2UQAwDKrVfQLpDfdwFh2
 * Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
 * Data Center: 28832-RU-Chelyabinsk
-* Resident Data Center(s): 41661-RU-Chelyabinsk (seniority: 1),28832-RU-Chelyabinsk (seniority: 11)
+* Resident Data Center(s): 28832-RU-Chelyabinsk (seniority: 11),41661-RU-Chelyabinsk (seniority: 1)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 219: 204 blocks in 264 slots, 23% skip rate
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎47215.029844531 - removing ◎712.132128012
 * Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
 * Data Center: 28832-RU-Chelyabinsk
-* Resident Data Center(s): 41661-RU-Chelyabinsk (seniority: 2),28832-RU-Chelyabinsk (seniority: 10)
+* Resident Data Center(s): 28832-RU-Chelyabinsk (seniority: 10),41661-RU-Chelyabinsk (seniority: 2)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 217: 233 blocks in 272 slots, 15% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: stake account busy due to transient stake activation: fQjdVYUju7gEYJbgdZa9PMC2UQAwDKrVfQLpDfdwFh2
 * Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
 * Data Center: 28832-RU-Chelyabinsk
-* Resident Data Center(s): 28832-RU-Chelyabinsk (seniority: 7),41661-RU-Chelyabinsk (seniority: 5)
+* Resident Data Center(s): 41661-RU-Chelyabinsk (seniority: 5),28832-RU-Chelyabinsk (seniority: 7)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 213: 148 blocks in 196 slots, 25% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎5183.230916077 - adding ◎39111.815082146
 * Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
 * Data Center: 28832-RU-Chelyabinsk
-* Resident Data Center(s): 41661-RU-Chelyabinsk (seniority: 9),28832-RU-Chelyabinsk (seniority: 3)
+* Resident Data Center(s): 28832-RU-Chelyabinsk (seniority: 3),41661-RU-Chelyabinsk (seniority: 9)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 208: 177 blocks in 260 slots, 32% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎5061.324893476 - reserve depleted
 * Vote account address: 4nqeeyqsYhbVZJcByLAKvahFndRw59sX93XjitKjysmb
 * Data Center: 28832-RU-Chelyabinsk
-* Resident Data Center(s): 41661-RU-Chelyabinsk (seniority: 11),28832-RU-Chelyabinsk (seniority: 1)
+* Resident Data Center(s): 28832-RU-Chelyabinsk (seniority: 1),41661-RU-Chelyabinsk (seniority: 11)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 206: 4 blocks in 276 slots, 99% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 231|Testnet#Epoch-231]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 230: 134 blocks in 176 slots, 24% skip rate
+* Staking activity: stake account busy due to transient stake activation: 27ZoK8meZquA5rcSSMbQP2swbo111nHGa16KQY81bd2o
+* Vote account address: GEC2DBw1rarfGJg7zLrLgayzcCifAzQ5BgeeNCU7WhD9
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 8),23470-US-Miami (seniority: 10)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 217225 credits earned in epoch 229
@@ -11,7 +18,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 27ZoK8meZquA5rcSSMbQP2swbo111nHGa16KQY81bd2o
 * Vote account address: GEC2DBw1rarfGJg7zLrLgayzcCifAzQ5BgeeNCU7WhD9
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 8),21409-FR-Boulogne-Billancourt (seniority: 10)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 10),23470-US-Miami (seniority: 8)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 163 blocks in 196 slots, 17% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 27ZoK8meZquA5rcSSMbQP2swbo111nHGa16KQY81bd2o
 * Vote account address: GEC2DBw1rarfGJg7zLrLgayzcCifAzQ5BgeeNCU7WhD9
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 6),21409-FR-Boulogne-Billancourt (seniority: 14)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 14),23470-US-Miami (seniority: 6)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 222: 176 blocks in 220 slots, 20% skip rate
 * Staking activity: stake account busy due to transient stake activation: 27ZoK8meZquA5rcSSMbQP2swbo111nHGa16KQY81bd2o
 * Vote account address: GEC2DBw1rarfGJg7zLrLgayzcCifAzQ5BgeeNCU7WhD9
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 15),23470-US-Miami (seniority: 5)
+* Resident Data Center(s): 23470-US-Miami (seniority: 5),21409-FR-Boulogne-Billancourt (seniority: 15)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 219: 207 blocks in 272 slots, 24% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 27ZoK8meZquA5rcSSMbQP2swbo111nHGa16KQY81bd2o
 * Vote account address: GEC2DBw1rarfGJg7zLrLgayzcCifAzQ5BgeeNCU7WhD9
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 17),23470-US-Miami (seniority: 3)
+* Resident Data Center(s): 23470-US-Miami (seniority: 3),21409-FR-Boulogne-Billancourt (seniority: 17)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 215: 220 blocks in 248 slots, 12% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 27ZoK8meZquA5rcSSMbQP2swbo111nHGa16KQY81bd2o
 * Vote account address: GEC2DBw1rarfGJg7zLrLgayzcCifAzQ5BgeeNCU7WhD9
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 2),21409-FR-Boulogne-Billancourt (seniority: 18)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 18),23470-US-Miami (seniority: 2)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 214: 83 blocks in 200 slots, 59% skip rate
