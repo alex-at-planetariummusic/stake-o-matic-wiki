@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 238699 credits earned in epoch 224
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎104692.064141303 - removing ◎104691.064141303
+* Vote account address: A2GkHf71SqegGcLmhgs6XzR5YfLh5ZJ2Ci2vKM5SY5WR
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 18)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 223: 156 blocks in 156 slots, 0% skip rate
