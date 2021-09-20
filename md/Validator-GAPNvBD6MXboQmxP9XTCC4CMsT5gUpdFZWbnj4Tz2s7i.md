@@ -1,3 +1,9 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Baseline** (for 7 epochs)
+* Stake reason: Poor block production during epoch 231: 52 blocks in 240 slots, 79% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
+* Data Center: 174-DK-Klampenborg
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Baseline** (for 6 epochs)
 * Stake reason: Poor block production during epoch 230: 93 blocks in 256 slots, 64% skip rate
@@ -74,7 +80,7 @@
 * Staking activity: target stake amount: ◎48627.221310778, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Klampenborg
-* Resident Data Center(s): 3257-NL-Hoofddorp (seniority: 1),174-DK-Klampenborg (seniority: 2)
+* Resident Data Center(s): 174-DK-Klampenborg (seniority: 2),3257-NL-Hoofddorp (seniority: 1)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 213: 6 blocks in 28 slots, 79% skip rate

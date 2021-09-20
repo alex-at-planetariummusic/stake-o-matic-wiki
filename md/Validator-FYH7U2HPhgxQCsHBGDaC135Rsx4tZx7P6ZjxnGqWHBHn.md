@@ -1,3 +1,10 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: Good block production during epoch 231: 341 blocks in 412 slots, 18% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: 7JbVuoce3914XDqC7zcWUMnAkD8nSq8r9eprJGeonC9d
+* Data Center: 21409-FR-Boulogne-Billancourt
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 11),21409-FR-Boulogne-Billancourt (seniority: 9)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 230: 414 blocks in 504 slots, 18% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: 7JbVuoce3914XDqC7zcWUMnAkD8nSq8r9eprJGeonC9d
 * Data Center: 21409-FR-Boulogne-Billancourt
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 15),21409-FR-Boulogne-Billancourt (seniority: 5)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 5),21409-FR-Europe/Paris (seniority: 15)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 225: 206 blocks in 236 slots, 13% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Bhp8S2GBiQGLfKj65dAMLJBMVFNAK8DDqVd2SLcaakcp
 * Vote account address: 7JbVuoce3914XDqC7zcWUMnAkD8nSq8r9eprJGeonC9d
 * Data Center: 21409-FR-Boulogne-Billancourt
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 17),21409-FR-Boulogne-Billancourt (seniority: 3)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 3),21409-FR-Europe/Paris (seniority: 17)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 223: 154 blocks in 180 slots, 15% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎46804.225830743, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 7JbVuoce3914XDqC7zcWUMnAkD8nSq8r9eprJGeonC9d
 * Data Center: 21409-FR-Boulogne-Billancourt
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 19),21409-FR-Boulogne-Billancourt (seniority: 1)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 1),21409-FR-Europe/Paris (seniority: 19)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 219: 12 blocks in 52 slots, 77% skip rate

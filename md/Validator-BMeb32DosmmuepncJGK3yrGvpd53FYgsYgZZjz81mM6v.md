@@ -1,3 +1,10 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 33 epochs)
+* Stake reason: Good block production during epoch 231: 203 blocks in 228 slots, 11% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: Gf2uzNAU5KmfaCxUK8V2FxRu6jJGjNquZSFA6HDjwhQv
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 17),16276-FR-Gravelines (seniority: 5)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 230: 165 blocks in 196 slots, 16% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
 * Vote account address: Gf2uzNAU5KmfaCxUK8V2FxRu6jJGjNquZSFA6HDjwhQv
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),23470-US-America/Chicago (seniority: 19)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 19),16276-FR-Gravelines (seniority: 3)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 228: 239 blocks in 280 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: DAooM2cWeannDj9XSALGkwpFz6h4Hv4SUBCUDsb99LCg
 * Vote account address: Gf2uzNAU5KmfaCxUK8V2FxRu6jJGjNquZSFA6HDjwhQv
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),23470-US-America/Chicago (seniority: 20)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 20),16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 227: 177 blocks in 268 slots, 34% skip rate
@@ -172,7 +179,7 @@
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45239.342126859 - removing ◎568.369616990
 * Vote account address: Gf2uzNAU5KmfaCxUK8V2FxRu6jJGjNquZSFA6HDjwhQv
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 21409-FR-Paris (seniority: 4),23470-US-America/Chicago (seniority: 2)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),21409-FR-Paris (seniority: 4)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 199: 203 blocks in 320 slots, 37% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 231: 81 blocks in 276 slots, 71% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎41839.923678665 - removing ◎36839.923678665
+* Vote account address: GnjBYENKQshMZa25iqu7xF4vJrJFnxvVSaPY1rNJqBom
+* Data Center: 24961-DE-Neuss
+* Resident Data Center(s): 24961-DE-Neuss (seniority: 16)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 230: 189 blocks in 228 slots, 18% skip rate

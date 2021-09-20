@@ -1,3 +1,10 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 231: 184 blocks in 216 slots, 15% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: 5J77AZhgdpFsCxenAU4uV5mkRqxfEViDtGVeauyrxth2
+* Data Center: 50867-RU-Moscow
+* Resident Data Center(s): 50867-RU-Moscow (seniority: 20)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 230: 191 blocks in 224 slots, 15% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎44905.738139368 - removing ◎610.692141145
 * Vote account address: 5J77AZhgdpFsCxenAU4uV5mkRqxfEViDtGVeauyrxth2
 * Data Center: 50867-RU-Moscow
-* Resident Data Center(s): 50867-RU-Moscow (seniority: 4),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),50867-RU-Moscow (seniority: 4)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 150589 credits earned in epoch 208

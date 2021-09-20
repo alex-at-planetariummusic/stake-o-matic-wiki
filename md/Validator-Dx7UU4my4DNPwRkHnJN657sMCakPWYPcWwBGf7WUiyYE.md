@@ -1,3 +1,10 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 10 epochs)
+* Stake reason: Good block production during epoch 231: 225 blocks in 260 slots, 14% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: CJAPZwxvpmkbBRUiieRgQsAH8dBpvUDjcydCuaCdbWmb
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 230: 170 blocks in 216 slots, 22% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎1.000000000 - adding ◎46643.025953063
 * Vote account address: CJAPZwxvpmkbBRUiieRgQsAH8dBpvUDjcydCuaCdbWmb
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24961-DE-Europe/Berlin (seniority: 1)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.7.0

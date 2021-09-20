@@ -1,3 +1,10 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 37 epochs)
+* Stake reason: Good block production during epoch 231: 191 blocks in 208 slots, 9% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: FVnhvvqavfvcwpovawpSLLnQzkvzGPyupWPdEbCsXEtB
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 33)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 230: 239 blocks in 256 slots, 7% skip rate
@@ -211,7 +218,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: HZRjzBj7f6dRZmLKhwhQCvy3fUqXFrKu2LfSv3YgsG8L
 * Vote account address: FVnhvvqavfvcwpovawpSLLnQzkvzGPyupWPdEbCsXEtB
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 194: 323 blocks in 372 slots, 14% skip rate

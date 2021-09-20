@@ -1,10 +1,17 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 12 epochs)
+* Stake reason: Good block production during epoch 231: 216 blocks in 272 slots, 21% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
+* Data Center: 23470-US-Piscataway
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 12),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 230: 154 blocks in 216 slots, 29% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: G2jMkszWapF6jwRiQaHg7NoeEDrq46rF3FTLcKUxEAQg
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),23470-US-Piscataway (seniority: 11)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 11),21409-FR-Europe/Paris (seniority: 5)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 229: 214 blocks in 276 slots, 23% skip rate
@@ -18,28 +25,28 @@
 * Staking activity: stake account busy due to transient stake deactivation: G2jMkszWapF6jwRiQaHg7NoeEDrq46rF3FTLcKUxEAQg
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 9),21409-FR-Europe/Paris (seniority: 7)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),23470-US-Piscataway (seniority: 9)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 227: 158 blocks in 220 slots, 29% skip rate
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),23470-US-Piscataway (seniority: 8)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 8),21409-FR-Europe/Paris (seniority: 8)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 225: 215 blocks in 264 slots, 19% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: G2jMkszWapF6jwRiQaHg7NoeEDrq46rF3FTLcKUxEAQg
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),23470-US-Piscataway (seniority: 7)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 7),21409-FR-Europe/Paris (seniority: 9)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 224: 179 blocks in 200 slots, 11% skip rate
 * Staking activity: target stake amount: ◎46426.869643469, current stake amount: ◎44349.174139357 - reserve depleted
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 10),23470-US-Piscataway (seniority: 6)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 6),21409-FR-Europe/Paris (seniority: 10)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 223: 251 blocks in 288 slots, 13% skip rate
@@ -53,28 +60,28 @@
 * Staking activity: target stake amount: ◎46804.225830743, current stake amount: ◎46502.897716519 - reserve depleted
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 4),21409-FR-Europe/Paris (seniority: 12)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 12),23470-US-Piscataway (seniority: 4)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 219: 52 blocks in 68 slots, 24% skip rate
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎18758.405894534 - adding ◎27744.491821985
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 3),21409-FR-Europe/Paris (seniority: 13)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),23470-US-Piscataway (seniority: 3)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 217: 31 blocks in 32 slots, 4% skip rate
 * Staking activity: target stake amount: ◎46033.143606724, current stake amount: ◎18758.405894534 - reserve depleted
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 2),21409-FR-Europe/Paris (seniority: 14)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14),23470-US-Piscataway (seniority: 2)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 215: 199 blocks in 232 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake activation: G2jMkszWapF6jwRiQaHg7NoeEDrq46rF3FTLcKUxEAQg
 * Vote account address: 2QcBvifYaaPKTvv3oYJNiwWA9C2EFnKmGABwrDskPPM9
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 1),21409-FR-Europe/Paris (seniority: 15)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 15),23470-US-Piscataway (seniority: 1)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 214: 78 blocks in 280 slots, 73% skip rate

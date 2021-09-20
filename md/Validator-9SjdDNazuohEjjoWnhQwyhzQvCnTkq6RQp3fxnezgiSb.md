@@ -1,3 +1,9 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 25086 credits earned in epoch 231
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: Ewfm3tcnzWD6kADjqmBLM1L499rrzeTCG6wfUmn9c4SE
+* Data Center: 24961-DE-Schopfheim
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 230: 12 blocks in 20 slots, 40% skip rate

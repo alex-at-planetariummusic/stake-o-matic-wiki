@@ -1,3 +1,10 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 37 epochs)
+* Stake reason: Good block production during epoch 231: 169 blocks in 208 slots, 19% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: A7L39qXcdjKmQKwRhyN9rBYPhv9LBJPXGyLuaBfwhTK8
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),23470-US-Los Angeles (seniority: 16)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 230: 188 blocks in 212 slots, 12% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7tJSJ4yWBLr1CZGMeEUe73iuUS7vvMAnjuJYsYEKnt7n
 * Vote account address: A7L39qXcdjKmQKwRhyN9rBYPhv9LBJPXGyLuaBfwhTK8
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-Los Angeles (seniority: 8)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 8),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: good block production during epoch 206: 251 blocks in 300 slots, 17% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7tJSJ4yWBLr1CZGMeEUe73iuUS7vvMAnjuJYsYEKnt7n
 * Vote account address: A7L39qXcdjKmQKwRhyN9rBYPhv9LBJPXGyLuaBfwhTK8
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 5),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),23470-US-Los Angeles (seniority: 5)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 145 blocks in 212 slots, 32% skip rate
@@ -165,14 +172,14 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎44670.972509869 - removing ◎544.476354054
 * Vote account address: A7L39qXcdjKmQKwRhyN9rBYPhv9LBJPXGyLuaBfwhTK8
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),23470-US-Los Angeles (seniority: 2)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 2),24940-DE-Falkenstein (seniority: 7)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: good block production during epoch 200: 205 blocks in 272 slots, 25% skip rate
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45239.342126859 - removing ◎568.369616990
 * Vote account address: A7L39qXcdjKmQKwRhyN9rBYPhv9LBJPXGyLuaBfwhTK8
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),23470-US-Los Angeles (seniority: 1)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 1),24940-DE-Falkenstein (seniority: 8)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 199: 166 blocks in 252 slots, 35% skip rate

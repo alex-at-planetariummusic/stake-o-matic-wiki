@@ -1,3 +1,10 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 24 epochs)
+* Stake reason: Good block production during epoch 231: 215 blocks in 268 slots, 20% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: CEr4544WKSGS7uLoVWWgqbeo9ZrUoGi3Z1aH2znPuNgs
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 15)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 230: 143 blocks in 212 slots, 33% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: Ag6adMHttJ9ndWk5PWoyTRNxGbtaRwyMBDw3on6XEuke
 * Vote account address: CEr4544WKSGS7uLoVWWgqbeo9ZrUoGi3Z1aH2znPuNgs
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 2),201814-PL-Europe/Warsaw (seniority: 5)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 5),56694-RU-Europe/Moscow (seniority: 2)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 215: 186 blocks in 248 slots, 25% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: CEr4544WKSGS7uLoVWWgqbeo9ZrUoGi3Z1aH2znPuNgs
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 5),201814-PL-Europe/Warsaw (seniority: 2)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 2),56694-RU-Europe/Moscow (seniority: 5)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 212: 223 blocks in 260 slots, 15% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Ag6adMHttJ9ndWk5PWoyTRNxGbtaRwyMBDw3on6XEuke
 * Vote account address: CEr4544WKSGS7uLoVWWgqbeo9ZrUoGi3Z1aH2znPuNgs
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 1),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),56694-RU-Europe/Moscow (seniority: 1)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 203: 23 blocks in 36 slots, 37% skip rate

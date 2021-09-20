@@ -1,10 +1,17 @@
+### [[Testnet Epoch 232|Testnet#Epoch-232]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: Good block production during epoch 231: 424 blocks in 516 slots, 18% skip rate
+* Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
+* Vote account address: sohoFABjRFFAdoqDTqtwhsBzJeNUHtATho552aa5zCw
+* Data Center: 23470-US-Philadelphia
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),23470-US-Philadelphia (seniority: 10)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 230: 359 blocks in 456 slots, 22% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: JDWWm1mqmAR3fLWDgtFKwot1yjPKWYoaayW1e1RRwe7U
 * Vote account address: sohoFABjRFFAdoqDTqtwhsBzJeNUHtATho552aa5zCw
 * Data Center: 23470-US-Philadelphia
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),23470-US-Philadelphia (seniority: 9)
+* Resident Data Center(s): 23470-US-Philadelphia (seniority: 9),21409-FR-Europe/Paris (seniority: 8)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 229: 368 blocks in 472 slots, 23% skip rate
@@ -32,42 +39,42 @@
 * Staking activity: stake account busy due to transient stake deactivation: JDWWm1mqmAR3fLWDgtFKwot1yjPKWYoaayW1e1RRwe7U
 * Vote account address: sohoFABjRFFAdoqDTqtwhsBzJeNUHtATho552aa5zCw
 * Data Center: 23470-US-Philadelphia
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 12),23470-US-Philadelphia (seniority: 5)
+* Resident Data Center(s): 23470-US-Philadelphia (seniority: 5),21409-FR-Europe/Paris (seniority: 12)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 224: 367 blocks in 448 slots, 19% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account JDWWm1mqmAR3fLWDgtFKwot1yjPKWYoaayW1e1RRwe7U
 * Vote account address: sohoFABjRFFAdoqDTqtwhsBzJeNUHtATho552aa5zCw
 * Data Center: 23470-US-Philadelphia
-* Resident Data Center(s): 23470-US-Philadelphia (seniority: 4),21409-FR-Europe/Paris (seniority: 13)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),23470-US-Philadelphia (seniority: 4)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 223: 492 blocks in 560 slots, 13% skip rate
 * Staking activity: stake account busy due to transient stake activation: JDWWm1mqmAR3fLWDgtFKwot1yjPKWYoaayW1e1RRwe7U
 * Vote account address: sohoFABjRFFAdoqDTqtwhsBzJeNUHtATho552aa5zCw
 * Data Center: 23470-US-Philadelphia
-* Resident Data Center(s): 23470-US-Philadelphia (seniority: 3),21409-FR-Europe/Paris (seniority: 14)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14),23470-US-Philadelphia (seniority: 3)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 222: 525 blocks in 640 slots, 18% skip rate
 * Staking activity: target stake amount: ◎46804.225830743, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: sohoFABjRFFAdoqDTqtwhsBzJeNUHtATho552aa5zCw
 * Data Center: 23470-US-Philadelphia
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 15),23470-US-Philadelphia (seniority: 2)
+* Resident Data Center(s): 23470-US-Philadelphia (seniority: 2),21409-FR-Europe/Paris (seniority: 15)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 219: 4 blocks in 12 slots, 67% skip rate
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: sohoFABjRFFAdoqDTqtwhsBzJeNUHtATho552aa5zCw
 * Data Center: 23470-US-Philadelphia
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 16),23470-US-Philadelphia (seniority: 1)
+* Resident Data Center(s): 23470-US-Philadelphia (seniority: 1),21409-FR-Europe/Paris (seniority: 16)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 217: 10 blocks in 16 slots, 38% skip rate
 * Staking activity: target stake amount: ◎46033.143606724, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: sohoFABjRFFAdoqDTqtwhsBzJeNUHtATho552aa5zCw
 * Data Center: 23470-US-Philadelphia
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 17),23470-US-Philadelphia (seniority: 2)
+* Resident Data Center(s): 23470-US-Philadelphia (seniority: 2),21409-FR-Europe/Paris (seniority: 17)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 215: 206 blocks in 228 slots, 10% skip rate
