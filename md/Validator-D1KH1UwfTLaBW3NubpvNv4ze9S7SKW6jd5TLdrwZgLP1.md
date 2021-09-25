@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 222797 credits earned in epoch 226
+* Staking activity: stake account busy due to transient stake deactivation: G3X5N31bumrcmJG1MnhNnB2LRg5Gw3G82dAnGr54WVyz
+* Vote account address: 1gqv7KGm888nQXsJoNFwGaDkNERUBztuekjzK3J3T7a
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 36)
+* Insufficient self stake: ◎1.044857606
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 224: 188 blocks in 188 slots, 0% skip rate

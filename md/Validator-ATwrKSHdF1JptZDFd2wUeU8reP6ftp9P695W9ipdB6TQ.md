@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
+* Stake level: **Bonus** (for 43 epochs)
+* Stake reason: Good block production during epoch 226: 200 blocks in 208 slots, 4% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: BMhFiFnaroh6Sf5zrXNf1SD9QG7ioJk2WVr552kn5hpM
+* Vote account address: CnYYmAhuFcyocBbXxoVzPnu37a5ctpLaSr8ja1NGKNZ7
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 33)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 224: 194 blocks in 196 slots, 2% skip rate
@@ -263,7 +270,7 @@
 * Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎205247.159441161 - reserve depleted
 * Vote account address: CnYYmAhuFcyocBbXxoVzPnu37a5ctpLaSr8ja1NGKNZ7
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 1),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),24940-DE-Europe/Berlin (seniority: 1)
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 184: 178 blocks in 288 slots, 39% skip rate
