@@ -1,3 +1,9 @@
+### [[Testnet Epoch 233|Testnet#Epoch-233]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: No leader slots; 149401 credits earned in epoch 232
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5043.767959282 - removing ◎43.767959282
+* Vote account address: 6mhbxWaMx2NTp2rrZatxskaTX3U2ohxXWHWAsYUZJEK5
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 218409 credits earned in epoch 231

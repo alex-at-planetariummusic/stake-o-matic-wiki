@@ -1,3 +1,10 @@
+### [[Testnet Epoch 233|Testnet#Epoch-233]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 4 credits earned in epoch 232
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎42330.327279920 - removing ◎42329.327279920
+* Vote account address: HLRpVt38d9E9v29SDSmjUHzN8tRFx2AyTX99mzgWrfy1
+* Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 15)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 231: 219 blocks in 248 slots, 12% skip rate
