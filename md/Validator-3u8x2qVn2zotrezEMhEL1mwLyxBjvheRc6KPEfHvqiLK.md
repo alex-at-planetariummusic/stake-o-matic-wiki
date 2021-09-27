@@ -1,0 +1,6 @@
+### [[Testnet Epoch 234|Testnet#Epoch-234]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 233
+* Staking activity: creating new stake account Get2E7aAxuE5PZB9C1AUXo5Sz1RrBe48htopZewDRxV1
+* Vote account address: 3fvN7oTSNJUua5vNHMPKDJxcCqLiLuFqcpmJ8ckJotpQ
+* Data Center: 18450-US-Ogden
