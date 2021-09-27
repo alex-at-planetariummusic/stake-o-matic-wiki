@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 227: 133 blocks in 148 slots, 11% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101931.152283881 - removing ◎1060.047724337
+* Vote account address: DuGCGy6inpKrECrBMWissxMQtqgAy8EYjY6CgjVk8g1b
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 6),23470-US-Philadelphia (seniority: 26)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 226: 159 blocks in 184 slots, 14% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: FZYBVLJEv1RbTECUiMpvpCSpfR25RspPw3gMmRrjZksX
 * Vote account address: DuGCGy6inpKrECrBMWissxMQtqgAy8EYjY6CgjVk8g1b
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 23470-US-Philadelphia (seniority: 27),16276-EN-London (seniority: 5)
+* Resident Data Center(s): 16276-EN-London (seniority: 5),23470-US-Philadelphia (seniority: 27)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 224: 204 blocks in 208 slots, 2% skip rate
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104711.235211926 - removing ◎1073.267429403
 * Vote account address: DuGCGy6inpKrECrBMWissxMQtqgAy8EYjY6CgjVk8g1b
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 23470-US-Philadelphia (seniority: 28),16276-EN-London (seniority: 4)
+* Resident Data Center(s): 16276-EN-London (seniority: 4),23470-US-Philadelphia (seniority: 28)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 223: 239 blocks in 256 slots, 7% skip rate
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104660.027664659 - reserve depleted
 * Vote account address: DuGCGy6inpKrECrBMWissxMQtqgAy8EYjY6CgjVk8g1b
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 3),23470-US-Philadelphia (seniority: 29)
+* Resident Data Center(s): 23470-US-Philadelphia (seniority: 29),16276-EN-London (seniority: 3)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 222: 175 blocks in 184 slots, 5% skip rate
@@ -252,7 +259,7 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎205572.248065440 - reserve depleted
 * Vote account address: DuGCGy6inpKrECrBMWissxMQtqgAy8EYjY6CgjVk8g1b
 * Data Center: 23470-US-Philadelphia
-* Resident Data Center(s): 23470-US-Philadelphia (seniority: 3),16276-FR-Strasbourg (seniority: 1)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),23470-US-Philadelphia (seniority: 3)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 263 blocks in 312 slots, 16% skip rate

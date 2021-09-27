@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 227: 0 blocks in 4 slots, 100% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.000497567 - reserve depleted
+* Vote account address: 7xpGAKm2Afc94L8nQ2EJFDwF4xNuKjWaYiW5bkAmE9RG
+* Data Center: 12212-CA-Toronto
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Insufficient vote credits: 72658 credits earned in epoch 226

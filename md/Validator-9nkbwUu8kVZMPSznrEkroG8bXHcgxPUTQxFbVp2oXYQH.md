@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus** (for 13 epochs)
+* Stake reason: Good block production during epoch 227: 166 blocks in 168 slots, 2% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101926.907496617 - removing ◎1055.802937073
+* Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
+* Data Center: 9050-RO-Rodna
+* Resident Data Center(s): 8708-RO-Bucharest (seniority: 2),9050-RO-Rodna (seniority: 13)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 226: 193 blocks in 212 slots, 9% skip rate
@@ -11,42 +18,42 @@
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104712.102003764 - removing ◎1074.134221241
 * Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
 * Data Center: 9050-RO-Rodna
-* Resident Data Center(s): 8708-RO-Bucharest (seniority: 4),9050-RO-Rodna (seniority: 11)
+* Resident Data Center(s): 9050-RO-Rodna (seniority: 11),8708-RO-Bucharest (seniority: 4)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 223: 190 blocks in 196 slots, 4% skip rate
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104660.874725858 - reserve depleted
 * Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
 * Data Center: 9050-RO-Rodna
-* Resident Data Center(s): 9050-RO-Rodna (seniority: 10),8708-RO-Bucharest (seniority: 5)
+* Resident Data Center(s): 8708-RO-Bucharest (seniority: 5),9050-RO-Rodna (seniority: 10)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 222: 199 blocks in 220 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: HG9MG2wWFjko3hs56KLUCSZDcHb39pTZELvnHyDcHTKt
 * Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
 * Data Center: 9050-RO-Rodna
-* Resident Data Center(s): 9050-RO-Rodna (seniority: 9),8708-RO-Bucharest (seniority: 6)
+* Resident Data Center(s): 8708-RO-Bucharest (seniority: 6),9050-RO-Rodna (seniority: 9)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 221: 183 blocks in 196 slots, 7% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: HG9MG2wWFjko3hs56KLUCSZDcHb39pTZELvnHyDcHTKt
 * Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
 * Data Center: 9050-RO-Rodna
-* Resident Data Center(s): 9050-RO-Rodna (seniority: 8),8708-RO-Bucharest (seniority: 7)
+* Resident Data Center(s): 8708-RO-Bucharest (seniority: 7),9050-RO-Rodna (seniority: 8)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 219: 118 blocks in 140 slots, 16% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: HG9MG2wWFjko3hs56KLUCSZDcHb39pTZELvnHyDcHTKt
 * Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
 * Data Center: 9050-RO-Rodna
-* Resident Data Center(s): 9050-RO-Rodna (seniority: 7),8708-RO-Bucharest (seniority: 8)
+* Resident Data Center(s): 8708-RO-Bucharest (seniority: 8),9050-RO-Rodna (seniority: 7)
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 218: 150 blocks in 172 slots, 13% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: HG9MG2wWFjko3hs56KLUCSZDcHb39pTZELvnHyDcHTKt
 * Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
 * Data Center: 9050-RO-Rodna
-* Resident Data Center(s): 9050-RO-Rodna (seniority: 6),8708-RO-Bucharest (seniority: 9)
+* Resident Data Center(s): 8708-RO-Bucharest (seniority: 9),9050-RO-Rodna (seniority: 6)
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 217: 166 blocks in 196 slots, 16% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account HG9MG2wWFjko3hs56KLUCSZDcHb39pTZELvnHyDcHTKt
 * Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
 * Data Center: 9050-RO-Rodna
-* Resident Data Center(s): 8708-RO-Bucharest (seniority: 13),9050-RO-Rodna (seniority: 2)
+* Resident Data Center(s): 9050-RO-Rodna (seniority: 2),8708-RO-Bucharest (seniority: 13)
 ### [[Mainnet Epoch 214|Mainnet#Epoch-214]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 213: 27 blocks in 32 slots, 16% skip rate
 * Staking activity: target stake amount: ◎122054.971079467, current stake amount: ◎1.000379346 - adding ◎122053.970700121
 * Vote account address: HVbuTNgNQKimdywxkyP8kprJC421RrXv6wyRS566P75M
 * Data Center: 9050-RO-Rodna
-* Resident Data Center(s): 9050-RO-Rodna (seniority: 1),8708-RO-Bucharest (seniority: 14)
+* Resident Data Center(s): 8708-RO-Bucharest (seniority: 14),9050-RO-Rodna (seniority: 1)
 ### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 13025 credits earned in epoch 212

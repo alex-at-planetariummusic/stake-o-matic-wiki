@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 227: 399 blocks in 588 slots, 33% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account EDR5XSHf3r8wUsRqJaLFxqmLkeMwqVhEP4LrDshU4q5L
+* Vote account address: 8HR5rCobbFMDe5EbgKdJLNDWVCeGG79w837BUxtsCngs
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 24)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 226: 349 blocks in 660 slots, 48% skip rate
@@ -164,7 +172,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151869.817783066 - removing ◎7042.567814060
 * Vote account address: 8HR5rCobbFMDe5EbgKdJLNDWVCeGG79w837BUxtsCngs
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 9),50867-RU-Europe/Moscow (seniority: 1)
+* Resident Data Center(s): 50867-RU-Europe/Moscow (seniority: 1),23470-US-America/Chicago (seniority: 9)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 8 epochs)
@@ -180,7 +188,7 @@
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180285.200730812 - removing ◎27370.691624048
 * Vote account address: 8HR5rCobbFMDe5EbgKdJLNDWVCeGG79w837BUxtsCngs
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 7),50867-RU-Europe/Moscow (seniority: 3)
+* Resident Data Center(s): 50867-RU-Europe/Moscow (seniority: 3),23470-US-America/Chicago (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 6 epochs)
@@ -188,7 +196,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186567.164171884 - removing ◎6378.859710707
 * Vote account address: 8HR5rCobbFMDe5EbgKdJLNDWVCeGG79w837BUxtsCngs
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 50867-RU-Europe/Moscow (seniority: 4),23470-US-America/Chicago (seniority: 6)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 6),50867-RU-Europe/Moscow (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 5 epochs)
@@ -196,7 +204,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: EDR5XSHf3r8wUsRqJaLFxqmLkeMwqVhEP4LrDshU4q5L
 * Vote account address: 8HR5rCobbFMDe5EbgKdJLNDWVCeGG79w837BUxtsCngs
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 50867-RU-Europe/Moscow (seniority: 5),23470-US-America/Chicago (seniority: 5)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 5),50867-RU-Europe/Moscow (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 4 epochs)

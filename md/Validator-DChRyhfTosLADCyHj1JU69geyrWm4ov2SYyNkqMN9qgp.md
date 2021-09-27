@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 227: 24 blocks in 24 slots, 0% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎25012.030610738 - reserve depleted
+* Vote account address: 5ysJtUNfmASWjzdQy1vyvrVp9jAg5Vq791HABeobrCX5
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1)
+* Insufficient self stake: ◎79.007026710
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 389904 credits earned in epoch 226

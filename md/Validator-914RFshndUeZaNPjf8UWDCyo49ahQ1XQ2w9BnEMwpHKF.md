@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus** (for 34 epochs)
+* Stake reason: Good block production during epoch 227: 168 blocks in 200 slots, 16% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101930.242246586 - removing ◎1059.137687042
+* Vote account address: 4cCd4SGrMswhqboYBJ5AcCVvCjh5NtaeZNwWFJzsnUWY
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 22)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 226: 122 blocks in 132 slots, 8% skip rate
@@ -95,14 +102,14 @@
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎127583.093480178 - removing ◎858.933053831
 * Vote account address: 4cCd4SGrMswhqboYBJ5AcCVvCjh5NtaeZNwWFJzsnUWY
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),16276-FR-Roubaix (seniority: 8)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 209: 220 blocks in 224 slots, 2% skip rate
 * Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎133362.531851800 - removing ◎5904.019586891
 * Vote account address: 4cCd4SGrMswhqboYBJ5AcCVvCjh5NtaeZNwWFJzsnUWY
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 7),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Roubaix (seniority: 7)
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 208: 238 blocks in 244 slots, 3% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎134361.831949474, current stake amount: ◎139735.156038314 - removing ◎5373.324088840
 * Vote account address: 4cCd4SGrMswhqboYBJ5AcCVvCjh5NtaeZNwWFJzsnUWY
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-FR-Roubaix (seniority: 5)
 ### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 206: 210 blocks in 240 slots, 13% skip rate
@@ -137,7 +144,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144900.663267420 - removing ◎1189.496261064
 * Vote account address: 4cCd4SGrMswhqboYBJ5AcCVvCjh5NtaeZNwWFJzsnUWY
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),16276-FR-Roubaix (seniority: 2)
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 203: 182 blocks in 212 slots, 15% skip rate
@@ -184,7 +191,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193102.866303907 - removing ◎845.119076373
 * Vote account address: 4cCd4SGrMswhqboYBJ5AcCVvCjh5NtaeZNwWFJzsnUWY
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24940-DE-Falkenstein (seniority: 2)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 7 epochs)
@@ -192,7 +199,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200091.370010581 - removing ◎7098.061721018
 * Vote account address: 4cCd4SGrMswhqboYBJ5AcCVvCjh5NtaeZNwWFJzsnUWY
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),24940-FI-Helsinki (seniority: 5)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 6 epochs)

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus** (for 30 epochs)
+* Stake reason: Good block production during epoch 227: 132 blocks in 152 slots, 14% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101930.634576119 - removing ◎1059.530016575
+* Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
+* Data Center: 56694-RU-Europe/Moscow
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 29)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 226: 175 blocks in 208 slots, 16% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151875.882371442 - removing ◎7048.632402436
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 8),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),56694-RU-Europe/Moscow (seniority: 8)
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 202: 180 blocks in 220 slots, 19% skip rate
@@ -159,7 +166,7 @@
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180289.709362046 - removing ◎27375.200255282
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),56694-RU-Europe/Moscow (seniority: 6)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 6),24940-FI-Helsinki (seniority: 3)
 * Insufficient self stake: ◎0.515439482
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 6 epochs)
@@ -167,7 +174,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186621.261542045 - removing ◎6432.957080868
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),56694-RU-Europe/Moscow (seniority: 5)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 5),24940-FI-Helsinki (seniority: 4)
 * Insufficient self stake: ◎0.515149571
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 5 epochs)

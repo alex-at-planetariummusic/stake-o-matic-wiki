@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 227: 212 blocks in 228 slots, 8% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101931.237411010 - removing ◎1060.132851466
+* Vote account address: GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt
+* Data Center: 39647-NL-Mierlo
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 40)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 226: 196 blocks in 200 slots, 2% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.553756715 - removing ◎3548.641902728
 * Vote account address: GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt
 * Data Center: 199610-US-Miami
-* Resident Data Center(s): 199610-US-Miami (seniority: 1),39647-NL-Mierlo (seniority: 27)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 27),199610-US-Miami (seniority: 1)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 211: 159 blocks in 196 slots, 19% skip rate

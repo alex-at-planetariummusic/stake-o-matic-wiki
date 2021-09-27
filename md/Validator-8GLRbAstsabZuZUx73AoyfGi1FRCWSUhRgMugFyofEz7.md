@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 227: 145 blocks in 156 slots, 8% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎102449.445548062 - removing ◎1578.340988518
+* Vote account address: 7PmWxxiTneGteGxEYvzj5pGDVMQ4nuN9DfUypEXmaA8o
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 32),24940-DE-Falkenstein (seniority: 2),24961-DE-Europe/Berlin (seniority: 1)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 226: 197 blocks in 204 slots, 4% skip rate
 * Staking activity: target stake amount: ◎102400.113698518, current stake amount: ◎103736.892059480 - removing ◎1336.778360962
 * Vote account address: 7PmWxxiTneGteGxEYvzj5pGDVMQ4nuN9DfUypEXmaA8o
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24961-DE-Europe/Berlin (seniority: 2),51167-DE-Düsseldorf (seniority: 33)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 2),24940-DE-Falkenstein (seniority: 1),51167-DE-Düsseldorf (seniority: 33)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 224: 161 blocks in 172 slots, 7% skip rate
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104707.537582720 - removing ◎1069.569800197
 * Vote account address: 7PmWxxiTneGteGxEYvzj5pGDVMQ4nuN9DfUypEXmaA8o
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 34),24961-DE-Europe/Berlin (seniority: 3)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 3),51167-DE-Düsseldorf (seniority: 34)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 223: 135 blocks in 168 slots, 20% skip rate

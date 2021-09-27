@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus** (for 26 epochs)
+* Stake reason: Good block production during epoch 227: 170 blocks in 176 slots, 4% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101931.260947527 - removing ◎1060.156387983
+* Vote account address: BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq
+* Data Center: 57378-RU-Rostov-on-Don
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 16)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 226: 189 blocks in 196 slots, 4% skip rate
@@ -67,28 +74,28 @@
 * Staking activity: target stake amount: ◎117608.867212503, current stake amount: ◎122168.718714798 - removing ◎4559.851502295
 * Vote account address: BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 2),57378-RU-Rostov-on-Don (seniority: 6)
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 6),16276-PL-Warsaw (seniority: 2)
 ### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 214: 162 blocks in 180 slots, 10% skip rate
 * Staking activity: target stake amount: ◎122212.013967839, current stake amount: ◎122114.799260895 - reserve depleted
 * Vote account address: BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 3),57378-RU-Rostov-on-Don (seniority: 5)
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 5),16276-PL-Warsaw (seniority: 3)
 ### [[Mainnet Epoch 214|Mainnet#Epoch-214]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 213: 135 blocks in 164 slots, 18% skip rate
 * Staking activity: target stake amount: ◎122054.971079467, current stake amount: ◎123295.744450761 - removing ◎1240.773371294
 * Vote account address: BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 4),16276-PL-Warsaw (seniority: 4)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 4),57378-RU-Rostov-on-Don (seniority: 4)
 ### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 212: 195 blocks in 216 slots, 10% skip rate
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126786.320170689 - removing ◎3549.408316702
 * Vote account address: BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 5),57378-RU-Rostov-on-Don (seniority: 3)
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 3),16276-PL-Warsaw (seniority: 5)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 211: 124 blocks in 144 slots, 14% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎133362.098183229 - removing ◎5903.585918320
 * Vote account address: BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 1),16276-PL-Warsaw (seniority: 7)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 7),57378-RU-Rostov-on-Don (seniority: 1)
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 208: 167 blocks in 184 slots, 10% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎134361.831949474, current stake amount: ◎139734.091150111 - removing ◎5372.259200637
 * Vote account address: BtY1xJFYukPn1sFnixMDpXcUt1feL4sGqQC9A3LZi1Rq
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 1),16276-PL-Warsaw (seniority: 7)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 7),57378-RU-Rostov-on-Don (seniority: 1)
 ### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 206: 203 blocks in 220 slots, 8% skip rate

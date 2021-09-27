@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 227: 190 blocks in 192 slots, 2% skip rate
+* Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101930.762011804 - removing ◎1059.657452260
+* Vote account address: BCnjkkKPBT8cegVkFQ15B6TtonqD9d27gM5UUD6imEe9
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 22)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 226: 165 blocks in 168 slots, 2% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎127583.272985876 - removing ◎859.112559529
 * Vote account address: BCnjkkKPBT8cegVkFQ15B6TtonqD9d27gM5UUD6imEe9
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-FR-Roubaix (seniority: 8)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 209: 205 blocks in 212 slots, 4% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎134361.831949474, current stake amount: ◎139735.258074494 - removing ◎5373.426125020
 * Vote account address: BCnjkkKPBT8cegVkFQ15B6TtonqD9d27gM5UUD6imEe9
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-FR-Roubaix (seniority: 5)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),24940-FI-Helsinki (seniority: 4)
 ### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 206: 204 blocks in 220 slots, 8% skip rate
@@ -177,7 +184,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎192367.786097364 - removing ◎5852.210109274
 * Vote account address: BCnjkkKPBT8cegVkFQ15B6TtonqD9d27gM5UUD6imEe9
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24940-DE-Falkenstein (seniority: 1)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
@@ -210,7 +217,7 @@
 * Staking activity: target stake amount: ◎205895.552591837, current stake amount: ◎213699.954954121 - removing ◎7804.402362284
 * Vote account address: BCnjkkKPBT8cegVkFQ15B6TtonqD9d27gM5UUD6imEe9
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Falkenstein (seniority: 5)
 * infrastructure concentration 10.0% is too high; consider finding a new data center
 * Insufficient self stake: ◎1.030735805
 * Insufficient testnet participation
