@@ -1,0 +1,6 @@
+### [[Testnet Epoch 235|Testnet#Epoch-235]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 130290 credits earned in epoch 234
+* Staking activity: creating new stake account 6Jq6gtyHqbnGRrX5BB8W8bM5JsX1dyXJQgjuhLTtUXQd
+* Vote account address: zP3r5ZS2FFoLt27aivoQZakox8KZRK74zqAmiP2nurF
+* Data Center: 24940-DE-Nuremburg

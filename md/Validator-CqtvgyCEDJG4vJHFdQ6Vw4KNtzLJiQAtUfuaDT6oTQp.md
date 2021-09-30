@@ -1,3 +1,9 @@
+### [[Testnet Epoch 235|Testnet#Epoch-235]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 225682 credits earned in epoch 234
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account FDpMeM4kQT1GrBCb6D5PFVvp3F6KwzHZZk5saZ1BvNcn
+* Vote account address: Fg6bb2S4uNRZbsh5gPHSQqgMX3mcjZcJQVaGKrpm4Yw7
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 234867 credits earned in epoch 233
