@@ -1,0 +1,7 @@
+### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 228
+* Staking activity: creating new stake account GcBx2VvXFsd2BYKbWioPaZKV7vmsjTRjX3YEnD6L2LWw
+* Vote account address: 76gw97PmYsUXWYFfcrm5tLsWJcBzzaSsWu3eG1AYNHw1
+* Data Center: 24940-FI-Helsinki
+* Insufficient self stake: ◎0.000000000

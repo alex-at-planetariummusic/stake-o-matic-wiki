@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
+* Stake level: **Baseline** (for 13 epochs)
+* Stake reason: Poor block production during epoch 228: 4 blocks in 60 slots, 94% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.960960420 - removing ◎11.960960420
+* Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
+* Data Center: 4657-SG-Singapore
+* Resident Data Center(s): 4657-SG-Singapore (seniority: 7)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Baseline** (for 12 epochs)
 * Stake reason: Poor block production during epoch 227: 0 blocks in 56 slots, 100% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 228: 56 blocks in 60 slots, 7% skip rate
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account 9Q1c7fwTzBr6MVnQgZ6BNGCwv3DMxrQBBNMBGWUzPQKw
+* Vote account address: 39ueFBsyhKixjBqNJ74L7DackgeZyBALqjiP8CsBhgEc
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 227: 30 blocks in 60 slots, 50% skip rate
