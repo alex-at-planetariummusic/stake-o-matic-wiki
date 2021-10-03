@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 379356 credits earned in epoch 229
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.000000000 - adding ◎24999.000000000
+* Vote account address: HjM2vsPzcyk7gs9hGS9Fqcgj1d1BQQcp3cqsnDSXaUeE
+* Data Center: 24940-DE-Nuremburg
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **None**
 * Stake reason: Commission is too high: 100% commission

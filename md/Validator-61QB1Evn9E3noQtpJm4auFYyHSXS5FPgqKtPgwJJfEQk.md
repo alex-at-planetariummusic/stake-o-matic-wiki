@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
+* Stake level: **Bonus** (for 27 epochs)
+* Stake reason: Good block production during epoch 229: 183 blocks in 188 slots, 3% skip rate
+* Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎100357.885317238 - reserve depleted
+* Vote account address: 5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 8),18450-US-Ogden (seniority: 9)
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 228: 146 blocks in 152 slots, 4% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: DYyfFSzFPxwtLKDwJfvXfRa3a277xWW1hTeV2pbD2p9C
 * Vote account address: 5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),18450-US-Ogden (seniority: 15)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 15),23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 221: 193 blocks in 200 slots, 4% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: DYyfFSzFPxwtLKDwJfvXfRa3a277xWW1hTeV2pbD2p9C
 * Vote account address: 5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 18450-US-Ogden (seniority: 16),23470-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),18450-US-Ogden (seniority: 16)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 219: 171 blocks in 184 slots, 8% skip rate
