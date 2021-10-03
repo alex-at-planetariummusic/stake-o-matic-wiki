@@ -1,3 +1,10 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 235: 10 blocks in 20 slots, 50% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎42193.442967522 - removing ◎707.755614133
+* Vote account address: BmSosE6n21YsjoQRnwm5VNUEvxAEUWdUgH1z64piuGVt
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 11)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 234: 18 blocks in 28 slots, 36% skip rate
@@ -67,21 +74,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: Hbai1AeP8Kaas1Nbnj4MyfCr5x9JmSoTGSrTux3CGkEG
 * Vote account address: BmSosE6n21YsjoQRnwm5VNUEvxAEUWdUgH1z64piuGVt
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 61272-LT-Europe/Vilnius (seniority: 3),201814-PL-Europe/Warsaw (seniority: 3)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 3),61272-LT-Europe/Vilnius (seniority: 3)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 223: 169 blocks in 228 slots, 26% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Hbai1AeP8Kaas1Nbnj4MyfCr5x9JmSoTGSrTux3CGkEG
 * Vote account address: BmSosE6n21YsjoQRnwm5VNUEvxAEUWdUgH1z64piuGVt
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 61272-LT-Europe/Vilnius (seniority: 4),201814-PL-Europe/Warsaw (seniority: 2)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 2),61272-LT-Europe/Vilnius (seniority: 4)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 222: 139 blocks in 236 slots, 42% skip rate
 * Staking activity: stake account busy due to transient stake activation: Hbai1AeP8Kaas1Nbnj4MyfCr5x9JmSoTGSrTux3CGkEG
 * Vote account address: BmSosE6n21YsjoQRnwm5VNUEvxAEUWdUgH1z64piuGVt
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 61272-LT-Europe/Vilnius (seniority: 5),201814-PL-Europe/Warsaw (seniority: 1)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),61272-LT-Europe/Vilnius (seniority: 5)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 219: 186 blocks in 208 slots, 11% skip rate

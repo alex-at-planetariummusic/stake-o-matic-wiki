@@ -1,3 +1,9 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 235: 0 blocks in 4 slots, 100% skip rate
+* Staking activity: creating new stake account 7uqeYNThLk7vPm3FbP2yVutjJT8oNYyk1hY5VhHLC3kM
+* Vote account address: GQgg38kxde5sM2EsxqVoAXKiMoDLJ4DQ1o5EAq8i97Gv
+* Data Center: 201814-PL-Warsaw
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **None** (for 21 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 234

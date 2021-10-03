@@ -1,3 +1,10 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: Good block production during epoch 235: 208 blocks in 280 slots, 26% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39500.594279906 - reserve depleted
+* Vote account address: CyARneHiDUkmz1iynMc1mhJFzFKh3N9hMLJTthan57KE
+* Data Center: 56429-UA-Europe/Kiev
+* Resident Data Center(s): 56429-UA-Europe/Kiev (seniority: 5),3255-UA-Kyiv (seniority: 2)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 234: 141 blocks in 196 slots, 29% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: CyARneHiDUkmz1iynMc1mhJFzFKh3N9hMLJTthan57KE
 * Data Center: 56429-UA-Europe/Kiev
-* Resident Data Center(s): 3255-UA-Kyiv (seniority: 6),56429-UA-Europe/Kiev (seniority: 1)
+* Resident Data Center(s): 56429-UA-Europe/Kiev (seniority: 1),3255-UA-Kyiv (seniority: 6)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 230: 201 blocks in 236 slots, 15% skip rate
@@ -53,14 +60,14 @@
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: CyARneHiDUkmz1iynMc1mhJFzFKh3N9hMLJTthan57KE
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 49984-UA-Lviv (seniority: 4),3255-UA-Kyiv (seniority: 4)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 4),49984-UA-Lviv (seniority: 4)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 225: 282 blocks in 324 slots, 13% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: ARhEu7KNpcHBmiCz4Zqv9hGjrLpp7wR2ZwWjgWzTYWBu
 * Vote account address: CyARneHiDUkmz1iynMc1mhJFzFKh3N9hMLJTthan57KE
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 49984-UA-Lviv (seniority: 5),3255-UA-Kyiv (seniority: 3)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 3),49984-UA-Lviv (seniority: 5)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 224: 156 blocks in 304 slots, 49% skip rate

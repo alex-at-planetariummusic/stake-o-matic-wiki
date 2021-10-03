@@ -1,10 +1,17 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 235: 59 blocks in 172 slots, 66% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎39500.594279906 - removing ◎34500.594279906
+* Vote account address: 4KShkNFchv6ZVv3gn2E6pJ2cj2W2Lv1Djne61ouArXLS
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 16),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 234: 175 blocks in 204 slots, 15% skip rate
 * Staking activity: target stake amount: ◎39500.594279906, current stake amount: ◎42193.442967522 - removing ◎2692.848687616
 * Vote account address: 4KShkNFchv6ZVv3gn2E6pJ2cj2W2Lv1Djne61ouArXLS
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 17),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),23470-US-Las Vegas (seniority: 17)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 233: 17 blocks in 24 slots, 30% skip rate
@@ -25,14 +32,14 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎5000.000000000 - adding ◎37600.138718013
 * Vote account address: 4KShkNFchv6ZVv3gn2E6pJ2cj2W2Lv1Djne61ouArXLS
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 20),21409-FR-Europe/Paris (seniority: 2)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),23470-US-Las Vegas (seniority: 20)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 230: 193 blocks in 216 slots, 11% skip rate
 * Staking activity: target stake amount: ◎41862.255725477, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 4KShkNFchv6ZVv3gn2E6pJ2cj2W2Lv1Djne61ouArXLS
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),23470-US-Las Vegas (seniority: 21)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 21),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 229: 50 blocks in 244 slots, 80% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 235: 149 blocks in 208 slots, 29% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39500.594279906 - reserve depleted
+* Vote account address: 7miHgkqa2ACbCQw4x964se7TxtcNknj8WydVGYXc9U2V
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 17)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 234: 148 blocks in 188 slots, 22% skip rate
@@ -25,14 +32,14 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: 7miHgkqa2ACbCQw4x964se7TxtcNknj8WydVGYXc9U2V
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 13),16276-EN-London (seniority: 1)
+* Resident Data Center(s): 16276-EN-London (seniority: 1),23470-US-America/Chicago (seniority: 13)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 230: 179 blocks in 220 slots, 19% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: EpsGgVU9CRTLLdn1FQsKnJebCbVKfSvVh6x6561S3N1n
 * Vote account address: 7miHgkqa2ACbCQw4x964se7TxtcNknj8WydVGYXc9U2V
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 16276-EN-London (seniority: 2),23470-US-America/Chicago (seniority: 12)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 12),16276-EN-London (seniority: 2)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 229: 179 blocks in 228 slots, 22% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: EpsGgVU9CRTLLdn1FQsKnJebCbVKfSvVh6x6561S3N1n
 * Vote account address: 7miHgkqa2ACbCQw4x964se7TxtcNknj8WydVGYXc9U2V
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 10),16276-EN-London (seniority: 4)
+* Resident Data Center(s): 16276-EN-London (seniority: 4),23470-US-America/Chicago (seniority: 10)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 227: 208 blocks in 284 slots, 27% skip rate
@@ -81,14 +88,14 @@
 * Staking activity: stake account busy due to transient stake activation: EpsGgVU9CRTLLdn1FQsKnJebCbVKfSvVh6x6561S3N1n
 * Vote account address: 7miHgkqa2ACbCQw4x964se7TxtcNknj8WydVGYXc9U2V
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 5),16276-EN-London (seniority: 9)
+* Resident Data Center(s): 16276-EN-London (seniority: 9),23470-US-America/Chicago (seniority: 5)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 219: 128 blocks in 168 slots, 24% skip rate
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
 * Vote account address: 7miHgkqa2ACbCQw4x964se7TxtcNknj8WydVGYXc9U2V
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 16276-EN-London (seniority: 10),23470-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),16276-EN-London (seniority: 10)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 217: 32 blocks in 40 slots, 20% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: stake account busy due to transient stake activation: EpsGgVU9CRTLLdn1FQsKnJebCbVKfSvVh6x6561S3N1n
 * Vote account address: 7miHgkqa2ACbCQw4x964se7TxtcNknj8WydVGYXc9U2V
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),16276-EN-London (seniority: 12)
+* Resident Data Center(s): 16276-EN-London (seniority: 12),23470-US-America/Chicago (seniority: 2)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 214: 177 blocks in 232 slots, 24% skip rate

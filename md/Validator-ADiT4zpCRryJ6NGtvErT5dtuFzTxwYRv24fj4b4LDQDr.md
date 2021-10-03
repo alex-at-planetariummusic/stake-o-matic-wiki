@@ -1,3 +1,9 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **None** (for 9 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 235
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: EBdPRTYgrE1eFSd5Ss6XE5sShzUSmvY193je72tnkt64
+* Data Center: 8560-US-America/Chicago
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **None** (for 8 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 234
@@ -189,14 +195,14 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎44670.972509869 - removing ◎544.476354054
 * Vote account address: EBdPRTYgrE1eFSd5Ss6XE5sShzUSmvY193je72tnkt64
 * Data Center: 18450-US-Los Angeles
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),18450-US-Los Angeles (seniority: 2)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 2),24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 200: 48 blocks in 56 slots, 15% skip rate
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎46269.599541788 - removing ◎1598.627031919
 * Vote account address: EBdPRTYgrE1eFSd5Ss6XE5sShzUSmvY193je72tnkt64
 * Data Center: 18450-US-Los Angeles
-* Resident Data Center(s): 18450-US-Los Angeles (seniority: 1),24961-DE-Europe/Berlin (seniority: 2)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 2),18450-US-Los Angeles (seniority: 1)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 199: 62 blocks in 68 slots, 9% skip rate

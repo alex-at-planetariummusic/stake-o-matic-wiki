@@ -1,3 +1,10 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 235: 234 blocks in 256 slots, 9% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39966.878541029 - reserve depleted
+* Vote account address: 9FSaV5v97Nw1FrBPRSGEe6u72jpQMaAY9chYBVU14dms
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 17)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 234: 168 blocks in 208 slots, 20% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎42319.928240352 - reserve depleted
 * Vote account address: 9FSaV5v97Nw1FrBPRSGEe6u72jpQMaAY9chYBVU14dms
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 13),33991-RU-Krasnoyarsk (seniority: 3)
+* Resident Data Center(s): 33991-RU-Krasnoyarsk (seniority: 3),16276-FR-Roubaix (seniority: 13)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 230: 189 blocks in 232 slots, 19% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: CzWEE9Eukw3JZyArTuFjmPt3ZXBjTQajU9NNerZ2R3uj
 * Vote account address: 9FSaV5v97Nw1FrBPRSGEe6u72jpQMaAY9chYBVU14dms
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 33991-RU-Krasnoyarsk (seniority: 4),16276-FR-Roubaix (seniority: 12)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 12),33991-RU-Krasnoyarsk (seniority: 4)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 229: 234 blocks in 288 slots, 19% skip rate
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43948.777235126 - reserve depleted
 * Vote account address: 9FSaV5v97Nw1FrBPRSGEe6u72jpQMaAY9chYBVU14dms
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 33991-RU-Krasnoyarsk (seniority: 5),16276-FR-Roubaix (seniority: 11)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 11),33991-RU-Krasnoyarsk (seniority: 5)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 228: 220 blocks in 252 slots, 13% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎46426.869643469, current stake amount: ◎44893.064985071 - reserve depleted
 * Vote account address: 9FSaV5v97Nw1FrBPRSGEe6u72jpQMaAY9chYBVU14dms
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 7),33991-RU-Krasnoyarsk (seniority: 9)
+* Resident Data Center(s): 33991-RU-Krasnoyarsk (seniority: 9),16276-FR-Roubaix (seniority: 7)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 223: 257 blocks in 280 slots, 9% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: CzWEE9Eukw3JZyArTuFjmPt3ZXBjTQajU9NNerZ2R3uj
 * Vote account address: 9FSaV5v97Nw1FrBPRSGEe6u72jpQMaAY9chYBVU14dms
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 33991-RU-Krasnoyarsk (seniority: 13),16276-FR-Roubaix (seniority: 3)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),33991-RU-Krasnoyarsk (seniority: 13)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 215: 112 blocks in 208 slots, 47% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎48627.221310778, current stake amount: ◎5054.470274036 - reserve depleted
 * Vote account address: 9FSaV5v97Nw1FrBPRSGEe6u72jpQMaAY9chYBVU14dms
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 33991-RU-Krasnoyarsk (seniority: 15),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),33991-RU-Krasnoyarsk (seniority: 15)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 213: 67 blocks in 232 slots, 72% skip rate

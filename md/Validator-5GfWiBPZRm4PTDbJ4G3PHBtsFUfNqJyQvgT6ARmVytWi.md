@@ -1,3 +1,10 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 235: 115 blocks in 208 slots, 45% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39953.350124123 - reserve depleted
+* Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 8),8369-RU-Chelyabinsk (seniority: 8)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 234: 155 blocks in 196 slots, 21% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎42402.935264704 - reserve depleted
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 5),8369-RU-Chelyabinsk (seniority: 11)
+* Resident Data Center(s): 8369-RU-Chelyabinsk (seniority: 11),16276-FR-Gravelines (seniority: 5)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 231: 18 blocks in 20 slots, 10% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎5117.603422892 - reserve depleted
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),8369-RU-Chelyabinsk (seniority: 14)
+* Resident Data Center(s): 8369-RU-Chelyabinsk (seniority: 14),16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 228: 201 blocks in 252 slots, 21% skip rate

@@ -1,10 +1,17 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 235: 142 blocks in 200 slots, 29% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39962.727380937 - reserve depleted
+* Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
+* Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 7)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: No leader slots; 221264 credits earned in epoch 234
 * Staking activity: target stake amount: ◎39500.594279906, current stake amount: ◎43713.442349221 - removing ◎4212.848069315
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-DE-Bonn (seniority: 1),8560-US-America/Chicago (seniority: 6)
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 6),8560-DE-Bonn (seniority: 1)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 235693 credits earned in epoch 233
@@ -18,14 +25,14 @@
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎1.024642281 - adding ◎43215.803021552
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 4),8560-DE-Bonn (seniority: 3)
+* Resident Data Center(s): 8560-DE-Bonn (seniority: 3),8560-US-America/Chicago (seniority: 4)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 231: 111 blocks in 200 slots, 45% skip rate
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎1.011989253 - reserve depleted
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 3),8560-DE-Bonn (seniority: 4)
+* Resident Data Center(s): 8560-DE-Bonn (seniority: 4),8560-US-America/Chicago (seniority: 3)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **None**
 * Stake reason: Outdated Solana release: 1.6.25
@@ -39,7 +46,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: AoQe4BCCV1vggd3VKgiSme9ZvSLRYKoh7RoVYM6EBkrC
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-DE-Bonn
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 3),8560-DE-Bonn (seniority: 6)
+* Resident Data Center(s): 8560-DE-Bonn (seniority: 6),8560-US-America/Chicago (seniority: 3)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 228: 209 blocks in 284 slots, 27% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎44346.337022444, current stake amount: ◎47362.639060822 - removing ◎3016.302038378
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-DE-Bonn
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 8),8560-DE-Bonn (seniority: 3)
+* Resident Data Center(s): 8560-DE-Bonn (seniority: 3),8560-US-America/Chicago (seniority: 8)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 222: 163 blocks in 264 slots, 39% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎1.023357054 - adding ◎46501.874359465
 * Vote account address: HxVo4yXmiDbDm7atH19QmJudh6QVfBg1FnxgtKFz2tg3
 * Data Center: 8560-DE-Bonn
-* Resident Data Center(s): 8560-DE-Bonn (seniority: 1),8560-US-America/Chicago (seniority: 10)
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 10),8560-DE-Bonn (seniority: 1)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 140 credits earned in epoch 217

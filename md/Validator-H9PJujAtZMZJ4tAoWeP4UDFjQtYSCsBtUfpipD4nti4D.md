@@ -1,3 +1,10 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 235: 204 blocks in 248 slots, 18% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎42193.442967522 - removing ◎707.755614133
+* Vote account address: 9katqN9YtaTKxaLc8PVsKKFaQeATPg1R3WtGS8RrkMMN
+* Data Center: 52207-RU-Tula
+* Resident Data Center(s): 52207-RU-Tula (seniority: 20)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 234: 127 blocks in 184 slots, 31% skip rate
@@ -150,14 +157,14 @@
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎5000.000000000 - adding ◎40419.309366491
 * Vote account address: 9katqN9YtaTKxaLc8PVsKKFaQeATPg1R3WtGS8RrkMMN
 * Data Center: 52207-RU-Tula
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),52207-RU-Tula (seniority: 2)
+* Resident Data Center(s): 52207-RU-Tula (seniority: 2),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 206: 178 blocks in 236 slots, 25% skip rate
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 9katqN9YtaTKxaLc8PVsKKFaQeATPg1R3WtGS8RrkMMN
 * Data Center: 52207-RU-Tula
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),52207-RU-Tula (seniority: 1)
+* Resident Data Center(s): 52207-RU-Tula (seniority: 1),24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: poor block production during epoch 205: 82 blocks in 228 slots, 65% skip rate

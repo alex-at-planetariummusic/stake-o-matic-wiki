@@ -1,3 +1,10 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 11 epochs)
+* Stake reason: Good block production during epoch 235: 193 blocks in 240 slots, 20% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎42193.442967522 - removing ◎707.755614133
+* Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
+* Data Center: 24961-DE-Düsseldorf
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 11),21409-FR-Europe/Paris (seniority: 5)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 234: 155 blocks in 248 slots, 38% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎42193.442967522, current stake amount: ◎41839.923678665 - adding ◎353.519288857
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 9),21409-FR-Europe/Paris (seniority: 7)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),24961-DE-Düsseldorf (seniority: 9)
 ### [[Testnet Epoch 233|Testnet#Epoch-233]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 232: 155 blocks in 236 slots, 35% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),24961-DE-Düsseldorf (seniority: 7)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 7),21409-FR-Europe/Paris (seniority: 9)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 230: 172 blocks in 212 slots, 19% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎46426.869643469, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 15),24961-DE-Düsseldorf (seniority: 1)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 1),21409-FR-Europe/Paris (seniority: 15)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 223: 5 blocks in 16 slots, 69% skip rate

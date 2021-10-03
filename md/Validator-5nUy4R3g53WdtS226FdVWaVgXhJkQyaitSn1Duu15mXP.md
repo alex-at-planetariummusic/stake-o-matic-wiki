@@ -1,10 +1,17 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 235: 134 blocks in 184 slots, 28% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎42193.442967522 - removing ◎707.755614133
+* Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),201814-PL-Europe/Warsaw (seniority: 2)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 234: 218 blocks in 264 slots, 18% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account C96pZVpMFMnJdY3BfD8EvtFnU74TAWhmTvnk1qN2BpxL
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),201814-PL-Europe/Warsaw (seniority: 3)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 3),21409-FR-Europe/Paris (seniority: 6)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 233: 132 blocks in 244 slots, 46% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account C96pZVpMFMnJdY3BfD8EvtFnU74TAWhmTvnk1qN2BpxL
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),201814-PL-Europe/Warsaw (seniority: 6)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 6),21409-FR-Europe/Paris (seniority: 3)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 230: 196 blocks in 244 slots, 20% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: stake account busy due to transient stake activation: C96pZVpMFMnJdY3BfD8EvtFnU74TAWhmTvnk1qN2BpxL
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),201814-PL-Europe/Warsaw (seniority: 5)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 5),24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: No leader slots; 125886 credits earned in epoch 214
@@ -116,7 +123,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account C96pZVpMFMnJdY3BfD8EvtFnU74TAWhmTvnk1qN2BpxL
 * Vote account address: J5ZhjjpCanRewD6qdraibxqaAWdZDHKyErpQTAmGYATu
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),201814-PL-Europe/Warsaw (seniority: 3)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 3),24940-DE-Falkenstein (seniority: 8)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 183758 credits earned in epoch 212

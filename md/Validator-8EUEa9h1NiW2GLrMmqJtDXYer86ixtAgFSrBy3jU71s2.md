@@ -1,24 +1,31 @@
+### [[Testnet Epoch 236|Testnet#Epoch-236]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 235: 15 blocks in 24 slots, 38% skip rate
+* Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎42193.442967522 - removing ◎707.755614133
+* Vote account address: GRrz1AHU6Xq489Z4EXnp4dmPW5ShyrvDJ3VkkfS26wBm
+* Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 23),8560-US-America/Chicago (seniority: 4)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 234: 24 blocks in 32 slots, 25% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account E3Jbqu878wGVeL1sQmzHWy69VoQXfzWU3ZLjN9qAuaB8
 * Vote account address: GRrz1AHU6Xq489Z4EXnp4dmPW5ShyrvDJ3VkkfS26wBm
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 24),8560-US-America/Chicago (seniority: 3)
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 3),24940-DE-Falkenstein (seniority: 24)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 233: 31 blocks in 44 slots, 30% skip rate
 * Staking activity: target stake amount: ◎42193.442967522, current stake amount: ◎5000.000000000 - adding ◎37193.442967522
 * Vote account address: GRrz1AHU6Xq489Z4EXnp4dmPW5ShyrvDJ3VkkfS26wBm
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 2),24940-DE-Falkenstein (seniority: 25)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 25),8560-US-America/Chicago (seniority: 2)
 ### [[Testnet Epoch 233|Testnet#Epoch-233]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 232: 12 blocks in 16 slots, 25% skip rate
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: GRrz1AHU6Xq489Z4EXnp4dmPW5ShyrvDJ3VkkfS26wBm
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 1),24940-DE-Falkenstein (seniority: 26)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 26),8560-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: Poor block production during epoch 231: 80 blocks in 188 slots, 58% skip rate
