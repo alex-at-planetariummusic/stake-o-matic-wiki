@@ -1,3 +1,18 @@
+### Epoch 231
+* Minimum vote credits required for epoch 230: 230586 (cluster average: 354748, grace: 35%)
+* Maximum allowed skip rate for epoch 230: 37% (cluster average: 7%, grace: 30%)
+* Solana release 1.6.20 or greater required
+* Maximum commission: 10%
+* Minimum required self stake: ◎100.000000000
+* Maximum active stake allowed: ◎3000000.000000000
+* Maximum infrastructure concentration: 10%
+* Participants must maintain Baseline or Bonus stake level for 5 of the last 10 Testnet epochs
+* 910 validators processed
+* Active stake: ◎389067222.060009897
+* Stake pool size: ◎84210253.122251676 (available for delegation: ◎1055421.852744068)
+* Baseline stake amount: ◎25000.000000000
+* Bonus stake amount: ◎98674.474580560
+* Validators by stake level: None=20, Baseline=49, Bonus=841
 ### Epoch 230
 * Minimum vote credits required for epoch 229: 225975 (cluster average: 347654, grace: 35%)
 * Maximum allowed skip rate for epoch 229: 37% (cluster average: 7%, grace: 30%)

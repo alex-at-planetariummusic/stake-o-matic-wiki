@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 231|Mainnet#Epoch-231]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: No leader slots; 380699 credits earned in epoch 230
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account HVtasMgbD873ocbb6suTy9t2MUNw49g5d33bDjycxMvr
+* Vote account address: CR64wh7PFaTz5mFY3mXC1u5NLXepegddZqv6VLXGvo4D
+* Data Center: 35320-UA-Lviv
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 350406 credits earned in epoch 229
