@@ -1,3 +1,10 @@
+### [[Testnet Epoch 237|Testnet#Epoch-237]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 17828 credits earned in epoch 236
+* Staking activity: creating new stake account GZhC7VvUeggyU2aTp9rqgBbvq8MhzRjt37ocVBRFeNnb
+* Vote account address: 5aoVHP8rP5WuQvx5WJu7C7XaPyZWuaHicbTwocp4z1ay
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 51167-DE-Nuremberg (seniority: 1)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Baseline** (for 5 epochs)
 * Stake reason: Poor block production during epoch 235: 0 blocks in 28 slots, 100% skip rate
