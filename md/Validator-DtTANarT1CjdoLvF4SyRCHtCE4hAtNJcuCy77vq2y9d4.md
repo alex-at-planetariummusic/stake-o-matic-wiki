@@ -1,0 +1,6 @@
+### [[Mainnet Epoch 232|Mainnet#Epoch-232]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 97094 credits earned in epoch 231
+* Staking activity: creating new stake account 97L5ks8cvNm85TmYq5f9f4BrRpeYQ9xS8Q8ZZdEutu1
+* Vote account address: UgmcX7FwNdXbiWsHY2RaqZqTdhsZxx5y6on85j3s3tA
+* Data Center: 23470-US-America/Chicago
