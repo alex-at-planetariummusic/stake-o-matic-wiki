@@ -1,3 +1,10 @@
+### [[Testnet Epoch 238|Testnet#Epoch-238]]
+* Stake level: **Bonus** (for 11 epochs)
+* Stake reason: Good block production during epoch 237: 212 blocks in 240 slots, 12% skip rate
+* Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
+* Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
+* Data Center: 0-Unknown
+* Resident Data Center(s): 0-Unknown (seniority: 13)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 236: 134 blocks in 188 slots, 29% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: stake account busy due to transient stake activation: 7C8fuPxYNUvMJ6VMrKcimo1PXTGFkqyX237ej91fet7p
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 0-Unknown
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),0-Unknown (seniority: 4)
+* Resident Data Center(s): 0-Unknown (seniority: 4),21409-FR-Europe/Paris (seniority: 2)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 170 blocks in 216 slots, 22% skip rate
@@ -81,14 +88,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7C8fuPxYNUvMJ6VMrKcimo1PXTGFkqyX237ej91fet7p
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 3),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),0-Unknown (seniority: 3)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 223: 33 blocks in 40 slots, 18% skip rate
 * Staking activity: stake account busy due to transient stake activation: 7C8fuPxYNUvMJ6VMrKcimo1PXTGFkqyX237ej91fet7p
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 0-Unknown
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),0-Unknown (seniority: 2)
+* Resident Data Center(s): 0-Unknown (seniority: 2),21409-FR-Europe/Paris (seniority: 6)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 222: 39 blocks in 48 slots, 19% skip rate

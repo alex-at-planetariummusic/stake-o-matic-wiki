@@ -1,3 +1,10 @@
+### [[Testnet Epoch 238|Testnet#Epoch-238]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 237: 107 blocks in 204 slots, 48% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎40416.812091631 - removing ◎35416.812091631
+* Vote account address: 53R9tmVrTQwJAgaUCWEA7SiVf7eWAbaQarZ159ixt2D9
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 31)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 236: 175 blocks in 204 slots, 15% skip rate
@@ -111,7 +118,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: BrLQE8iLEvuRG1Jh4zmgswxS9VDK6b8Qu5oAXzRectgs
 * Vote account address: 53R9tmVrTQwJAgaUCWEA7SiVf7eWAbaQarZ159ixt2D9
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24940-FI-Helsinki (seniority: 17)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 17),21409-FR-Europe/Paris (seniority: 1)
 * infrastructure concentration 26.6% is too high; consider finding a new data center
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 8 epochs)
@@ -119,14 +126,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BrLQE8iLEvuRG1Jh4zmgswxS9VDK6b8Qu5oAXzRectgs
 * Vote account address: 53R9tmVrTQwJAgaUCWEA7SiVf7eWAbaQarZ159ixt2D9
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),21409-FR-Europe/Paris (seniority: 2)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),24940-FI-Helsinki (seniority: 16)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 214: 113 blocks in 244 slots, 54% skip rate
 * Staking activity: stake account busy due to transient stake activation: BrLQE8iLEvuRG1Jh4zmgswxS9VDK6b8Qu5oAXzRectgs
 * Vote account address: 53R9tmVrTQwJAgaUCWEA7SiVf7eWAbaQarZ159ixt2D9
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 17),21409-FR-Europe/Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24940-FI-Helsinki (seniority: 17)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 213: 209 blocks in 240 slots, 13% skip rate

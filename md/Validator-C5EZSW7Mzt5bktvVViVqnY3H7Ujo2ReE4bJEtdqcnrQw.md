@@ -1,3 +1,10 @@
+### [[Testnet Epoch 238|Testnet#Epoch-238]]
+* Stake level: **Bonus** (for 35 epochs)
+* Stake reason: Good block production during epoch 237: 215 blocks in 248 slots, 14% skip rate
+* Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40906.903790692 - removing ◎793.329929512
+* Vote account address: 4e9ZmdQgRUWjCiPumopEZ2mLpes8MHsfZd1PedwtS6bG
+* Data Center: 8369-RU-Chelyabinsk
+* Resident Data Center(s): 8369-RU-Chelyabinsk (seniority: 35)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 236: 105 blocks in 188 slots, 45% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 238|Testnet#Epoch-238]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 237: 154 blocks in 220 slots, 30% skip rate
+* Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
+* Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
+* Data Center: 3255-UA-Kyiv
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 5)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 236: 185 blocks in 272 slots, 32% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: stake account busy due to transient stake activation: 4D9pjcmn9BhEuy5YKoWwFrgbV4aimsHWxiTo9rXNL9V2
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 2),6703-UA-Dnipro (seniority: 1)
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 1),13188-UA-Dnipro (seniority: 2)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 31 blocks in 36 slots, 14% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 2),6703-UA-Dnipro (seniority: 7),3255-UA-Kyiv (seniority: 1)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 1),13188-UA-Dnipro (seniority: 2),6703-UA-Dnipro (seniority: 7)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 217: 126 blocks in 272 slots, 54% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 4D9pjcmn9BhEuy5YKoWwFrgbV4aimsHWxiTo9rXNL9V2
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 2),6703-UA-Dnipro (seniority: 9)
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 9),13188-UA-Dnipro (seniority: 2)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 214: 143 blocks in 264 slots, 46% skip rate

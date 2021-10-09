@@ -1,3 +1,10 @@
+### [[Testnet Epoch 238|Testnet#Epoch-238]]
+* Stake level: **None** (for 5 epochs)
+* Stake reason: Insufficient vote credits: 53766 credits earned in epoch 237
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎42600.138718013 - removing ◎42599.138718013
+* Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 23470-US-Morris Plains (seniority: 13)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 236
@@ -32,7 +39,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 6uuZBHZCUXioSZBgAAdH7XxFmHnqSqiHDNUzHahcBZBq
 * Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Morris Plains (seniority: 18),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),23470-US-Morris Plains (seniority: 18)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 231: 153 blocks in 192 slots, 21% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎41862.255725477, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),23470-US-Morris Plains (seniority: 20)
+* Resident Data Center(s): 23470-US-Morris Plains (seniority: 20),24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 229: 75 blocks in 252 slots, 71% skip rate

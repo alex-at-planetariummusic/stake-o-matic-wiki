@@ -1,3 +1,9 @@
+### [[Testnet Epoch 238|Testnet#Epoch-238]]
+* Stake level: **None** (for 26 epochs)
+* Stake reason: Insufficient vote credits: 34487 credits earned in epoch 237
+* Staking activity: creating new stake account BbyDEZgdXQrrZzABrYmuSMf6FhYs72YC5SawND95FP5S
+* Vote account address: GujV62H4VkrV7NHxG57J3q6hMFvUkk5bWt4rx8dB1h2h
+* Data Center: 23470-US-America/Chicago
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **None** (for 25 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 236
