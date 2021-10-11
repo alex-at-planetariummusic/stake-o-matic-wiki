@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.6.27
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎97157.943750581 - removing ◎97156.943750581
+* Vote account address: 5xaCbKhVdjvS2LMFbZe24TgJiVHaAEUXWswS8vTmFDLZ
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 22)
 ### [[Mainnet Epoch 232|Mainnet#Epoch-232]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 231: 155 blocks in 172 slots, 10% skip rate

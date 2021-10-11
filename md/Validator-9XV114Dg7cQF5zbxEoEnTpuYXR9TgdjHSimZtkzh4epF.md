@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.6.25
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account H6XmBbitfnkgfCmt4aN3eWFJKW44peA1oAaTnZ55HFnD
+* Vote account address: DeJtHx8YijwzNRDuEDyJBgbnXiHdbKZzMGtHXUF73y8i
+* Data Center: 12212-CA-Toronto
+* Resident Data Center(s): 12212-CA-Toronto (seniority: 1)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 232|Mainnet#Epoch-232]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 231: 16 blocks in 20 slots, 20% skip rate
