@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
+* Stake level: **Bonus** (for 50 epochs)
+* Stake reason: Good block production during epoch 233: 1450 blocks in 1464 slots, 1% skip rate
+* Staking activity: target stake amount: ◎94439.178943147, current stake amount: ◎96338.583383701 - removing ◎1899.404440554
+* Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
+* Data Center: 31898-US-Phoenix
+* Resident Data Center(s): 31898-US-Phoenix (seniority: 21)
+* Insufficient testnet participation
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **Bonus** (for 49 epochs)
 * Stake reason: Good block production during epoch 232: 1373 blocks in 1424 slots, 4% skip rate
@@ -20,7 +28,7 @@
 * Staking activity: target stake amount: ◎98674.474580560, current stake amount: ◎100403.836543610 - removing ◎1729.361963050
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 18),16276-CA-Beauharnois (seniority: 1)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),31898-US-Phoenix (seniority: 18)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Bonus** (for 46 epochs)
@@ -36,7 +44,7 @@
 * Staking activity: target stake amount: ◎100309.681012023, current stake amount: ◎100919.494045968 - removing ◎609.813033945
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 16),16276-CA-Beauharnois (seniority: 3)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 3),31898-US-Phoenix (seniority: 16)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus** (for 44 epochs)
@@ -44,7 +52,7 @@
 * Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎102449.385706761 - removing ◎1578.281147217
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),31898-US-Phoenix (seniority: 15)
+* Resident Data Center(s): 31898-US-Phoenix (seniority: 15),16276-CA-Beauharnois (seniority: 4)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 43 epochs)
@@ -52,7 +60,7 @@
 * Staking activity: target stake amount: ◎102400.113698518, current stake amount: ◎103734.444033937 - removing ◎1334.330335419
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 14),16276-CA-Beauharnois (seniority: 5)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 5),31898-US-Phoenix (seniority: 14)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 42 epochs)
@@ -60,7 +68,7 @@
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104713.150871559 - removing ◎1075.183089036
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 13),16276-CA-Beauharnois (seniority: 6)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 6),31898-US-Phoenix (seniority: 13)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 41 epochs)
@@ -68,7 +76,7 @@
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104661.948699500 - reserve depleted
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 12),16276-CA-Beauharnois (seniority: 7)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 7),31898-US-Phoenix (seniority: 12)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 40 epochs)
@@ -84,7 +92,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 32wp92FPmQWmtQ7VGbsdAyRDFpdtHJVGmbF5U8ftF8q4
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 10),16276-CA-Beauharnois (seniority: 9)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 9),31898-US-Phoenix (seniority: 10)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 38 epochs)
@@ -92,7 +100,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 32wp92FPmQWmtQ7VGbsdAyRDFpdtHJVGmbF5U8ftF8q4
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 10),31898-US-Phoenix (seniority: 9)
+* Resident Data Center(s): 31898-US-Phoenix (seniority: 9),16276-CA-Beauharnois (seniority: 10)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 37 epochs)
@@ -100,7 +108,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 32wp92FPmQWmtQ7VGbsdAyRDFpdtHJVGmbF5U8ftF8q4
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 8),16276-CA-Beauharnois (seniority: 11)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 11),31898-US-Phoenix (seniority: 8)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus** (for 36 epochs)
@@ -124,7 +132,7 @@
 * Staking activity: target stake amount: ◎117608.867212503, current stake amount: ◎122174.256357569 - removing ◎4565.389145066
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 5),16276-CA-Beauharnois (seniority: 14)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 14),31898-US-Phoenix (seniority: 5)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
 * Stake level: **Bonus** (for 33 epochs)
@@ -140,7 +148,7 @@
 * Staking activity: target stake amount: ◎122054.971079467, current stake amount: ◎123296.888206526 - removing ◎1241.917127059
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 3),16276-CA-Beauharnois (seniority: 16)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 16),31898-US-Phoenix (seniority: 3)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
 * Stake level: **Bonus** (for 31 epochs)
@@ -148,7 +156,7 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126786.154876572 - removing ◎3549.243022585
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 31898-US-Phoenix
-* Resident Data Center(s): 31898-US-Phoenix (seniority: 2),16276-CA-Beauharnois (seniority: 17)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 17),31898-US-Phoenix (seniority: 2)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
@@ -284,7 +292,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 32wp92FPmQWmtQ7VGbsdAyRDFpdtHJVGmbF5U8ftF8q4
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),16276-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 16276-US-America/Chicago (seniority: 4),16276-CA-Beauharnois (seniority: 4)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)
@@ -299,7 +307,7 @@
 * Staking activity: target stake amount: ◎207293.032432347, current stake amount: ◎204997.648303264 - reserve depleted
 * Vote account address: 37BPVW1Ne1XHrzK15xguAS2BTdobVfThDzTE2mv8SsnJ
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),16276-US-America/Chicago (seniority: 6)
+* Resident Data Center(s): 16276-US-America/Chicago (seniority: 6),16276-CA-Beauharnois (seniority: 2)
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 190: 234 blocks in 296 slots, 21% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 233: 28 blocks in 36 slots, 23% skip rate
+* Staking activity: target stake amount: ◎94439.178943147, current stake amount: ◎61085.428850820 - reserve depleted
+* Vote account address: CjspxRz7DTACphbx9J7ijypCvvVg3PHFo9rwmfajECfL
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 2)
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **None**
 * Stake reason: Outdated Solana release: 1.6.27

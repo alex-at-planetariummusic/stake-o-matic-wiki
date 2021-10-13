@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
+* Stake level: **None** (for 17 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 233
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: CYqN2y4bGWXbJUUxVNGMxq8bQVZCQYE8T2Ryfvra17RL
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 12)
+* Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **None** (for 16 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 232
