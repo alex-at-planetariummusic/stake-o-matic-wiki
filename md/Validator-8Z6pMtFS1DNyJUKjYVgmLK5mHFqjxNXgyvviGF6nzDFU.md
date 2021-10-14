@@ -11,14 +11,14 @@
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎41485.687353389 - removing ◎1068.875261758
 * Vote account address: CkXZCBVi1mjeJXXUA76aHVT2sB4E9xcjkTpp3ppiSyuj
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 23470-US-New York (seniority: 22),16276-CA-Beauharnois (seniority: 1)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),23470-US-New York (seniority: 22)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 235: 86 blocks in 188 slots, 55% skip rate
 * Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎42193.442967522 - removing ◎707.755614133
 * Vote account address: CkXZCBVi1mjeJXXUA76aHVT2sB4E9xcjkTpp3ppiSyuj
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 23470-US-New York (seniority: 23),16276-FR-Strasbourg (seniority: 1)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),23470-US-New York (seniority: 23)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 234: 158 blocks in 208 slots, 25% skip rate
@@ -137,7 +137,7 @@
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: CkXZCBVi1mjeJXXUA76aHVT2sB4E9xcjkTpp3ppiSyuj
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),23470-US-New York (seniority: 8)
+* Resident Data Center(s): 23470-US-New York (seniority: 8),24940-DE-Falkenstein (seniority: 4)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 212: 153 blocks in 192 slots, 21% skip rate
@@ -151,7 +151,7 @@
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎44295.045998223 - removing ◎597.954528850
 * Vote account address: CkXZCBVi1mjeJXXUA76aHVT2sB4E9xcjkTpp3ppiSyuj
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),23470-US-New York (seniority: 6)
+* Resident Data Center(s): 23470-US-New York (seniority: 6),24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 209: 181 blocks in 216 slots, 17% skip rate
@@ -165,7 +165,7 @@
 * Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎45419.309366491 - removing ◎513.571227123
 * Vote account address: CkXZCBVi1mjeJXXUA76aHVT2sB4E9xcjkTpp3ppiSyuj
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 4),24940-DE-Falkenstein (seniority: 8)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),23470-US-New York (seniority: 4)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: No leader slots; 162291 credits earned in epoch 207

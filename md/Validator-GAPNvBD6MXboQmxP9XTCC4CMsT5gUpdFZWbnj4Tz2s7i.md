@@ -142,7 +142,7 @@
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Klampenborg
-* Resident Data Center(s): 3257-NL-Hoofddorp (seniority: 4),174-DK-Klampenborg (seniority: 1)
+* Resident Data Center(s): 174-DK-Klampenborg (seniority: 1),3257-NL-Hoofddorp (seniority: 4)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Baseline** (for 7 epochs)
 * Stake reason: Poor block production during epoch 209: 7 blocks in 24 slots, 71% skip rate

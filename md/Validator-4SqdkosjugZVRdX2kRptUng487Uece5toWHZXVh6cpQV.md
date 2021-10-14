@@ -11,7 +11,7 @@
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎40433.351531073 - removing ◎16.539439442
 * Vote account address: 2f5hEM1RfEb6Sx4hiuFzcrGrGSyDSmMVZoBEjnrkETMo
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 12),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),0-Unknown (seniority: 12)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 235: 148 blocks in 184 slots, 20% skip rate
@@ -25,7 +25,7 @@
 * Staking activity: target stake amount: ◎39500.594279906, current stake amount: ◎42692.209061566 - removing ◎3191.614781660
 * Vote account address: 2f5hEM1RfEb6Sx4hiuFzcrGrGSyDSmMVZoBEjnrkETMo
 * Data Center: 0-Unknown
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),0-Unknown (seniority: 10)
+* Resident Data Center(s): 0-Unknown (seniority: 10),24940-FI-Helsinki (seniority: 10)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 233: 119 blocks in 152 slots, 22% skip rate
@@ -39,7 +39,7 @@
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎42843.100898207 - reserve depleted
 * Vote account address: 2f5hEM1RfEb6Sx4hiuFzcrGrGSyDSmMVZoBEjnrkETMo
 * Data Center: 0-Unknown
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 12),0-Unknown (seniority: 8)
+* Resident Data Center(s): 0-Unknown (seniority: 8),24940-FI-Helsinki (seniority: 12)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 231: 213 blocks in 240 slots, 12% skip rate
@@ -53,7 +53,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: HxFKv3K1HZ9Ji88nyazhy6gCVQyev4gQYUgSoDrq6pjU
 * Vote account address: 2f5hEM1RfEb6Sx4hiuFzcrGrGSyDSmMVZoBEjnrkETMo
 * Data Center: 0-Unknown
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 14),0-Unknown (seniority: 6)
+* Resident Data Center(s): 0-Unknown (seniority: 6),24940-FI-Helsinki (seniority: 14)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 229: 28 blocks in 32 slots, 13% skip rate
@@ -67,14 +67,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account HxFKv3K1HZ9Ji88nyazhy6gCVQyev4gQYUgSoDrq6pjU
 * Vote account address: 2f5hEM1RfEb6Sx4hiuFzcrGrGSyDSmMVZoBEjnrkETMo
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 4),24940-FI-Helsinki (seniority: 16)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),0-Unknown (seniority: 4)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 227: 4 blocks in 4 slots, 0% skip rate
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎5179.270147240 - adding ◎39302.167573137
 * Vote account address: 2f5hEM1RfEb6Sx4hiuFzcrGrGSyDSmMVZoBEjnrkETMo
 * Data Center: 0-Unknown
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 17),0-Unknown (seniority: 3)
+* Resident Data Center(s): 0-Unknown (seniority: 3),24940-FI-Helsinki (seniority: 17)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 225: 4 blocks in 4 slots, 0% skip rate
@@ -88,7 +88,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account HxFKv3K1HZ9Ji88nyazhy6gCVQyev4gQYUgSoDrq6pjU
 * Vote account address: 2f5hEM1RfEb6Sx4hiuFzcrGrGSyDSmMVZoBEjnrkETMo
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 1),24940-FI-Helsinki (seniority: 19)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 19),0-Unknown (seniority: 1)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 262175 credits earned in epoch 223

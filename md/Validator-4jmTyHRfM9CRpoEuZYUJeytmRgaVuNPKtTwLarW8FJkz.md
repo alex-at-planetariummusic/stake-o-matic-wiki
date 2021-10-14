@@ -4,28 +4,28 @@
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
 * Vote account address: StpQEHLcWFCQA52Mk5U2ptWSdX8DD4ESbuzhJRL8hic
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24961-DE-Europe/Berlin (seniority: 2),24961-DE-Klettgau (seniority: 2)
+* Resident Data Center(s): 24961-DE-Klettgau (seniority: 2),16276-FR-Gravelines (seniority: 1),24961-DE-Europe/Berlin (seniority: 2)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 237250 credits earned in epoch 236
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎41485.687353389 - removing ◎1068.875261758
 * Vote account address: StpQEHLcWFCQA52Mk5U2ptWSdX8DD4ESbuzhJRL8hic
 * Data Center: 24961-DE-Klettgau
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 3),24961-DE-Klettgau (seniority: 3)
+* Resident Data Center(s): 24961-DE-Klettgau (seniority: 3),24961-DE-Europe/Berlin (seniority: 3)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 196862 credits earned in epoch 235
 * Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎1.000000000 - adding ◎41484.687353389
 * Vote account address: StpQEHLcWFCQA52Mk5U2ptWSdX8DD4ESbuzhJRL8hic
 * Data Center: 24961-DE-Klettgau
-* Resident Data Center(s): 24961-DE-Klettgau (seniority: 2),24961-DE-Europe/Berlin (seniority: 4)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 4),24961-DE-Klettgau (seniority: 2)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 234: 200 blocks in 248 slots, 20% skip rate
 * Staking activity: target stake amount: ◎39500.594279906, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: StpQEHLcWFCQA52Mk5U2ptWSdX8DD4ESbuzhJRL8hic
 * Data Center: 24961-DE-Klettgau
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 5),24961-DE-Klettgau (seniority: 1)
+* Resident Data Center(s): 24961-DE-Klettgau (seniority: 1),24961-DE-Europe/Berlin (seniority: 5)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 18764 credits earned in epoch 233

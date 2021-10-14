@@ -210,7 +210,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 8jALSX13BWCdL9pcuzP8kzuaAizhEEoPcNY4nx8UmPiK
 * Vote account address: EydfUUyQ6xm2mJwQrvxWSV7YczYrF8yuvN2H2xqNycDc
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Falkenstein (seniority: 5)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 202: 210 blocks in 264 slots, 21% skip rate

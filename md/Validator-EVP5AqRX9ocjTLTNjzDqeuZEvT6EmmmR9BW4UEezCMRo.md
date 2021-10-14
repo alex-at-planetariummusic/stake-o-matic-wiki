@@ -117,7 +117,7 @@
 * Staking activity: stake account busy due to transient stake activation: GcPVSVQZGnPB8tErYDdyoyKpNQTqMhQyDXerbMW886rq
 * Vote account address: 3X9dmhgcArgpzQbzFuYAEDPhhYmDNtJJ8APUeFQ5ph99
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 83298 credits earned in epoch 213
