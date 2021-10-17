@@ -1,10 +1,17 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 240: 235 blocks in 248 slots, 6% skip rate
+* Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
+* Vote account address: 254Rk5BcMdP6SuasNmNoY59j18ii6njQvd5iyerHoUwP
+* Data Center: 21409-FR-Paris
+* Resident Data Center(s): 23470-US-Miami (seniority: 13),21409-FR-Paris (seniority: 9)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 237: 243 blocks in 256 slots, 6% skip rate
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎5000.000000000 - adding ◎35113.573861180
 * Vote account address: 254Rk5BcMdP6SuasNmNoY59j18ii6njQvd5iyerHoUwP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 23470-US-Miami (seniority: 14),21409-FR-Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 8),23470-US-Miami (seniority: 14)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 236: 121 blocks in 192 slots, 37% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎42193.442967522 - removing ◎37193.442967522
 * Vote account address: 254Rk5BcMdP6SuasNmNoY59j18ii6njQvd5iyerHoUwP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 23470-US-Miami (seniority: 16),21409-FR-Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 6),23470-US-Miami (seniority: 16)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 234: 214 blocks in 248 slots, 14% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 8sv3qmwEa6YxUWDNGzmawcVFoehJ3QJDMWxkvs8Rqa7H
 * Vote account address: 254Rk5BcMdP6SuasNmNoY59j18ii6njQvd5iyerHoUwP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 23470-US-Miami (seniority: 21),21409-FR-Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 3),23470-US-Miami (seniority: 21)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 229: 131 blocks in 212 slots, 39% skip rate

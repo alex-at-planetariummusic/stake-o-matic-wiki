@@ -1,3 +1,9 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 240: 2 blocks in 36 slots, 95% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 297566 credits earned in epoch 237

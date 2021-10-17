@@ -1,3 +1,10 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.7.13
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎40113.573861180 - removing ◎40112.573861180
+* Vote account address: Vty1mKNjEuwru1KYvDtLmzFTfK4R858jHfJD7kdUSUS
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 22),16276-CA-Beauharnois (seniority: 6)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 237: 150 blocks in 172 slots, 13% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎39500.594279906 - adding ◎916.217811725
 * Vote account address: Vty1mKNjEuwru1KYvDtLmzFTfK4R858jHfJD7kdUSUS
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 24),16276-CA-Beauharnois (seniority: 6)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 6),24940-FI-Helsinki (seniority: 24)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 235: 173 blocks in 196 slots, 12% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎39500.594279906, current stake amount: ◎42193.442967522 - removing ◎2692.848687616
 * Vote account address: Vty1mKNjEuwru1KYvDtLmzFTfK4R858jHfJD7kdUSUS
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),24940-FI-Helsinki (seniority: 26)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 26),16276-CA-Beauharnois (seniority: 4)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 185664 credits earned in epoch 233

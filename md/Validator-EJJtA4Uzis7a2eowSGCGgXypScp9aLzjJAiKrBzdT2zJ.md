@@ -1,3 +1,10 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 240: 31 blocks in 32 slots, 4% skip rate
+* Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎5000.000000000 - adding ◎41791.742268086
+* Vote account address: 3GitoCBzZbFGFJ2bh7MV41pmrXRB6ykbUAQUtPRqNk2R
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 23)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 237: 162 blocks in 216 slots, 25% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎1.000000000 - adding ◎46643.025953063
 * Vote account address: 3GitoCBzZbFGFJ2bh7MV41pmrXRB6ykbUAQUtPRqNk2R
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 2),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),24961-DE-Schopfheim (seniority: 2)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.7.1

@@ -1,10 +1,17 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: Good block production during epoch 240: 230 blocks in 240 slots, 5% skip rate
+* Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
+* Vote account address: 32D192JnJp7PmrkTEvPuFcKMDC36DK6UAp8RkmXNnEWu
+* Data Center: 21409-FR-Paris
+* Resident Data Center(s): 21409-FR-Paris (seniority: 14)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 237: 211 blocks in 220 slots, 5% skip rate
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
 * Vote account address: 32D192JnJp7PmrkTEvPuFcKMDC36DK6UAp8RkmXNnEWu
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 1),21409-FR-Paris (seniority: 13)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 13),24961-DE-Düsseldorf (seniority: 1)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 236: 154 blocks in 168 slots, 9% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39500.594279906 - reserve depleted
 * Vote account address: 32D192JnJp7PmrkTEvPuFcKMDC36DK6UAp8RkmXNnEWu
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 11),24961-DE-Düsseldorf (seniority: 3)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 3),21409-FR-Paris (seniority: 11)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 234: 134 blocks in 196 slots, 32% skip rate
@@ -46,21 +53,21 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: 32D192JnJp7PmrkTEvPuFcKMDC36DK6UAp8RkmXNnEWu
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 7),21409-FR-Paris (seniority: 7)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 7),24961-DE-Düsseldorf (seniority: 7)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 230: 136 blocks in 180 slots, 25% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 2QfCgRTiSPiaAHrb8pkrx1rMdH8xpCwc8EguudWbCnES
 * Vote account address: 32D192JnJp7PmrkTEvPuFcKMDC36DK6UAp8RkmXNnEWu
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 8),21409-FR-Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 6),24961-DE-Düsseldorf (seniority: 8)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 229: 146 blocks in 224 slots, 35% skip rate
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
 * Vote account address: 32D192JnJp7PmrkTEvPuFcKMDC36DK6UAp8RkmXNnEWu
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 5),24961-DE-Düsseldorf (seniority: 9)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 9),21409-FR-Paris (seniority: 5)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 228: 156 blocks in 292 slots, 47% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎46426.869643469, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 32D192JnJp7PmrkTEvPuFcKMDC36DK6UAp8RkmXNnEWu
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 13),21409-FR-Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 1),24961-DE-Düsseldorf (seniority: 13)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 68456 credits earned in epoch 223

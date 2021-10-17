@@ -1,3 +1,10 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 240: 229 blocks in 232 slots, 2% skip rate
+* Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
+* Vote account address: 8CLBZQbMZvqo9oTwBkqrUeungHswhq65ZFmxLU3qHc7f
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 31)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 237: 212 blocks in 232 slots, 9% skip rate
@@ -186,7 +193,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎44854.504850894 - adding ◎1789.521102169
 * Vote account address: 8CLBZQbMZvqo9oTwBkqrUeungHswhq65ZFmxLU3qHc7f
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24940-FI-Helsinki (seniority: 5)
 * infrastructure concentration 26.3% is too high; consider finding a new data center
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Bonus** (for 17 epochs)
@@ -202,7 +209,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7XziF5SZuSVANHBB14WZyAfADwb9XWM3yDfUrNcDAiuV
 * Vote account address: 8CLBZQbMZvqo9oTwBkqrUeungHswhq65ZFmxLU3qHc7f
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Gravelines (seniority: 3)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24940-FI-Helsinki (seniority: 3)
 * infrastructure concentration 25.8% is too high; consider finding a new data center
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
@@ -217,7 +224,7 @@
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44126.496155815 - reserve depleted
 * Vote account address: 8CLBZQbMZvqo9oTwBkqrUeungHswhq65ZFmxLU3qHc7f
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 5),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-FR-Gravelines (seniority: 5)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: good block production during epoch 201: 208 blocks in 268 slots, 23% skip rate
@@ -252,7 +259,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 7XziF5SZuSVANHBB14WZyAfADwb9XWM3yDfUrNcDAiuV
 * Vote account address: 8CLBZQbMZvqo9oTwBkqrUeungHswhq65ZFmxLU3qHc7f
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Gravelines (seniority: 2)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 196: 191 blocks in 328 slots, 42% skip rate

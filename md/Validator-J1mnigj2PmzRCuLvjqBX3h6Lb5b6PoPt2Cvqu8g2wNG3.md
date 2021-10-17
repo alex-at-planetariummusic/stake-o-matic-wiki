@@ -1,3 +1,10 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **None** (for 6 epochs)
+* Stake reason: Outdated Solana release: 1.7.13
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 23470-US-Morris Plains (seniority: 12)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Insufficient vote credits: 53766 credits earned in epoch 237
@@ -32,7 +39,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 6uuZBHZCUXioSZBgAAdH7XxFmHnqSqiHDNUzHahcBZBq
 * Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Morris Plains (seniority: 17),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-Morris Plains (seniority: 17)
 ### [[Testnet Epoch 233|Testnet#Epoch-233]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 232: 0 blocks in 20 slots, 100% skip rate

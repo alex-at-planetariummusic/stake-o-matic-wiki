@@ -1,17 +1,24 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: Good block production during epoch 240: 252 blocks in 276 slots, 9% skip rate
+* Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
+* Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
+* Data Center: 24961-DE-Düsseldorf
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),24961-DE-Düsseldorf (seniority: 14)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 237: 164 blocks in 172 slots, 5% skip rate
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 13),21409-FR-Europe/Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),24961-DE-Düsseldorf (seniority: 13)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 236: 180 blocks in 208 slots, 14% skip rate
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎41485.687353389 - removing ◎1068.875261758
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 12),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),24961-DE-Düsseldorf (seniority: 12)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 235: 193 blocks in 240 slots, 20% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 6qWAcULBkVaVCSyYvGmq3WUz67hsZGUtdmc7WigKZzBu
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),24961-DE-Düsseldorf (seniority: 10)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 10),21409-FR-Europe/Paris (seniority: 6)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 233: 190 blocks in 236 slots, 20% skip rate
@@ -53,14 +60,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 6qWAcULBkVaVCSyYvGmq3WUz67hsZGUtdmc7WigKZzBu
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 10),24961-DE-Düsseldorf (seniority: 6)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 6),21409-FR-Europe/Paris (seniority: 10)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 229: 138 blocks in 192 slots, 29% skip rate
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 11),24961-DE-Düsseldorf (seniority: 5)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 5),21409-FR-Europe/Paris (seniority: 11)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 228: 161 blocks in 240 slots, 33% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎46147.349330196, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: A4T1SnU6wUVgJhrAzQuP3e44EEyqPrTRnotGcTyMfnoz
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 1),21409-FR-Europe/Paris (seniority: 20)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 20),24961-DE-Düsseldorf (seniority: 1)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 214: 55 blocks in 192 slots, 72% skip rate

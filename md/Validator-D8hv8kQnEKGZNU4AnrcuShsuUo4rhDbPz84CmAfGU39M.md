@@ -1,3 +1,10 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.7.14
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5025.042228936 - removing ◎5024.042228936
+* Vote account address: E9yK5NGbYy11vpww1M2f14ESJt97bnCL1RSLvEnt5PE7
+* Data Center: 21409-FR-Aubigny-sur-Nère
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 237: 169 blocks in 228 slots, 26% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **None** (for 6 epochs)
+* Stake reason: Outdated Solana release: 1.7.13
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 2fYepmbiy4ghjV4PyZAhnmHNbJvWYhsmS6P9LbDrztZx
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 9)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Insufficient vote credits: 53457 credits earned in epoch 237
@@ -39,7 +46,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7rStijqFDPK8X4V6KVMLYPzFZhWRYzmnZYjfUWoauoQe
 * Vote account address: 2fYepmbiy4ghjV4PyZAhnmHNbJvWYhsmS6P9LbDrztZx
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 15),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),23470-US-America/Chicago (seniority: 15)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 231: 214 blocks in 228 slots, 7% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 7rStijqFDPK8X4V6KVMLYPzFZhWRYzmnZYjfUWoauoQe
 * Vote account address: 2fYepmbiy4ghjV4PyZAhnmHNbJvWYhsmS6P9LbDrztZx
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),23470-US-America/Chicago (seniority: 18)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 18),24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 228: 173 blocks in 220 slots, 22% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: 2fYepmbiy4ghjV4PyZAhnmHNbJvWYhsmS6P9LbDrztZx
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 20),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),23470-US-America/Chicago (seniority: 20)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 225: 157 blocks in 212 slots, 26% skip rate

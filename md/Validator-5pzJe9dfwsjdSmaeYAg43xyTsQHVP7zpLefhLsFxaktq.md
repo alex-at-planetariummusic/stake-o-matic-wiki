@@ -1,3 +1,9 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 305642 credits earned in epoch 240
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
+* Data Center: 201814-PL-Europe/Warsaw
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 106868 credits earned in epoch 237
@@ -102,14 +108,14 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎5000.000000000 - adding ◎41502.897716519
 * Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),21409-FR-Europe/Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 217: 32 blocks in 32 slots, 0% skip rate
 * Staking activity: target stake amount: ◎46033.143606724, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),21409-FR-Europe/Paris (seniority: 7)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),24940-DE-Falkenstein (seniority: 3)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 215: 198 blocks in 228 slots, 14% skip rate
@@ -123,7 +129,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: EDPo4HKRyoN5gGBAVNCLxUXh4ScMKiCTymn5m1zEdfiN
 * Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),24940-DE-Falkenstein (seniority: 5)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),21409-FR-Europe/Paris (seniority: 5)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 213: 122 blocks in 204 slots, 41% skip rate
@@ -144,7 +150,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account EDPo4HKRyoN5gGBAVNCLxUXh4ScMKiCTymn5m1zEdfiN
 * Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),24940-DE-Falkenstein (seniority: 8)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 193831 credits earned in epoch 209
@@ -158,14 +164,14 @@
 * Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),24940-DE-Falkenstein (seniority: 10)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),21409-FR-Europe/Paris (seniority: 2)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 207: 122 blocks in 272 slots, 56% skip rate
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 4gn8MmnGncutDw8h5cVCrtwSroRHXoDjdfAv8BfP19qt
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),21409-FR-Europe/Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24940-DE-Falkenstein (seniority: 11)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **None**
 * Stake reason: Outdated solana release: 1.7.1

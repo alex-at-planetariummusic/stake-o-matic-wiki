@@ -1,3 +1,10 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 240
+* Staking activity: creating new stake account EoRS6YPjqToQq8z7ht51n4mqrRm715rZZmZPXUFh4whk
+* Vote account address: F1wwdmtRTHsLmtHa2BpuuTXwYcCPnMxQjMG9AbjcWQW3
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 38)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 30573 credits earned in epoch 237

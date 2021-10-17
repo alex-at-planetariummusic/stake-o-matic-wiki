@@ -1,17 +1,24 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 240: 246 blocks in 264 slots, 7% skip rate
+* Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
+* Vote account address: BLQ32qiNBjgdqfKzck9ENHUEj3ShgLwf3xqgNgRw6rLL
+* Data Center: 8560-US-Stockholm
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 15),8560-US-Stockholm (seniority: 3)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 237: 156 blocks in 176 slots, 12% skip rate
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎5000.000000000 - adding ◎35113.573861180
 * Vote account address: BLQ32qiNBjgdqfKzck9ENHUEj3ShgLwf3xqgNgRw6rLL
 * Data Center: 8560-US-Stockholm
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 16),8560-US-Stockholm (seniority: 2)
+* Resident Data Center(s): 8560-US-Stockholm (seniority: 2),8560-DE-Europe/Berlin (seniority: 16)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 236: 168 blocks in 200 slots, 16% skip rate
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: BLQ32qiNBjgdqfKzck9ENHUEj3ShgLwf3xqgNgRw6rLL
 * Data Center: 8560-US-Stockholm
-* Resident Data Center(s): 8560-US-Stockholm (seniority: 1),8560-DE-Europe/Berlin (seniority: 17)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 17),8560-US-Stockholm (seniority: 1)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 235: 86 blocks in 228 slots, 63% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎39500.594279906, current stake amount: ◎43216.827663833 - removing ◎3716.233383927
 * Vote account address: BLQ32qiNBjgdqfKzck9ENHUEj3ShgLwf3xqgNgRw6rLL
 * Data Center: 8560-CA-Cochrane
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 19),8560-CA-Cochrane (seniority: 1)
+* Resident Data Center(s): 8560-CA-Cochrane (seniority: 1),8560-DE-Europe/Berlin (seniority: 19)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 233: 198 blocks in 244 slots, 19% skip rate
@@ -165,7 +172,7 @@
 * Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
 * Vote account address: BLQ32qiNBjgdqfKzck9ENHUEj3ShgLwf3xqgNgRw6rLL
 * Data Center: 8560-DE-Europe/Berlin
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 3),8560-DE-Buende (seniority: 2)
+* Resident Data Center(s): 8560-DE-Buende (seniority: 2),8560-DE-Europe/Berlin (seniority: 3)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 207: 39 blocks in 48 slots, 19% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎5000.000000000 - adding ◎41644.025953063
 * Vote account address: BLQ32qiNBjgdqfKzck9ENHUEj3ShgLwf3xqgNgRw6rLL
 * Data Center: 8560-DE-Europe/Berlin
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 1),8560-DE-Buende (seniority: 4)
+* Resident Data Center(s): 8560-DE-Buende (seniority: 4),8560-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: poor block production during epoch 205: 50 blocks in 232 slots, 79% skip rate

@@ -1,17 +1,24 @@
+### [[Testnet Epoch 241|Testnet#Epoch-241]]
+* Stake level: **Bonus** (for 19 epochs)
+* Stake reason: Good block production during epoch 240: 256 blocks in 300 slots, 15% skip rate
+* Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎41531.718457237 - reserve depleted
+* Vote account address: HZrzjtFrGPFCQFWhNdSPkSQYsGauxoWzHY7XSG49moTD
+* Data Center: 8560-US-America/Chicago
+* Resident Data Center(s): 8560-US-Clifton (seniority: 3),8560-DE-Europe/Berlin (seniority: 30),8560-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 237: 281 blocks in 296 slots, 6% skip rate
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40908.992356300 - removing ◎795.418495120
 * Vote account address: HZrzjtFrGPFCQFWhNdSPkSQYsGauxoWzHY7XSG49moTD
 * Data Center: 8560-US-Clifton
-* Resident Data Center(s): 8560-US-Clifton (seniority: 4),8560-DE-Europe/Berlin (seniority: 31)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 31),8560-US-Clifton (seniority: 4)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 236: 112 blocks in 216 slots, 49% skip rate
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎40425.794054171 - removing ◎8.981962540
 * Vote account address: HZrzjtFrGPFCQFWhNdSPkSQYsGauxoWzHY7XSG49moTD
 * Data Center: 8560-US-Clifton
-* Resident Data Center(s): 8560-US-Clifton (seniority: 3),8560-DE-Europe/Berlin (seniority: 32)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 32),8560-US-Clifton (seniority: 3)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 235: 139 blocks in 280 slots, 51% skip rate
