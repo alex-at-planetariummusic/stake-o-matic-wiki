@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **None**
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎96393.116321803 - removing ◎96392.116321803
+* Vote account address: CuuHN7Lg4FkGcBEam23CuRRrsT4fVAHLgDUNzXmJJvZ
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 233: 28 blocks in 28 slots, 0% skip rate

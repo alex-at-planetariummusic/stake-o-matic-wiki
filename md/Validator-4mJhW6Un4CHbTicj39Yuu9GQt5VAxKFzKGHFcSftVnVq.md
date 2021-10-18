@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **None**
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎96382.967763498 - removing ◎96381.967763498
+* Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 413217 credits earned in epoch 233
@@ -20,7 +27,7 @@
 * Staking activity: target stake amount: ◎97111.693149484, current stake amount: ◎1.000449723 - reserve depleted
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 45899-VN-Hanoi (seniority: 1),23470-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),45899-VN-Hanoi (seniority: 1)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 231|Mainnet#Epoch-231]]
 * Stake level: **None**

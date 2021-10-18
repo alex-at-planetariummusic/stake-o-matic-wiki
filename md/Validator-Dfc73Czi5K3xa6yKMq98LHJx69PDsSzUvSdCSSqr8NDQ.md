@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **None** (for 19 epochs)
+* Stake reason: Insufficient self stake: ◎1.029660877
+* Staking activity: stake account busy due to credits observed mismatch with transient stake account B7NiJkrZNKLLHNyZL21tb7dQxixunwRecf32ZTb3W8Wb
+* Vote account address: 2xT5m25m9mDkdpLV1mT5fWkvH15jGy1dm7anNQLzzYGA
+* Data Center: 14618-US-Ashburn
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **None** (for 18 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 233

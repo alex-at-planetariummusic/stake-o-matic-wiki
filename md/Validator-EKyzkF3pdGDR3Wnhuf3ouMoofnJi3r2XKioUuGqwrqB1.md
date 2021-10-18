@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 235: 172 blocks in 172 slots, 0% skip rate
+* Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎94528.645124967 - reserve depleted
+* Vote account address: GU5aJ7NPnwBTqreqdFj3Loi1TZBpDzgDhoX7SMNs5Wzq
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 25),24940-DE-Nuremburg (seniority: 10)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 233: 124 blocks in 124 slots, 0% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎98674.474580560, current stake amount: ◎100405.464618635 - removing ◎1730.990038075
 * Vote account address: GU5aJ7NPnwBTqreqdFj3Loi1TZBpDzgDhoX7SMNs5Wzq
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 6),24940-FI-Helsinki (seniority: 29)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 29),24940-DE-Nuremburg (seniority: 6)
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 229: 142 blocks in 148 slots, 5% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎100309.681012023, current stake amount: ◎100919.473299166 - removing ◎609.792287143
 * Vote account address: GU5aJ7NPnwBTqreqdFj3Loi1TZBpDzgDhoX7SMNs5Wzq
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),24940-FI-Helsinki (seniority: 31)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 31),24940-DE-Nuremburg (seniority: 4)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 227: 56 blocks in 56 slots, 0% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 8ejqQrtwx52rYKn1y7JLcAijxv7cUAKqxyi13LNaiu73
 * Vote account address: GU5aJ7NPnwBTqreqdFj3Loi1TZBpDzgDhoX7SMNs5Wzq
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 33),24940-DE-Nuremburg (seniority: 2)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),24940-FI-Helsinki (seniority: 33)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 224: 132 blocks in 132 slots, 0% skip rate

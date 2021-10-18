@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **Bonus** (for 51 epochs)
+* Stake reason: Good block production during epoch 235: 180 blocks in 180 slots, 0% skip rate
+* Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎94528.573812086 - reserve depleted
+* Vote account address: 7A9NSA1SZrszosi37WHSYARjAc3JuXxVqg3q94xjtpM3
+* Data Center: 212695-UA-Kivertsi
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 45)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 233: 120 blocks in 120 slots, 0% skip rate
@@ -295,14 +302,14 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎204435.866215401 - adding ◎2364.054246866
 * Vote account address: 7A9NSA1SZrszosi37WHSYARjAc3JuXxVqg3q94xjtpM3
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 31148-UA-Kyiv (seniority: 1),212695-UA-Kivertsi (seniority: 3)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 3),31148-UA-Kyiv (seniority: 1)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 257 blocks in 288 slots, 11% skip rate
 * Staking activity: target stake amount: ◎206350.634774050, current stake amount: ◎204319.167610701 - reserve depleted
 * Vote account address: 7A9NSA1SZrszosi37WHSYARjAc3JuXxVqg3q94xjtpM3
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 2),31148-UA-Kyiv (seniority: 2)
+* Resident Data Center(s): 31148-UA-Kyiv (seniority: 2),212695-UA-Kivertsi (seniority: 2)
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 186: 268 blocks in 300 slots, 11% skip rate

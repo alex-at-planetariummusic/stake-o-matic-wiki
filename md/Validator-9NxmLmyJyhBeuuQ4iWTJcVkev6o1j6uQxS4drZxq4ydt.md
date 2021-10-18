@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **None**
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25022.659963894 - removing ◎25021.659963894
+* Vote account address: FHzRAdYm8BNpgV9cDYMLmQNUff7GhX23ArXhVqE9t5pn
+* Data Center: 45102-JP-Tokyo
+* Resident Data Center(s): 45102-JP-Tokyo (seniority: 12)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 233: 39 blocks in 84 slots, 54% skip rate

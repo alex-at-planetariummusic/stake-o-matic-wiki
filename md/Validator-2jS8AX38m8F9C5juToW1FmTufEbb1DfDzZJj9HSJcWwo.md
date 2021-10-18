@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: Good block production during epoch 235: 122 blocks in 124 slots, 2% skip rate
+* Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎94528.479547259 - reserve depleted
+* Vote account address: D3DfFvmLBKkX9JJNEpJRXpM1pYTVPQ5dpPQRc9F49xk4
+* Data Center: 9009-RO-Europe/Bucharest
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 39),9009-RO-Europe/Bucharest (seniority: 4)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 233: 172 blocks in 172 slots, 0% skip rate
 * Staking activity: target stake amount: ◎94439.178943147, current stake amount: ◎96338.558451496 - removing ◎1899.379508349
 * Vote account address: D3DfFvmLBKkX9JJNEpJRXpM1pYTVPQ5dpPQRc9F49xk4
 * Data Center: 9009-RO-Europe/Bucharest
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 40),9009-RO-Europe/Bucharest (seniority: 3)
+* Resident Data Center(s): 9009-RO-Europe/Bucharest (seniority: 3),16276-CA-Beauharnois (seniority: 40)
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 232: 198 blocks in 208 slots, 5% skip rate
 * Staking activity: target stake amount: ◎96291.894840897, current stake amount: ◎97157.409298730 - removing ◎865.514457833
 * Vote account address: D3DfFvmLBKkX9JJNEpJRXpM1pYTVPQ5dpPQRc9F49xk4
 * Data Center: 9009-RO-Europe/Bucharest
-* Resident Data Center(s): 9009-RO-Europe/Bucharest (seniority: 2),16276-CA-Beauharnois (seniority: 41)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 41),9009-RO-Europe/Bucharest (seniority: 2)
 ### [[Mainnet Epoch 232|Mainnet#Epoch-232]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 231: 135 blocks in 140 slots, 4% skip rate
 * Staking activity: target stake amount: ◎97111.693149484, current stake amount: ◎98720.728191865 - removing ◎1609.035042381
 * Vote account address: D3DfFvmLBKkX9JJNEpJRXpM1pYTVPQ5dpPQRc9F49xk4
 * Data Center: 9009-RO-Europe/Bucharest
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 42),9009-RO-Europe/Bucharest (seniority: 1)
+* Resident Data Center(s): 9009-RO-Europe/Bucharest (seniority: 1),16276-CA-Beauharnois (seniority: 42)
 ### [[Mainnet Epoch 231|Mainnet#Epoch-231]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 230: 150 blocks in 168 slots, 11% skip rate

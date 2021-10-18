@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 235: 40 blocks in 40 slots, 0% skip rate
+* Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎25023.133138571 - reserve depleted
+* Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 233: 8 blocks in 44 slots, 82% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎25010.829933259 - reserve depleted
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-DE-Falkenstein (seniority: 5)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-DE-Nuremburg (seniority: 1)
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 228: 20 blocks in 44 slots, 55% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎25011.380284548 - adding ◎6933.135774672
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-DE-Nuremburg (seniority: 5)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),24940-DE-Falkenstein (seniority: 5)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 223: 86 blocks in 136 slots, 37% skip rate
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎104657.853982422 - removing ◎79657.853982422
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 6),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),24940-DE-Nuremburg (seniority: 6)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 222: 115 blocks in 116 slots, 1% skip rate
@@ -88,21 +95,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: GNNnaR8grfmzVzpU3zrKXVNd6GkVMr84YJTu1MhgdugX
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),24940-DE-Nuremburg (seniority: 9)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 9),24940-DE-Falkenstein (seniority: 3)
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 218: 10 blocks in 12 slots, 17% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account GNNnaR8grfmzVzpU3zrKXVNd6GkVMr84YJTu1MhgdugX
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 10),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-DE-Nuremburg (seniority: 10)
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 217: 8 blocks in 12 slots, 34% skip rate
 * Staking activity: stake account busy due to transient stake activation: GNNnaR8grfmzVzpU3zrKXVNd6GkVMr84YJTu1MhgdugX
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 11),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-DE-Nuremburg (seniority: 11)
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 329503 credits earned in epoch 216

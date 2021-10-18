@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **None**
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25011.778519112 - removing ◎25010.778519112
+* Vote account address: GSGfod5gGoSy7j11Lb7NaPAaMByTfzRUUYJoe3BgevMo
+* Data Center: 23470-US-Las Vegas
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 261462 credits earned in epoch 233

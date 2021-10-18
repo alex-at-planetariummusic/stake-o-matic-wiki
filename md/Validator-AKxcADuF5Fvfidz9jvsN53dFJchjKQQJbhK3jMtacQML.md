@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **None**
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25035.689815630 - removing ◎25034.689815630
+* Vote account address: 4oLXz1a3VgMA8j9gcMzQAdL8HunxXLRbZNDNVc2jHpHb
+* Data Center: 16276-PL-Warsaw
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 233: 12 blocks in 12 slots, 0% skip rate

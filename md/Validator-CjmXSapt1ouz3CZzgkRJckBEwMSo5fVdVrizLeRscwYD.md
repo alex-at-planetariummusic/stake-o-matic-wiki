@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **None**
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎94528.534526568 - removing ◎94527.534526568
+* Vote account address: B6nDYYLc2iwYqY3zdmavMmU9GjUL2hf79MkufviM2bXv
+* Data Center: 40676-US-America/Chicago
+* Resident Data Center(s): 40676-US-America/Chicago (seniority: 2),40676-US-Los Angeles (seniority: 29)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 233: 1232 blocks in 1240 slots, 1% skip rate
@@ -20,7 +27,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Eio1B27zTH1GyhX4R9D5JwP6CURtb3s9tspR7xo7iXoA
 * Vote account address: B6nDYYLc2iwYqY3zdmavMmU9GjUL2hf79MkufviM2bXv
 * Data Center: 40676-US-America/Chicago
-* Resident Data Center(s): 40676-US-Los Angeles (seniority: 32),40676-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 40676-US-America/Chicago (seniority: 1),40676-US-Los Angeles (seniority: 32)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 231|Mainnet#Epoch-231]]
 * Stake level: **Bonus** (for 2 epochs)

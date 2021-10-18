@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
+* Stake level: **Bonus** (for 51 epochs)
+* Stake reason: Good block production during epoch 235: 196 blocks in 200 slots, 2% skip rate
+* Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎94523.752676777 - reserve depleted
+* Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
+* Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 33)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 233: 176 blocks in 184 slots, 5% skip rate
@@ -123,14 +130,14 @@
 * Staking activity: target stake amount: ◎122212.013967839, current stake amount: ◎122114.709033936 - reserve depleted
 * Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),24961-DE-Europe/Berlin (seniority: 15)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 15),16276-CA-Beauharnois (seniority: 1)
 ### [[Mainnet Epoch 214|Mainnet#Epoch-214]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 213: 165 blocks in 192 slots, 15% skip rate
 * Staking activity: target stake amount: ◎122054.971079467, current stake amount: ◎123296.170340537 - removing ◎1241.199261070
 * Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),24961-DE-Europe/Berlin (seniority: 14)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 14),16276-CA-Beauharnois (seniority: 2)
 ### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 212: 140 blocks in 156 slots, 11% skip rate
@@ -153,7 +160,7 @@
 * Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎133362.603388354 - removing ◎5904.091123445
 * Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 11),16276-CA-Beauharnois (seniority: 5)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 5),24961-DE-Europe/Berlin (seniority: 11)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 28 epochs)
@@ -185,7 +192,7 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143784.165426070 - removing ◎3811.348624364
 * Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 7),16276-CA-Beauharnois (seniority: 9)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 9),24961-DE-Europe/Berlin (seniority: 7)
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 204: 179 blocks in 212 slots, 16% skip rate
@@ -200,7 +207,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151875.486682217 - removing ◎7048.236713211
 * Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 11),24961-DE-Europe/Berlin (seniority: 5)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 5),16276-CA-Beauharnois (seniority: 11)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 22 epochs)
@@ -208,7 +215,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152994.387436647 - removing ◎1199.075085187
 * Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 12),24961-DE-Europe/Berlin (seniority: 4)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 4),16276-CA-Beauharnois (seniority: 12)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 21 epochs)
@@ -224,7 +231,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186572.774543788 - removing ◎6384.470082611
 * Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 14),24961-DE-Europe/Berlin (seniority: 2)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 2),16276-CA-Beauharnois (seniority: 14)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 19 epochs)
@@ -232,7 +239,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: AUrSMVy29qawZVtYyoS6swtHePcYPiVzE667K9vC6FLh
 * Vote account address: 9vNLTLdwAdHw8EdiZrLzDtUpm3hp7E2MGaNi6SmdfBGz
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),16276-CA-Beauharnois (seniority: 15)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 15),24961-DE-Europe/Berlin (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
