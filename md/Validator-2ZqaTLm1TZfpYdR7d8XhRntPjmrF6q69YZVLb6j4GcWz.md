@@ -1,3 +1,10 @@
+### [[Testnet Epoch 244|Testnet#Epoch-244]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: No leader slots; 293066 credits earned in epoch 243
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5062.990723650 - removing ◎62.990723650
+* Vote account address: 3PP1W4ZrxtHvT7nr9AkzrGxNfRDgG26RtbPKQztBDRUV
+* Data Center: 56694-RU-Europe/Moscow
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 20)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 309837 credits earned in epoch 242
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.025647772 - adding ◎4998.974352228
 * Vote account address: 3PP1W4ZrxtHvT7nr9AkzrGxNfRDgG26RtbPKQztBDRUV
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 1),51167-DE-Düsseldorf (seniority: 22)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 22),56694-RU-Europe/Moscow (seniority: 1)
 ### [[Testnet Epoch 241|Testnet#Epoch-241]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 307027 credits earned in epoch 240
@@ -25,14 +32,14 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎40416.812091631 - removing ◎40415.812091631
 * Vote account address: 3PP1W4ZrxtHvT7nr9AkzrGxNfRDgG26RtbPKQztBDRUV
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 3),51167-DE-Düsseldorf (seniority: 24)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 24),56694-RU-Europe/Moscow (seniority: 3)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 236: 197 blocks in 220 slots, 11% skip rate
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎41485.687353389 - removing ◎1068.875261758
 * Vote account address: 3PP1W4ZrxtHvT7nr9AkzrGxNfRDgG26RtbPKQztBDRUV
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 4),51167-DE-Düsseldorf (seniority: 25)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 25),56694-RU-Europe/Moscow (seniority: 4)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 235: 103 blocks in 192 slots, 47% skip rate

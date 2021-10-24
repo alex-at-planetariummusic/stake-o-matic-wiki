@@ -1,3 +1,10 @@
+### [[Testnet Epoch 244|Testnet#Epoch-244]]
+* Stake level: **Bonus** (for 12 epochs)
+* Stake reason: Good block production during epoch 243: 238 blocks in 244 slots, 3% skip rate
+* Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎38116.953738428 - reserve depleted
+* Vote account address: 31pxG19AiTdoTjuHMogJx5yryyiSBXrFKxiKxa9iammu
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 29)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 242: 177 blocks in 188 slots, 6% skip rate
@@ -137,7 +144,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 7A8QaRisxzLBkB6wZm89EzikvJjXEnezF1Rd9jgYEvDc
 * Vote account address: 31pxG19AiTdoTjuHMogJx5yryyiSBXrFKxiKxa9iammu
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24940-DE-Falkenstein (seniority: 11)
 * infrastructure concentration 25.2% is too high; consider finding a new data center
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 10 epochs)
@@ -145,7 +152,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7A8QaRisxzLBkB6wZm89EzikvJjXEnezF1Rd9jgYEvDc
 * Vote account address: 31pxG19AiTdoTjuHMogJx5yryyiSBXrFKxiKxa9iammu
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Falkenstein (seniority: 10)
 * infrastructure concentration 25.9% is too high; consider finding a new data center
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 9 epochs)
@@ -167,7 +174,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 7A8QaRisxzLBkB6wZm89EzikvJjXEnezF1Rd9jgYEvDc
 * Vote account address: 31pxG19AiTdoTjuHMogJx5yryyiSBXrFKxiKxa9iammu
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24940-DE-Falkenstein (seniority: 7)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),24940-FI-Helsinki (seniority: 5)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 210: 176 blocks in 260 slots, 33% skip rate
@@ -195,7 +202,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7A8QaRisxzLBkB6wZm89EzikvJjXEnezF1Rd9jgYEvDc
 * Vote account address: 31pxG19AiTdoTjuHMogJx5yryyiSBXrFKxiKxa9iammu
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),24940-FI-Helsinki (seniority: 9)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 206: 210 blocks in 240 slots, 13% skip rate

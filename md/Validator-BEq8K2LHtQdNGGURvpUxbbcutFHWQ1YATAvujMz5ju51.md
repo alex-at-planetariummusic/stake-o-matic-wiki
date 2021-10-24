@@ -1,3 +1,10 @@
+### [[Testnet Epoch 244|Testnet#Epoch-244]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 243: 8 blocks in 12 slots, 34% skip rate
+* Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎5000.000000000 - reserve depleted
+* Vote account address: 6SE7j8Dv8imow6274eH5UkXS5dswsbM8ua6gSvjvXUmm
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 16276-EN-London (seniority: 18),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 242: 4 blocks in 28 slots, 86% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎45419.309366491 - removing ◎1124.263368268
 * Vote account address: 6SE7j8Dv8imow6274eH5UkXS5dswsbM8ua6gSvjvXUmm
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),16276-EN-London (seniority: 2)
+* Resident Data Center(s): 16276-EN-London (seniority: 2),16276-FR-Roubaix (seniority: 3)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 208: 8 blocks in 24 slots, 67% skip rate
@@ -193,7 +200,7 @@
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎5000.000000000 - adding ◎40419.309366491
 * Vote account address: 6SE7j8Dv8imow6274eH5UkXS5dswsbM8ua6gSvjvXUmm
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 2),16276-FR-Roubaix (seniority: 5)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),16276-EN-London (seniority: 2)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 206: 141 blocks in 260 slots, 46% skip rate
@@ -235,7 +242,7 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 6SE7j8Dv8imow6274eH5UkXS5dswsbM8ua6gSvjvXUmm
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),16276-FR-Strasbourg (seniority: 1)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),16276-FR-Roubaix (seniority: 5)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: poor block production during epoch 200: 56 blocks in 192 slots, 71% skip rate

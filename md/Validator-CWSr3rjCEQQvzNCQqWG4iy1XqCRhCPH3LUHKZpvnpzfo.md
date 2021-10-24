@@ -1,3 +1,9 @@
+### [[Testnet Epoch 244|Testnet#Epoch-244]]
+* Stake level: **None** (for 5 epochs)
+* Stake reason: Insufficient vote credits: 159216 credits earned in epoch 243
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: AKBebTQYqvTMFpMAo7SCcVRLbgJavntxTTd4zqGwcU1M
+* Data Center: 36493-CA-Toronto
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient vote credits: 75789 credits earned in epoch 242
