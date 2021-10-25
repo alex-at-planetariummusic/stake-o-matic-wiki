@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 239|Mainnet#Epoch-239]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 411460 credits earned in epoch 238
+* Staking activity: target stake amount: ◎94263.718198390, current stake amount: ◎25011.634212890 - reserve depleted
+* Vote account address: DtcaNALYREidB3nxz1dXyKBKQNU62kp2N5Wq98S3Yxzv
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 238|Mainnet#Epoch-238]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 237: 8 blocks in 8 slots, 0% skip rate

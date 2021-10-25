@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 239|Mainnet#Epoch-239]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 140101 credits earned in epoch 238
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎96084.096084165 - removing ◎96083.096084165
+* Vote account address: UgmcX7FwNdXbiWsHY2RaqZqTdhsZxx5y6on85j3s3tA
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 238|Mainnet#Epoch-238]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 237: 48 blocks in 48 slots, 0% skip rate
