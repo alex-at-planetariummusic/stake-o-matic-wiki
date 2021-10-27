@@ -1,3 +1,10 @@
+### [[Testnet Epoch 245|Testnet#Epoch-245]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 244
+* Staking activity: creating new stake account FHwpPKmSX8LEaDthgsiJ2hRQttTgqfebGWrJU3MhzPuM
+* Vote account address: F9qUAGkJZK4M5S8gA9JNxGDDnhuASiyYfaEaYWyDnNSE
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 35)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 243: 24 blocks in 24 slots, 0% skip rate

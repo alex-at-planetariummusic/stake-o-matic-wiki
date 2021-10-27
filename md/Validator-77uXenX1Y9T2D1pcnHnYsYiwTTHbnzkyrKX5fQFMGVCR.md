@@ -1,3 +1,10 @@
+### [[Testnet Epoch 245|Testnet#Epoch-245]]
+* Stake level: **None** (for 5 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 244
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.024312842 - not removing ◎0.024312842 (amount too small)
+* Vote account address: HLRpVt38d9E9v29SDSmjUHzN8tRFx2AyTX99mzgWrfy1
+* Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 13)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient vote credits: 2 credits earned in epoch 243
