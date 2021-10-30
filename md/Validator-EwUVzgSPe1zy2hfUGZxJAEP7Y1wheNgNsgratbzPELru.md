@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 240: 43 blocks in 44 slots, 3% skip rate
+* Staking activity: target stake amount: ◎92032.467022247, current stake amount: ◎94307.642009828 - removing ◎2275.174987581
+* Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 28)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 239: 52 blocks in 76 slots, 32% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 33bx3dgJL23NiNR7kJ7f6VAVbXB8TruEX4jbjZ5J1TTk
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),24940-DE-Falkenstein (seniority: 19)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 19),24940-FI-Helsinki (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 42 epochs)
@@ -111,7 +118,7 @@
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104659.411159097 - reserve depleted
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 17),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24940-DE-Falkenstein (seniority: 17)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 40 epochs)
@@ -119,7 +126,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 33bx3dgJL23NiNR7kJ7f6VAVbXB8TruEX4jbjZ5J1TTk
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24940-DE-Falkenstein (seniority: 16)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 16),24940-FI-Helsinki (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 39 epochs)
@@ -135,7 +142,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 33bx3dgJL23NiNR7kJ7f6VAVbXB8TruEX4jbjZ5J1TTk
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),24940-DE-Falkenstein (seniority: 14)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 14),24940-FI-Helsinki (seniority: 8)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 37 epochs)
@@ -143,7 +150,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 33bx3dgJL23NiNR7kJ7f6VAVbXB8TruEX4jbjZ5J1TTk
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),24940-DE-Falkenstein (seniority: 13)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 13),24940-FI-Helsinki (seniority: 9)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus** (for 36 epochs)
@@ -151,7 +158,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 33bx3dgJL23NiNR7kJ7f6VAVbXB8TruEX4jbjZ5J1TTk
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),24940-DE-Falkenstein (seniority: 12)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12),24940-FI-Helsinki (seniority: 10)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus** (for 35 epochs)
@@ -191,7 +198,7 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.933898338 - removing ◎3549.022044351
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),24940-FI-Helsinki (seniority: 15)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15),24940-DE-Falkenstein (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
@@ -199,7 +206,7 @@
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎127583.319037293 - removing ◎859.158610946
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),24940-FI-Helsinki (seniority: 16)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),24940-DE-Falkenstein (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 29 epochs)
@@ -207,7 +214,7 @@
 * Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎133357.334926452 - removing ◎5898.822661543
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-FI-Helsinki (seniority: 17)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 17),24940-DE-Falkenstein (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 28 epochs)
@@ -215,7 +222,7 @@
 * Staking activity: target stake amount: ◎133296.203844555, current stake amount: ◎134428.867878597 - removing ◎1132.664034042
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 18),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),24940-FI-Helsinki (seniority: 18)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 208|Mainnet#Epoch-208]]
 * Stake level: **Bonus** (for 27 epochs)
@@ -231,7 +238,7 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140043.019888976 - removing ◎377.205493437
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 20),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-FI-Helsinki (seniority: 20)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 25 epochs)
@@ -239,7 +246,7 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143780.584098343 - removing ◎3807.767296637
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-FI-Helsinki (seniority: 21)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 21),24940-DE-Falkenstein (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 24 epochs)

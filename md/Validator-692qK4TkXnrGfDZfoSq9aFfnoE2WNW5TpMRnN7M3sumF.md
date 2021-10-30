@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
+* Stake level: **Bonus** (for 30 epochs)
+* Stake reason: Good block production during epoch 240: 143 blocks in 148 slots, 4% skip rate
+* Staking activity: target stake amount: ◎92032.467022247, current stake amount: ◎93115.229804866 - removing ◎1082.762782619
+* Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 30)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 239: 178 blocks in 184 slots, 4% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎98674.474580560, current stake amount: ◎100405.608981684 - removing ◎1731.134401124
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 1),16276-CA-Beauharnois (seniority: 21)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 21),23470-US-Las Vegas (seniority: 1)
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 229: 142 blocks in 148 slots, 5% skip rate
@@ -81,21 +88,21 @@
 * Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101931.185330626 - removing ◎1060.080771082
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 4),16276-CA-Beauharnois (seniority: 18)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 18),23470-US-Las Vegas (seniority: 4)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 226: 148 blocks in 152 slots, 3% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 8nxVkdMrnvHUWwe9MGx5BERTVzJHLUz5sXbh2ndsrKzs
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 5),16276-CA-Beauharnois (seniority: 17)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 17),23470-US-Las Vegas (seniority: 5)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 224: 188 blocks in 196 slots, 5% skip rate
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104709.365085443 - removing ◎1071.397302920
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 6),16276-CA-Beauharnois (seniority: 16)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 16),23470-US-Las Vegas (seniority: 6)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 223: 199 blocks in 216 slots, 8% skip rate
@@ -109,14 +116,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 8nxVkdMrnvHUWwe9MGx5BERTVzJHLUz5sXbh2ndsrKzs
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 14),23470-US-Las Vegas (seniority: 8)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 8),16276-CA-Beauharnois (seniority: 14)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 221: 145 blocks in 148 slots, 3% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 8nxVkdMrnvHUWwe9MGx5BERTVzJHLUz5sXbh2ndsrKzs
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 13),23470-US-Las Vegas (seniority: 9)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 9),16276-CA-Beauharnois (seniority: 13)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 219: 175 blocks in 176 slots, 1% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎117608.867212503, current stake amount: ◎122174.350539592 - removing ◎4565.483327089
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 14),16276-CA-Beauharnois (seniority: 8)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 8),23470-US-Las Vegas (seniority: 14)
 ### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 214: 189 blocks in 204 slots, 8% skip rate
@@ -172,14 +179,14 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.954042137 - removing ◎3549.042188150
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 5),23470-US-Las Vegas (seniority: 17)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 17),16276-CA-Beauharnois (seniority: 5)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 211: 170 blocks in 196 slots, 14% skip rate
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎133426.531831320 - removing ◎6702.371404973
 * Vote account address: FpEPW2mhwkWobuzAeamPokAhoi731bkiLXXrptFiXTSR
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),23470-US-Las Vegas (seniority: 18)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 18),16276-CA-Beauharnois (seniority: 4)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 209: 4 blocks in 4 slots, 0% skip rate

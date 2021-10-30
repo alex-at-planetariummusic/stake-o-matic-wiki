@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 240: 63 blocks in 64 slots, 2% skip rate
+* Staking activity: target stake amount: ◎92032.467022247, current stake amount: ◎1.001995101 - reserve depleted
+* Vote account address: 2EWi8L6xp62VgTqFo3LnhoSP5sL9CWqYxvK7UA63qK9x
+* Data Center: 54825-JP-Tokyo
+* Resident Data Center(s): 54825-JP-Tokyo (seniority: 1)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Insufficient self stake: ◎0.000000000

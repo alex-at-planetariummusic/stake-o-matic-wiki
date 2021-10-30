@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
+* Stake level: **Bonus** (for 56 epochs)
+* Stake reason: Good block production during epoch 240: 158 blocks in 160 slots, 2% skip rate
+* Staking activity: target stake amount: ◎92032.467022247, current stake amount: ◎93115.145474035 - removing ◎1082.678451788
+* Vote account address: A8XYMkTzKNceJT7BKtRwGrg5KGgaXcjyoAYuthrjfKUi
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 46)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 239: 79 blocks in 80 slots, 2% skip rate
@@ -316,7 +323,7 @@
 * Staking activity: target stake amount: ◎207293.032432347, current stake amount: ◎205004.283735314 - reserve depleted
 * Vote account address: A8XYMkTzKNceJT7BKtRwGrg5KGgaXcjyoAYuthrjfKUi
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 2),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-DE-Europe/Berlin (seniority: 2)
 * infrastructure concentration 11.5% is too high; consider finding a new data center
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Bonus** (for 11 epochs)
@@ -338,14 +345,14 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎205587.216034517 - reserve depleted
 * Vote account address: A8XYMkTzKNceJT7BKtRwGrg5KGgaXcjyoAYuthrjfKUi
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24940-DE-Europe/Berlin (seniority: 3)
+* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 3),24940-FI-Helsinki (seniority: 1)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 278 blocks in 316 slots, 13% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: F73gAcY9XgKEyvfoZNRMBCEXJbbWfVp12zoHaaYKUfRz
 * Vote account address: A8XYMkTzKNceJT7BKtRwGrg5KGgaXcjyoAYuthrjfKUi
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Europe/Berlin (seniority: 2)
+* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 2),24940-FI-Helsinki (seniority: 2)
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 186: 197 blocks in 232 slots, 16% skip rate
