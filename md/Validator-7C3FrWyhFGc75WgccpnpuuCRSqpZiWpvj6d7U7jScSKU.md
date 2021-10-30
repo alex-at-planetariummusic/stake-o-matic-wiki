@@ -1,17 +1,24 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: No leader slots; 292235 credits earned in epoch 245
+* Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
+* Vote account address: ACRB3pC5WkjoTwBv66hqVNmyYVe8gV2nyj6NfQkaxxJw
+* Data Center: 21409-FR-Maurepas
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),21409-FR-Maurepas (seniority: 4)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 290685 credits earned in epoch 244
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38954.979182110 - removing ◎2296.662294496
 * Vote account address: ACRB3pC5WkjoTwBv66hqVNmyYVe8gV2nyj6NfQkaxxJw
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),21409-FR-Maurepas (seniority: 3)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 3),24940-DE-Falkenstein (seniority: 9)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 288570 credits earned in epoch 243
 * Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎1.000000000 - adding ◎38953.979182110
 * Vote account address: ACRB3pC5WkjoTwBv66hqVNmyYVe8gV2nyj6NfQkaxxJw
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Maurepas (seniority: 2),24940-DE-Falkenstein (seniority: 10)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),21409-FR-Maurepas (seniority: 2)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 242: 16 blocks in 28 slots, 43% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 245: 167 blocks in 228 slots, 27% skip rate
+* Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
+* Vote account address: 3akAsCwEVxbLJHxJS1eZGXGca1M6cV7MgxJPbBei5FC2
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 21)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 244: 135 blocks in 168 slots, 20% skip rate
@@ -102,14 +109,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 86CShpgu4hgyRcPos9LZXCXgRt2Ur61SBaUk7CU2nSbC
 * Vote account address: 3akAsCwEVxbLJHxJS1eZGXGca1M6cV7MgxJPbBei5FC2
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 2),16276-DE-Frankfurt (seniority: 6)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 6),8972-FR-Strasbourg (seniority: 2)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 227: 120 blocks in 236 slots, 50% skip rate
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: 3akAsCwEVxbLJHxJS1eZGXGca1M6cV7MgxJPbBei5FC2
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 5),8972-FR-Strasbourg (seniority: 3)
+* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 3),16276-DE-Frankfurt (seniority: 5)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 225: 7 blocks in 12 slots, 42% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: stake account busy due to transient stake activation: 86CShpgu4hgyRcPos9LZXCXgRt2Ur61SBaUk7CU2nSbC
 * Vote account address: 3akAsCwEVxbLJHxJS1eZGXGca1M6cV7MgxJPbBei5FC2
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2),8972-FR-Strasbourg (seniority: 6)
+* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 6),16276-DE-Frankfurt (seniority: 2)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 222: 42 blocks in 44 slots, 5% skip rate

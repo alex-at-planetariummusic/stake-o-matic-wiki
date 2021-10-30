@@ -1,10 +1,17 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 245: 136 blocks in 152 slots, 11% skip rate
+* Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
+* Vote account address: 4DbYbKudw4FayTuQtd8WSV5oQLrM4CM4nkpSU3E6XS2a
+* Data Center: 24961-DE-Waldshut-Tiengen
+* Resident Data Center(s): 24961-DE-Waldshut-Tiengen (seniority: 4),8560-ES-Europe/Madrid (seniority: 28)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 244: 108 blocks in 116 slots, 7% skip rate
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38954.979182110 - removing ◎2296.662294496
 * Vote account address: 4DbYbKudw4FayTuQtd8WSV5oQLrM4CM4nkpSU3E6XS2a
 * Data Center: 24961-DE-Waldshut-Tiengen
-* Resident Data Center(s): 8560-ES-Europe/Madrid (seniority: 29),24961-DE-Waldshut-Tiengen (seniority: 3)
+* Resident Data Center(s): 24961-DE-Waldshut-Tiengen (seniority: 3),8560-ES-Europe/Madrid (seniority: 29)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 243: 136 blocks in 144 slots, 6% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 4DbYbKudw4FayTuQtd8WSV5oQLrM4CM4nkpSU3E6XS2a
 * Data Center: 24961-DE-Waldshut-Tiengen
-* Resident Data Center(s): 8560-ES-Europe/Madrid (seniority: 31),24961-DE-Waldshut-Tiengen (seniority: 1)
+* Resident Data Center(s): 24961-DE-Waldshut-Tiengen (seniority: 1),8560-ES-Europe/Madrid (seniority: 31)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 30848 credits earned in epoch 241

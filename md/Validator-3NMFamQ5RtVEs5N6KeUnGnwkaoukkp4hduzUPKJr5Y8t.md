@@ -1,3 +1,10 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Bonus** (for 49 epochs)
+* Stake reason: Good block production during epoch 245: 350 blocks in 372 slots, 6% skip rate
+* Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
+* Vote account address: EHHWwwH81tpWhr5pu1JQqj5fWJhR7C8E38vefT2v37hB
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 43)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 244: 368 blocks in 396 slots, 8% skip rate
@@ -277,7 +284,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: AjmpAqgH2hEjSSxXwJhmLoT8SGDAZMqHsHbvd21PCyNs
 * Vote account address: EHHWwwH81tpWhr5pu1JQqj5fWJhR7C8E38vefT2v37hB
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-FR-Gravelines (seniority: 3)
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 196: 288 blocks in 344 slots, 17% skip rate
@@ -291,7 +298,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: AjmpAqgH2hEjSSxXwJhmLoT8SGDAZMqHsHbvd21PCyNs
 * Vote account address: EHHWwwH81tpWhr5pu1JQqj5fWJhR7C8E38vefT2v37hB
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 194: 342 blocks in 376 slots, 10% skip rate

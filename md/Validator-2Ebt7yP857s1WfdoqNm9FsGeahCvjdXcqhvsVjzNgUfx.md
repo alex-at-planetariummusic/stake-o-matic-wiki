@@ -1,24 +1,31 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 245: 154 blocks in 180 slots, 15% skip rate
+* Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
+* Vote account address: DrtKZKPtCHnnkmRcJkPvYZhC411UsmFmoNzeTqn2uEMp
+* Data Center: 57378-RU-Rostov-on-Don
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 19),22612-US-America/Chicago (seniority: 2),57378-RU-Rostov-on-Don (seniority: 1)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 244: 196 blocks in 212 slots, 8% skip rate
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38116.953738428 - removing ◎1458.636850814
 * Vote account address: DrtKZKPtCHnnkmRcJkPvYZhC411UsmFmoNzeTqn2uEMp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 20),22612-US-America/Chicago (seniority: 3)
+* Resident Data Center(s): 22612-US-America/Chicago (seniority: 3),16276-PL-Warsaw (seniority: 20)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 243: 249 blocks in 260 slots, 5% skip rate
 * Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎38116.953738428 - reserve depleted
 * Vote account address: DrtKZKPtCHnnkmRcJkPvYZhC411UsmFmoNzeTqn2uEMp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 22612-US-America/Chicago (seniority: 4),16276-PL-Warsaw (seniority: 19)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 19),22612-US-America/Chicago (seniority: 4)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 242: 173 blocks in 200 slots, 14% skip rate
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎39492.751969070 - removing ◎1375.798230642
 * Vote account address: DrtKZKPtCHnnkmRcJkPvYZhC411UsmFmoNzeTqn2uEMp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 18),22612-US-America/Chicago (seniority: 5)
+* Resident Data Center(s): 22612-US-America/Chicago (seniority: 5),16276-PL-Warsaw (seniority: 18)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 241: 217 blocks in 220 slots, 2% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎39500.594279906 - adding ◎916.217811725
 * Vote account address: DrtKZKPtCHnnkmRcJkPvYZhC411UsmFmoNzeTqn2uEMp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 22612-US-America/Chicago (seniority: 9),16276-PL-Warsaw (seniority: 14)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 14),22612-US-America/Chicago (seniority: 9)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 235: 237 blocks in 288 slots, 18% skip rate
 * Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39500.594279906 - reserve depleted
 * Vote account address: DrtKZKPtCHnnkmRcJkPvYZhC411UsmFmoNzeTqn2uEMp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 22612-US-America/Chicago (seniority: 10),16276-PL-Warsaw (seniority: 13)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 13),22612-US-America/Chicago (seniority: 10)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 234: 179 blocks in 224 slots, 21% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: DrtKZKPtCHnnkmRcJkPvYZhC411UsmFmoNzeTqn2uEMp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 9),22612-US-America/Chicago (seniority: 14)
+* Resident Data Center(s): 22612-US-America/Chicago (seniority: 14),16276-PL-Warsaw (seniority: 9)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 230: 223 blocks in 268 slots, 17% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Hu2NyjT2KsfMLFhzXRFbt7JTM2YhctTfzCEduYe9ieMF
 * Vote account address: DrtKZKPtCHnnkmRcJkPvYZhC411UsmFmoNzeTqn2uEMp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 22612-US-America/Chicago (seniority: 21),16276-PL-Warsaw (seniority: 2)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 2),22612-US-America/Chicago (seniority: 21)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 222: 189 blocks in 240 slots, 22% skip rate

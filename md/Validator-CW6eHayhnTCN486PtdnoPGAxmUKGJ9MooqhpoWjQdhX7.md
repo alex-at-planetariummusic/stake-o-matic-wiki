@@ -1,10 +1,17 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: Poor block production during epoch 245: 206 blocks in 376 slots, 46% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 7MvEM7sy4BadkRjiVWk7XFNwjDjNAyEzVh2TTVGLxENx
+* Data Center: 57043-NL-Europe/Amsterdam
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 4),14576-NL-Meppel (seniority: 12)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 244: 183 blocks in 360 slots, 50% skip rate
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎38116.953738428 - removing ◎33116.953738428
 * Vote account address: 7MvEM7sy4BadkRjiVWk7XFNwjDjNAyEzVh2TTVGLxENx
 * Data Center: 57043-NL-Amsterdam
-* Resident Data Center(s): 14576-NL-Meppel (seniority: 13),57043-NL-Amsterdam (seniority: 5)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 5),14576-NL-Meppel (seniority: 13)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 243: 31 blocks in 36 slots, 14% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎40416.812091631 - removing ◎40415.812091631
 * Vote account address: 7MvEM7sy4BadkRjiVWk7XFNwjDjNAyEzVh2TTVGLxENx
 * Data Center: 57043-NL-Amsterdam
-* Resident Data Center(s): 14576-NL-Meppel (seniority: 18),57043-NL-Amsterdam (seniority: 2)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 2),14576-NL-Meppel (seniority: 18)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 236: 165 blocks in 196 slots, 16% skip rate

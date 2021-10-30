@@ -1,3 +1,10 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 245: 268 blocks in 312 slots, 15% skip rate
+* Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
+* Vote account address: A3G7LkR6f3PjPFoSiYZmMdAEwxR5VVS8YhBUzhvyH9Nt
+* Data Center: 23470-US-Los Angeles
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 19)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 244: 291 blocks in 348 slots, 17% skip rate
@@ -32,14 +39,14 @@
 * Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎5000.000000000 - adding ◎41791.742268086
 * Vote account address: A3G7LkR6f3PjPFoSiYZmMdAEwxR5VVS8YhBUzhvyH9Nt
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),23470-US-Los Angeles (seniority: 14)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 14),16276-FR-Gravelines (seniority: 3)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 237: 187 blocks in 208 slots, 11% skip rate
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: A3G7LkR6f3PjPFoSiYZmMdAEwxR5VVS8YhBUzhvyH9Nt
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),23470-US-Los Angeles (seniority: 13)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 13),16276-FR-Gravelines (seniority: 4)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 236: 84 blocks in 224 slots, 63% skip rate
@@ -88,14 +95,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: AGy2atNXrzMWVAkLQWHxncwm1JB2L5ShqF2mVdpxScmT
 * Vote account address: A3G7LkR6f3PjPFoSiYZmMdAEwxR5VVS8YhBUzhvyH9Nt
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 8),16276-FR-Gravelines (seniority: 11)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 11),23470-US-Los Angeles (seniority: 8)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 229: 159 blocks in 208 slots, 24% skip rate
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
 * Vote account address: A3G7LkR6f3PjPFoSiYZmMdAEwxR5VVS8YhBUzhvyH9Nt
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 12),23470-US-Los Angeles (seniority: 7)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 7),16276-FR-Gravelines (seniority: 12)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 228: 167 blocks in 212 slots, 22% skip rate
@@ -116,21 +123,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: AGy2atNXrzMWVAkLQWHxncwm1JB2L5ShqF2mVdpxScmT
 * Vote account address: A3G7LkR6f3PjPFoSiYZmMdAEwxR5VVS8YhBUzhvyH9Nt
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 4),16276-FR-Gravelines (seniority: 15)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 15),23470-US-Los Angeles (seniority: 4)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 224: 180 blocks in 232 slots, 23% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: AGy2atNXrzMWVAkLQWHxncwm1JB2L5ShqF2mVdpxScmT
 * Vote account address: A3G7LkR6f3PjPFoSiYZmMdAEwxR5VVS8YhBUzhvyH9Nt
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 16),23470-US-Los Angeles (seniority: 3)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 3),16276-FR-Gravelines (seniority: 16)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 223: 184 blocks in 224 slots, 18% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account AGy2atNXrzMWVAkLQWHxncwm1JB2L5ShqF2mVdpxScmT
 * Vote account address: A3G7LkR6f3PjPFoSiYZmMdAEwxR5VVS8YhBUzhvyH9Nt
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 17),23470-US-Los Angeles (seniority: 2)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 2),16276-FR-Gravelines (seniority: 17)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 222: 200 blocks in 244 slots, 19% skip rate

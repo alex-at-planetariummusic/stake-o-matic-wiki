@@ -1,10 +1,17 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 245: 157 blocks in 180 slots, 13% skip rate
+* Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
+* Vote account address: GmohTyWCNshfQ8a8v8msFyfpAABSLGGdcwmRNqK2oca
+* Data Center: 42655-UA-Europe/Kiev
+* Resident Data Center(s): 41435-UA-Kyiv (seniority: 34),42655-UA-Europe/Kiev (seniority: 5)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 244: 180 blocks in 212 slots, 16% skip rate
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38116.953738428 - removing ◎1458.636850814
 * Vote account address: GmohTyWCNshfQ8a8v8msFyfpAABSLGGdcwmRNqK2oca
 * Data Center: 42655-UA-Europe/Kiev
-* Resident Data Center(s): 41435-UA-Kyiv (seniority: 35),42655-UA-Europe/Kiev (seniority: 4)
+* Resident Data Center(s): 42655-UA-Europe/Kiev (seniority: 4),41435-UA-Kyiv (seniority: 35)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 243: 218 blocks in 228 slots, 5% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎39492.751969070 - removing ◎1375.798230642
 * Vote account address: GmohTyWCNshfQ8a8v8msFyfpAABSLGGdcwmRNqK2oca
 * Data Center: 42655-UA-Europe/Kiev
-* Resident Data Center(s): 41435-UA-Kyiv (seniority: 37),42655-UA-Europe/Kiev (seniority: 2)
+* Resident Data Center(s): 42655-UA-Europe/Kiev (seniority: 2),41435-UA-Kyiv (seniority: 37)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 241: 136 blocks in 192 slots, 30% skip rate
 * Staking activity: target stake amount: ◎39492.751969070, current stake amount: ◎40113.573861180 - removing ◎620.821892110
 * Vote account address: GmohTyWCNshfQ8a8v8msFyfpAABSLGGdcwmRNqK2oca
 * Data Center: 42655-UA-Europe/Kiev
-* Resident Data Center(s): 42655-UA-Europe/Kiev (seniority: 1),41435-UA-Kyiv (seniority: 38)
+* Resident Data Center(s): 41435-UA-Kyiv (seniority: 38),42655-UA-Europe/Kiev (seniority: 1)
 ### [[Testnet Epoch 241|Testnet#Epoch-241]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 240: 166 blocks in 196 slots, 16% skip rate

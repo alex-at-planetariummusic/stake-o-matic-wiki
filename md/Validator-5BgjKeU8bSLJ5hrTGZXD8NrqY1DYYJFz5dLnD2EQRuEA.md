@@ -1,3 +1,10 @@
+### [[Testnet Epoch 246|Testnet#Epoch-246]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 291466 credits earned in epoch 245
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: FgMo4xy5V7G7kkjpn6RekVybam3ZiiWHXoPXDbkQQVDx
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 10)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 289862 credits earned in epoch 244
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎41839.923678665 - removing ◎36839.923678665
 * Vote account address: FgMo4xy5V7G7kkjpn6RekVybam3ZiiWHXoPXDbkQQVDx
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 21),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),23470-US-Piscataway (seniority: 21)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 231: 182 blocks in 216 slots, 16% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 4SvQWG6V3nL2GSotZShY1Zo8rJahMmWDipqP7WrxjTH1
 * Vote account address: FgMo4xy5V7G7kkjpn6RekVybam3ZiiWHXoPXDbkQQVDx
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),23470-US-Piscataway (seniority: 23)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 23),24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 229: 218 blocks in 272 slots, 20% skip rate
