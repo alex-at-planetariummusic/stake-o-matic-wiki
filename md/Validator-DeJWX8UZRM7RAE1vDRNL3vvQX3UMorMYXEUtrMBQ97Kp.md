@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **Bonus** (for 25 epochs)
+* Stake reason: Good block production during epoch 241: 155 blocks in 176 slots, 12% skip rate
+* Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.458713110 - removing ◎266.500184982
+* Vote account address: 9RESCLjQJ8yNogof4SdyWPUkzixNveEADFvrxr6dYCwL
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 16)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 240: 88 blocks in 112 slots, 22% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎96291.894840897, current stake amount: ◎97157.981876986 - removing ◎866.087036089
 * Vote account address: 9RESCLjQJ8yNogof4SdyWPUkzixNveEADFvrxr6dYCwL
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),16276-FR-Roubaix (seniority: 8)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),21409-FR-Europe/Paris (seniority: 1)
 ### [[Mainnet Epoch 232|Mainnet#Epoch-232]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 231: 171 blocks in 172 slots, 1% skip rate
@@ -74,21 +81,21 @@
 * Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎100357.642683222 - reserve depleted
 * Vote account address: 9RESCLjQJ8yNogof4SdyWPUkzixNveEADFvrxr6dYCwL
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),16276-FR-Roubaix (seniority: 5)
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 228: 166 blocks in 188 slots, 12% skip rate
 * Staking activity: target stake amount: ◎100309.681012023, current stake amount: ◎100919.436813281 - removing ◎609.755801258
 * Vote account address: 9RESCLjQJ8yNogof4SdyWPUkzixNveEADFvrxr6dYCwL
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),16276-FR-Roubaix (seniority: 4)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 227: 112 blocks in 152 slots, 27% skip rate
 * Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101930.179627151 - removing ◎1059.075067607
 * Vote account address: 9RESCLjQJ8yNogof4SdyWPUkzixNveEADFvrxr6dYCwL
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),21409-FR-Europe/Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),16276-FR-Roubaix (seniority: 3)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 226: 149 blocks in 180 slots, 18% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104712.010744716 - removing ◎1074.042962193
 * Vote account address: 9RESCLjQJ8yNogof4SdyWPUkzixNveEADFvrxr6dYCwL
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),21409-FR-Europe/Paris (seniority: 8)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 223: 163 blocks in 180 slots, 10% skip rate

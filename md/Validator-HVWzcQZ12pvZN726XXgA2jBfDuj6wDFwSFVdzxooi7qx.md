@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **Bonus** (for 11 epochs)
+* Stake reason: Good block production during epoch 241: 142 blocks in 148 slots, 5% skip rate
+* Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.583336159 - removing ◎266.624808031
+* Vote account address: 7DJunpQm9vgLXnspokwjivkdX6UkugT3HZs4prjsPkG4
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 10),16276-FR-Gravelines (seniority: 33)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 240: 183 blocks in 184 slots, 1% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎94439.178943147, current stake amount: ◎97158.773507624 - removing ◎2719.594564477
 * Vote account address: 7DJunpQm9vgLXnspokwjivkdX6UkugT3HZs4prjsPkG4
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 3),16276-FR-Gravelines (seniority: 40)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 40),23470-US-Miami (seniority: 3)
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 232: 35 blocks in 36 slots, 3% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 21cfUNFQb2ta12fKZieCEcDUGw1DaEarx2S8NQ4HekBn
 * Vote account address: 7DJunpQm9vgLXnspokwjivkdX6UkugT3HZs4prjsPkG4
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 2),16276-FR-Gravelines (seniority: 41)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 41),23470-US-Miami (seniority: 2)
 ### [[Mainnet Epoch 232|Mainnet#Epoch-232]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 231: 154 blocks in 156 slots, 2% skip rate

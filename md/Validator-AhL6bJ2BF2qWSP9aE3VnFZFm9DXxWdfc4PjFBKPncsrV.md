@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **Bonus** (for 43 epochs)
+* Stake reason: Good block production during epoch 241: 194 blocks in 204 slots, 5% skip rate
+* Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.358769120 - removing ◎266.400240992
+* Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 42)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 240: 174 blocks in 176 slots, 2% skip rate
@@ -235,7 +242,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151870.283929987 - removing ◎7043.033960981
 * Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 8),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-EN-London (seniority: 8)
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 202: 162 blocks in 228 slots, 29% skip rate
@@ -256,7 +263,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186567.774691917 - removing ◎6379.470230740
 * Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 5),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-EN-London (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 5 epochs)
@@ -272,7 +279,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎200088.436011552 - removing ◎7830.688784018
 * Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),16276-EN-London (seniority: 3)
+* Resident Data Center(s): 16276-EN-London (seniority: 3),24940-FI-Helsinki (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -288,7 +295,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎1.001659482 - adding ◎199977.259084419
 * Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),16276-EN-London (seniority: 1)
+* Resident Data Center(s): 16276-EN-London (seniority: 1),24940-FI-Helsinki (seniority: 8)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus**

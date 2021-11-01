@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **Bonus** (for 43 epochs)
+* Stake reason: Good block production during epoch 241: 101 blocks in 108 slots, 7% skip rate
+* Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.457635378 - removing ◎266.499107250
+* Vote account address: E8ajDvUp25ibh2S5YDpLHABKNJA6JSAuymFGn4zaxPSn
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 42)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 240: 123 blocks in 136 slots, 10% skip rate
@@ -249,7 +256,7 @@
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180285.907165237 - removing ◎27371.398058473
 * Vote account address: E8ajDvUp25ibh2S5YDpLHABKNJA6JSAuymFGn4zaxPSn
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-DE-Frankfurt (seniority: 6)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 6),24940-FI-Helsinki (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 6 epochs)
@@ -273,7 +280,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎200091.601570977 - removing ◎7833.854343443
 * Vote account address: E8ajDvUp25ibh2S5YDpLHABKNJA6JSAuymFGn4zaxPSn
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 3),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),16276-DE-Frankfurt (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -281,7 +288,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account EquziJhxkMXuUMX1pNUD3PoBitt5SNUoLFdPKNtnamyT
 * Vote account address: E8ajDvUp25ibh2S5YDpLHABKNJA6JSAuymFGn4zaxPSn
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),16276-DE-Frankfurt (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 2 epochs)

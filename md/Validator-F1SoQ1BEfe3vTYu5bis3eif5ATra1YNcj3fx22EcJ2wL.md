@@ -1,31 +1,38 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 241: 102 blocks in 160 slots, 37% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎92072.203855214 - removing ◎67072.203855214
+* Vote account address: 4cVfVgD3wVw4cCUpzCyDDtLoaBeDcHBYx5SxairoFAtM
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 7),57494-RU-Europe/Moscow (seniority: 9)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 240: 90 blocks in 136 slots, 34% skip rate
 * Staking activity: target stake amount: ◎92032.467022247, current stake amount: ◎93114.581035736 - removing ◎1082.114013489
 * Vote account address: 4cVfVgD3wVw4cCUpzCyDDtLoaBeDcHBYx5SxairoFAtM
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 8),57494-RU-Europe/Moscow (seniority: 10)
+* Resident Data Center(s): 57494-RU-Europe/Moscow (seniority: 10),16276-EN-London (seniority: 8)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 239: 127 blocks in 164 slots, 23% skip rate
 * Staking activity: target stake amount: ◎93071.681865665, current stake amount: ◎94304.548621048 - removing ◎1232.866755383
 * Vote account address: 4cVfVgD3wVw4cCUpzCyDDtLoaBeDcHBYx5SxairoFAtM
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 7),57494-RU-Europe/Moscow (seniority: 11)
+* Resident Data Center(s): 57494-RU-Europe/Moscow (seniority: 11),16276-EN-London (seniority: 7)
 ### [[Mainnet Epoch 239|Mainnet#Epoch-239]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 238: 150 blocks in 176 slots, 15% skip rate
 * Staking activity: target stake amount: ◎94263.718198390, current stake amount: ◎96145.929287081 - removing ◎1882.211088691
 * Vote account address: 4cVfVgD3wVw4cCUpzCyDDtLoaBeDcHBYx5SxairoFAtM
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 6),57494-RU-Europe/Moscow (seniority: 12)
+* Resident Data Center(s): 57494-RU-Europe/Moscow (seniority: 12),16276-EN-London (seniority: 6)
 ### [[Mainnet Epoch 238|Mainnet#Epoch-238]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 237: 114 blocks in 132 slots, 14% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account E9d7zT3iGs3XYt749uLB3XQWDEbH9ZxjmuR7Jc9kfAR7
 * Vote account address: 4cVfVgD3wVw4cCUpzCyDDtLoaBeDcHBYx5SxairoFAtM
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 5),57494-RU-Europe/Moscow (seniority: 13)
+* Resident Data Center(s): 57494-RU-Europe/Moscow (seniority: 13),16276-EN-London (seniority: 5)
 ### [[Mainnet Epoch 237|Mainnet#Epoch-237]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 236: 131 blocks in 140 slots, 7% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎94527.977046660 - reserve depleted
 * Vote account address: 4cVfVgD3wVw4cCUpzCyDDtLoaBeDcHBYx5SxairoFAtM
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 3),57494-RU-Europe/Moscow (seniority: 15)
+* Resident Data Center(s): 57494-RU-Europe/Moscow (seniority: 15),16276-EN-London (seniority: 3)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 233: 151 blocks in 152 slots, 1% skip rate

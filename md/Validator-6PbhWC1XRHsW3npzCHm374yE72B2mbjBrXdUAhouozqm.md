@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **Bonus** (for 43 epochs)
+* Stake reason: Good block production during epoch 241: 103 blocks in 104 slots, 1% skip rate
+* Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.573030882 - removing ◎266.614502754
+* Vote account address: BeNvYv2pd3MRJBBSGiMPSRVYcafKAXocNNp79GoaHfoP
+* Data Center: 16276-PL-Warsaw
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 42)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 240: 161 blocks in 172 slots, 7% skip rate
@@ -251,7 +258,7 @@
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180289.585809254 - removing ◎27375.076702490
 * Vote account address: BeNvYv2pd3MRJBBSGiMPSRVYcafKAXocNNp79GoaHfoP
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 6),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-PL-Warsaw (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 6 epochs)
@@ -267,7 +274,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎192367.862586821 - removing ◎5852.286598731
 * Vote account address: BeNvYv2pd3MRJBBSGiMPSRVYcafKAXocNNp79GoaHfoP
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-PL-Warsaw (seniority: 4)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 4),24940-FI-Helsinki (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 4 epochs)

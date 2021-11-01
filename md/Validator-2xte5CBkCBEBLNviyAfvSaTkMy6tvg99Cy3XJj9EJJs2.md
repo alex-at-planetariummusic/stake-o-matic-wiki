@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000475988 - not removing ◎0.000475988 (amount too small)
+* Vote account address: EFEKcHrUBsRoQkuTSJAQNZnj1u8h9oE4LoCYerednc3F
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 51)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **None**
 * Stake reason: Insufficient self stake: ◎0.000000000

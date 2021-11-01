@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: Poor block production during epoch 241: 44 blocks in 68 slots, 36% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.692596890 - removing ◎11.692596890
+* Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 31)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 240: 66 blocks in 112 slots, 42% skip rate
@@ -207,14 +214,14 @@
 * Staking activity: target stake amount: ◎134361.831949474, current stake amount: ◎139735.460966121 - removing ◎5373.629016647
 * Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 11),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-FR-Roubaix (seniority: 11)
 ### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 206: 180 blocks in 204 slots, 12% skip rate
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.545444218 - removing ◎376.731048679
 * Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 10),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-FR-Roubaix (seniority: 10)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 25 epochs)
@@ -230,7 +237,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144901.599957322 - removing ◎1190.432950966
 * Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),24940-DE-Falkenstein (seniority: 6)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),16276-FR-Roubaix (seniority: 8)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)
@@ -238,7 +245,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151873.767208410 - removing ◎7046.517239404
 * Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),16276-FR-Roubaix (seniority: 7)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 7),24940-DE-Falkenstein (seniority: 7)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 22 epochs)
@@ -270,7 +277,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: FCFNp7MitrZG438Wtm4xh1nKdXH86G5MsPWTpnRuLegm
 * Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-FR-Roubaix (seniority: 3)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),24940-DE-Falkenstein (seniority: 11)
 * Insufficient self stake: ◎0.513475470
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
@@ -286,7 +293,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200091.055228843 - removing ◎7097.746939280
 * Vote account address: DCkFCCEQCuRTcJ3y4rTnWyXnQsi5abfCFXPZZ7pjPJqG
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 13),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),24940-DE-Falkenstein (seniority: 13)
 * Insufficient self stake: ◎0.512893558
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 16 epochs)

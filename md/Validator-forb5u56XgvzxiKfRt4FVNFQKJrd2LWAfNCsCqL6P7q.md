@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000927517 - not removing ◎0.000927517 (amount too small)
+* Vote account address: 76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857
+* Data Center: 23881-HK-Asia/Hong_Kong
+* Resident Data Center(s): 23881-HK-Asia/Hong_Kong (seniority: 27)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient testnet participation
@@ -214,7 +221,7 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎25022.155933797 - adding ◎114643.658461742
 * Vote account address: 76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857
 * Data Center: 23881-HK-Asia/Hong_Kong
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),23881-HK-Asia/Hong_Kong (seniority: 2)
+* Resident Data Center(s): 23881-HK-Asia/Hong_Kong (seniority: 2),24940-FI-Helsinki (seniority: 2)
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 205: 346 blocks in 664 slots, 48% skip rate

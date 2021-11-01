@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 241: 33 blocks in 44 slots, 25% skip rate
+* Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.304019144 - removing ◎266.345491016
+* Vote account address: DHXbmu3KUhHYn2Trned5ZUaGC6GRgHYhJoRbCr75XQxj
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 38)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 240: 85 blocks in 108 slots, 22% skip rate
@@ -179,14 +186,14 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.396957513 - removing ◎3548.485103526
 * Vote account address: DHXbmu3KUhHYn2Trned5ZUaGC6GRgHYhJoRbCr75XQxj
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 14),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),16276-FR-Roubaix (seniority: 14)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 211: 196 blocks in 208 slots, 6% skip rate
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎127583.079231039 - removing ◎858.918804692
 * Vote account address: DHXbmu3KUhHYn2Trned5ZUaGC6GRgHYhJoRbCr75XQxj
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),16276-FR-Roubaix (seniority: 13)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 13),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 209: 213 blocks in 240 slots, 12% skip rate
@@ -200,7 +207,7 @@
 * Staking activity: target stake amount: ◎133296.203844555, current stake amount: ◎134428.620489596 - removing ◎1132.416645041
 * Vote account address: DHXbmu3KUhHYn2Trned5ZUaGC6GRgHYhJoRbCr75XQxj
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 11),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-FR-Roubaix (seniority: 11)
 ### [[Mainnet Epoch 208|Mainnet#Epoch-208]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 207: 168 blocks in 176 slots, 5% skip rate
@@ -222,7 +229,7 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143782.458677062 - removing ◎3809.641875356
 * Vote account address: DHXbmu3KUhHYn2Trned5ZUaGC6GRgHYhJoRbCr75XQxj
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),24940-DE-Falkenstein (seniority: 7)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),16276-FR-Roubaix (seniority: 8)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 24 epochs)
@@ -238,7 +245,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151873.516633984 - removing ◎7046.266664978
 * Vote account address: DHXbmu3KUhHYn2Trned5ZUaGC6GRgHYhJoRbCr75XQxj
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),16276-FR-Roubaix (seniority: 6)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 6),24940-DE-Falkenstein (seniority: 9)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 22 epochs)
@@ -270,7 +277,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 86PMzxuBUK6GujQjjSqw6uEdd6yyMnE7TWzA8UDd6R4P
 * Vote account address: DHXbmu3KUhHYn2Trned5ZUaGC6GRgHYhJoRbCr75XQxj
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 13),16276-FR-Roubaix (seniority: 2)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),24940-DE-Falkenstein (seniority: 13)
 * Insufficient self stake: ◎0.513407849
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
