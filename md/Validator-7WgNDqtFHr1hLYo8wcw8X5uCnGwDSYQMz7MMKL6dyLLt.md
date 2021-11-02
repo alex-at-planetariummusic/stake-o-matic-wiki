@@ -1,3 +1,10 @@
+### [[Testnet Epoch 247|Testnet#Epoch-247]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 65005 credits earned in epoch 246
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎35961.594021946 - removing ◎35960.594021946
+* Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 44)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 245: 99 blocks in 172 slots, 43% skip rate

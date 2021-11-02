@@ -1,3 +1,10 @@
+### [[Testnet Epoch 247|Testnet#Epoch-247]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 246: 175 blocks in 196 slots, 11% skip rate
+* Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
+* Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
+* Data Center: 24961-DE-Schopfheim
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 20)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 245: 181 blocks in 188 slots, 4% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39500.594279906 - reserve depleted
 * Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 11),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),24961-DE-Schopfheim (seniority: 11)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 234: 106 blocks in 176 slots, 40% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 7),21409-FR-Europe/Paris (seniority: 9)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),24961-DE-Schopfheim (seniority: 7)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 230: 168 blocks in 204 slots, 18% skip rate
@@ -109,21 +116,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: 2XTEY8MUn4LoRCG3P9JC5KReG6NHXNJWQwk2FJoReFXK
 * Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 4),21409-FR-Europe/Paris (seniority: 12)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 12),24961-DE-Schopfheim (seniority: 4)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 227: 16 blocks in 28 slots, 43% skip rate
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),24961-DE-Schopfheim (seniority: 3)
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 3),21409-FR-Europe/Paris (seniority: 13)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 225: 31 blocks in 40 slots, 23% skip rate
 * Staking activity: stake account busy due to transient stake activation: 2XTEY8MUn4LoRCG3P9JC5KReG6NHXNJWQwk2FJoReFXK
 * Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14),24961-DE-Schopfheim (seniority: 2)
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 2),21409-FR-Europe/Paris (seniority: 14)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 224: 7 blocks in 8 slots, 13% skip rate
@@ -158,21 +165,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: 2XTEY8MUn4LoRCG3P9JC5KReG6NHXNJWQwk2FJoReFXK
 * Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 19),24961-DE-Schopfheim (seniority: 1)
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 1),21409-FR-Europe/Paris (seniority: 19)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 215: 246 blocks in 288 slots, 15% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 2XTEY8MUn4LoRCG3P9JC5KReG6NHXNJWQwk2FJoReFXK
 * Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 2),21409-FR-Europe/Paris (seniority: 20)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 20),24961-DE-Schopfheim (seniority: 2)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 214: 80 blocks in 252 slots, 69% skip rate
 * Staking activity: stake account busy due to transient stake activation: 2XTEY8MUn4LoRCG3P9JC5KReG6NHXNJWQwk2FJoReFXK
 * Vote account address: EyaRMbX2NYCMm4DvnnFhSe9PBfSH2NKerZCzdCtGS7WE
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 21),24961-DE-Schopfheim (seniority: 1)
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 1),21409-FR-Europe/Paris (seniority: 21)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 213: 215 blocks in 264 slots, 19% skip rate
