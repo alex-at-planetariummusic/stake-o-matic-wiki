@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
+* Stake level: **None** (for 13 epochs)
+* Stake reason: Insufficient vote credits: 91046 credits earned in epoch 242
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000212068 - not removing ◎0.000212068 (amount too small)
+* Vote account address: DoGSy8uzT9MnfGYxLqwGicjxhTQCevnz25qYKTRiJNDy
+* Data Center: 16276-FR-Gravelines
 ### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
 * Stake level: **None** (for 12 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 241

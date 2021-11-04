@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 242: 8 blocks in 8 slots, 0% skip rate
+* Staking activity: target stake amount: ◎89892.879101639, current stake amount: ◎25011.355187556 - reserve depleted
+* Vote account address: G8GqFzoEZrxHqV279nYxD5PX1vWWHvxWHkBDkXU2qMy6
+* Data Center: 18450-US-Escanaba
+* Resident Data Center(s): 18450-US-Escanaba (seniority: 1)
 ### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 347336 credits earned in epoch 241
