@@ -1,3 +1,9 @@
+### [[Testnet Epoch 248|Testnet#Epoch-248]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 144182 credits earned in epoch 247
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5029.947205542 - removing ◎5028.947205542
+* Vote account address: opticwMwZmft1MPS7CtgymmJxaWAFeHytshmAEyHWSL
+* Data Center: 577-CA-Toronto
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Baseline** (for 7 epochs)
 * Stake reason: Poor block production during epoch 246: 0 blocks in 12 slots, 100% skip rate
