@@ -1,3 +1,9 @@
+### [[Testnet Epoch 249|Testnet#Epoch-249]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 248: 25 blocks in 84 slots, 71% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎35116.660877845 - removing ◎30116.660877845
+* Vote account address: 8wgVMYrgoZLinrdmX8H3msxyxbVgd5f6qhHgjiBJyf1f
+* Data Center: 47359-UA-Zaporizhzhya
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 247: 58 blocks in 100 slots, 42% skip rate

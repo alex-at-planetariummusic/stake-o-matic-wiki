@@ -1,3 +1,10 @@
+### [[Testnet Epoch 249|Testnet#Epoch-249]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 248: 11 blocks in 20 slots, 45% skip rate
+* Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎1.011450676 - reserve depleted
+* Vote account address: opticwMwZmft1MPS7CtgymmJxaWAFeHytshmAEyHWSL
+* Data Center: 577-CA-Toronto
+* Resident Data Center(s): 577-CA-Toronto (seniority: 1)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 144182 credits earned in epoch 247
