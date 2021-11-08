@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **None** (for 9 epochs)
+* Stake reason: Insufficient self stake: ◎10.373211382
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 6syLbA7pHFWGJetPdB5Hyzf33r7B6zZK7qurwCv4Afqk
+* Data Center: 16509-US-Boardman
+* Resident Data Center(s): 16509-US-Boardman (seniority: 11)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **None** (for 8 epochs)
 * Stake reason: Insufficient self stake: ◎10.373211382

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **None** (for 9 epochs)
+* Stake reason: Insufficient self stake: ◎5.209179455
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: FePX54LqimFFoShNuhTSUv6bV4L3rMZq8CX9BeH6SqYf
+* Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 22)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **None** (for 8 epochs)
 * Stake reason: Insufficient self stake: ◎5.209179455

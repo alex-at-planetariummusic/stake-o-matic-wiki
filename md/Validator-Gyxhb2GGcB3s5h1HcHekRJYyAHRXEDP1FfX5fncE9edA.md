@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **None** (for 9 epochs)
+* Stake reason: Insufficient vote credits: 19814 credits earned in epoch 243
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.002231506 - not removing ◎0.002231506 (amount too small)
+* Vote account address: 2xjAQsHLsV36NLFkxdApzLg4SNqm15mNqYaBQ4xp5joh
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 31)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **None** (for 8 epochs)
 * Stake reason: Insufficient self stake: ◎0.000000000

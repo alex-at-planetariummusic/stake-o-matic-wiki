@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 243: 176 blocks in 192 slots, 9% skip rate
+* Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.829038804 - removing ◎546.017248200
+* Vote account address: 9iEFfC6qCU6DBTWxL84YQdpNmpZ9yBBu4sW62yeiEVKe
+* Data Center: 9009-RO-Bucharest
+* Resident Data Center(s): 9009-RO-Bucharest (seniority: 45)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 242: 117 blocks in 140 slots, 17% skip rate
@@ -347,7 +354,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: HNyHBhmTnTNcxTryptBDGhJE4FLeMytQzcyW1FdaaMWD
 * Vote account address: 9iEFfC6qCU6DBTWxL84YQdpNmpZ9yBBu4sW62yeiEVKe
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 9009-RO-Bucharest (seniority: 4),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),9009-RO-Bucharest (seniority: 4)
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 11.2% is too high; find a new data center

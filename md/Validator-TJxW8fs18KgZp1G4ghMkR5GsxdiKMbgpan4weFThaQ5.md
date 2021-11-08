@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 342117 credits earned in epoch 243
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.000000000 - adding ◎24999.000000000
+* Vote account address: 8qPCNWqVehF1Sc7YgUKUr7DUZtt514WHF71Wah8ZTkgR
+* Data Center: 16276-EN-London
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 2428 credits earned in epoch 242

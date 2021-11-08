@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **Bonus** (for 59 epochs)
+* Stake reason: Good block production during epoch 243: 150 blocks in 152 slots, 2% skip rate
+* Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89935.300875012 - removing ◎546.489084408
+* Vote account address: GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt
+* Data Center: 20326-US-Pittsburgh
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 41),20326-US-Pittsburgh (seniority: 7)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 242: 195 blocks in 196 slots, 1% skip rate
@@ -11,21 +18,21 @@
 * Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.965374267 - removing ◎267.006846139
 * Vote account address: GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 43),20326-US-Pittsburgh (seniority: 5)
+* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 5),39647-NL-Mierlo (seniority: 43)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 56 epochs)
 * Stake reason: Good block production during epoch 240: 202 blocks in 204 slots, 1% skip rate
 * Staking activity: target stake amount: ◎92032.467022247, current stake amount: ◎93115.712119577 - removing ◎1083.245097330
 * Vote account address: GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 4),39647-NL-Mierlo (seniority: 44)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 44),20326-US-Pittsburgh (seniority: 4)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 239: 234 blocks in 236 slots, 1% skip rate
 * Staking activity: target stake amount: ◎93071.681865665, current stake amount: ◎94307.986978061 - removing ◎1236.305112396
 * Vote account address: GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt
 * Data Center: 20326-US-Pittsburgh
-* Resident Data Center(s): 20326-US-Pittsburgh (seniority: 3),39647-NL-Mierlo (seniority: 45)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 45),20326-US-Pittsburgh (seniority: 3)
 ### [[Mainnet Epoch 239|Mainnet#Epoch-239]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 238: 179 blocks in 180 slots, 1% skip rate
@@ -193,7 +200,7 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.553756715 - removing ◎3548.641902728
 * Vote account address: GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt
 * Data Center: 199610-US-Miami
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 27),199610-US-Miami (seniority: 1)
+* Resident Data Center(s): 199610-US-Miami (seniority: 1),39647-NL-Mierlo (seniority: 27)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 211: 159 blocks in 196 slots, 19% skip rate

@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **None** (for 9 epochs)
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.003784818 - not removing ◎0.003784818 (amount too small)
+* Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
+* Data Center: 54825-FR-Pantin
+* Resident Data Center(s): 54825-FR-Pantin (seniority: 2),24940-DE-Falkenstein (seniority: 17)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **None** (for 8 epochs)
 * Stake reason: Insufficient self stake: ◎0.000000000
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.003311500 - not removing ◎0.003311500 (amount too small)
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 54825-FR-Pantin (seniority: 3),24940-DE-Falkenstein (seniority: 18)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 18),54825-FR-Pantin (seniority: 3)
 ### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: Insufficient self stake: ◎0.000000000
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.002836103 - not removing ◎0.002836103 (amount too small)
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 54825-FR-Pantin (seniority: 4),24940-DE-Falkenstein (seniority: 19)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 19),54825-FR-Pantin (seniority: 4)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **None** (for 6 epochs)
 * Stake reason: Insufficient self stake: ◎0.000000000
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.002361786 - not removing ◎0.002361786 (amount too small)
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 54825-FR-Pantin (seniority: 5),24940-DE-Falkenstein (seniority: 20)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 20),54825-FR-Pantin (seniority: 5)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Insufficient self stake: ◎0.000000000
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001418374 - not removing ◎0.001418374 (amount too small)
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 54825-FR-Pantin (seniority: 7),24940-DE-Falkenstein (seniority: 22)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 22),54825-FR-Pantin (seniority: 7)
 ### [[Mainnet Epoch 238|Mainnet#Epoch-238]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Insufficient self stake: ◎0.000000000
@@ -76,7 +83,7 @@
 * Staking activity: target stake amount: ◎97111.693149484, current stake amount: ◎98722.745058634 - removing ◎1611.051909150
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 54825-FR-Pantin (seniority: 9),24940-DE-Falkenstein (seniority: 28)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 28),54825-FR-Pantin (seniority: 9)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 231|Mainnet#Epoch-231]]
 * Stake level: **Bonus** (for 47 epochs)
@@ -84,7 +91,7 @@
 * Staking activity: target stake amount: ◎98674.474580560, current stake amount: ◎100406.457713365 - removing ◎1731.983132805
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 29),54825-FR-Pantin (seniority: 8)
+* Resident Data Center(s): 54825-FR-Pantin (seniority: 8),24940-DE-Falkenstein (seniority: 29)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Bonus** (for 46 epochs)
@@ -92,7 +99,7 @@
 * Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎100359.268044345 - reserve depleted
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 30),54825-FR-Pantin (seniority: 7)
+* Resident Data Center(s): 54825-FR-Pantin (seniority: 7),24940-DE-Falkenstein (seniority: 30)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Bonus** (for 45 epochs)
@@ -100,7 +107,7 @@
 * Staking activity: target stake amount: ◎100309.681012023, current stake amount: ◎100920.633246922 - removing ◎610.952234899
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 31),54825-FR-Pantin (seniority: 6)
+* Resident Data Center(s): 54825-FR-Pantin (seniority: 6),24940-DE-Falkenstein (seniority: 31)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus** (for 44 epochs)
@@ -108,7 +115,7 @@
 * Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101932.435291124 - removing ◎1061.330731580
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 32),54825-FR-Pantin (seniority: 5)
+* Resident Data Center(s): 54825-FR-Pantin (seniority: 5),24940-DE-Falkenstein (seniority: 32)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 43 epochs)
@@ -116,7 +123,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: ExxsC9ZvXyHB5vQj2eGC3yDc3z3yXF4yXX8EQrr9SJmE
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 33),54825-FR-Pantin (seniority: 4)
+* Resident Data Center(s): 54825-FR-Pantin (seniority: 4),24940-DE-Falkenstein (seniority: 33)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 42 epochs)
@@ -124,7 +131,7 @@
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104715.331523653 - removing ◎1077.363741130
 * Vote account address: 7VGU4ZwR1e1AFekqbqv2gvjeg47e1PwMPm4BfLt6rxNk
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 34),54825-FR-Pantin (seniority: 3)
+* Resident Data Center(s): 54825-FR-Pantin (seniority: 3),24940-DE-Falkenstein (seniority: 34)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 41 epochs)

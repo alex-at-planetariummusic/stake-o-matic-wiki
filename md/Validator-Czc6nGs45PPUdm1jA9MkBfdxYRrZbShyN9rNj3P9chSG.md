@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **Bonus** (for 45 epochs)
+* Stake reason: Good block production during epoch 243: 134 blocks in 148 slots, 10% skip rate
+* Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.521641910 - removing ◎545.709851306
+* Vote account address: 4xKms4LsZtdLGusKLdr2haHLGKJ78SLiKcwU8N5GuS46
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 44)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 242: 121 blocks in 136 slots, 12% skip rate
@@ -263,14 +270,14 @@
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180288.304962550 - removing ◎27373.795855786
 * Vote account address: 4xKms4LsZtdLGusKLdr2haHLGKJ78SLiKcwU8N5GuS46
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-DE-Frankfurt (seniority: 6)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 6),24940-FI-Helsinki (seniority: 3)
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 200: 200 blocks in 232 slots, 14% skip rate
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186571.334878117 - removing ◎6383.030416940
 * Vote account address: 4xKms4LsZtdLGusKLdr2haHLGKJ78SLiKcwU8N5GuS46
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 5),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-DE-Frankfurt (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 5 epochs)
@@ -286,7 +293,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎200091.540063629 - removing ◎7833.792836095
 * Vote account address: 4xKms4LsZtdLGusKLdr2haHLGKJ78SLiKcwU8N5GuS46
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),16276-DE-Frankfurt (seniority: 3)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 3),24940-FI-Helsinki (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -294,7 +301,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7b6M9Y9BafkWguEBBnvvdhjjAKFQ38vNGYZBLHT8Ykxz
 * Vote account address: 4xKms4LsZtdLGusKLdr2haHLGKJ78SLiKcwU8N5GuS46
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),16276-DE-Frankfurt (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -302,7 +309,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎1.001665805 - adding ◎199977.259078096
 * Vote account address: 4xKms4LsZtdLGusKLdr2haHLGKJ78SLiKcwU8N5GuS46
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),16276-DE-Frankfurt (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus**

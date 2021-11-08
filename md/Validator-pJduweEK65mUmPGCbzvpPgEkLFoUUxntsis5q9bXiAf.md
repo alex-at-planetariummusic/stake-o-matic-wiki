@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 243: 104 blocks in 112 slots, 8% skip rate
+* Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.841758889 - removing ◎546.029968285
+* Vote account address: Hi8vxcjvAoLSDB9a9xjreJBFurMg41UQhNndx3qS1BJW
+* Data Center: 41668-RU-Kazan’
+* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 8)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 242: 130 blocks in 140 slots, 8% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account AAr2vgJitNZ81yHCDSewZkg7GtwhqvsjReantybnkSjX
 * Vote account address: Hi8vxcjvAoLSDB9a9xjreJBFurMg41UQhNndx3qS1BJW
 * Data Center: 41668-RU-Kazan’
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),41668-RU-Kazan’ (seniority: 2)
+* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 2),16276-FR-Roubaix (seniority: 1)
 ### [[Mainnet Epoch 237|Mainnet#Epoch-237]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 236: 56 blocks in 56 slots, 0% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: Insufficient vote credits: 59922 credits earned in epoch 243
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000175737 - not removing ◎0.000175737 (amount too small)
+* Vote account address: EPuVZpo79oqF1pBy4t1JLkyRZGQuVH2mdA14jtRkyrC
+* Data Center: 18450-US-Ogden
+* Resident Data Center(s): 18450-US-Ogden (seniority: 4)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 88479 credits earned in epoch 242

@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
+* Stake level: **None** (for 51 epochs)
+* Stake reason: Active stake is too high: ◎3257760.313772317
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.028340156 - not removing ◎0.028340156 (amount too small)
+* Vote account address: LunaFpQkZsZVJL2P2BUqNDJqyVYqrw9buQnjQtMLXdK
+* Data Center: 60945-GB-Europe/London
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **None** (for 50 epochs)
 * Stake reason: Active stake is too high: ◎3255346.899048545
