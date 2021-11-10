@@ -1,3 +1,10 @@
+### [[Testnet Epoch 250|Testnet#Epoch-250]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 249: 20 blocks in 20 slots, 0% skip rate
+* Staking activity: target stake amount: ◎34324.243729506, current stake amount: ◎5000.000000000 - adding ◎29324.243729506
+* Vote account address: GuEeoWmSPqNrbTRCJvsLCSWZfW3mWvvMsQ7wEUKYcNMz
+* Data Center: 16223-UA-Ternopil
+* Resident Data Center(s): 16223-UA-Ternopil (seniority: 13)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 248: 141 blocks in 180 slots, 22% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
 * Vote account address: GuEeoWmSPqNrbTRCJvsLCSWZfW3mWvvMsQ7wEUKYcNMz
 * Data Center: 16223-UA-Ternopil
-* Resident Data Center(s): 16223-UA-Ternopil (seniority: 8),21409-FR-Europe/Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),16223-UA-Ternopil (seniority: 8)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 237: 68 blocks in 108 slots, 38% skip rate
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
 * Vote account address: GuEeoWmSPqNrbTRCJvsLCSWZfW3mWvvMsQ7wEUKYcNMz
 * Data Center: 16223-UA-Ternopil
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),16223-UA-Ternopil (seniority: 7)
+* Resident Data Center(s): 16223-UA-Ternopil (seniority: 7),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 236: 144 blocks in 232 slots, 38% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎39500.594279906, current stake amount: ◎42193.442967522 - removing ◎2692.848687616
 * Vote account address: GuEeoWmSPqNrbTRCJvsLCSWZfW3mWvvMsQ7wEUKYcNMz
 * Data Center: 16223-UA-Ternopil
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),16223-UA-Ternopil (seniority: 4)
+* Resident Data Center(s): 16223-UA-Ternopil (seniority: 4),21409-FR-Europe/Paris (seniority: 7)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 233: 27 blocks in 36 slots, 25% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7oNgcn41VDPHU9pHvUmywjvu7WVH5Y6n5RzG5344w7j7
 * Vote account address: GuEeoWmSPqNrbTRCJvsLCSWZfW3mWvvMsQ7wEUKYcNMz
 * Data Center: 16223-UA-Ternopil
-* Resident Data Center(s): 16223-UA-Ternopil (seniority: 2),21409-FR-Europe/Paris (seniority: 9)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),16223-UA-Ternopil (seniority: 2)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 231: 15 blocks in 28 slots, 47% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎42859.842037136, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: GuEeoWmSPqNrbTRCJvsLCSWZfW3mWvvMsQ7wEUKYcNMz
 * Data Center: 16223-UA-Ternopil
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),16223-UA-Ternopil (seniority: 2)
+* Resident Data Center(s): 16223-UA-Ternopil (seniority: 2),21409-FR-Europe/Paris (seniority: 13)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 227: 11 blocks in 28 slots, 61% skip rate

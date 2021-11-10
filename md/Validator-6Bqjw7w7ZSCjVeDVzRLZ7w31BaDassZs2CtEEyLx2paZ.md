@@ -1,3 +1,9 @@
+### [[Testnet Epoch 250|Testnet#Epoch-250]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 283373 credits earned in epoch 249
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 563H9Xim9YJZg1Vjhj6Nrmm6xHSd41KSwWeCpz4TFB6V
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 275274 credits earned in epoch 248
