@@ -1,3 +1,10 @@
+### [[Testnet Epoch 251|Testnet#Epoch-251]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 2376 credits earned in epoch 250
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000087351 - not removing ◎0.000087351 (amount too small)
+* Vote account address: 8Zy1X7hb9empKcLUus8zVidiitjktiaFs46VrAZTRooo
+* Data Center: 14618-US-Ashburn
+* Resident Data Center(s): 14618-US-Ashburn (seniority: 1)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 109605 credits earned in epoch 249
