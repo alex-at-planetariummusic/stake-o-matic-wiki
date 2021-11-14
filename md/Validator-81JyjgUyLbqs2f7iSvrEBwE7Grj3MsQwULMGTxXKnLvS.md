@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
+* Stake level: **Bonus** (for 48 epochs)
+* Stake reason: Good block production during epoch 246: 165 blocks in 168 slots, 2% skip rate
+* Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎88670.809992005 - adding ◎462.198020958
+* Vote account address: CkyA3Xe8SGRtXkZ16hbske6zV9qQ2WNk2agewovcfhsN
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 47)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 245: 121 blocks in 124 slots, 3% skip rate
@@ -270,7 +277,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151875.553875936 - removing ◎7048.303906930
 * Vote account address: CkyA3Xe8SGRtXkZ16hbske6zV9qQ2WNk2agewovcfhsN
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-FR-Gravelines (seniority: 8)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 8),24940-FI-Helsinki (seniority: 1)
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 202: 275 blocks in 300 slots, 9% skip rate
@@ -299,7 +306,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎192368.257630582 - removing ◎5852.681642492
 * Vote account address: CkyA3Xe8SGRtXkZ16hbske6zV9qQ2WNk2agewovcfhsN
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-FR-Gravelines (seniority: 4)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),24940-FI-Helsinki (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 4 epochs)
@@ -307,7 +314,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎200092.955641632 - removing ◎7835.208414098
 * Vote account address: CkyA3Xe8SGRtXkZ16hbske6zV9qQ2WNk2agewovcfhsN
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),16276-FR-Gravelines (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -315,7 +322,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7uBrUpsDersYhNXinWt5BzVkNbNbEVz3zYPQdZu8vg65
 * Vote account address: CkyA3Xe8SGRtXkZ16hbske6zV9qQ2WNk2agewovcfhsN
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),16276-FR-Gravelines (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 2 epochs)

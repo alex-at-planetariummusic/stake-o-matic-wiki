@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: Poor block production during epoch 246: 44 blocks in 120 slots, 64% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25008.915643677 - removing ◎8.915643677
+* Vote account address: 97J262KBfyyQYAeLjHKwqXp6GdSyjTSqeykMtRRoFCBm
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 7)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 245: 99 blocks in 168 slots, 42% skip rate
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎88629.166790722 - removing ◎63629.166790722
 * Vote account address: 97J262KBfyyQYAeLjHKwqXp6GdSyjTSqeykMtRRoFCBm
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),23470-US-Brooklyn (seniority: 1)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 1),16276-FR-Roubaix (seniority: 8)
 ### [[Mainnet Epoch 245|Mainnet#Epoch-245]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 244: 95 blocks in 116 slots, 19% skip rate
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89428.342337211 - removing ◎839.989074005
 * Vote account address: 97J262KBfyyQYAeLjHKwqXp6GdSyjTSqeykMtRRoFCBm
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 9),23470-US-Brooklyn (seniority: 2)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 2),16276-FR-Roubaix (seniority: 9)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 243: 36 blocks in 44 slots, 19% skip rate

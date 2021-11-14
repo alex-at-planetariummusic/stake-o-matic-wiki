@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 246: 23 blocks in 24 slots, 5% skip rate
+* Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎89537.762433458 - removing ◎404.754420495
+* Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
+* Data Center: 0-Unknown
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 50),0-Unknown (seniority: 3)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 245: 63 blocks in 64 slots, 2% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎1.000691141 - reserve depleted
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 0-Unknown
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 52),0-Unknown (seniority: 1)
+* Resident Data Center(s): 0-Unknown (seniority: 1),35539-RU-Shchelkovo (seniority: 52)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 199419 credits earned in epoch 243

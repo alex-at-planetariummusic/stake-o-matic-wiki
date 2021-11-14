@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
+* Stake level: **Bonus** (for 62 epochs)
+* Stake reason: Good block production during epoch 246: 158 blocks in 164 slots, 4% skip rate
+* Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎88670.484325565 - adding ◎462.523687398
+* Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 17),16276-EN-London (seniority: 7)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 61 epochs)
 * Stake reason: Good block production during epoch 245: 145 blocks in 156 slots, 8% skip rate
 * Staking activity: target stake amount: ◎89537.761977190, current stake amount: ◎88629.669385530 - reserve depleted
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 18),16276-EN-London (seniority: 6)
+* Resident Data Center(s): 16276-EN-London (seniority: 6),24940-DE-Falkenstein (seniority: 18)
 ### [[Mainnet Epoch 245|Mainnet#Epoch-245]]
 * Stake level: **Bonus** (for 60 epochs)
 * Stake reason: Good block production during epoch 244: 110 blocks in 116 slots, 6% skip rate
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89430.283818099 - removing ◎841.930554893
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 19),16276-EN-London (seniority: 5)
+* Resident Data Center(s): 16276-EN-London (seniority: 5),24940-DE-Falkenstein (seniority: 19)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 59 epochs)
 * Stake reason: Good block production during epoch 243: 144 blocks in 152 slots, 6% skip rate
 * Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.878081438 - removing ◎546.066290834
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 4),24940-DE-Falkenstein (seniority: 20)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 20),16276-EN-London (seniority: 4)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 242: 112 blocks in 112 slots, 0% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎92032.467022247, current stake amount: ◎93114.540784704 - removing ◎1082.073762457
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 1),24940-DE-Falkenstein (seniority: 23)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 23),16276-EN-London (seniority: 1)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 239: 154 blocks in 156 slots, 2% skip rate
@@ -95,21 +102,21 @@
 * Staking activity: target stake amount: ◎97111.693149484, current stake amount: ◎98721.385788367 - removing ◎1609.692638883
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 17),16276-CA-Beauharnois (seniority: 2)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),24940-DE-Falkenstein (seniority: 17)
 ### [[Mainnet Epoch 231|Mainnet#Epoch-231]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 230: 167 blocks in 172 slots, 3% skip rate
 * Staking activity: target stake amount: ◎98674.474580560, current stake amount: ◎100406.098815211 - removing ◎1731.624234651
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 3),24940-DE-Falkenstein (seniority: 16)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 16),16276-CA-Beauharnois (seniority: 3)
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Bonus** (for 46 epochs)
 * Stake reason: Good block production during epoch 229: 133 blocks in 140 slots, 5% skip rate
 * Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎100358.160906528 - reserve depleted
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),24940-DE-Falkenstein (seniority: 15)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 15),16276-CA-Beauharnois (seniority: 4)
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 228: 172 blocks in 180 slots, 5% skip rate
@@ -123,42 +130,42 @@
 * Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101930.811646775 - removing ◎1059.707087231
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 6),24940-DE-Falkenstein (seniority: 13)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 13),16276-CA-Beauharnois (seniority: 6)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 226: 202 blocks in 208 slots, 3% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: BPGteniQmK5YyZ6fBqCyFHGXAn8Zt9PAgo3rYtewkt37
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12),16276-CA-Beauharnois (seniority: 7)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 7),24940-DE-Falkenstein (seniority: 12)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 224: 215 blocks in 216 slots, 1% skip rate
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104713.062151935 - removing ◎1075.094369412
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-CA-Beauharnois (seniority: 8)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 8),24940-DE-Falkenstein (seniority: 11)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 223: 176 blocks in 180 slots, 3% skip rate
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104661.884760929 - reserve depleted
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 9),24940-DE-Falkenstein (seniority: 10)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),16276-CA-Beauharnois (seniority: 9)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 222: 192 blocks in 212 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: BPGteniQmK5YyZ6fBqCyFHGXAn8Zt9PAgo3rYtewkt37
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 10),24940-DE-Falkenstein (seniority: 9)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),16276-CA-Beauharnois (seniority: 10)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 221: 145 blocks in 156 slots, 8% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: BPGteniQmK5YyZ6fBqCyFHGXAn8Zt9PAgo3rYtewkt37
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),16276-CA-Beauharnois (seniority: 11)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 11),24940-DE-Falkenstein (seniority: 8)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 38 epochs)
 * Stake reason: Good block production during epoch 219: 147 blocks in 176 slots, 17% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: BPGteniQmK5YyZ6fBqCyFHGXAn8Zt9PAgo3rYtewkt37
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 14),24940-DE-Falkenstein (seniority: 5)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),16276-CA-Beauharnois (seniority: 14)
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 216: 159 blocks in 180 slots, 12% skip rate
@@ -193,7 +200,7 @@
 * Staking activity: target stake amount: ◎117608.867212503, current stake amount: ◎122173.543275311 - removing ◎4564.676062808
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-CA-Beauharnois (seniority: 16)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 16),24940-DE-Falkenstein (seniority: 3)
 ### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 214: 222 blocks in 252 slots, 12% skip rate
@@ -318,7 +325,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200089.981142511 - removing ◎7096.672852948
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),16276-CA-Beauharnois (seniority: 5)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 5),24940-DE-Falkenstein (seniority: 1)
 * Insufficient self stake: ◎1.030956138
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 16 epochs)
@@ -334,7 +341,7 @@
 * Staking activity: target stake amount: ◎205895.552591837, current stake amount: ◎213693.137793937 - removing ◎7797.585202100
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-CA-Beauharnois (seniority: 3)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 3),24940-DE-Falkenstein (seniority: 3)
 * Insufficient self stake: ◎1.029806317
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus** (for 14 epochs)
@@ -342,7 +349,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BPGteniQmK5YyZ6fBqCyFHGXAn8Zt9PAgo3rYtewkt37
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-CA-Beauharnois (seniority: 2)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),24940-DE-Falkenstein (seniority: 4)
 * Insufficient self stake: ◎1.029223306
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)
@@ -350,7 +357,7 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎205115.674859749 - adding ◎8344.931206527
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),24940-DE-Falkenstein (seniority: 5)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),16276-CA-Beauharnois (seniority: 1)
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: good block production during epoch 192: 252 blocks in 296 slots, 15% skip rate
@@ -379,7 +386,7 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎204295.537174103 - adding ◎2504.383288164
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-CA-Beauharnois (seniority: 1)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),24940-DE-Falkenstein (seniority: 3)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 248 blocks in 272 slots, 9% skip rate
@@ -393,7 +400,7 @@
 * Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎204061.349763611 - reserve depleted
 * Vote account address: 3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),16276-CA-Beauharnois (seniority: 3)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 3),24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 184: 159 blocks in 256 slots, 38% skip rate
