@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
+* Stake level: **None** (for 8 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 247
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000030607 - not removing ◎0.000030607 (amount too small)
+* Vote account address: 5GJ8DWfzxXguFpFAaZsyDDVp3kp7ymHrBvMA5XRjpvbV
+* Data Center: 16276-FR-Strasbourg
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: Insufficient vote credits: 25289 credits earned in epoch 246

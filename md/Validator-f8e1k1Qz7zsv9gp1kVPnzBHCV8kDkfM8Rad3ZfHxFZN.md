@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
+* Stake level: **None** (for 31 epochs)
+* Stake reason: Insufficient self stake: ◎5.155763829
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000552345 - not removing ◎0.000552345 (amount too small)
+* Vote account address: 2UYjYyRqKrZdUVEZdrb8xneKtbLZuMqFYJdnhwdr7Vc9
+* Data Center: 22612-US-America/Chicago
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **None** (for 30 epochs)
 * Stake reason: Insufficient self stake: ◎5.153364026
