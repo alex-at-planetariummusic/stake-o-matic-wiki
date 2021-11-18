@@ -1,3 +1,9 @@
+### [[Testnet Epoch 253|Testnet#Epoch-253]]
+* Stake level: **None** (for 19 epochs)
+* Stake reason: Outdated Solana release: 1.7.15
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: FJzrQbRMXGuMqg7mN3dPw4pUnU3wx4s5aRLhDpAoAGJD
+* Data Center: 8708-RO-Cristesti
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **None** (for 18 epochs)
 * Stake reason: Outdated Solana release: 1.7.15

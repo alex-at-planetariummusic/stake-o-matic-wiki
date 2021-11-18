@@ -1,3 +1,10 @@
+### [[Testnet Epoch 253|Testnet#Epoch-253]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 252: 13 blocks in 20 slots, 35% skip rate
+* Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
+* Vote account address: 6qpYyRt6M9reyx1hUdgggCyvq3Y4eHAsXtJ5vM6XQqQS
+* Data Center: 31148-UA-Kryvyi Rih
+* Resident Data Center(s): 31148-UA-Kryvyi Rih (seniority: 3)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 251: 26 blocks in 36 slots, 28% skip rate
