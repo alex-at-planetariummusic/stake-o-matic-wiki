@@ -1,0 +1,6 @@
+### [[Testnet Epoch 255|Testnet#Epoch-255]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 254
+* Staking activity: creating new stake account HbqSZKezYp1LMJkRNQfJGWzdcv19s1xfE15LXdMAwc5h
+* Vote account address: C1y7Y9W3f64Z4GkYTznTUJMa3Xb7Bfydr9YkTbc4LksF
+* Data Center: 24940-FI-Helsinki
