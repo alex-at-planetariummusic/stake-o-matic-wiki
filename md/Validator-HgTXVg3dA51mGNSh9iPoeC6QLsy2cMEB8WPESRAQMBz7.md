@@ -1,3 +1,9 @@
+### [[Testnet Epoch 256|Testnet#Epoch-256]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 131053 credits earned in epoch 255
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: FNrKkZVNaXA9hA37TXJcFpxBqGj7Hvdr6LoNaD8JEDWT
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 254: 0 blocks in 36 slots, 100% skip rate
