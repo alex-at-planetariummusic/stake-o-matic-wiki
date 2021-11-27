@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
+* Stake level: **Bonus** (for 67 epochs)
+* Stake reason: Good block production during epoch 251: 134 blocks in 144 slots, 7% skip rate
+* Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84241.374001198 - removing ◎795.625435368
+* Vote account address: 6ffMj7zE7u9PKBzQHfv5nsHEGvDXZkntLnFeXRRudEEH
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 57)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 250: 155 blocks in 160 slots, 4% skip rate
@@ -432,7 +439,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: FC8YZhpYqoph1cTjxmgXTDtsvjfeWyHD95EBmGdA6tZ8
 * Vote account address: 6ffMj7zE7u9PKBzQHfv5nsHEGvDXZkntLnFeXRRudEEH
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 1),23470-US-Miami (seniority: 3)
+* Resident Data Center(s): 23470-US-Miami (seniority: 3),0-Unknown (seniority: 1)
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 184: 289 blocks in 332 slots, 13% skip rate
