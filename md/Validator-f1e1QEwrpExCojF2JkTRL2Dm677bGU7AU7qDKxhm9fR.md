@@ -1,3 +1,10 @@
+### [[Testnet Epoch 257|Testnet#Epoch-257]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 330948 credits earned in epoch 256
+* Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
+* Vote account address: f1e8EeLv9yb7EgRacpDLakjg7jgp5nxrrfcuktBvtz4
+* Data Center: 59253-SG-Asia/Singapore
+* Resident Data Center(s): 59253-SG-Asia/Singapore (seniority: 2)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 255: 12 blocks in 20 slots, 40% skip rate
