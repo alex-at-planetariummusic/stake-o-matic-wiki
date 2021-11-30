@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 252: 20 blocks in 44 slots, 55% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.000296171 - adding ◎20997.323979657
+* Vote account address: 39ueFBsyhKixjBqNJ74L7DackgeZyBALqjiP8CsBhgEc
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 42)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 177159 credits earned in epoch 251

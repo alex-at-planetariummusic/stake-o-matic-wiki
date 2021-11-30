@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **None** (for 4 epochs)
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001141065 - not removing ◎0.001141065 (amount too small)
+* Vote account address: 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 43)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Insufficient testnet participation
@@ -352,7 +359,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193103.544631811 - removing ◎845.797404277
 * Vote account address: 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),24940-DE-Nuremburg (seniority: 7)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 7),21409-FR-Europe/Paris (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 17 epochs)
@@ -368,7 +375,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎210771.102500544 - removing ◎10792.841756643
 * Vote account address: 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),24940-DE-Nuremburg (seniority: 5)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),21409-FR-Europe/Paris (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 15 epochs)
@@ -376,7 +383,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account HJ6Y8PbEBJDm9Rw2TuHA12JKDmAPPNiUNp3X4h28DN1h
 * Vote account address: 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),24940-DE-Nuremburg (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus** (for 14 epochs)
@@ -384,7 +391,7 @@
 * Staking activity: target stake amount: ◎210534.991475330, current stake amount: ◎205238.098087065 - adding ◎5296.893388265
 * Vote account address: 9gm8bZcHVb4umKHaULgF1iLqNnr8Av4CAUgxfZhM9TE6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),24940-DE-Nuremburg (seniority: 3)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),21409-FR-Europe/Paris (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **Bonus** (for 62 epochs)
+* Stake reason: Good block production during epoch 252: 191 blocks in 196 slots, 3% skip rate
+* Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.298503383 - removing ◎322.898096351
+* Vote account address: Dh4K8fNV6pRFZtbzQnP5a5HmyBPb2kmxvWiYmc5fJMvj
+* Data Center: 212695-UA-Kivertsi
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 62)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 61 epochs)
 * Stake reason: Good block production during epoch 251: 140 blocks in 164 slots, 15% skip rate
@@ -428,7 +435,7 @@
 * Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎25887.098869339 - reserve depleted
 * Vote account address: Dh4K8fNV6pRFZtbzQnP5a5HmyBPb2kmxvWiYmc5fJMvj
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 1),31148-UA-Kyiv (seniority: 1)
+* Resident Data Center(s): 31148-UA-Kyiv (seniority: 1),212695-UA-Kivertsi (seniority: 1)
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 184: 98 blocks in 284 slots, 66% skip rate 

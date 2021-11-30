@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **Bonus** (for 68 epochs)
+* Stake reason: Good block production during epoch 252: 149 blocks in 164 slots, 10% skip rate
+* Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.133280186 - removing ◎322.732873154
+* Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
+* Data Center: 29182-RU-Moscow
+* Resident Data Center(s): 29182-RU-Moscow (seniority: 4),56694-RU-Europe/Moscow (seniority: 41)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 67 epochs)
 * Stake reason: Good block production during epoch 251: 127 blocks in 136 slots, 7% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86400.891040925 - removing ◎2238.125007896
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 29182-RU-Moscow
-* Resident Data Center(s): 29182-RU-Moscow (seniority: 1),56694-RU-Europe/Moscow (seniority: 44)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 44),29182-RU-Moscow (seniority: 1)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 248: 165 blocks in 180 slots, 9% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: target stake amount: ◎115214.861665898, current stake amount: ◎117665.659174331 - removing ◎2450.797508433
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Moscow (seniority: 1),56694-RU-Europe/Moscow (seniority: 16)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 16),56694-RU-Moscow (seniority: 1)
 ### [[Mainnet Epoch 216|Mainnet#Epoch-216]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 215: 170 blocks in 196 slots, 14% skip rate
@@ -266,7 +273,7 @@
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎127583.339871207 - removing ◎859.179444860
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Moscow (seniority: 6),56694-RU-Europe/Moscow (seniority: 11)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 11),56694-RU-Moscow (seniority: 6)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 29 epochs)
@@ -282,7 +289,7 @@
 * Staking activity: target stake amount: ◎133296.203844555, current stake amount: ◎134428.877042292 - removing ◎1132.673197737
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 9),56694-RU-Moscow (seniority: 8)
+* Resident Data Center(s): 56694-RU-Moscow (seniority: 8),56694-RU-Europe/Moscow (seniority: 9)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 208|Mainnet#Epoch-208]]
 * Stake level: **Bonus** (for 27 epochs)
@@ -298,7 +305,7 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.756473170 - removing ◎376.942077631
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 7),56694-RU-Moscow (seniority: 10)
+* Resident Data Center(s): 56694-RU-Moscow (seniority: 10),56694-RU-Europe/Moscow (seniority: 7)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 25 epochs)
@@ -306,14 +313,14 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143783.937512542 - removing ◎3811.120710836
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Moscow (seniority: 11),56694-RU-Europe/Moscow (seniority: 6)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 6),56694-RU-Moscow (seniority: 11)
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 204: 154 blocks in 184 slots, 17% skip rate
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144903.583828955 - removing ◎1192.416822599
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Moscow (seniority: 12),56694-RU-Europe/Moscow (seniority: 5)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 5),56694-RU-Moscow (seniority: 12)
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 203: 187 blocks in 204 slots, 9% skip rate
@@ -328,7 +335,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152994.616846031 - removing ◎1199.304494571
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Moscow (seniority: 14),56694-RU-Europe/Moscow (seniority: 3)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 3),56694-RU-Moscow (seniority: 14)
 * Insufficient self stake: ◎1.034502697
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 21 epochs)
@@ -344,7 +351,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186620.607022388 - removing ◎6432.302561211
 * Vote account address: FtsqyUJbftuKnXEicPt6Kq6HgdTxoJw4Cv3sPmsK5ooL
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Moscow (seniority: 16),56694-RU-Europe/Moscow (seniority: 1)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 1),56694-RU-Moscow (seniority: 16)
 * Insufficient self stake: ◎1.033379478
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 19 epochs)

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **None** (for 5 epochs)
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001755170 - not removing ◎0.001755170 (amount too small)
+* Vote account address: 9y1fMDRdYaYbCSWEv3sivjns4Sc7eDW8wFQYT1DnCsQa
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 50)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient testnet participation

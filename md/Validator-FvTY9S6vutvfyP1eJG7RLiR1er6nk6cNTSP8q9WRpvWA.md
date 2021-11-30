@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **Bonus** (for 68 epochs)
+* Stake reason: Good block production during epoch 252: 151 blocks in 160 slots, 6% skip rate
+* Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.360209221 - removing ◎322.959802189
+* Vote account address: CvqeNUd9Xq5a2681T1pwr6E86tcbEYnEViCyUfybLSQo
+* Data Center: 29182-RU-Moscow
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 58),29182-RU-Moscow (seniority: 4)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 67 epochs)
 * Stake reason: Good block production during epoch 251: 152 blocks in 160 slots, 5% skip rate
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84241.549559478 - removing ◎795.800993648
 * Vote account address: CvqeNUd9Xq5a2681T1pwr6E86tcbEYnEViCyUfybLSQo
 * Data Center: 29182-RU-Moscow
-* Resident Data Center(s): 29182-RU-Moscow (seniority: 3),56694-RU-Europe/Moscow (seniority: 59)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 59),29182-RU-Moscow (seniority: 3)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 250: 167 blocks in 172 slots, 3% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **Bonus** (for 68 epochs)
+* Stake reason: Good block production during epoch 252: 169 blocks in 172 slots, 2% skip rate
+* Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.089731663 - removing ◎322.689324631
+* Vote account address: 7N55twSEwaY6z7s4GmvDQwLZBNjCFS2zioTzR4cb895g
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 61)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 67 epochs)
 * Stake reason: Good block production during epoch 251: 90 blocks in 92 slots, 3% skip rate
@@ -426,7 +433,7 @@
 * Staking activity: target stake amount: ◎207809.343129810, current stake amount: ◎205701.961975125 - reserve depleted
 * Vote account address: 7N55twSEwaY6z7s4GmvDQwLZBNjCFS2zioTzR4cb895g
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),23470-US-Morris Plains (seniority: 2)
+* Resident Data Center(s): 23470-US-Morris Plains (seniority: 2),24940-FI-Helsinki (seniority: 3)
 * infrastructure concentration 11.5% is too high; consider finding a new data center
 ### [[Mainnet Epoch 189|Mainnet#Epoch-189]]
 * Stake level: **Bonus** (for 9 epochs)
@@ -434,7 +441,7 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎205585.604772867 - reserve depleted
 * Vote account address: 7N55twSEwaY6z7s4GmvDQwLZBNjCFS2zioTzR4cb895g
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),23470-US-Morris Plains (seniority: 3)
+* Resident Data Center(s): 23470-US-Morris Plains (seniority: 3),24940-FI-Helsinki (seniority: 2)
 * infrastructure concentration 11.6% is too high; consider finding a new data center
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
@@ -442,7 +449,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: w2Gi9RLPqnNs48sVHYn7FTLRksBkYaSC979Fu8fP1s5
 * Vote account address: 7N55twSEwaY6z7s4GmvDQwLZBNjCFS2zioTzR4cb895g
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),23470-US-Morris Plains (seniority: 4)
+* Resident Data Center(s): 23470-US-Morris Plains (seniority: 4),24940-FI-Helsinki (seniority: 1)
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 186: 229 blocks in 272 slots, 16% skip rate

@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **Bonus** (for 55 epochs)
+* Stake reason: Good block production during epoch 252: 144 blocks in 144 slots, 0% skip rate
+* Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.172139285 - removing ◎322.771732253
+* Vote account address: 7WmXq6EZBGaPqtfPY3hvmE8GQUwC37iRc4saRcyoSFWR
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 35),16276-EN-London (seniority: 10)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 251: 180 blocks in 200 slots, 10% skip rate
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84241.416387226 - removing ◎795.667821396
 * Vote account address: 7WmXq6EZBGaPqtfPY3hvmE8GQUwC37iRc4saRcyoSFWR
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 9),16276-PL-Warsaw (seniority: 36)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 36),16276-EN-London (seniority: 9)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 53 epochs)
 * Stake reason: Good block production during epoch 250: 132 blocks in 140 slots, 6% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.405133064 - removing ◎2238.639100035
 * Vote account address: 7WmXq6EZBGaPqtfPY3hvmE8GQUwC37iRc4saRcyoSFWR
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 7),16276-PL-Warsaw (seniority: 38)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 38),16276-EN-London (seniority: 7)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 51 epochs)
 * Stake reason: Good block production during epoch 248: 148 blocks in 164 slots, 10% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎89537.761977190, current stake amount: ◎88629.589164033 - reserve depleted
 * Vote account address: 7WmXq6EZBGaPqtfPY3hvmE8GQUwC37iRc4saRcyoSFWR
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 3),16276-PL-Warsaw (seniority: 42)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 42),16276-EN-London (seniority: 3)
 ### [[Mainnet Epoch 245|Mainnet#Epoch-245]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 244: 185 blocks in 192 slots, 4% skip rate
@@ -373,7 +380,7 @@
 * Staking activity: target stake amount: ◎205895.552591837, current stake amount: ◎1.001673727 - adding ◎205894.550918110
 * Vote account address: 7WmXq6EZBGaPqtfPY3hvmE8GQUwC37iRc4saRcyoSFWR
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 2),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-PL-Warsaw (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus**
@@ -381,7 +388,7 @@
 * Staking activity: target stake amount: ◎210534.991475330, current stake amount: ◎1.001109580 - reserve depleted
 * Vote account address: 7WmXq6EZBGaPqtfPY3hvmE8GQUwC37iRc4saRcyoSFWR
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-PL-Warsaw (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **None** (for 2 epochs)
@@ -403,7 +410,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 5ocfNe3Yq8354Ce9UwkyciVaDL4Mx52HUDXcCGhsEL61
 * Vote account address: 7WmXq6EZBGaPqtfPY3hvmE8GQUwC37iRc4saRcyoSFWR
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),24940-DE-Europe/Berlin (seniority: 1)
+* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 1),24940-FI-Helsinki (seniority: 7)
 ### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: good block production during epoch 189: 233 blocks in 292 slots, 21% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **Bonus** (for 29 epochs)
+* Stake reason: Good block production during epoch 252: 140 blocks in 144 slots, 3% skip rate
+* Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.387647602 - removing ◎322.987240570
+* Vote account address: 36gsYRRqbxjNMawYaHYQkfyBARaY89FtS5C2ZK8m73JP
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 11),16276-EN-London (seniority: 9)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 251: 109 blocks in 112 slots, 3% skip rate
@@ -18,21 +25,21 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.326149926 - removing ◎2238.560116897
 * Vote account address: 36gsYRRqbxjNMawYaHYQkfyBARaY89FtS5C2ZK8m73JP
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 14),16276-EN-London (seniority: 6)
+* Resident Data Center(s): 16276-EN-London (seniority: 6),16276-FR-Gravelines (seniority: 14)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 248: 143 blocks in 152 slots, 6% skip rate
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎87415.889007485 - removing ◎1055.000897746
 * Vote account address: 36gsYRRqbxjNMawYaHYQkfyBARaY89FtS5C2ZK8m73JP
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 15),16276-EN-London (seniority: 5)
+* Resident Data Center(s): 16276-EN-London (seniority: 5),16276-FR-Gravelines (seniority: 15)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 247: 119 blocks in 120 slots, 1% skip rate
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎89174.252853259 - removing ◎1799.655497768
 * Vote account address: 36gsYRRqbxjNMawYaHYQkfyBARaY89FtS5C2ZK8m73JP
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 4),16276-FR-Gravelines (seniority: 16)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 16),16276-EN-London (seniority: 4)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 246: 116 blocks in 120 slots, 4% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89429.492330101 - removing ◎841.139066895
 * Vote account address: 36gsYRRqbxjNMawYaHYQkfyBARaY89FtS5C2ZK8m73JP
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 1),16276-FR-Gravelines (seniority: 19)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 19),16276-EN-London (seniority: 1)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 243: 92 blocks in 108 slots, 15% skip rate

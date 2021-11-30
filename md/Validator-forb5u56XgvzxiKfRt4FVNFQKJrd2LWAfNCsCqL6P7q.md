@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 252: 366 blocks in 740 slots, 51% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.334413550 - removing ◎11.334413550
+* Vote account address: 76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857
+* Data Center: 23881-HK-Asia/Hong_Kong
+* Resident Data Center(s): 23881-HK-Asia/Hong_Kong (seniority: 22)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 251: 348 blocks in 596 slots, 42% skip rate
@@ -284,21 +291,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account CurKqk4cKj17qnfJhJ6q9uc4XB2WYSVpmhgKmp6Y8Bth
 * Vote account address: 76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857
 * Data Center: 23881-HK-Asia/Hong_Kong
-* Resident Data Center(s): 23881-HK-Asia/Hong_Kong (seniority: 3),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),23881-HK-Asia/Hong_Kong (seniority: 3)
 ### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 206: 694 blocks in 808 slots, 15% skip rate
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎25022.155933797 - adding ◎114643.658461742
 * Vote account address: 76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857
 * Data Center: 23881-HK-Asia/Hong_Kong
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),23881-HK-Asia/Hong_Kong (seniority: 2)
+* Resident Data Center(s): 23881-HK-Asia/Hong_Kong (seniority: 2),24940-FI-Helsinki (seniority: 2)
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 205: 346 blocks in 664 slots, 48% skip rate
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎25010.699011771 - reserve depleted
 * Vote account address: 76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857
 * Data Center: 23881-HK-Asia/Hong_Kong
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),23881-HK-Asia/Hong_Kong (seniority: 1)
+* Resident Data Center(s): 23881-HK-Asia/Hong_Kong (seniority: 1),24940-FI-Helsinki (seniority: 3)
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Baseline** (for 9 epochs)
 * Stake reason: Poor block production during epoch 204: 161 blocks in 604 slots, 74% skip rate
