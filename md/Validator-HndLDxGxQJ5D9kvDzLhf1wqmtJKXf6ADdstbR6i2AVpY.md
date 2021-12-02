@@ -1,0 +1,6 @@
+### [[Testnet Epoch 258|Testnet#Epoch-258]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 25.4% is too high; find a new data center
+* Staking activity: creating new stake account 3CfBXjF2vJAR2maEt7Y8fUXorfoZBtxc2GxREK3FmAwr
+* Vote account address: pkcLMUztyQiVnJEbfQam7vffpkSDtXnBepGPNtDeBJT
+* Data Center: 24940-FI-Helsinki
