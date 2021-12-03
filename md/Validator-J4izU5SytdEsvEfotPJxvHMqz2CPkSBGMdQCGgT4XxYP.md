@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
+* Stake level: **None**
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎83200.116238914 - removing ◎83199.116238914
+* Vote account address: 429J7xohwLdryxxRWARE4amj2dyb8TQRMhMJ1QU6TEm2
+* Data Center: 18450-US-Los Angeles
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 34)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 252: 146 blocks in 148 slots, 2% skip rate

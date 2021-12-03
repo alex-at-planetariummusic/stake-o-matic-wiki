@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
+* Stake level: **None**
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎83200.121014080 - removing ◎83199.121014080
+* Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 45)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 252: 95 blocks in 104 slots, 9% skip rate
@@ -284,7 +291,7 @@
 * Staking activity: target stake amount: ◎133296.203844555, current stake amount: ◎134428.667448829 - removing ◎1132.463604274
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),16276-FR-Roubaix (seniority: 10)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 10),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 208|Mainnet#Epoch-208]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 207: 262 blocks in 284 slots, 8% skip rate
@@ -298,14 +305,14 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.571883619 - removing ◎376.757488080
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-FR-Roubaix (seniority: 8)
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 205: 223 blocks in 276 slots, 20% skip rate
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143783.039877718 - removing ◎3810.223076012
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),16276-FR-Roubaix (seniority: 7)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 7),24940-DE-Falkenstein (seniority: 5)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 6 epochs)
@@ -337,7 +344,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 9Tip5EegUWargyo9a1N5kAtfhD5xkgEtSVWvvbd5pCiG
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),16276-FR-Roubaix (seniority: 3)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),24940-DE-Falkenstein (seniority: 9)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -345,7 +352,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎1.001345812 - adding ◎180187.303115365
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),16276-FR-Roubaix (seniority: 2)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),24940-DE-Falkenstein (seniority: 10)
 * Insufficient self stake: ◎2.011702453
 * Insufficient testnet participation
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
@@ -354,7 +361,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎1.000792699 - reserve depleted
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),24940-DE-Falkenstein (seniority: 11)
 * Insufficient self stake: ◎0.513696820
 * Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]

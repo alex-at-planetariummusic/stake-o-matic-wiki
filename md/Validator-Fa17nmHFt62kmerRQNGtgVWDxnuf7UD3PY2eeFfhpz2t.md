@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
+* Stake level: **None**
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎83200.232051040 - removing ◎83199.232051040
+* Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 23)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 252: 133 blocks in 144 slots, 8% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎98674.474580560, current stake amount: ◎100403.845040650 - removing ◎1729.370460090
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),52000-RU-Moscow (seniority: 1)
+* Resident Data Center(s): 52000-RU-Moscow (seniority: 1),16276-FR-Roubaix (seniority: 3)
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 229: 120 blocks in 144 slots, 17% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: stake account busy due to transient stake activation: CFtcD3AkmUbhKBRvEVnXWPHXRS7RCCvhhWs1e5AJMMGb
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),52000-RU-Moscow (seniority: 5)
+* Resident Data Center(s): 52000-RU-Moscow (seniority: 5),16276-FR-Roubaix (seniority: 1)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 224: 135 blocks in 152 slots, 12% skip rate
@@ -207,7 +214,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: CFtcD3AkmUbhKBRvEVnXWPHXRS7RCCvhhWs1e5AJMMGb
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 52000-RU-Moscow
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),52000-RU-Moscow (seniority: 5)
+* Resident Data Center(s): 52000-RU-Moscow (seniority: 5),16276-FR-Roubaix (seniority: 2)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 219: 107 blocks in 132 slots, 19% skip rate
@@ -221,14 +228,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: CFtcD3AkmUbhKBRvEVnXWPHXRS7RCCvhhWs1e5AJMMGb
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 52000-RU-Moscow
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),52000-RU-Moscow (seniority: 3)
+* Resident Data Center(s): 52000-RU-Moscow (seniority: 3),16276-FR-Roubaix (seniority: 4)
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 346290 credits earned in epoch 217
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account CFtcD3AkmUbhKBRvEVnXWPHXRS7RCCvhhWs1e5AJMMGb
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 52000-RU-Moscow
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),52000-RU-Moscow (seniority: 2)
+* Resident Data Center(s): 52000-RU-Moscow (seniority: 2),16276-FR-Roubaix (seniority: 5)
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 216: 36 blocks in 48 slots, 25% skip rate
@@ -270,21 +277,21 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎127580.991379032 - removing ◎102580.991379032
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),16276-FR-Roubaix (seniority: 11)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 11),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 209: 200 blocks in 212 slots, 6% skip rate
 * Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎133362.684206610 - removing ◎5904.171941701
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 12),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-FR-Roubaix (seniority: 12)
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 208: 168 blocks in 180 slots, 7% skip rate
 * Staking activity: target stake amount: ◎133296.203844555, current stake amount: ◎134428.642060914 - removing ◎1132.438216359
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-FR-Roubaix (seniority: 11)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 11),24940-DE-Falkenstein (seniority: 4)
 ### [[Mainnet Epoch 208|Mainnet#Epoch-208]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 207: 216 blocks in 228 slots, 6% skip rate
@@ -298,7 +305,7 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.560022443 - removing ◎376.745626904
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 9),24940-DE-Falkenstein (seniority: 6)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),16276-FR-Roubaix (seniority: 9)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 25 epochs)
@@ -314,7 +321,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144901.766832455 - removing ◎1190.599826099
 * Vote account address: E3yhPs5PPN4RZh8FbJo2eqtdrAYKCK9H7pcSD1vCNCP4
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 7),24940-DE-Falkenstein (seniority: 8)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),16276-FR-Roubaix (seniority: 7)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)

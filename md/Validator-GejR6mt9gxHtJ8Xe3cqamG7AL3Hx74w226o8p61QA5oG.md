@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
+* Stake level: **None** (for 19 epochs)
+* Stake reason: Insufficient self stake: ◎2.068156185
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: GPHs6QbV6Jbd9FDuaxsLNz5q1qHQKgHm1whtKDhKjdWp
+* Data Center: 14618-US-Ashburn
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **None** (for 18 epochs)
 * Stake reason: Insufficient self stake: ◎2.068156185
@@ -282,7 +288,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 3WS29o6LK8jLMcyXtbpzHaYD29ygiyXhregJZQhgxG5S
 * Vote account address: GPHs6QbV6Jbd9FDuaxsLNz5q1qHQKgHm1whtKDhKjdWp
 * Data Center: 14618-US-Ashburn
-* Resident Data Center(s): 14618-US-Ashburn (seniority: 1),14618-US-America/New_York (seniority: 1)
+* Resident Data Center(s): 14618-US-America/New_York (seniority: 1),14618-US-Ashburn (seniority: 1)
 * Insufficient self stake: ◎2.048149666
 * Insufficient testnet participation
 ### [[Mainnet Epoch 214|Mainnet#Epoch-214]]

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
+* Stake level: **Bonus** (for 55 epochs)
+* Stake reason: Good block production during epoch 253: 168 blocks in 192 slots, 13% skip rate
+* Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83199.748905974 - removing ◎294.143367903
+* Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 54)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 252: 121 blocks in 140 slots, 14% skip rate
@@ -326,7 +333,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152990.775665565 - removing ◎1195.463314105
 * Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 7),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),16276-EN-London (seniority: 7)
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 201: 168 blocks in 264 slots, 37% skip rate
@@ -340,7 +347,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186567.774691917 - removing ◎6379.470230740
 * Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 5),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-EN-London (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 5 epochs)
@@ -348,7 +355,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: uzjPH9EZ6fhif8yFgQ4wMT96AiwQ9UibF8Ny6prmV2n
 * Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 4),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-EN-London (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 4 epochs)
@@ -364,7 +371,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account uzjPH9EZ6fhif8yFgQ4wMT96AiwQ9UibF8Ny6prmV2n
 * Vote account address: BPvrBMcWjic7uu2nWragvinycHPvBCo7bCNq4pncGiag
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 2),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),16276-EN-London (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 2 epochs)

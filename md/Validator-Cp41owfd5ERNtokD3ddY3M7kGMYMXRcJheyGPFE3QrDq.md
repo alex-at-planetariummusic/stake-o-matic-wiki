@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
+* Stake level: **None** (for 5 epochs)
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001385919 - not removing ◎0.001385919 (amount too small)
+* Vote account address: 8oGZv6GokZFD36kmba97Jo1UUDp3bazvbLAC3RYMW6t
+* Data Center: 54825-NL-Schiphol
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient testnet participation

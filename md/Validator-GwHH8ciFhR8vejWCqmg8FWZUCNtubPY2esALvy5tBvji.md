@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
+* Stake level: **Bonus** (for 28 epochs)
+* Stake reason: Good block production during epoch 253: 152 blocks in 156 slots, 3% skip rate
+* Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83199.897768147 - removing ◎294.292230076
+* Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
+* Data Center: 54825-US-Los Angeles
+* Resident Data Center(s): 54825-US-Los Angeles (seniority: 28),57043-NL-Amsterdam (seniority: 7)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 252: 231 blocks in 244 slots, 6% skip rate
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.188454471 - removing ◎322.788047439
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 8),54825-US-Los Angeles (seniority: 27)
+* Resident Data Center(s): 54825-US-Los Angeles (seniority: 27),57043-NL-Amsterdam (seniority: 8)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 251: 199 blocks in 220 slots, 10% skip rate
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84240.927709925 - removing ◎795.179144095
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 54825-US-Los Angeles (seniority: 26),57043-NL-Amsterdam (seniority: 9)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 9),54825-US-Los Angeles (seniority: 26)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 250: 177 blocks in 184 slots, 4% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎89174.046736230 - removing ◎1799.449380739
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 13),54825-US-Los Angeles (seniority: 22)
+* Resident Data Center(s): 54825-US-Los Angeles (seniority: 22),57043-NL-Amsterdam (seniority: 13)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 246: 195 blocks in 208 slots, 7% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎89537.761977190, current stake amount: ◎88629.412414439 - reserve depleted
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 54825-US-Los Angeles (seniority: 20),57043-NL-Amsterdam (seniority: 15)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 15),54825-US-Los Angeles (seniority: 20)
 ### [[Mainnet Epoch 245|Mainnet#Epoch-245]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 244: 155 blocks in 172 slots, 10% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.664384858 - removing ◎545.852594254
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 54825-US-Los Angeles (seniority: 18),57043-NL-Amsterdam (seniority: 17)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 17),54825-US-Los Angeles (seniority: 18)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 242: 185 blocks in 188 slots, 2% skip rate
@@ -102,14 +109,14 @@
 * Staking activity: target stake amount: ◎94263.718198390, current stake amount: ◎96146.007088916 - removing ◎1882.288890526
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 22),54825-US-Los Angeles (seniority: 13)
+* Resident Data Center(s): 54825-US-Los Angeles (seniority: 13),57043-NL-Amsterdam (seniority: 22)
 ### [[Mainnet Epoch 238|Mainnet#Epoch-238]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 237: 199 blocks in 200 slots, 1% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account C6UbmwKBrpcYtZmgsv1A8KchmAiGFitiLEFtmAMhr1LS
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 54825-US-Los Angeles (seniority: 12),57043-NL-Amsterdam (seniority: 23)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 23),54825-US-Los Angeles (seniority: 12)
 ### [[Mainnet Epoch 237|Mainnet#Epoch-237]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 236: 179 blocks in 180 slots, 1% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎98674.474580560, current stake amount: ◎100405.490742478 - removing ◎1731.016161918
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 29),54825-US-Los Angeles (seniority: 6)
+* Resident Data Center(s): 54825-US-Los Angeles (seniority: 6),57043-NL-Amsterdam (seniority: 29)
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 229: 228 blocks in 240 slots, 5% skip rate
@@ -165,7 +172,7 @@
 * Staking activity: target stake amount: ◎100309.681012023, current stake amount: ◎101943.019421069 - removing ◎1633.338409046
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 31),54825-US-Los Angeles (seniority: 4)
+* Resident Data Center(s): 54825-US-Los Angeles (seniority: 4),57043-NL-Amsterdam (seniority: 31)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 227: 122 blocks in 124 slots, 2% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: stake account busy due to transient stake activation: C6UbmwKBrpcYtZmgsv1A8KchmAiGFitiLEFtmAMhr1LS
 * Vote account address: 3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD
 * Data Center: 54825-US-Los Angeles
-* Resident Data Center(s): 54825-US-Los Angeles (seniority: 2),57043-NL-Amsterdam (seniority: 33)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 33),54825-US-Los Angeles (seniority: 2)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 224: 188 blocks in 208 slots, 10% skip rate

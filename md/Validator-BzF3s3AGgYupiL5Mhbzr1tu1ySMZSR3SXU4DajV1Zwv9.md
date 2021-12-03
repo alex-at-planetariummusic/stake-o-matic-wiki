@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
+* Stake level: **Bonus** (for 19 epochs)
+* Stake reason: Good block production during epoch 253: 82 blocks in 88 slots, 7% skip rate
+* Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83199.973740474 - removing ◎294.368202403
+* Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 20)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 252: 92 blocks in 96 slots, 5% skip rate
@@ -172,7 +179,7 @@
 * Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎25009.708811289 - reserve depleted
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-DE-Nuremburg (seniority: 3)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),24940-DE-Falkenstein (seniority: 5)
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 226: 28 blocks in 60 slots, 54% skip rate
@@ -200,7 +207,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: GNNnaR8grfmzVzpU3zrKXVNd6GkVMr84YJTu1MhgdugX
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-DE-Nuremburg (seniority: 7)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 7),24940-DE-Falkenstein (seniority: 5)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 221: 70 blocks in 88 slots, 21% skip rate
@@ -214,7 +221,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: GNNnaR8grfmzVzpU3zrKXVNd6GkVMr84YJTu1MhgdugX
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 9),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),24940-DE-Nuremburg (seniority: 9)
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 218: 10 blocks in 12 slots, 17% skip rate
