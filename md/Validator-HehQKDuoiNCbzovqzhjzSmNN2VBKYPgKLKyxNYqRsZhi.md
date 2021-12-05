@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Bonus** (for 27 epochs)
+* Stake reason: Good block production during epoch 258: 155 blocks in 244 slots, 37% skip rate
+* Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
+* Vote account address: 13Nc6w45U7D5VN7andw9dM83GXmdQ85LoufZQMn6MawQ
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 38)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 257: 279 blocks in 328 slots, 15% skip rate
@@ -249,21 +256,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: BTthNBSYPyJXhvy7nzzuk6uvqRLhgBzi7zT2A3f6hr5A
 * Vote account address: 13Nc6w45U7D5VN7andw9dM83GXmdQ85LoufZQMn6MawQ
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),16276-CA-Beauharnois (seniority: 4)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 214: 34 blocks in 44 slots, 23% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BTthNBSYPyJXhvy7nzzuk6uvqRLhgBzi7zT2A3f6hr5A
 * Vote account address: 13Nc6w45U7D5VN7andw9dM83GXmdQ85LoufZQMn6MawQ
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 2),16276-CA-Beauharnois (seniority: 3)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 3),24961-DE-Europe/Berlin (seniority: 2)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 213: 29 blocks in 36 slots, 20% skip rate
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎5000.000000000 - adding ◎44662.224172391
 * Vote account address: 13Nc6w45U7D5VN7andw9dM83GXmdQ85LoufZQMn6MawQ
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 3),16276-CA-Beauharnois (seniority: 2)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),24961-DE-Europe/Berlin (seniority: 3)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 212: 21 blocks in 28 slots, 25% skip rate

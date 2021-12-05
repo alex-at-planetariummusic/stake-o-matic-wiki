@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 258: 44 blocks in 216 slots, 80% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: Fo5Tu5S7VTRyBSgqvCjbw5BEWjUS8i2K9xQG1EUAjgtx
+* Data Center: 58061-NL-Dronten
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 19)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 257: 32 blocks in 152 slots, 79% skip rate

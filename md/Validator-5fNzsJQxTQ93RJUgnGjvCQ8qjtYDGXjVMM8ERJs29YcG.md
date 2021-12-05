@@ -1,10 +1,17 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Bonus** (for 18 epochs)
+* Stake reason: Good block production during epoch 258: 316 blocks in 340 slots, 8% skip rate
+* Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
+* Vote account address: EvB62eh1M9222YKSaPTD3f5khp6X21rzp4zQYP45EvkJ
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 18),16276-CA-Beauharnois (seniority: 22)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 257: 154 blocks in 156 slots, 2% skip rate
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: EvB62eh1M9222YKSaPTD3f5khp6X21rzp4zQYP45EvkJ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 17),16276-CA-Beauharnois (seniority: 23)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 23),23470-US-Miami (seniority: 17)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 256: 89 blocks in 112 slots, 21% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: EvB62eh1M9222YKSaPTD3f5khp6X21rzp4zQYP45EvkJ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 26),23470-US-Miami (seniority: 14)
+* Resident Data Center(s): 23470-US-Miami (seniority: 14),16276-CA-Beauharnois (seniority: 26)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 253: 99 blocks in 140 slots, 30% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: EvB62eh1M9222YKSaPTD3f5khp6X21rzp4zQYP45EvkJ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 28),23470-US-Miami (seniority: 12)
+* Resident Data Center(s): 23470-US-Miami (seniority: 12),16276-CA-Beauharnois (seniority: 28)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 251: 169 blocks in 180 slots, 7% skip rate
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: EvB62eh1M9222YKSaPTD3f5khp6X21rzp4zQYP45EvkJ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 11),16276-CA-Beauharnois (seniority: 29)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 29),23470-US-Miami (seniority: 11)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 250: 130 blocks in 136 slots, 5% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 258: 153 blocks in 160 slots, 5% skip rate
+* Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
+* Vote account address: 9DEsojwreGZx5XTYNJMwP4LkpGjRhzVyCwT3D4U9DPbg
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 10),16276-EN-London (seniority: 1),23470-US-Piscataway (seniority: 6)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 257: 140 blocks in 144 slots, 3% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: 9DEsojwreGZx5XTYNJMwP4LkpGjRhzVyCwT3D4U9DPbg
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 12),23470-US-Piscataway (seniority: 6)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 6),16276-CA-Beauharnois (seniority: 12)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 255: 162 blocks in 164 slots, 2% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: 9DEsojwreGZx5XTYNJMwP4LkpGjRhzVyCwT3D4U9DPbg
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 15),23470-US-Piscataway (seniority: 3)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 3),16276-CA-Beauharnois (seniority: 15)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 252: 146 blocks in 164 slots, 11% skip rate

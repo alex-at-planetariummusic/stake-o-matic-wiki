@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Bonus** (for 30 epochs)
+* Stake reason: Good block production during epoch 258: 206 blocks in 216 slots, 5% skip rate
+* Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
+* Vote account address: 8XW6PhTTbhGaajZ2B96rexSCXSsaP1inmTykyha7sU4o
+* Data Center: 21409-FR-Paris
+* Resident Data Center(s): 21409-FR-Paris (seniority: 30)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 257: 178 blocks in 180 slots, 2% skip rate

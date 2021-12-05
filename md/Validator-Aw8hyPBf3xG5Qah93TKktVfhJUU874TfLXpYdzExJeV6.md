@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 258: 103 blocks in 108 slots, 5% skip rate
+* Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
+* Vote account address: 4Xb7yFHYUGVjfSW4mC7BEgUZQjgkQ3rhrK8fhmrsNHmq
+* Data Center: 48437-UA-Bila Tserkva
+* Resident Data Center(s): 48437-UA-Bila Tserkva (seniority: 21)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 257: 128 blocks in 136 slots, 6% skip rate

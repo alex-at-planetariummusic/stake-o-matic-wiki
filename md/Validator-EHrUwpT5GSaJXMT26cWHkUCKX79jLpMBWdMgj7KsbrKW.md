@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: Poor block production during epoch 258: 4 blocks in 32 slots, 88% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 5GKmGt5RzrPYon4KUu3GyCCdxoCrK4qfaKeMJX8ZEWtR
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 16)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 257: 8 blocks in 28 slots, 72% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
 * Vote account address: 5GKmGt5RzrPYon4KUu3GyCCdxoCrK4qfaKeMJX8ZEWtR
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),23470-US-America/Chicago (seniority: 2)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 237: 140 blocks in 176 slots, 21% skip rate
@@ -151,14 +158,14 @@
 * Staking activity: target stake amount: ◎39500.594279906, current stake amount: ◎5000.000000000 - adding ◎34500.594279906
 * Vote account address: 5GKmGt5RzrPYon4KUu3GyCCdxoCrK4qfaKeMJX8ZEWtR
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),23470-US-America/Chicago (seniority: 6)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 6),21409-FR-Europe/Paris (seniority: 2)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 233: 132 blocks in 180 slots, 27% skip rate
 * Staking activity: target stake amount: ◎42193.442967522, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 5GKmGt5RzrPYon4KUu3GyCCdxoCrK4qfaKeMJX8ZEWtR
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 7),21409-FR-Europe/Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),23470-US-America/Chicago (seniority: 7)
 ### [[Testnet Epoch 233|Testnet#Epoch-233]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 232: 89 blocks in 224 slots, 61% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Bonus** (for 34 epochs)
+* Stake reason: Good block production during epoch 258: 118 blocks in 128 slots, 8% skip rate
+* Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
+* Vote account address: AXAG88fwHfEuUppqyyPiRmBmpQUQj4ojvzt27BVDZMQC
+* Data Center: 48607-RU-Krasnyy Bor
+* Resident Data Center(s): 48607-RU-Krasnyy Bor (seniority: 38)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 257: 179 blocks in 192 slots, 7% skip rate
@@ -214,7 +221,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account FdsjjjDE9rTRiT7YaGKtfUJzN6H7euBT5KMm1rWdZ7eq
 * Vote account address: AXAG88fwHfEuUppqyyPiRmBmpQUQj4ojvzt27BVDZMQC
 * Data Center: 48607-RU-Krasnyy Bor
-* Resident Data Center(s): 48607-RU-Krasnyy Bor (seniority: 7),48607-RU-Europe/Moscow (seniority: 1)
+* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 1),48607-RU-Krasnyy Bor (seniority: 7)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 223: 20 blocks in 24 slots, 17% skip rate
@@ -263,14 +270,14 @@
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: AXAG88fwHfEuUppqyyPiRmBmpQUQj4ojvzt27BVDZMQC
 * Data Center: 48607-RU-Krasnyy Bor
-* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 8),48607-RU-Krasnyy Bor (seniority: 2)
+* Resident Data Center(s): 48607-RU-Krasnyy Bor (seniority: 2),48607-RU-Europe/Moscow (seniority: 8)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 212: 14 blocks in 16 slots, 13% skip rate
 * Staking activity: target stake amount: ◎43598.804034553, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: AXAG88fwHfEuUppqyyPiRmBmpQUQj4ojvzt27BVDZMQC
 * Data Center: 48607-RU-Krasnyy Bor
-* Resident Data Center(s): 48607-RU-Krasnyy Bor (seniority: 1),48607-RU-Europe/Moscow (seniority: 9)
+* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 9),48607-RU-Krasnyy Bor (seniority: 1)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 210: 79 blocks in 248 slots, 69% skip rate

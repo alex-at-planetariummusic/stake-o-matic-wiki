@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Bonus** (for 62 epochs)
+* Stake reason: Good block production during epoch 258: 121 blocks in 124 slots, 3% skip rate
+* Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
+* Vote account address: Y9Ps5mEFb4xeWsrhAhzhu239Yn8dERe5jNkhkgKngQT
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 52)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 61 epochs)
 * Stake reason: Good block production during epoch 257: 178 blocks in 180 slots, 2% skip rate
@@ -312,14 +319,14 @@
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎44854.504850894 - reserve depleted
 * Vote account address: Y9Ps5mEFb4xeWsrhAhzhu239Yn8dERe5jNkhkgKngQT
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),16276-DE-Frankfurt (seniority: 7)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 7),16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: good block production during epoch 204: 186 blocks in 252 slots, 27% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 2zLDgkBfFX2cLRgsWvX7GK2hUcgPaSEZ8GpryqzqzdNN
 * Vote account address: Y9Ps5mEFb4xeWsrhAhzhu239Yn8dERe5jNkhkgKngQT
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),16276-DE-Frankfurt (seniority: 6)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 6),16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: good block production during epoch 203: 197 blocks in 252 slots, 22% skip rate
@@ -347,7 +354,7 @@
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45239.342126859 - removing ◎568.369616990
 * Vote account address: Y9Ps5mEFb4xeWsrhAhzhu239Yn8dERe5jNkhkgKngQT
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2),16276-FR-Gravelines (seniority: 6)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 6),16276-DE-Frankfurt (seniority: 2)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 199: 222 blocks in 268 slots, 18% skip rate

@@ -1,10 +1,18 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: Good block production during epoch 258: 131 blocks in 140 slots, 7% skip rate
+* Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
+* Vote account address: DXehQaCtDuXmjfBYhE4S5kSicGxWTshk3kvDXzcPhC1H
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 27),24940-FI-Helsinki (seniority: 9)
+* infrastructure concentration 25.0% is too high; consider finding a new data center
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 257: 191 blocks in 200 slots, 5% skip rate
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: DXehQaCtDuXmjfBYhE4S5kSicGxWTshk3kvDXzcPhC1H
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 28),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),16276-DE-Frankfurt (seniority: 28)
 * infrastructure concentration 25.4% is too high; consider finding a new data center
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 7 epochs)
@@ -27,21 +35,21 @@
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: DXehQaCtDuXmjfBYhE4S5kSicGxWTshk3kvDXzcPhC1H
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 31),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-DE-Frankfurt (seniority: 31)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 253: 207 blocks in 256 slots, 20% skip rate
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: DXehQaCtDuXmjfBYhE4S5kSicGxWTshk3kvDXzcPhC1H
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-DE-Frankfurt (seniority: 32)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 32),24940-FI-Helsinki (seniority: 4)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 252: 20 blocks in 20 slots, 0% skip rate
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: DXehQaCtDuXmjfBYhE4S5kSicGxWTshk3kvDXzcPhC1H
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 33),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-DE-Frankfurt (seniority: 33)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 251: 27 blocks in 28 slots, 4% skip rate
@@ -384,7 +392,7 @@
 * Staking activity: target stake amount: ◎52244.278878311, current stake amount: ◎48694.184411474 - reserve depleted
 * Vote account address: DXehQaCtDuXmjfBYhE4S5kSicGxWTshk3kvDXzcPhC1H
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),16276-DE-Frankfurt (seniority: 2)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 194: 268 blocks in 296 slots, 10% skip rate

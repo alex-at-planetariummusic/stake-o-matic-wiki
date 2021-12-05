@@ -1,3 +1,9 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: Poor block production during epoch 258: 2 blocks in 28 slots, 93% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 3cK4Qthj4cKoNoDCkYuykvbBVAo7Dp2Hq6HZdWHvGYNR
+* Data Center: 23470-US-Miami
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 257: 5 blocks in 36 slots, 87% skip rate
@@ -30,7 +36,7 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 3cK4Qthj4cKoNoDCkYuykvbBVAo7Dp2Hq6HZdWHvGYNR
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 3),23470-US-The Bronx (seniority: 1)
+* Resident Data Center(s): 23470-US-The Bronx (seniority: 1),23470-US-Miami (seniority: 3)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 252: 75 blocks in 160 slots, 54% skip rate
@@ -72,7 +78,7 @@
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎5000.000000000 - adding ◎30116.660877845
 * Vote account address: 3cK4Qthj4cKoNoDCkYuykvbBVAo7Dp2Hq6HZdWHvGYNR
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-The Bronx (seniority: 7),23470-US-Miami (seniority: 1)
+* Resident Data Center(s): 23470-US-Miami (seniority: 1),23470-US-The Bronx (seniority: 7)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 294162 credits earned in epoch 246

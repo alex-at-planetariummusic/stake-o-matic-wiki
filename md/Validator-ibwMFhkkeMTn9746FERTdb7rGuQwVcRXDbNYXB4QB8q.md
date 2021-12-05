@@ -1,3 +1,10 @@
+### [[Testnet Epoch 259|Testnet#Epoch-259]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 146821 credits earned in epoch 258
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 5pc2uSGYqk4L35deHJuPbDwSCXiKoNhP7grhc3iB4CgJ
+* Data Center: 25697-US-America/Chicago
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 48)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 56640 credits earned in epoch 257
