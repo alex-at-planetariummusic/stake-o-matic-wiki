@@ -1,3 +1,10 @@
+### [[Testnet Epoch 260|Testnet#Epoch-260]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 259: 20 blocks in 32 slots, 38% skip rate
+* Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎5057.702309498 - reserve depleted
+* Vote account address: HW5qTv8G67RpKmJC8xFwbXUVwLXLgsbkD4WvS4fbfz85
+* Data Center: 3255-UA-Kalyniv
+* Resident Data Center(s): 3255-UA-Kalyniv (seniority: 1)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 326512 credits earned in epoch 258
