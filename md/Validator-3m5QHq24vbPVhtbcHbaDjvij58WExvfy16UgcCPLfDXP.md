@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
+* Stake level: **Bonus** (for 69 epochs)
+* Stake reason: Good block production during epoch 254: 153 blocks in 168 slots, 9% skip rate
+* Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82945.109009205 - reserve depleted
+* Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
+* Data Center: 54825-SG-Jurong West
+* Resident Data Center(s): 54825-SG-Jurong West (seniority: 6),57043-NL-Europe/Amsterdam (seniority: 45)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 253: 129 blocks in 136 slots, 6% skip rate
@@ -11,28 +18,28 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.449756118 - removing ◎323.049349086
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 54825-SG-Jurong West
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 47),54825-SG-Jurong West (seniority: 4)
+* Resident Data Center(s): 54825-SG-Jurong West (seniority: 4),57043-NL-Europe/Amsterdam (seniority: 47)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 251: 147 blocks in 152 slots, 4% skip rate
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84241.463925143 - removing ◎795.715359313
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 54825-SG-Jurong West
-* Resident Data Center(s): 54825-SG-Jurong West (seniority: 3),57043-NL-Europe/Amsterdam (seniority: 48)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 48),54825-SG-Jurong West (seniority: 3)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 65 epochs)
 * Stake reason: Good block production during epoch 250: 147 blocks in 156 slots, 6% skip rate
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.150399994 - reserve depleted
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 54825-SG-Jurong West
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 49),54825-SG-Jurong West (seniority: 2)
+* Resident Data Center(s): 54825-SG-Jurong West (seniority: 2),57043-NL-Europe/Amsterdam (seniority: 49)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 249: 151 blocks in 164 slots, 8% skip rate
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86400.841662965 - removing ◎2238.075629936
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 54825-SG-Jurong West
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 50),54825-SG-Jurong West (seniority: 1)
+* Resident Data Center(s): 54825-SG-Jurong West (seniority: 1),57043-NL-Europe/Amsterdam (seniority: 50)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 63 epochs)
 * Stake reason: Good block production during epoch 248: 164 blocks in 180 slots, 9% skip rate
@@ -333,14 +340,14 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152995.546329302 - removing ◎1200.233977842
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 9),57043-NL-Amsterdam (seniority: 2)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 2),57043-NL-Europe/Amsterdam (seniority: 9)
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 201: 219 blocks in 252 slots, 14% skip rate
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180290.479568799 - removing ◎27375.970462035
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 8),57043-NL-Amsterdam (seniority: 3)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 3),57043-NL-Europe/Amsterdam (seniority: 8)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 19 epochs)
@@ -348,7 +355,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186622.233638881 - removing ◎6433.929177704
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 7),57043-NL-Amsterdam (seniority: 4)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 4),57043-NL-Europe/Amsterdam (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 18 epochs)
@@ -364,7 +371,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193104.263854836 - removing ◎846.516627302
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 5),57043-NL-Amsterdam (seniority: 6)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 6),57043-NL-Europe/Amsterdam (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 16 epochs)
@@ -380,7 +387,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎210775.456259128 - removing ◎10797.195515227
 * Vote account address: A3MC4K2pxLXTEHVN5HFF9ikjiauGP7ioZws9FYsucAWF
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 3),57043-NL-Amsterdam (seniority: 8)
+* Resident Data Center(s): 57043-NL-Amsterdam (seniority: 8),57043-NL-Europe/Amsterdam (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 14 epochs)

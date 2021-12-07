@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
+* Stake level: **Bonus** (for 60 epochs)
+* Stake reason: Good block production during epoch 254: 150 blocks in 172 slots, 13% skip rate
+* Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82944.715043051 - reserve depleted
+* Vote account address: B2vsqPPAiLMBZqhuqQdvx24ghg4AxMw76pp6V9kNTVms
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 62)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 59 epochs)
 * Stake reason: Good block production during epoch 253: 110 blocks in 112 slots, 2% skip rate
@@ -445,7 +452,7 @@
 * Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎205479.826132197 - reserve depleted
 * Vote account address: B2vsqPPAiLMBZqhuqQdvx24ghg4AxMw76pp6V9kNTVms
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Munich (seniority: 1),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-DE-Munich (seniority: 1)
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 184: 237 blocks in 256 slots, 8% skip rate
@@ -457,7 +464,7 @@
 * Stake reason: good block production during epoch 183: 271 blocks in 312 slots, 14% skip rate
 * Vote account address: B2vsqPPAiLMBZqhuqQdvx24ghg4AxMw76pp6V9kNTVms
 * Data Center: 24940-DE-Munich
-* Resident Data Center(s): 24940-DE-Munich (seniority: 1),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24940-DE-Munich (seniority: 1)
 ### [[Mainnet Epoch 183|Mainnet#Epoch-183]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 182: 287 blocks in 312 slots, 9% skip rate

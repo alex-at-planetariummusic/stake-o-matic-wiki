@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
+* Stake level: **Bonus** (for 55 epochs)
+* Stake reason: Good block production during epoch 254: 122 blocks in 148 slots, 18% skip rate
+* Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82944.911303088 - reserve depleted
+* Vote account address: GjYzNftUGedbXZXMVm8P9HsvJDosFgPEwJSzjswuDZv6
+* Data Center: 18450-US-America/Chicago
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 55)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 253: 228 blocks in 240 slots, 5% skip rate
@@ -354,21 +361,21 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎193102.391298964 - removing ◎6586.815310874
 * Vote account address: GjYzNftUGedbXZXMVm8P9HsvJDosFgPEwJSzjswuDZv6
 * Data Center: 18450-US-America/Chicago
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),18450-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 4),24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 198: 38 blocks in 44 slots, 14% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 3obrZBfMArL5ZdMVW1diCw1UE3k1Sexw12A3CM5qJDAW
 * Vote account address: GjYzNftUGedbXZXMVm8P9HsvJDosFgPEwJSzjswuDZv6
 * Data Center: 18450-US-America/Chicago
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 3),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),18450-US-America/Chicago (seniority: 3)
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 197: 278 blocks in 328 slots, 16% skip rate
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎1.001095766 - adding ◎192992.307193797
 * Vote account address: GjYzNftUGedbXZXMVm8P9HsvJDosFgPEwJSzjswuDZv6
 * Data Center: 18450-US-America/Chicago
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),18450-US-America/Chicago (seniority: 2)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 2),24940-DE-Falkenstein (seniority: 3)
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 196: 324 blocks in 344 slots, 6% skip rate
@@ -441,13 +448,13 @@
 * Staking activity: target stake amount: ◎208289.425587717, current stake amount: ◎205763.031497573 - reserve depleted
 * Vote account address: GjYzNftUGedbXZXMVm8P9HsvJDosFgPEwJSzjswuDZv6
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 2),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24940-DE-Europe/Berlin (seniority: 2)
 ### [[Mainnet Epoch 185|Mainnet#Epoch-185]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 184: 242 blocks in 300 slots, 20% skip rate
 * Vote account address: GjYzNftUGedbXZXMVm8P9HsvJDosFgPEwJSzjswuDZv6
 * Data Center: 24940-DE-Europe/Berlin
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 1),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Europe/Berlin (seniority: 1)
 ### [[Mainnet Epoch 184|Mainnet#Epoch-184]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 183: 257 blocks in 356 slots, 28% skip rate

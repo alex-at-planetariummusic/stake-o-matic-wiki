@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
+* Stake level: **Bonus** (for 70 epochs)
+* Stake reason: Good block production during epoch 254: 163 blocks in 172 slots, 6% skip rate
+* Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82945.943491550 - reserve depleted
+* Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
+* Data Center: 2588-LV-Riga
+* Resident Data Center(s): 2588-LV-Riga (seniority: 50)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 69 epochs)
 * Stake reason: Good block production during epoch 253: 177 blocks in 184 slots, 4% skip rate
@@ -243,14 +250,14 @@
 * Staking activity: target stake amount: ◎115214.861665898, current stake amount: ◎117665.547697170 - removing ◎2450.686031272
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 15),24589-LV-Riga (seniority: 1)
+* Resident Data Center(s): 24589-LV-Riga (seniority: 1),2588-LV-Riga (seniority: 15)
 ### [[Mainnet Epoch 216|Mainnet#Epoch-216]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 215: 146 blocks in 172 slots, 16% skip rate
 * Staking activity: target stake amount: ◎117608.867212503, current stake amount: ◎122174.273167935 - removing ◎4565.405955432
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 14),24589-LV-Riga (seniority: 2)
+* Resident Data Center(s): 24589-LV-Riga (seniority: 2),2588-LV-Riga (seniority: 14)
 ### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 214: 194 blocks in 220 slots, 12% skip rate
@@ -271,14 +278,14 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.927383812 - removing ◎3549.015529825
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 5),2588-LV-Riga (seniority: 11)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 11),24589-LV-Riga (seniority: 5)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 211: 179 blocks in 196 slots, 9% skip rate
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎127586.007256610 - removing ◎861.846830263
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 6),2588-LV-Riga (seniority: 10)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 10),24589-LV-Riga (seniority: 6)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 209: 230 blocks in 244 slots, 6% skip rate
@@ -299,28 +306,28 @@
 * Staking activity: target stake amount: ◎134361.831949474, current stake amount: ◎139736.873074453 - removing ◎5375.041124979
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 9),2588-LV-Riga (seniority: 7)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 7),24589-LV-Riga (seniority: 9)
 ### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 206: 157 blocks in 164 slots, 5% skip rate
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.889912543 - removing ◎377.075517004
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 10),2588-LV-Riga (seniority: 6)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 6),24589-LV-Riga (seniority: 10)
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 205: 128 blocks in 132 slots, 4% skip rate
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143784.414970516 - removing ◎3811.598168810
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 5),24589-LV-Riga (seniority: 11)
+* Resident Data Center(s): 24589-LV-Riga (seniority: 11),2588-LV-Riga (seniority: 5)
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 204: 185 blocks in 220 slots, 16% skip rate
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144903.767075804 - removing ◎1192.600069448
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 12),2588-LV-Riga (seniority: 4)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 4),24589-LV-Riga (seniority: 12)
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 203: 191 blocks in 224 slots, 15% skip rate
@@ -362,7 +369,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193103.851371891 - removing ◎846.104144357
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 14),2588-LV-Riga (seniority: 1)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 1),24589-LV-Riga (seniority: 14)
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: good block production during epoch 197: 250 blocks in 272 slots, 9% skip rate
