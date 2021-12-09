@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
+* Stake level: **Bonus** (for 56 epochs)
+* Stake reason: Good block production during epoch 255: 155 blocks in 172 slots, 10% skip rate
+* Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.218364052 - removing ◎1646.343209530
+* Vote account address: H1wiu8FvJZ3UqUCGMNfVeAbtB7YJMcL9aHGPJdvPNKTm
+* Data Center: 18450-US-America/Chicago
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 56)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 254: 105 blocks in 116 slots, 10% skip rate
@@ -382,7 +389,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎1.000551644 - reserve depleted
 * Vote account address: H1wiu8FvJZ3UqUCGMNfVeAbtB7YJMcL9aHGPJdvPNKTm
 * Data Center: 18450-US-America/Chicago
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 1),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),18450-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 10.0% is too high; find a new data center
@@ -404,7 +411,7 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎205117.213345179 - adding ◎8343.392721097
 * Vote account address: H1wiu8FvJZ3UqUCGMNfVeAbtB7YJMcL9aHGPJdvPNKTm
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 1),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),24940-DE-Europe/Berlin (seniority: 1)
 * infrastructure concentration 11.8% is too high; consider finding a new data center
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 12 epochs)

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 255: 40 blocks in 44 slots, 10% skip rate
+* Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎25011.709039396 - reserve depleted
+* Vote account address: 61bUK8nWjw4SeDyFARVc1B67gXWwX5Gykfdfi4dMgCYz
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 351964 credits earned in epoch 254

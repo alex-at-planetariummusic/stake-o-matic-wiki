@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
+* Stake level: **Bonus** (for 42 epochs)
+* Stake reason: Good block production during epoch 255: 136 blocks in 140 slots, 3% skip rate
+* Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.196612944 - removing ◎1646.321458422
+* Vote account address: ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 13),213250-DE-Europe/Berlin (seniority: 10)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 254: 144 blocks in 152 slots, 6% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83200.146734531 - removing ◎294.541196460
 * Vote account address: ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),213250-DE-Europe/Berlin (seniority: 12)
+* Resident Data Center(s): 213250-DE-Europe/Berlin (seniority: 12),24940-DE-Falkenstein (seniority: 11)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 252: 140 blocks in 152 slots, 8% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎88670.997352881 - adding ◎462.010660082
 * Vote account address: ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 213250-DE-Europe/Berlin (seniority: 19),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),213250-DE-Europe/Berlin (seniority: 19)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 245: 183 blocks in 184 slots, 1% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89424.827415048 - removing ◎836.474151842
 * Vote account address: ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),213250-DE-Europe/Berlin (seniority: 21)
+* Resident Data Center(s): 213250-DE-Europe/Berlin (seniority: 21),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 243: 155 blocks in 164 slots, 6% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 3NameSdAQjf7j7GkanpbFjBeqwhbtcyW4Ryu5Xwy4YkR
 * Vote account address: ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N
 * Data Center: 213250-DE-Europe/Berlin
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 3),213250-DE-Europe/Berlin (seniority: 3)
+* Resident Data Center(s): 213250-DE-Europe/Berlin (seniority: 3),23470-US-America/Chicago (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 8 epochs)
@@ -236,7 +243,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 3NameSdAQjf7j7GkanpbFjBeqwhbtcyW4Ryu5Xwy4YkR
 * Vote account address: ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N
 * Data Center: 213250-DE-Europe/Berlin
-* Resident Data Center(s): 213250-DE-Europe/Berlin (seniority: 2),23470-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),213250-DE-Europe/Berlin (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus** (for 7 epochs)
@@ -244,7 +251,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 3NameSdAQjf7j7GkanpbFjBeqwhbtcyW4Ryu5Xwy4YkR
 * Vote account address: ouLzBTp7vqzT1mhjtg1TpYHwACJpeB5akRC1zDVdg1N
 * Data Center: 213250-DE-Europe/Berlin
-* Resident Data Center(s): 213250-DE-Europe/Berlin (seniority: 1),23470-US-America/Chicago (seniority: 5)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 5),213250-DE-Europe/Berlin (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus** (for 6 epochs)

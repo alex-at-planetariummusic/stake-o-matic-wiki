@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 145039 credits earned in epoch 255
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎82960.353846911 - removing ◎82959.353846911
+* Vote account address: AY271jdvcyo5VzBiWsMGLEjpZFFrarq8FDydJHLmYgCG
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 65)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 254: 134 blocks in 156 slots, 15% skip rate
