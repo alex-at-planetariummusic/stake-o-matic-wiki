@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 256: 36 blocks in 36 slots, 0% skip rate
+* Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎25011.837222892 - reserve depleted
+* Vote account address: 7WpXLmdVwqLnwhpovdF7H1skEJC1LmF13K1rRDSyNgqv
+* Data Center: 16276-PL-Warsaw
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 371498 credits earned in epoch 255

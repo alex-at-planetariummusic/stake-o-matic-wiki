@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: Poor block production during epoch 256: 12 blocks in 44 slots, 73% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25010.979187361 - removing ◎10.979187361
+* Vote account address: 2naPB8XC4FWp4er8M2nxDsphXHEyQH2CSQMFaSHxWWd8
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 48)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 255: 8 blocks in 52 slots, 85% skip rate

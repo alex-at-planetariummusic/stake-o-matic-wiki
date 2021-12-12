@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 5228 credits earned in epoch 256
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000006480 - not removing ◎0.000006480 (amount too small)
+* Vote account address: 39ueFBsyhKixjBqNJ74L7DackgeZyBALqjiP8CsBhgEc
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 40)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 220291 credits earned in epoch 255
