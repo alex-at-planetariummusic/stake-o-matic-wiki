@@ -1,52 +1,59 @@
+### [[Testnet Epoch 262|Testnet#Epoch-262]]
+* Stake level: **Bonus** (for 28 epochs)
+* Stake reason: Good block production during epoch 261: 290 blocks in 316 slots, 9% skip rate
+* Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
+* Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 12),24940-FI-Helsinki (seniority: 10),31148-UA-Kryvyi Rih (seniority: 2)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 260: 222 blocks in 240 slots, 8% skip rate
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 57197-UA-Dnipro (seniority: 13),31148-UA-Kryvyi Rih (seniority: 3),24940-FI-Helsinki (seniority: 9)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),31148-UA-Kryvyi Rih (seniority: 3),57197-UA-Dnipro (seniority: 13)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 259: 140 blocks in 188 slots, 26% skip rate
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 31148-UA-Kryvyi Rih
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),31148-UA-Kryvyi Rih (seniority: 4),57197-UA-Dnipro (seniority: 14)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 14),24940-FI-Helsinki (seniority: 8),31148-UA-Kryvyi Rih (seniority: 4)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 258: 277 blocks in 292 slots, 6% skip rate
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 31148-UA-Kryvyi Rih
-* Resident Data Center(s): 31148-UA-Kryvyi Rih (seniority: 3),24940-FI-Helsinki (seniority: 9),57197-UA-Dnipro (seniority: 15)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),31148-UA-Kryvyi Rih (seniority: 3),57197-UA-Dnipro (seniority: 15)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 257: 288 blocks in 296 slots, 3% skip rate
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 31148-UA-Kryvyi Rih
-* Resident Data Center(s): 57197-UA-Dnipro (seniority: 16),24940-FI-Helsinki (seniority: 10),31148-UA-Kryvyi Rih (seniority: 2)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 16),31148-UA-Kryvyi Rih (seniority: 2),24940-FI-Helsinki (seniority: 10)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 256: 258 blocks in 272 slots, 6% skip rate
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 31148-UA-Kryvyi Rih
-* Resident Data Center(s): 57197-UA-Dnipro (seniority: 17),24940-FI-Helsinki (seniority: 11),31148-UA-Kryvyi Rih (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 11),57197-UA-Dnipro (seniority: 17),31148-UA-Kryvyi Rih (seniority: 1)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 255: 294 blocks in 300 slots, 2% skip rate
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 12),57197-UA-Dnipro (seniority: 18)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 18),24940-FI-Helsinki (seniority: 12)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 254: 237 blocks in 248 slots, 5% skip rate
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 11),57197-UA-Dnipro (seniority: 19)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 19),24940-FI-Helsinki (seniority: 11)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 253: 215 blocks in 280 slots, 24% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),57197-UA-Dnipro (seniority: 21)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 21),24940-FI-Helsinki (seniority: 9)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 251: 268 blocks in 280 slots, 5% skip rate
@@ -81,14 +88,14 @@
 * Staking activity: target stake amount: ◎34324.243729506, current stake amount: ◎34916.925891894 - removing ◎592.682162388
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),57197-UA-Dnipro (seniority: 24)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 24),24940-FI-Helsinki (seniority: 6)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 248: 299 blocks in 320 slots, 7% skip rate
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),57197-UA-Dnipro (seniority: 25)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 25),24940-FI-Helsinki (seniority: 5)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 247: 293 blocks in 304 slots, 4% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 57197-UA-Dnipro (seniority: 27),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),57197-UA-Dnipro (seniority: 27)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 245: 230 blocks in 264 slots, 13% skip rate
@@ -200,7 +207,7 @@
 * Staking activity: target stake amount: ◎41862.255725477, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 5Y4LUf7ouu9JWz19Df1ZFqeTc5gsN83APtDxhtx7yWG3
 * Data Center: 31148-UA-Dnipro
-* Resident Data Center(s): 57197-UA-Dnipro (seniority: 21),31148-UA-Dnipro (seniority: 1)
+* Resident Data Center(s): 31148-UA-Dnipro (seniority: 1),57197-UA-Dnipro (seniority: 21)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 229: 42 blocks in 88 slots, 53% skip rate

@@ -1,3 +1,9 @@
+### [[Testnet Epoch 262|Testnet#Epoch-262]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.8.1
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: CpcgeMAp4RnDM79UH1UodfqqnY57n2QEZkidCxEpQbzw
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 330773 credits earned in epoch 260
