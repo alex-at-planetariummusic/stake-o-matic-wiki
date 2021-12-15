@@ -1,3 +1,10 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 312923 credits earned in epoch 262
+* Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎5053.196121500 - adding ◎24978.930597022
+* Vote account address: 4BDLesRGHVs4K1H9St4AuGtKj4CrK7Jja39xMVHuDaso
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 42)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 261: 151 blocks in 168 slots, 11% skip rate

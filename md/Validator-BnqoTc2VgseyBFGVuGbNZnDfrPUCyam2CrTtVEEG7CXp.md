@@ -1,10 +1,17 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Bonus** (for 35 epochs)
+* Stake reason: Good block production during epoch 262: 575 blocks in 604 slots, 5% skip rate
+* Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
+* Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),29182-RU-Europe/Moscow (seniority: 14),21409-FR-Europe/Paris (seniority: 12),16276-FR-Gravelines (seniority: 3)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 261: 406 blocks in 420 slots, 4% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),16276-FR-Gravelines (seniority: 4),29182-RU-Europe/Moscow (seniority: 15)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),21409-FR-Europe/Paris (seniority: 13),29182-RU-Europe/Moscow (seniority: 15)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 260: 460 blocks in 476 slots, 4% skip rate
@@ -46,28 +53,28 @@
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 21),21409-FR-Europe/Paris (seniority: 15)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 15),29182-RU-Europe/Moscow (seniority: 21)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 254: 139 blocks in 176 slots, 22% skip rate
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14),29182-RU-Europe/Moscow (seniority: 22)
+* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 22),21409-FR-Europe/Paris (seniority: 14)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 253: 121 blocks in 140 slots, 14% skip rate
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 23),21409-FR-Europe/Paris (seniority: 13)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),29182-RU-Europe/Moscow (seniority: 23)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 252: 162 blocks in 172 slots, 6% skip rate
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 12),29182-RU-Europe/Moscow (seniority: 24)
+* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 24),21409-FR-Europe/Paris (seniority: 12)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 251: 92 blocks in 92 slots, 0% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),29182-RU-Europe/Moscow (seniority: 29)
+* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 29),21409-FR-Europe/Paris (seniority: 7)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 246: 180 blocks in 220 slots, 19% skip rate
@@ -123,21 +130,21 @@
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38116.953738428 - removing ◎1458.636850814
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 32),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),29182-RU-Europe/Moscow (seniority: 32)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 243: 205 blocks in 216 slots, 6% skip rate
 * Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎38116.953738428 - reserve depleted
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 33),21409-FR-Europe/Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),29182-RU-Europe/Moscow (seniority: 33)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 242: 151 blocks in 160 slots, 6% skip rate
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎39492.751969070 - removing ◎1375.798230642
 * Vote account address: 5FTgSxVhuvM2rHsnzcy6vwCqNCzfs9jV3jZeHNAbxZ4C
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 34),21409-FR-Europe/Paris (seniority: 2)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),29182-RU-Europe/Moscow (seniority: 34)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 241: 96 blocks in 164 slots, 42% skip rate

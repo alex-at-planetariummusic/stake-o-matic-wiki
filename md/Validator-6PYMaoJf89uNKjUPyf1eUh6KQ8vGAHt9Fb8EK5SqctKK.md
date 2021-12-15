@@ -1,3 +1,10 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: Poor block production during epoch 262: 2 blocks in 24 slots, 92% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 2LeuT8ZYeS1i2fvsoUoE8EXSJfAT1P1KkMwRngSWXBJy
+* Data Center: 24961-DE-Andernach
+* Resident Data Center(s): 24961-DE-Andernach (seniority: 18)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: Poor block production during epoch 261: 76 blocks in 132 slots, 43% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
 * Vote account address: 2LeuT8ZYeS1i2fvsoUoE8EXSJfAT1P1KkMwRngSWXBJy
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 1),24961-DE-Andernach (seniority: 9)
+* Resident Data Center(s): 24961-DE-Andernach (seniority: 9),48607-RU-Europe/Moscow (seniority: 1)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 244: 148 blocks in 180 slots, 18% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎38116.953738428 - reserve depleted
 * Vote account address: 2LeuT8ZYeS1i2fvsoUoE8EXSJfAT1P1KkMwRngSWXBJy
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 3),24961-DE-Andernach (seniority: 7)
+* Resident Data Center(s): 24961-DE-Andernach (seniority: 7),48607-RU-Europe/Moscow (seniority: 3)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 242: 148 blocks in 184 slots, 20% skip rate
@@ -158,14 +165,14 @@
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
 * Vote account address: 2LeuT8ZYeS1i2fvsoUoE8EXSJfAT1P1KkMwRngSWXBJy
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 24961-DE-Andernach (seniority: 3),48607-RU-Europe/Moscow (seniority: 7)
+* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 7),24961-DE-Andernach (seniority: 3)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 236: 11 blocks in 12 slots, 9% skip rate
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎5000.000000000 - adding ◎35416.812091631
 * Vote account address: 2LeuT8ZYeS1i2fvsoUoE8EXSJfAT1P1KkMwRngSWXBJy
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 24961-DE-Andernach (seniority: 2),48607-RU-Europe/Moscow (seniority: 8)
+* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 8),24961-DE-Andernach (seniority: 2)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 235: 26 blocks in 32 slots, 19% skip rate
@@ -200,7 +207,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 2LeuT8ZYeS1i2fvsoUoE8EXSJfAT1P1KkMwRngSWXBJy
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 13),24961-DE-Andernach (seniority: 1)
+* Resident Data Center(s): 24961-DE-Andernach (seniority: 1),48607-RU-Europe/Moscow (seniority: 13)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 230: 8 blocks in 16 slots, 50% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎44318.843345878 - removing ◎39318.843345878
 * Vote account address: 2LeuT8ZYeS1i2fvsoUoE8EXSJfAT1P1KkMwRngSWXBJy
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 17),24961-DE-Andernach (seniority: 3)
+* Resident Data Center(s): 24961-DE-Andernach (seniority: 3),48607-RU-Europe/Moscow (seniority: 17)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 225: 19 blocks in 24 slots, 21% skip rate

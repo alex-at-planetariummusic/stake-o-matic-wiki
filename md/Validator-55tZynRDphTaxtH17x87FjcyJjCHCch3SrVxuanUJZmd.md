@@ -1,3 +1,10 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: Poor block production during epoch 262: 28 blocks in 68 slots, 59% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5052.140081546 - removing ◎52.140081546
+* Vote account address: 6n9bouyQBqzAgpiycMsbZW7PYdyPCEZKcapA7sYuhKnc
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 48)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 261: 8 blocks in 28 slots, 72% skip rate

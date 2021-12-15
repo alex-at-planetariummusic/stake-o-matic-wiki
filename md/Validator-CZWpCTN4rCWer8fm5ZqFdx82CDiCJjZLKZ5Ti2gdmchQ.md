@@ -1,10 +1,17 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 262: 1 blocks in 40 slots, 98% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - adding ◎4999.000000000
+* Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
+* Data Center: 35539-RU-Sverdlovskiy
+* Resident Data Center(s): 0-Unknown (seniority: 5),35539-RU-Shchelkovo (seniority: 28)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 122109 credits earned in epoch 261
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 35539-RU-Sverdlovskiy
-* Resident Data Center(s): 0-Unknown (seniority: 6),35539-RU-Shchelkovo (seniority: 29)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 29),0-Unknown (seniority: 6)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 260: 60 blocks in 172 slots, 66% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎33068.373512476 - removing ◎28068.373512476
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 5),35539-RU-Shchelkovo (seniority: 36)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 36),0-Unknown (seniority: 5)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 253: 159 blocks in 192 slots, 18% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 5),35539-RU-Shchelkovo (seniority: 38)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 38),0-Unknown (seniority: 5)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: No leader slots; 242661 credits earned in epoch 251

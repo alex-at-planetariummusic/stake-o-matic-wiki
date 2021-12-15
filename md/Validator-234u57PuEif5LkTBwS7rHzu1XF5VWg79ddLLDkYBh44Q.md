@@ -1,3 +1,10 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 162600 credits earned in epoch 262
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: HnsHUwb8iXWJETj6bMMJ8NmDdzQfTfBQkTM6ZPVLyh6U
+* Data Center: 16509-HK-Asia/Hong_Kong
+* Resident Data Center(s): 16509-HK-Asia/Hong_Kong (seniority: 10)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 261: 4 blocks in 28 slots, 86% skip rate

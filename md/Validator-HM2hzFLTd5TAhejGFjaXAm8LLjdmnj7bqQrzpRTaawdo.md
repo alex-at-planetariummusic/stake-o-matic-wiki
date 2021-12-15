@@ -1,3 +1,10 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 262
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 2MTbucJY3Liq8i7Kz5i75vRYG5b4fGJYYSUZBAMYvkUP
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Philadelphia (seniority: 40)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 133249 credits earned in epoch 261
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 2MTbucJY3Liq8i7Kz5i75vRYG5b4fGJYYSUZBAMYvkUP
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Philadelphia (seniority: 42),23470-US-Miami (seniority: 1)
+* Resident Data Center(s): 23470-US-Miami (seniority: 1),23470-US-Philadelphia (seniority: 42)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 259: 83 blocks in 176 slots, 53% skip rate

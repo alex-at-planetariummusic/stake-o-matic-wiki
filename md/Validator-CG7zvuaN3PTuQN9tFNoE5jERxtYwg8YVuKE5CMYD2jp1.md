@@ -1,24 +1,31 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: Good block production during epoch 262: 155 blocks in 172 slots, 10% skip rate
+* Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
+* Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
+* Data Center: 57378-RU-Rostov-on-Don
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),57378-RU-Rostov-on-Don (seniority: 10),22612-US-Sioux Falls (seniority: 18)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 261: 135 blocks in 176 slots, 24% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 9),16276-FR-Strasbourg (seniority: 2),22612-US-Sioux Falls (seniority: 19)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 2),22612-US-Sioux Falls (seniority: 19),57378-RU-Rostov-on-Don (seniority: 9)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 260: 147 blocks in 156 slots, 6% skip rate
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 20),57378-RU-Rostov-on-Don (seniority: 10),16276-FR-Strasbourg (seniority: 1)
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 10),22612-US-Sioux Falls (seniority: 20),16276-FR-Strasbourg (seniority: 1)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 259: 177 blocks in 192 slots, 8% skip rate
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 11),22612-US-Sioux Falls (seniority: 21)
+* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 21),57378-RU-Rostov-on-Don (seniority: 11)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 258: 126 blocks in 140 slots, 10% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 9),22612-US-Sioux Falls (seniority: 23)
+* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 23),57378-RU-Rostov-on-Don (seniority: 9)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 256: 154 blocks in 168 slots, 9% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 25),57378-RU-Rostov-on-Don (seniority: 7)
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 7),22612-US-Sioux Falls (seniority: 25)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 254: 156 blocks in 176 slots, 12% skip rate
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 6),22612-US-Sioux Falls (seniority: 26)
+* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 26),57378-RU-Rostov-on-Don (seniority: 6)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 253: 113 blocks in 160 slots, 30% skip rate
@@ -74,21 +81,21 @@
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34776.815121908 - removing ◎405.412436055
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 29),57378-RU-Rostov-on-Don (seniority: 3)
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 3),22612-US-Sioux Falls (seniority: 29)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 250: 161 blocks in 184 slots, 13% skip rate
 * Staking activity: target stake amount: ◎34776.815121908, current stake amount: ◎5000.000000000 - adding ◎29776.815121908
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 2),22612-US-Sioux Falls (seniority: 30)
+* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 30),57378-RU-Rostov-on-Don (seniority: 2)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 249: 175 blocks in 180 slots, 3% skip rate
 * Staking activity: target stake amount: ◎34324.243729506, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 16276-EN-London (seniority: 1),22612-US-Sioux Falls (seniority: 31),57378-RU-Rostov-on-Don (seniority: 1)
+* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 31),16276-EN-London (seniority: 1),57378-RU-Rostov-on-Don (seniority: 1)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 248: 71 blocks in 152 slots, 54% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎5000.000000000 - adding ◎31658.316887614
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 2),22612-US-Sioux Falls (seniority: 36)
+* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 36),16276-EN-London (seniority: 2)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 243: 164 blocks in 180 slots, 9% skip rate
@@ -291,14 +298,14 @@
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 18),57378-RU-Rostov-on-Don (seniority: 2)
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 2),22612-US-Sioux Falls (seniority: 18)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 212: 171 blocks in 228 slots, 25% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 3ZmV3jbVFDu1f97x4ifgkkzCAQFWjYyJ1kURVG6eA9Pk
 * Vote account address: 2mf2341NAz6H7P2amp4wJWDdfLTMLkofrRTTe5GaHo4z
 * Data Center: 57378-RU-Rostov-on-Don
-* Resident Data Center(s): 22612-US-Sioux Falls (seniority: 19),57378-RU-Rostov-on-Don (seniority: 1)
+* Resident Data Center(s): 57378-RU-Rostov-on-Don (seniority: 1),22612-US-Sioux Falls (seniority: 19)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 210: 164 blocks in 312 slots, 48% skip rate

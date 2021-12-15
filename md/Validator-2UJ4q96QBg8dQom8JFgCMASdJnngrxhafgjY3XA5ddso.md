@@ -1,3 +1,10 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Bonus** (for 22 epochs)
+* Stake reason: Good block production during epoch 262: 137 blocks in 140 slots, 3% skip rate
+* Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
+* Vote account address: 79srrcD9NaiJxtJHY1qmXf7nVKwhNZGdx3VF7ENSsRp
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 19)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 261: 98 blocks in 108 slots, 10% skip rate
@@ -105,14 +112,14 @@
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: 79srrcD9NaiJxtJHY1qmXf7nVKwhNZGdx3VF7ENSsRp
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-EN-London (seniority: 1),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-EN-London (seniority: 1)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 246: 168 blocks in 208 slots, 20% skip rate
 * Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
 * Vote account address: 79srrcD9NaiJxtJHY1qmXf7nVKwhNZGdx3VF7ENSsRp
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-EN-London (seniority: 2),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-EN-London (seniority: 2)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 245: 196 blocks in 220 slots, 11% skip rate
@@ -126,7 +133,7 @@
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38116.953738428 - removing ◎1458.636850814
 * Vote account address: 79srrcD9NaiJxtJHY1qmXf7nVKwhNZGdx3VF7ENSsRp
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-EN-London (seniority: 4),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-EN-London (seniority: 4)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 277502 credits earned in epoch 243

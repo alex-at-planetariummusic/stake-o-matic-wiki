@@ -1,3 +1,10 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 262: 7 blocks in 16 slots, 57% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎32014.546799635 - removing ◎27014.546799635
+* Vote account address: GTxmd1gRL6SwZvDCi5Lt2wjK8B4gihLp7aWu2hYrubio
+* Data Center: 6703-UA-Dnipro
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 43)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 261: 95 blocks in 104 slots, 9% skip rate
@@ -263,7 +270,7 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
 * Vote account address: GTxmd1gRL6SwZvDCi5Lt2wjK8B4gihLp7aWu2hYrubio
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 6703-UA-Dnipro (seniority: 13),13188-UA-Dnipro (seniority: 1)
+* Resident Data Center(s): 13188-UA-Dnipro (seniority: 1),6703-UA-Dnipro (seniority: 13)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 217: 136 blocks in 268 slots, 50% skip rate

@@ -1,10 +1,17 @@
+### [[Testnet Epoch 263|Testnet#Epoch-263]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 262: 276 blocks in 292 slots, 6% skip rate
+* Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32014.546799635 - removing ◎1982.420081113
+* Vote account address: 6QuNUWCjuvZYpu9hJX8Jrhyt9dszZERVsFPTTEAa3MVz
+* Data Center: 21409-FR-Bidos
+* Resident Data Center(s): 21409-FR-Bidos (seniority: 3),21409-FR-Europe/Paris (seniority: 30)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 261: 283 blocks in 304 slots, 7% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎5000.000000000 - adding ◎27014.546799635
 * Vote account address: 6QuNUWCjuvZYpu9hJX8Jrhyt9dszZERVsFPTTEAa3MVz
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 31),21409-FR-Bidos (seniority: 2)
+* Resident Data Center(s): 21409-FR-Bidos (seniority: 2),21409-FR-Europe/Paris (seniority: 31)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 260: 302 blocks in 316 slots, 5% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 6QuNUWCjuvZYpu9hJX8Jrhyt9dszZERVsFPTTEAa3MVz
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 3),21409-FR-Europe/Paris (seniority: 34)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 34),21409-FR-Boulogne-Billancourt (seniority: 3)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 257: 207 blocks in 328 slots, 37% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 6QuNUWCjuvZYpu9hJX8Jrhyt9dszZERVsFPTTEAa3MVz
 * Data Center: 21409-FR-Boulogne-Billancourt
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 37),21409-FR-Boulogne-Billancourt (seniority: 4)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 4),21409-FR-Europe/Paris (seniority: 37)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 254: 55 blocks in 164 slots, 67% skip rate
@@ -60,21 +67,21 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: 6QuNUWCjuvZYpu9hJX8Jrhyt9dszZERVsFPTTEAa3MVz
 * Data Center: 21409-FR-Boulogne-Billancourt
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 39),21409-FR-Boulogne-Billancourt (seniority: 6)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 6),21409-FR-Europe/Paris (seniority: 39)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 252: 93 blocks in 120 slots, 23% skip rate
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: 6QuNUWCjuvZYpu9hJX8Jrhyt9dszZERVsFPTTEAa3MVz
 * Data Center: 21409-FR-Boulogne-Billancourt
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 40),21409-FR-Boulogne-Billancourt (seniority: 5)
+* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 5),21409-FR-Europe/Paris (seniority: 40)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 251: 115 blocks in 152 slots, 25% skip rate
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: 6QuNUWCjuvZYpu9hJX8Jrhyt9dszZERVsFPTTEAa3MVz
 * Data Center: 21409-FR-Boulogne-Billancourt
-* Resident Data Center(s): 21409-FR-Boulogne-Billancourt (seniority: 4),21409-FR-Europe/Paris (seniority: 41)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 41),21409-FR-Boulogne-Billancourt (seniority: 4)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 250: 152 blocks in 180 slots, 16% skip rate
