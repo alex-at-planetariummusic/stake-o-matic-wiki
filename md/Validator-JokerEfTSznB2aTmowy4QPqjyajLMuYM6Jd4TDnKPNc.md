@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 257: 58 blocks in 64 slots, 10% skip rate
+* Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.654579150 - removing ◎861.252899746
+* Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 25)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 256: 28 blocks in 28 slots, 0% skip rate
@@ -151,14 +158,14 @@
 * Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎96392.421440619 - reserve depleted
 * Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 7),24961-DE-Europe/Berlin (seniority: 1)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),23470-US-America/Chicago (seniority: 7)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 233: 40 blocks in 40 slots, 0% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account CH8JJcRr8tincf6MYCxqmGLZ4TNsy9yjcKGsQqvXbCLD
 * Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 6),24961-DE-Europe/Berlin (seniority: 2)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 2),23470-US-America/Chicago (seniority: 6)
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 232: 184 blocks in 184 slots, 0% skip rate
@@ -186,7 +193,7 @@
 * Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎100931.007885457 - removing ◎54.199727272
 * Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),24961-DE-Europe/Berlin (seniority: 6)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 6),23470-US-America/Chicago (seniority: 4)
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 228: 48 blocks in 52 slots, 8% skip rate
@@ -207,7 +214,7 @@
 * Staking activity: target stake amount: ◎102400.113698518, current stake amount: ◎25021.693446840 - reserve depleted
 * Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),24961-DE-Europe/Berlin (seniority: 9)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 9),23470-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 224: 18 blocks in 28 slots, 36% skip rate
@@ -305,7 +312,7 @@
 * Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎133362.271219195 - removing ◎5903.758954286
 * Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24961-DE-Europe/Berlin (seniority: 11)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 11),24940-FI-Helsinki (seniority: 1)
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 208: 176 blocks in 208 slots, 16% skip rate
@@ -333,7 +340,7 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143783.995189575 - removing ◎3811.178387869
 * Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24961-DE-Europe/Berlin (seniority: 7)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 7),24940-FI-Helsinki (seniority: 5)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 8 epochs)
@@ -341,7 +348,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144902.837202885 - removing ◎1191.670196529
 * Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 6),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24961-DE-Europe/Berlin (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 * Insufficient testnet participation
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
@@ -350,7 +357,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151875.563671219 - removing ◎7048.313702213
 * Vote account address: JokeruQoFrVevoPR5QBRPGncPQbtrpq3PJEcY22JefC
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),24961-DE-Europe/Berlin (seniority: 5)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 5),24940-FI-Helsinki (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 * Insufficient testnet participation
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
