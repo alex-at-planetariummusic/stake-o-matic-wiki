@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.8.5
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25023.169029579 - removing ◎25022.169029579
+* Vote account address: H8gWisRkUanTX9MofS6VoQbf1qCqEZLJvJPKRXveSjN9
+* Data Center: 23470-US-Los Angeles
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 257: 7 blocks in 8 slots, 13% skip rate
