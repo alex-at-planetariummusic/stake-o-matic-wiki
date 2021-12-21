@@ -1,3 +1,10 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **Bonus** (for 51 epochs)
+* Stake reason: Good block production during epoch 264: 167 blocks in 168 slots, 1% skip rate
+* Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
+* Vote account address: CBdaNfcndp1enu18brDzPRTDAa56nWeAaSw9beK4iSyC
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),16276-EN-London (seniority: 39)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 263: 147 blocks in 160 slots, 9% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: CBdaNfcndp1enu18brDzPRTDAa56nWeAaSw9beK4iSyC
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-EN-London (seniority: 41),16276-FR-Roubaix (seniority: 2)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),16276-EN-London (seniority: 41)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 261: 147 blocks in 148 slots, 1% skip rate
@@ -137,7 +144,7 @@
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38116.953738428 - removing ◎1458.636850814
 * Vote account address: CBdaNfcndp1enu18brDzPRTDAa56nWeAaSw9beK4iSyC
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 27),16276-FR-Strasbourg (seniority: 1)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),16276-EN-London (seniority: 27)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 243: 250 blocks in 288 slots, 14% skip rate
@@ -151,14 +158,14 @@
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎39492.751969070 - removing ◎1375.798230642
 * Vote account address: CBdaNfcndp1enu18brDzPRTDAa56nWeAaSw9beK4iSyC
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 25),16276-FR-Strasbourg (seniority: 3)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 3),16276-EN-London (seniority: 25)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 241: 195 blocks in 204 slots, 5% skip rate
 * Staking activity: target stake amount: ◎39492.751969070, current stake amount: ◎40113.573861180 - removing ◎620.821892110
 * Vote account address: CBdaNfcndp1enu18brDzPRTDAa56nWeAaSw9beK4iSyC
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 4),16276-EN-London (seniority: 24)
+* Resident Data Center(s): 16276-EN-London (seniority: 24),16276-FR-Strasbourg (seniority: 4)
 ### [[Testnet Epoch 241|Testnet#Epoch-241]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 240: 207 blocks in 208 slots, 1% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **Bonus** (for 43 epochs)
+* Stake reason: Good block production during epoch 264: 269 blocks in 284 slots, 6% skip rate
+* Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28837.605334361 - reserve depleted
+* Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 37)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 263: 215 blocks in 272 slots, 21% skip rate
@@ -216,7 +223,7 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎42331.756814549 - reserve depleted
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 230: 264 blocks in 308 slots, 15% skip rate
@@ -244,7 +251,7 @@
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎45376.139291317 - removing ◎894.701570940
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-DE-Nuremburg (seniority: 5)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 225: 358 blocks in 396 slots, 10% skip rate
@@ -383,21 +390,21 @@
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎45175.104178123 - removing ◎1048.608022308
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 4766-KR-Gangnam-gu
-* Resident Data Center(s): 4766-KR-Gangnam-gu (seniority: 3),4766-KR-Yongdu-dong (seniority: 5)
+* Resident Data Center(s): 4766-KR-Yongdu-dong (seniority: 5),4766-KR-Gangnam-gu (seniority: 3)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: good block production during epoch 200: 168 blocks in 296 slots, 44% skip rate
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45758.515189324 - removing ◎1087.542679455
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 4766-KR-Gangnam-gu
-* Resident Data Center(s): 4766-KR-Gangnam-gu (seniority: 2),4766-KR-Yongdu-dong (seniority: 6)
+* Resident Data Center(s): 4766-KR-Yongdu-dong (seniority: 6),4766-KR-Gangnam-gu (seniority: 2)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 199: 137 blocks in 296 slots, 54% skip rate
 * Staking activity: target stake amount: ◎45239.342126859, current stake amount: ◎46775.491118305 - removing ◎1536.148991446
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 4766-KR-Gangnam-gu
-* Resident Data Center(s): 4766-KR-Yongdu-dong (seniority: 7),4766-KR-Gangnam-gu (seniority: 1)
+* Resident Data Center(s): 4766-KR-Gangnam-gu (seniority: 1),4766-KR-Yongdu-dong (seniority: 7)
 ### [[Testnet Epoch 199|Testnet#Epoch-199]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: good block production during epoch 198: 226 blocks in 300 slots, 25% skip rate

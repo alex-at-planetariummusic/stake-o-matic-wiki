@@ -1,3 +1,10 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 168715 credits earned in epoch 264
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: GTxmd1gRL6SwZvDCi5Lt2wjK8B4gihLp7aWu2hYrubio
+* Data Center: 6703-UA-Dnipro
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 41)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 263: 12 blocks in 28 slots, 58% skip rate
@@ -277,14 +284,14 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
 * Vote account address: GTxmd1gRL6SwZvDCi5Lt2wjK8B4gihLp7aWu2hYrubio
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 1),6703-UA-Dnipro (seniority: 13)
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 13),13188-UA-Dnipro (seniority: 1)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 217: 136 blocks in 268 slots, 50% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: HfAscHg2fTstRD1zfKJWBrTQ3o4NuXvG98A7QQn19tA1
 * Vote account address: GTxmd1gRL6SwZvDCi5Lt2wjK8B4gihLp7aWu2hYrubio
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 6703-UA-Dnipro (seniority: 14),3255-UA-Kyiv (seniority: 1)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 1),6703-UA-Dnipro (seniority: 14)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 215: 123 blocks in 224 slots, 46% skip rate

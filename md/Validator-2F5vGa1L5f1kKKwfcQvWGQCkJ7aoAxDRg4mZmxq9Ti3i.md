@@ -1,3 +1,9 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **None** (for 8 epochs)
+* Stake reason: infrastructure concentration 25.8% is too high; find a new data center
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: Insufficient vote credits: 99391 credits earned in epoch 263
@@ -209,28 +215,28 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎5000.000000000 - adding ◎37600.138718013
 * Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 15),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),23470-US-Las Vegas (seniority: 15)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 230: 195 blocks in 220 slots, 12% skip rate
 * Staking activity: target stake amount: ◎41862.255725477, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 16),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),23470-US-Las Vegas (seniority: 16)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 229: 47 blocks in 216 slots, 79% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: DzTezV1iPhrtFjV8Qss9wKWx4LaXmcVnBue3KsKYBCDS
 * Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),23470-US-Las Vegas (seniority: 17)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 17),24940-FI-Helsinki (seniority: 2)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 228: 142 blocks in 172 slots, 18% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: DzTezV1iPhrtFjV8Qss9wKWx4LaXmcVnBue3KsKYBCDS
 * Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 18),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),23470-US-Las Vegas (seniority: 18)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 227: 190 blocks in 284 slots, 34% skip rate
@@ -244,7 +250,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: DzTezV1iPhrtFjV8Qss9wKWx4LaXmcVnBue3KsKYBCDS
 * Vote account address: CKfqnr97a3GsFMX7NxB3JqnHKw95pzem82jTys1EaQXS
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),23470-US-Las Vegas (seniority: 20)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 20),24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 224: 204 blocks in 224 slots, 9% skip rate

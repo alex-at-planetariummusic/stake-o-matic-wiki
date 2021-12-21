@@ -1,3 +1,10 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 264: 120 blocks in 208 slots, 43% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎28732.319880981 - removing ◎23732.319880981
+* Vote account address: 213LE1Jpb4KwfAeqnWY9dzr3TpYoadGk2oQmHXML2AdZ
+* Data Center: 57043-NL-Europe/Amsterdam
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 30)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 263: 153 blocks in 208 slots, 27% skip rate
@@ -200,14 +207,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account CWAqQxvjogfD4cMxYPbkgzEEadNQ3Ca18ZbTWY3qkBy3
 * Vote account address: 213LE1Jpb4KwfAeqnWY9dzr3TpYoadGk2oQmHXML2AdZ
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),57043-NL-Europe/Amsterdam (seniority: 5)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 5),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 233|Testnet#Epoch-233]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 232: 189 blocks in 256 slots, 27% skip rate
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎41839.923678665 - adding ◎1376.903985168
 * Vote account address: 213LE1Jpb4KwfAeqnWY9dzr3TpYoadGk2oQmHXML2AdZ
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),57043-NL-Europe/Amsterdam (seniority: 4)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 4),24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 231: 184 blocks in 212 slots, 14% skip rate

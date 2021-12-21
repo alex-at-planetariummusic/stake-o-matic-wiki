@@ -1,3 +1,10 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **Bonus** (for 30 epochs)
+* Stake reason: Good block production during epoch 264: 119 blocks in 120 slots, 1% skip rate
+* Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
+* Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 28)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 263: 120 blocks in 136 slots, 12% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 2),16276-CA-Beauharnois (seniority: 18)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 18),24961-DE-Düsseldorf (seniority: 2)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 253: 158 blocks in 164 slots, 4% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 4),16276-CA-Beauharnois (seniority: 16)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 16),24961-DE-Düsseldorf (seniority: 4)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 251: 150 blocks in 156 slots, 4% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
 * Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 10),16276-CA-Beauharnois (seniority: 10)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 10),24961-DE-Düsseldorf (seniority: 10)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 245: 160 blocks in 188 slots, 15% skip rate
@@ -151,14 +158,14 @@
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎39492.751969070 - removing ◎1375.798230642
 * Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 6),24961-DE-Düsseldorf (seniority: 14)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 14),16276-CA-Beauharnois (seniority: 6)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 241: 182 blocks in 188 slots, 4% skip rate
 * Staking activity: target stake amount: ◎39492.751969070, current stake amount: ◎40113.573861180 - removing ◎620.821892110
 * Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 15),16276-CA-Beauharnois (seniority: 5)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 5),24961-DE-Düsseldorf (seniority: 15)
 ### [[Testnet Epoch 241|Testnet#Epoch-241]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 240: 153 blocks in 160 slots, 5% skip rate
@@ -172,21 +179,21 @@
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎39500.594279906 - adding ◎612.979581274
 * Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 17),16276-CA-Beauharnois (seniority: 3)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 3),24961-DE-Düsseldorf (seniority: 17)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 236: 8 blocks in 16 slots, 50% skip rate
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎39500.594279906 - reserve depleted
 * Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 18),16276-CA-Beauharnois (seniority: 2)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),24961-DE-Düsseldorf (seniority: 18)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 235: 13 blocks in 24 slots, 46% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 3SmuA7cSGND9D6ZRGktqgeQGDzDWmSxM2ivAGcVY8754
 * Vote account address: 6UeN69miWbEvEifizgzpQpBD6jqHQaPMRL2HJtYqcHL4
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),24961-DE-Düsseldorf (seniority: 19)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 19),16276-CA-Beauharnois (seniority: 1)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 234: 128 blocks in 200 slots, 36% skip rate

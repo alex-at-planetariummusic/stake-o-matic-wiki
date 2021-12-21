@@ -1,10 +1,17 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: Good block production during epoch 264: 155 blocks in 164 slots, 6% skip rate
+* Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
+* Vote account address: kSKK3pk9S7C4vf1go9dyAcaGcsdmM2RLr4b68NxDwRF
+* Data Center: 18450-US-Escanaba
+* Resident Data Center(s): 18450-US-Escanaba (seniority: 14),16276-FR-Gravelines (seniority: 32)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 263: 161 blocks in 184 slots, 13% skip rate
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: kSKK3pk9S7C4vf1go9dyAcaGcsdmM2RLr4b68NxDwRF
 * Data Center: 18450-US-Escanaba
-* Resident Data Center(s): 18450-US-Escanaba (seniority: 13),16276-FR-Gravelines (seniority: 33)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 33),18450-US-Escanaba (seniority: 13)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 262: 168 blocks in 184 slots, 9% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: kSKK3pk9S7C4vf1go9dyAcaGcsdmM2RLr4b68NxDwRF
 * Data Center: 18450-US-Escanaba
-* Resident Data Center(s): 18450-US-Escanaba (seniority: 11),16276-FR-Gravelines (seniority: 35)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 35),18450-US-Escanaba (seniority: 11)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 260: 124 blocks in 140 slots, 12% skip rate
@@ -46,21 +53,21 @@
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: kSKK3pk9S7C4vf1go9dyAcaGcsdmM2RLr4b68NxDwRF
 * Data Center: 18450-US-Escanaba
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 39),18450-US-Escanaba (seniority: 7)
+* Resident Data Center(s): 18450-US-Escanaba (seniority: 7),16276-FR-Gravelines (seniority: 39)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 256: 179 blocks in 192 slots, 7% skip rate
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: kSKK3pk9S7C4vf1go9dyAcaGcsdmM2RLr4b68NxDwRF
 * Data Center: 18450-US-Escanaba
-* Resident Data Center(s): 18450-US-Escanaba (seniority: 6),16276-FR-Gravelines (seniority: 40)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 40),18450-US-Escanaba (seniority: 6)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 255: 178 blocks in 188 slots, 6% skip rate
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: kSKK3pk9S7C4vf1go9dyAcaGcsdmM2RLr4b68NxDwRF
 * Data Center: 18450-US-Escanaba
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 41),18450-US-Escanaba (seniority: 5)
+* Resident Data Center(s): 18450-US-Escanaba (seniority: 5),16276-FR-Gravelines (seniority: 41)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 254: 175 blocks in 200 slots, 13% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: kSKK3pk9S7C4vf1go9dyAcaGcsdmM2RLr4b68NxDwRF
 * Data Center: 18450-US-Escanaba
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 43),18450-US-Escanaba (seniority: 3)
+* Resident Data Center(s): 18450-US-Escanaba (seniority: 3),16276-FR-Gravelines (seniority: 43)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 252: 175 blocks in 212 slots, 18% skip rate
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: kSKK3pk9S7C4vf1go9dyAcaGcsdmM2RLr4b68NxDwRF
 * Data Center: 18450-US-Escanaba
-* Resident Data Center(s): 18450-US-Escanaba (seniority: 2),16276-FR-Gravelines (seniority: 44)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 44),18450-US-Escanaba (seniority: 2)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 251: 100 blocks in 160 slots, 38% skip rate

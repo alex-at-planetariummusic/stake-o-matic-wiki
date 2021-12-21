@@ -1,3 +1,10 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 264: 142 blocks in 144 slots, 2% skip rate
+* Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
+* Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
+* Data Center: 18450-US-Ogden
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 20),18450-US-Ogden (seniority: 21)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 263: 141 blocks in 176 slots, 20% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 24),18450-US-Ogden (seniority: 17)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 17),16276-CA-Beauharnois (seniority: 24)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 259: 191 blocks in 200 slots, 5% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 15),16276-CA-Beauharnois (seniority: 26)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 26),18450-US-Ogden (seniority: 15)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 257: 181 blocks in 184 slots, 2% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 28),18450-US-Ogden (seniority: 13)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 13),16276-CA-Beauharnois (seniority: 28)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 255: 148 blocks in 160 slots, 8% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 31),18450-US-Ogden (seniority: 10)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 10),16276-CA-Beauharnois (seniority: 31)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 252: 204 blocks in 220 slots, 8% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎34776.815121908, current stake amount: ◎34324.243729506 - reserve depleted
 * Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 34),18450-US-Ogden (seniority: 7)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 7),16276-CA-Beauharnois (seniority: 34)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 249: 139 blocks in 164 slots, 16% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 36),18450-US-Ogden (seniority: 5)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 5),16276-CA-Beauharnois (seniority: 36)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 247: 200 blocks in 216 slots, 8% skip rate
@@ -130,14 +137,14 @@
 * Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
 * Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 2),16276-CA-Beauharnois (seniority: 39)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 39),18450-US-Ogden (seniority: 2)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 244: 84 blocks in 144 slots, 42% skip rate
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎5000.000000000 - adding ◎31658.316887614
 * Vote account address: 7fyo2wVU3xTFyxaKyi7a6625beQEXa57WnYW6dXUCfEc
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 40),18450-US-Ogden (seniority: 1)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 1),16276-CA-Beauharnois (seniority: 40)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 243: 72 blocks in 240 slots, 70% skip rate

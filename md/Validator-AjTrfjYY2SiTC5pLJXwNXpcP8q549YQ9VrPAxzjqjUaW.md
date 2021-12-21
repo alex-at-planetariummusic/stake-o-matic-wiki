@@ -1,3 +1,10 @@
+### [[Testnet Epoch 265|Testnet#Epoch-265]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 264: 21 blocks in 24 slots, 13% skip rate
+* Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎5000.000000000 - reserve depleted
+* Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
+* Data Center: 24961-DE-Schopfheim
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 1)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Baseline** (for 7 epochs)
 * Stake reason: Poor block production during epoch 263: 7 blocks in 16 slots, 57% skip rate
@@ -261,7 +268,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 2mBC9XmEJELFXjMknxXrgwsZvZutnreTWpXEMtmaDxiQ
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 2),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),24961-DE-Schopfheim (seniority: 2)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 214: 120 blocks in 260 slots, 54% skip rate
@@ -282,7 +289,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 2mBC9XmEJELFXjMknxXrgwsZvZutnreTWpXEMtmaDxiQ
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24961-DE-Andernach (seniority: 1),21409-FR-Europe/Paris (seniority: 7),24961-DE-Schopfheim (seniority: 1)
+* Resident Data Center(s): 24961-DE-Andernach (seniority: 1),24961-DE-Schopfheim (seniority: 1),21409-FR-Europe/Paris (seniority: 7)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 210: 0 blocks in 12 slots, 100% skip rate
@@ -310,7 +317,7 @@
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: DmbZmh39twdjBQQMN2j3aURPRD6DcHzah9erBzeki6Rq
 * Data Center: 24961-DE-Andernach
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 11),24961-DE-Andernach (seniority: 1)
+* Resident Data Center(s): 24961-DE-Andernach (seniority: 1),21409-FR-Europe/Paris (seniority: 11)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 206: 70 blocks in 264 slots, 74% skip rate
