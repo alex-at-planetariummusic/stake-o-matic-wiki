@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.8.1
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000466774 - not removing ◎0.000466774 (amount too small)
+* Vote account address: GV6qwu5Pc5VJ4HKQ9EVx1c4pnaXNs9Bnm9t9Pw9h9YUe
+* Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 388314 credits earned in epoch 259
