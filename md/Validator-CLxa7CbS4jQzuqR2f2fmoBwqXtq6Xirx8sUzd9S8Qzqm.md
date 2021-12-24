@@ -1,0 +1,6 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 308304 credits earned in epoch 265
+* Staking activity: creating new stake account Tw2ZEA4hJHsSLuBCHtkGDy9753qss2Hy4ynCY4sJ9ts
+* Vote account address: E9x4Tn53mieBHiqVAomh8oEJZ64FiVVo5r993XSSYJM2
+* Data Center: 24940-FI-Helsinki

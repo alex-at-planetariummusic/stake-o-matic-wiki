@@ -1,3 +1,10 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Bonus** (for 42 epochs)
+* Stake reason: Good block production during epoch 265: 133 blocks in 144 slots, 8% skip rate
+* Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
+* Vote account address: EQbm3vb43f5axRHsaTgP3AXHoK5BX6pkaybkCnyyVWAu
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 55)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 264: 162 blocks in 176 slots, 8% skip rate
@@ -388,7 +395,7 @@
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - reserve depleted
 * Vote account address: EQbm3vb43f5axRHsaTgP3AXHoK5BX6pkaybkCnyyVWAu
 * Data Center: 56478-GB-Poplar
-* Resident Data Center(s): 56478-GB-Poplar (seniority: 1),24940-FI-Helsinki (seniority: 9)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),56478-GB-Poplar (seniority: 1)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: no leader slots; 168673 credits earned in epoch 202

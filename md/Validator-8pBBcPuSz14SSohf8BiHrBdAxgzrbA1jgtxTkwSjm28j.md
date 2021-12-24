@@ -1,3 +1,10 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 265: 112 blocks in 168 slots, 34% skip rate
+* Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎5000.000000000 - reserve depleted
+* Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),0-Unknown (seniority: 7),24940-DE-Nuremburg (seniority: 10)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 264: 82 blocks in 140 slots, 42% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-DE-Nuremburg (seniority: 12),0-Unknown (seniority: 9)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),0-Unknown (seniority: 9),24940-DE-Nuremburg (seniority: 12)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 262: 107 blocks in 112 slots, 5% skip rate
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 13),0-Unknown (seniority: 10)
+* Resident Data Center(s): 0-Unknown (seniority: 10),24940-DE-Nuremburg (seniority: 13)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 261: 135 blocks in 144 slots, 7% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 11),0-Unknown (seniority: 12)
+* Resident Data Center(s): 0-Unknown (seniority: 12),24940-DE-Nuremburg (seniority: 11)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 259: 167 blocks in 172 slots, 3% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 0-Unknown (seniority: 14),24940-DE-Nuremburg (seniority: 9)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 9),0-Unknown (seniority: 14)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 257: 228 blocks in 240 slots, 5% skip rate
@@ -95,14 +102,14 @@
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),0-Unknown (seniority: 21)
+* Resident Data Center(s): 0-Unknown (seniority: 21),24940-DE-Nuremburg (seniority: 2)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 250: 143 blocks in 148 slots, 4% skip rate
 * Staking activity: target stake amount: ◎34776.815121908, current stake amount: ◎34324.243729506 - reserve depleted
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 0-Unknown (seniority: 22),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),0-Unknown (seniority: 22)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 249: 195 blocks in 204 slots, 5% skip rate
@@ -235,7 +242,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 7C8fuPxYNUvMJ6VMrKcimo1PXTGFkqyX237ej91fet7p
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 0-Unknown
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),0-Unknown (seniority: 5)
+* Resident Data Center(s): 0-Unknown (seniority: 5),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 228: 36 blocks in 48 slots, 25% skip rate
@@ -256,7 +263,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 7C8fuPxYNUvMJ6VMrKcimo1PXTGFkqyX237ej91fet7p
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 0-Unknown
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),0-Unknown (seniority: 2)
+* Resident Data Center(s): 0-Unknown (seniority: 2),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 224: 20 blocks in 24 slots, 17% skip rate
@@ -277,7 +284,7 @@
 * Staking activity: target stake amount: ◎46804.225830743, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 33GaqnEG2QKkMbWK288V2EtBha1sraeTKYRyD2Wbv1by
 * Data Center: 0-Unknown
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),0-Unknown (seniority: 1)
+* Resident Data Center(s): 0-Unknown (seniority: 1),21409-FR-Europe/Paris (seniority: 7)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 169666 credits earned in epoch 219

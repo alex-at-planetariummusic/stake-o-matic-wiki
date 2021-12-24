@@ -1,10 +1,17 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 265: 83 blocks in 168 slots, 51% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎28521.877427565 - removing ◎23521.877427565
+* Vote account address: 4Xb7yFHYUGVjfSW4mC7BEgUZQjgkQ3rhrK8fhmrsNHmq
+* Data Center: 48437-UA-Bila Tserkva
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),48437-UA-Bila Tserkva (seniority: 16)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 264: 160 blocks in 168 slots, 5% skip rate
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: 4Xb7yFHYUGVjfSW4mC7BEgUZQjgkQ3rhrK8fhmrsNHmq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),48437-UA-Bila Tserkva (seniority: 17)
+* Resident Data Center(s): 48437-UA-Bila Tserkva (seniority: 17),24940-FI-Helsinki (seniority: 5)
 * infrastructure concentration 25.8% is too high; consider finding a new data center
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 26 epochs)
@@ -19,7 +26,7 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: 4Xb7yFHYUGVjfSW4mC7BEgUZQjgkQ3rhrK8fhmrsNHmq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 48437-UA-Bila Tserkva (seniority: 19),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),48437-UA-Bila Tserkva (seniority: 19)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 261: 129 blocks in 144 slots, 11% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 265: 120 blocks in 124 slots, 4% skip rate
+* Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
+* Data Center: 3255-UA-Kyiv
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 29)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 160829 credits earned in epoch 264
@@ -242,7 +249,7 @@
 * Staking activity: stake account busy due to transient stake activation: 4D9pjcmn9BhEuy5YKoWwFrgbV4aimsHWxiTo9rXNL9V2
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 6703-UA-Dnipro (seniority: 1),13188-UA-Dnipro (seniority: 2)
+* Resident Data Center(s): 13188-UA-Dnipro (seniority: 2),6703-UA-Dnipro (seniority: 1)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 31 blocks in 36 slots, 14% skip rate
@@ -284,7 +291,7 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 2),6703-UA-Dnipro (seniority: 7),3255-UA-Kyiv (seniority: 1)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 1),13188-UA-Dnipro (seniority: 2),6703-UA-Dnipro (seniority: 7)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 217: 126 blocks in 272 slots, 54% skip rate
@@ -305,7 +312,7 @@
 * Staking activity: target stake amount: ◎48627.221310778, current stake amount: ◎43598.804034553 - adding ◎5028.417276225
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 1),6703-UA-Dnipro (seniority: 10)
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 10),13188-UA-Dnipro (seniority: 1)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 213: 142 blocks in 224 slots, 37% skip rate

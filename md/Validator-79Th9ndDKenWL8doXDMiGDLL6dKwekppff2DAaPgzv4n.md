@@ -1,3 +1,10 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 265: 47 blocks in 164 slots, 72% skip rate
+* Staking activity: creating new stake account 3hHQkKm3viuTacWfTdPMCePFba7ifZzH5rebGtQwXgLy
+* Vote account address: 3pKLfToD9SJHqLkiSKjUFgcKLxR2LBJPQogPQiP9WjNH
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 9)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 264

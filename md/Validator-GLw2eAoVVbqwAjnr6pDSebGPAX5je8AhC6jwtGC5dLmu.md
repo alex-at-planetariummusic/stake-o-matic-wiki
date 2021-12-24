@@ -1,3 +1,10 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Bonus** (for 29 epochs)
+* Stake reason: Good block production during epoch 265: 75 blocks in 112 slots, 34% skip rate
+* Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
+* Vote account address: 6UZPAQgAy5KryDkLsgDJEsx4X4spSnustX5rJ1CLdrRY
+* Data Center: 21409-FR-Maurepas
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 25)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 264: 171 blocks in 184 slots, 8% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: 6UZPAQgAy5KryDkLsgDJEsx4X4spSnustX5rJ1CLdrRY
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Bidos (seniority: 1),21409-FR-Maurepas (seniority: 17)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 17),21409-FR-Bidos (seniority: 1)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 254: 103 blocks in 168 slots, 39% skip rate
@@ -214,7 +221,7 @@
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: 6UZPAQgAy5KryDkLsgDJEsx4X4spSnustX5rJ1CLdrRY
 * Data Center: 39608-UA-Kyiv
-* Resident Data Center(s): 39608-UA-Kyiv (seniority: 2),21409-FR-Europe/Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),39608-UA-Kyiv (seniority: 2)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: No leader slots; 217715 credits earned in epoch 231

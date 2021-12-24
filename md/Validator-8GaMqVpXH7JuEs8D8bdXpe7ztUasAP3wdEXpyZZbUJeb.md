@@ -1,3 +1,10 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Bonus** (for 52 epochs)
+* Stake reason: Good block production during epoch 265: 147 blocks in 156 slots, 6% skip rate
+* Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
+* Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
+* Data Center: 39593-RU-Yoshkar-Ola
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 37)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 51 epochs)
 * Stake reason: Good block production during epoch 264: 158 blocks in 164 slots, 4% skip rate
@@ -151,14 +158,14 @@
 * Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎38116.953738428 - reserve depleted
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 39593-RU-Yoshkar-Ola
-* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 15),41786-RU-Yoshkar-Ola (seniority: 1)
+* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 1),39593-RU-Yoshkar-Ola (seniority: 15)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 242: 158 blocks in 172 slots, 9% skip rate
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎39492.751969070 - removing ◎1375.798230642
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 39593-RU-Yoshkar-Ola
-* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 2),39593-RU-Yoshkar-Ola (seniority: 14)
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 14),41786-RU-Yoshkar-Ola (seniority: 2)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 241: 177 blocks in 208 slots, 15% skip rate
@@ -186,7 +193,7 @@
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎39500.594279906 - adding ◎916.217811725
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 39593-RU-Yoshkar-Ola
-* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 6),39593-RU-Yoshkar-Ola (seniority: 10)
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 10),41786-RU-Yoshkar-Ola (seniority: 6)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 235: 92 blocks in 196 slots, 54% skip rate
@@ -214,7 +221,7 @@
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎41839.923678665 - adding ◎1376.903985168
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 41786-RU-Yoshkar-Ola
-* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 10),39593-RU-Yoshkar-Ola (seniority: 6)
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 6),41786-RU-Yoshkar-Ola (seniority: 10)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 231: 150 blocks in 232 slots, 36% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: Fygitm81sEENuxxHYuTXZjifVA8oooqjztPhtmZwioFg
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 41786-RU-Yoshkar-Ola
-* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 8),39593-RU-Yoshkar-Ola (seniority: 8)
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 8),41786-RU-Yoshkar-Ola (seniority: 8)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 229: 165 blocks in 272 slots, 40% skip rate
@@ -249,21 +256,21 @@
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 41786-RU-Yoshkar-Ola
-* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 5),39593-RU-Yoshkar-Ola (seniority: 11)
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 11),41786-RU-Yoshkar-Ola (seniority: 5)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 225: 170 blocks in 272 slots, 38% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: Fygitm81sEENuxxHYuTXZjifVA8oooqjztPhtmZwioFg
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 41786-RU-Yoshkar-Ola
-* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 12),41786-RU-Yoshkar-Ola (seniority: 4)
+* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 4),39593-RU-Yoshkar-Ola (seniority: 12)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 224: 160 blocks in 240 slots, 34% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: Fygitm81sEENuxxHYuTXZjifVA8oooqjztPhtmZwioFg
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 41786-RU-Yoshkar-Ola
-* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 13),41786-RU-Yoshkar-Ola (seniority: 3)
+* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 3),39593-RU-Yoshkar-Ola (seniority: 13)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 223: 142 blocks in 236 slots, 40% skip rate
@@ -375,28 +382,28 @@
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44126.496155815 - adding ◎728.008695079
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 39593-RU-Yoshkar-Ola
-* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 3),39593-RU-Yoshkar-Ola (seniority: 5)
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 5),29182-RU-Europe/Moscow (seniority: 3)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: good block production during epoch 202: 145 blocks in 280 slots, 49% skip rate
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44126.496155815 - reserve depleted
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 39593-RU-Yoshkar-Ola
-* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 4),29182-RU-Europe/Moscow (seniority: 4)
+* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 4),39593-RU-Yoshkar-Ola (seniority: 4)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: good block production during epoch 201: 180 blocks in 248 slots, 28% skip rate
 * Staking activity: target stake amount: ◎44126.496155815, current stake amount: ◎44670.972509869 - removing ◎544.476354054
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 39593-RU-Yoshkar-Ola
-* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 5),39593-RU-Yoshkar-Ola (seniority: 3)
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 3),29182-RU-Europe/Moscow (seniority: 5)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: good block production during epoch 200: 151 blocks in 200 slots, 25% skip rate
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45239.342126859 - removing ◎568.369616990
 * Vote account address: 9sKYwWgDR1bD4DgguhyH1Xqg5iyzoWC392vXsJLhAvgh
 * Data Center: 39593-RU-Yoshkar-Ola
-* Resident Data Center(s): 29182-RU-Europe/Moscow (seniority: 6),39593-RU-Yoshkar-Ola (seniority: 2)
+* Resident Data Center(s): 39593-RU-Yoshkar-Ola (seniority: 2),29182-RU-Europe/Moscow (seniority: 6)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 199: 195 blocks in 272 slots, 29% skip rate

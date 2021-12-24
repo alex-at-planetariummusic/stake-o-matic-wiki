@@ -1,17 +1,24 @@
+### [[Testnet Epoch 266|Testnet#Epoch-266]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 265: 46 blocks in 52 slots, 12% skip rate
+* Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎29314.358424838 - removing ◎544.792937516
+* Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
+* Data Center: 23470-US-Piscataway
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 13),23470-US-Piscataway (seniority: 24)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 264: 141 blocks in 148 slots, 5% skip rate
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎5000.000000000 - adding ◎24314.358424838
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 14),23470-US-Piscataway (seniority: 23)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 23),24940-DE-Falkenstein (seniority: 14)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 263: 63 blocks in 100 slots, 37% skip rate
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 22),24940-DE-Falkenstein (seniority: 15)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 15),23470-US-Piscataway (seniority: 22)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 262: 31 blocks in 172 slots, 82% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 19),23470-US-Piscataway (seniority: 20)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 20),24940-DE-Falkenstein (seniority: 19)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 62 epochs)
 * Stake reason: Good block production during epoch 258: 171 blocks in 184 slots, 8% skip rate
@@ -53,28 +60,28 @@
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 18),24940-DE-Falkenstein (seniority: 21)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 21),23470-US-Piscataway (seniority: 18)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 60 epochs)
 * Stake reason: Good block production during epoch 256: 172 blocks in 196 slots, 13% skip rate
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 17),24940-DE-Falkenstein (seniority: 22)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 22),23470-US-Piscataway (seniority: 17)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 59 epochs)
 * Stake reason: Good block production during epoch 255: 150 blocks in 152 slots, 2% skip rate
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 23),23470-US-Piscataway (seniority: 16)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 16),24940-DE-Falkenstein (seniority: 23)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 254: 142 blocks in 164 slots, 14% skip rate
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 15),24940-DE-Falkenstein (seniority: 24)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 24),23470-US-Piscataway (seniority: 15)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 57 epochs)
 * Stake reason: Good block production during epoch 253: 113 blocks in 140 slots, 20% skip rate
@@ -116,14 +123,14 @@
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 9),24940-DE-Falkenstein (seniority: 30)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 30),23470-US-Piscataway (seniority: 9)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 51 epochs)
 * Stake reason: Good block production during epoch 247: 181 blocks in 188 slots, 4% skip rate
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 31),23470-US-Piscataway (seniority: 8)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 8),24940-DE-Falkenstein (seniority: 31)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 246: 179 blocks in 196 slots, 9% skip rate
@@ -172,14 +179,14 @@
 * Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 1),24940-DE-Falkenstein (seniority: 38)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 38),23470-US-Piscataway (seniority: 1)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 237: 143 blocks in 224 slots, 37% skip rate
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
 * Vote account address: 2iZe5r3zUk8HYUkmRKwGZeh4BT5kCwMdHQoy2UZLGqxZ
 * Data Center: 15497-UA-Europe/Kiev
-* Resident Data Center(s): 15497-UA-Europe/Kiev (seniority: 1),24940-DE-Falkenstein (seniority: 39)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 39),15497-UA-Europe/Kiev (seniority: 1)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 236: 178 blocks in 212 slots, 17% skip rate
