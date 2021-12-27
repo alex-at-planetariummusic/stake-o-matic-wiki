@@ -1,3 +1,9 @@
+### [[Testnet Epoch 267|Testnet#Epoch-267]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: No leader slots; 332026 credits earned in epoch 266
+* Staking activity: stake account busy due to transient stake activation: GiC467jC41yTdXeW86gW13sFDxiV6t7CtWiynxje2xb2
+* Vote account address: FozSBmyxuWrVXSXR31nZoqe6GMcPMqc3sN8jmFbRRqdX
+* Data Center: 16276-PL-Warsaw
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 308209 credits earned in epoch 265

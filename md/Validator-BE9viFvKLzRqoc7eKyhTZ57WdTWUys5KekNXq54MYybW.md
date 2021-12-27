@@ -1,3 +1,10 @@
+### [[Testnet Epoch 267|Testnet#Epoch-267]]
+* Stake level: **Bonus** (for 22 epochs)
+* Stake reason: Good block production during epoch 266: 110 blocks in 112 slots, 2% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: HTuSeMe9p35JZi9diJ6k78WBVoj58MaDmjTHNrLtVXXC
+* Vote account address: F9a1Ac7sUL1oLH24K1gihRtBLDyVYpjZ3umGp6HpWztD
+* Data Center: 8220-DE-Frankfurt am Main
+* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 21)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 265: 163 blocks in 172 slots, 6% skip rate
@@ -183,7 +190,7 @@
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: F9a1Ac7sUL1oLH24K1gihRtBLDyVYpjZ3umGp6HpWztD
 * Data Center: 3257-NL-Santpoort-Noord
-* Resident Data Center(s): 3257-NL-Santpoort-Noord (seniority: 1),35657-DE-Düsseldorf (seniority: 1)
+* Resident Data Center(s): 35657-DE-Düsseldorf (seniority: 1),3257-NL-Santpoort-Noord (seniority: 1)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 103717 credits earned in epoch 236

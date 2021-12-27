@@ -1,3 +1,10 @@
+### [[Testnet Epoch 267|Testnet#Epoch-267]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 339864 credits earned in epoch 266
+* Staking activity: stake account busy due to transient stake activation: C4CGUBNJR5HwvUfRQBVEKTai1WmtXuDQEuTQoGVn4xLx
+* Vote account address: 9P5A2oEaXR5Hn3fCURvBnAXp2QzY14SDVaKNbynKFvdz
+* Data Center: 22439-US-Orchard Park
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 2)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 265: 8 blocks in 12 slots, 34% skip rate
