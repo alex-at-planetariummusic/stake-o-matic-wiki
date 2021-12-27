@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
+* Stake level: **Bonus** (for 77 epochs)
+* Stake reason: Good block production during epoch 261: 170 blocks in 176 slots, 4% skip rate
+* Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76510.064581683 - removing ◎415.695341400
+* Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
+* Data Center: 2588-LV-Riga
+* Resident Data Center(s): 2588-LV-Riga (seniority: 57)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 76 epochs)
 * Stake reason: Good block production during epoch 260: 152 blocks in 172 slots, 12% skip rate
@@ -292,7 +299,7 @@
 * Staking activity: target stake amount: ◎115214.861665898, current stake amount: ◎117665.547697170 - removing ◎2450.686031272
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 15),24589-LV-Riga (seniority: 1)
+* Resident Data Center(s): 24589-LV-Riga (seniority: 1),2588-LV-Riga (seniority: 15)
 ### [[Mainnet Epoch 216|Mainnet#Epoch-216]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 215: 146 blocks in 172 slots, 16% skip rate
@@ -320,7 +327,7 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.927383812 - removing ◎3549.015529825
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 11),24589-LV-Riga (seniority: 5)
+* Resident Data Center(s): 24589-LV-Riga (seniority: 5),2588-LV-Riga (seniority: 11)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 211: 179 blocks in 196 slots, 9% skip rate
@@ -334,7 +341,7 @@
 * Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎133364.073993892 - removing ◎5905.561728983
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 7),2588-LV-Riga (seniority: 9)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 9),24589-LV-Riga (seniority: 7)
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 208: 219 blocks in 236 slots, 8% skip rate
@@ -355,7 +362,7 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.889912543 - removing ◎377.075517004
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 6),24589-LV-Riga (seniority: 10)
+* Resident Data Center(s): 24589-LV-Riga (seniority: 10),2588-LV-Riga (seniority: 6)
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 205: 128 blocks in 132 slots, 4% skip rate
@@ -369,7 +376,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144903.767075804 - removing ◎1192.600069448
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 12),2588-LV-Riga (seniority: 4)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 4),24589-LV-Riga (seniority: 12)
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 203: 191 blocks in 224 slots, 15% skip rate
@@ -383,7 +390,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152995.089263882 - removing ◎1199.776912422
 * Vote account address: GuxBSrv5jnSwwPepkqnmkM7YCBSakKanbnw4BKMdda4j
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 24589-LV-Riga (seniority: 14),2588-LV-Riga (seniority: 2)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 2),24589-LV-Riga (seniority: 14)
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 201: 209 blocks in 248 slots, 16% skip rate

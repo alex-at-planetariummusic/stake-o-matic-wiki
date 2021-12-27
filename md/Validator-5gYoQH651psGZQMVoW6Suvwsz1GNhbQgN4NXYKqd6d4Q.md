@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 139362 credits earned in epoch 261
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25015.793718603 - removing ◎25014.793718603
+* Vote account address: CLdfLewYHCrdUjpw4jFtJS1ogiSgMRVc1gk5NnZaMukK
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 260: 10 blocks in 12 slots, 17% skip rate
