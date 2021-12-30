@@ -1,3 +1,10 @@
+### [[Testnet Epoch 268|Testnet#Epoch-268]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 326661 credits earned in epoch 267
+* Staking activity: stake account busy due to transient stake activation: Ez7LaSgmQndCXUasxw5fF4Wqga1bbrmkcCryRVgU4RHT
+* Vote account address: 6mDtwFhUcXwfgUNd6RGGfUaGkL6jPvBa1Q1d6wmrnyTC
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 7)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 266: 20 blocks in 20 slots, 0% skip rate

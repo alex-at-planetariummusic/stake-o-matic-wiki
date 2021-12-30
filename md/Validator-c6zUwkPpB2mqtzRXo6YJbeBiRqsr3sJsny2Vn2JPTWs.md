@@ -1,3 +1,10 @@
+### [[Testnet Epoch 268|Testnet#Epoch-268]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 155570 credits earned in epoch 267
+* Staking activity: stake account busy due to transient stake deactivation: 9pUoEcWvQgLouQidiWZVMK62JiKPXDSMKF4iYxLNaSSd
+* Vote account address: 6EFpH6XUWkaXDaoNJ7v1CoTwD693b8ZktNrsU9uBXk3p
+* Data Center: 31200-RU-Novosibirsk
+* Resident Data Center(s): 31200-RU-Novosibirsk (seniority: 21)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 266: 64 blocks in 104 slots, 39% skip rate

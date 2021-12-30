@@ -1,17 +1,24 @@
+### [[Testnet Epoch 268|Testnet#Epoch-268]]
+* Stake level: **Bonus** (for 13 epochs)
+* Stake reason: Good block production during epoch 267: 106 blocks in 112 slots, 6% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 7XKCDX8WGK6B7BEYrLjJEFej2Do41FBCE5HAsUxpoHnP
+* Vote account address: Ht32da1Q79ebmg1wQ7bnkix7dwf3ghnj3Kh82cAREFpb
+* Data Center: 24961-DE-Mönchengladbach
+* Resident Data Center(s): 24961-DE-Mönchengladbach (seniority: 13),21409-FR-Europe/Paris (seniority: 8)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 266: 139 blocks in 144 slots, 4% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 7XKCDX8WGK6B7BEYrLjJEFej2Do41FBCE5HAsUxpoHnP
 * Vote account address: Ht32da1Q79ebmg1wQ7bnkix7dwf3ghnj3Kh82cAREFpb
 * Data Center: 24961-DE-Mönchengladbach
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),24961-DE-Mönchengladbach (seniority: 12)
+* Resident Data Center(s): 24961-DE-Mönchengladbach (seniority: 12),21409-FR-Europe/Paris (seniority: 9)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 265: 118 blocks in 128 slots, 8% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
 * Vote account address: Ht32da1Q79ebmg1wQ7bnkix7dwf3ghnj3Kh82cAREFpb
 * Data Center: 24961-DE-Mönchengladbach
-* Resident Data Center(s): 24961-DE-Mönchengladbach (seniority: 11),21409-FR-Europe/Paris (seniority: 10)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 10),24961-DE-Mönchengladbach (seniority: 11)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 264: 152 blocks in 160 slots, 5% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: Ht32da1Q79ebmg1wQ7bnkix7dwf3ghnj3Kh82cAREFpb
 * Data Center: 24961-DE-Mönchengladbach
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),24961-DE-Mönchengladbach (seniority: 8)
+* Resident Data Center(s): 24961-DE-Mönchengladbach (seniority: 8),21409-FR-Europe/Paris (seniority: 13)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 261: 153 blocks in 164 slots, 7% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎15844.152232140 - adding ◎17277.047550812
 * Vote account address: Ht32da1Q79ebmg1wQ7bnkix7dwf3ghnj3Kh82cAREFpb
 * Data Center: 24961-DE-Mönchengladbach
-* Resident Data Center(s): 24961-DE-Mönchengladbach (seniority: 3),21409-FR-Europe/Paris (seniority: 18)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 18),24961-DE-Mönchengladbach (seniority: 3)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 256: 150 blocks in 152 slots, 2% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎5000.000000000 - adding ◎10844.152232140
 * Vote account address: Ht32da1Q79ebmg1wQ7bnkix7dwf3ghnj3Kh82cAREFpb
 * Data Center: 24961-DE-Mönchengladbach
-* Resident Data Center(s): 24961-DE-Mönchengladbach (seniority: 1),21409-FR-Europe/Paris (seniority: 20)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 20),24961-DE-Mönchengladbach (seniority: 1)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 254: 7 blocks in 36 slots, 81% skip rate
