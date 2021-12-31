@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 31 epochs)
+* Stake reason: Good block production during epoch 263: 94 blocks in 104 slots, 10% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.676204472 - removing ◎922.473316250
+* Vote account address: 76gw97PmYsUXWYFfcrm5tLsWJcBzzaSsWu3eG1AYNHw1
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 31)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 262: 130 blocks in 140 slots, 8% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 263: 16 blocks in 20 slots, 20% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.580644912 - removing ◎922.377756690
+* Vote account address: 51JZV14FfhLWNbTGnQzHJLccB86fnJA1ApjKXwExjTr7
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 4),16276-EN-London (seniority: 31)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 262: 28 blocks in 28 slots, 0% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎1.000923670 - adding ◎76093.368316613
 * Vote account address: 51JZV14FfhLWNbTGnQzHJLccB86fnJA1ApjKXwExjTr7
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 2),16276-EN-London (seniority: 33)
+* Resident Data Center(s): 16276-EN-London (seniority: 33),23470-US-Las Vegas (seniority: 2)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 260: 135 blocks in 148 slots, 9% skip rate
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎1.000461250 - reserve depleted
 * Vote account address: 51JZV14FfhLWNbTGnQzHJLccB86fnJA1ApjKXwExjTr7
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 1),16276-EN-London (seniority: 34)
+* Resident Data Center(s): 16276-EN-London (seniority: 34),23470-US-Las Vegas (seniority: 1)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **None**
 * Stake reason: Outdated Solana release: 1.8.5

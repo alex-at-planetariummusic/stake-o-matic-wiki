@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **None** (for 43 epochs)
+* Stake reason: Insufficient self stake: ◎0.519176523
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000007960 - not removing ◎0.000007960 (amount too small)
+* Vote account address: 7iEP8fEN2be9CZdeiXirtVZTzLKQCEsfMA4E4eeik8T2
+* Data Center: 16276-FR-Gravelines
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **None** (for 42 epochs)
 * Stake reason: Insufficient self stake: ◎0.519176523
@@ -285,7 +291,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 7bQntWArJSNEetJZJp8uqWsCDQGiQJU6thx2EXgc4NHm
 * Vote account address: 7iEP8fEN2be9CZdeiXirtVZTzLKQCEsfMA4E4eeik8T2
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24940-FI-Helsinki (seniority: 23)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 23),16276-FR-Gravelines (seniority: 1)
 * Insufficient self stake: ◎0.519172304
 ### [[Mainnet Epoch 218|Mainnet#Epoch-218]]
 * Stake level: **Bonus** (for 2 epochs)

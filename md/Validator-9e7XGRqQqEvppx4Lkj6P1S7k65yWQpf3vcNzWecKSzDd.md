@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 263: 96 blocks in 100 slots, 4% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.383032212 - removing ◎922.180143990
+* Vote account address: 6hkfqeNAbURk7CmAQsP4Qm6WwHVF4LxHupEvQf7Tkrf1
+* Data Center: 18450-US-America/Chicago
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 53),18450-US-America/Chicago (seniority: 7)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 262: 98 blocks in 108 slots, 10% skip rate
@@ -32,14 +39,14 @@
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎25021.914689476 - adding ◎55131.109242048
 * Vote account address: 6hkfqeNAbURk7CmAQsP4Qm6WwHVF4LxHupEvQf7Tkrf1
 * Data Center: 18450-US-America/Chicago
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 58),18450-US-America/Chicago (seniority: 2)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 2),16276-PL-Warsaw (seniority: 58)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 257: 62 blocks in 84 slots, 27% skip rate
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎25010.228976901 - reserve depleted
 * Vote account address: 6hkfqeNAbURk7CmAQsP4Qm6WwHVF4LxHupEvQf7Tkrf1
 * Data Center: 18450-US-America/Chicago
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 59),18450-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 1),16276-PL-Warsaw (seniority: 59)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 256: 100 blocks in 168 slots, 41% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎25009.961423757 - reserve depleted
 * Vote account address: 6hkfqeNAbURk7CmAQsP4Qm6WwHVF4LxHupEvQf7Tkrf1
 * Data Center: 19318-US-America/Chicago
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 61),19318-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 19318-US-America/Chicago (seniority: 1),16276-PL-Warsaw (seniority: 61)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 254: 56 blocks in 148 slots, 63% skip rate

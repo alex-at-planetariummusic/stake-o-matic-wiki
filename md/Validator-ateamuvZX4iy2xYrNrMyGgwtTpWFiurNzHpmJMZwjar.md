@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **None** (for 29 epochs)
+* Stake reason: Insufficient self stake: ◎4.185828505
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.010241175 - not removing ◎0.010241175 (amount too small)
+* Vote account address: ateamaZDqNWDztxnVKZhRsp4ac53KvT1rVKyU5LnL6o
+* Data Center: 15169-BE-Brussels
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **None** (for 28 epochs)
 * Stake reason: Insufficient self stake: ◎4.183882527
@@ -476,7 +482,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 5vWC8sNk3GhRzG9eGMXzJHEgBArfBhcTUSs6QNgnkqg8
 * Vote account address: ateamaZDqNWDztxnVKZhRsp4ac53KvT1rVKyU5LnL6o
 * Data Center: 15169-BE-Brussels
-* Resident Data Center(s): 15169-US-Council Bluffs (seniority: 3),15169-BE-Brussels (seniority: 4)
+* Resident Data Center(s): 15169-BE-Brussels (seniority: 4),15169-US-Council Bluffs (seniority: 3)
 * Insufficient self stake: ◎4.073844976
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Bonus** (for 9 epochs)
@@ -499,7 +505,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 5vWC8sNk3GhRzG9eGMXzJHEgBArfBhcTUSs6QNgnkqg8
 * Vote account address: ateamaZDqNWDztxnVKZhRsp4ac53KvT1rVKyU5LnL6o
 * Data Center: 15169-BE-Brussels
-* Resident Data Center(s): 15169-US-Council Bluffs (seniority: 6),15169-BE-Brussels (seniority: 1)
+* Resident Data Center(s): 15169-BE-Brussels (seniority: 1),15169-US-Council Bluffs (seniority: 6)
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 190: 723 blocks in 1024 slots, 30% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: Poor block production during epoch 263: 51 blocks in 84 slots, 40% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.116746541 - removing ◎11.116746541
+* Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 41)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 262: 77 blocks in 132 slots, 42% skip rate
@@ -248,7 +255,7 @@
 * Staking activity: target stake amount: ◎100871.104559544, current stake amount: ◎101930.853693797 - removing ◎1059.749134253
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Falkenstein (seniority: 20)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 20),24940-FI-Helsinki (seniority: 2)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 227|Mainnet#Epoch-227]]
 * Stake level: **Bonus** (for 43 epochs)
@@ -280,7 +287,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 33bx3dgJL23NiNR7kJ7f6VAVbXB8TruEX4jbjZ5J1TTk
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 16),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24940-DE-Falkenstein (seniority: 16)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 39 epochs)
@@ -288,7 +295,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 33bx3dgJL23NiNR7kJ7f6VAVbXB8TruEX4jbjZ5J1TTk
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 15),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),24940-DE-Falkenstein (seniority: 15)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 38 epochs)
@@ -312,7 +319,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 33bx3dgJL23NiNR7kJ7f6VAVbXB8TruEX4jbjZ5J1TTk
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12),24940-FI-Helsinki (seniority: 10)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),24940-DE-Falkenstein (seniority: 12)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus** (for 35 epochs)
@@ -352,7 +359,7 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.933898338 - removing ◎3549.022044351
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),24940-FI-Helsinki (seniority: 15)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15),24940-DE-Falkenstein (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
@@ -360,7 +367,7 @@
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎127583.319037293 - removing ◎859.158610946
 * Vote account address: 438C7o4cJrbchdmxEPvFgaE5g9DocWKeSc1k4E1aY7qw
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),24940-FI-Helsinki (seniority: 16)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),24940-DE-Falkenstein (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 29 epochs)

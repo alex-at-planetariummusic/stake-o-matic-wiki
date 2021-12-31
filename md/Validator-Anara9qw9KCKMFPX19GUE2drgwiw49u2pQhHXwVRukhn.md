@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 79 epochs)
+* Stake reason: Good block production during epoch 263: 166 blocks in 180 slots, 8% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.431145574 - removing ◎922.228257352
+* Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 67)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 78 epochs)
 * Stake reason: Good block production during epoch 262: 193 blocks in 196 slots, 2% skip rate
@@ -389,7 +396,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151875.113390497 - removing ◎7047.863421491
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),20278-US-Chicago (seniority: 2)
+* Resident Data Center(s): 20278-US-Chicago (seniority: 2),24940-DE-Falkenstein (seniority: 11)
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 202: 177 blocks in 212 slots, 17% skip rate
@@ -403,7 +410,7 @@
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180287.598524373 - removing ◎27373.089417609
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),20278-US-Chicago (seniority: 4)
+* Resident Data Center(s): 20278-US-Chicago (seniority: 4),24940-DE-Falkenstein (seniority: 9)
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 200: 176 blocks in 220 slots, 20% skip rate
@@ -426,7 +433,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193101.308648292 - removing ◎843.561420758
 * Vote account address: Anara1R593HZjDT36UdmxxJVsFi4fzcWuML5BUvec44e
 * Data Center: 20278-US-Chicago
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),20278-US-Chicago (seniority: 3)
+* Resident Data Center(s): 20278-US-Chicago (seniority: 3),24940-DE-Falkenstein (seniority: 10)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 17 epochs)

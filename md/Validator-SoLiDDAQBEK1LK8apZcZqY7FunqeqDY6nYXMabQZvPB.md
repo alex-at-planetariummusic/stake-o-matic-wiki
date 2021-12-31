@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 37 epochs)
+* Stake reason: Good block production during epoch 263: 89 blocks in 108 slots, 18% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.583028302 - removing ◎922.380140080
+* Vote account address: SoLiDFg9qMi7tFEo4tiLxEVE7mteRyGZkBHJn2YYyjP
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 37)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 262: 135 blocks in 140 slots, 4% skip rate
@@ -249,7 +256,7 @@
 * Staking activity: target stake amount: ◎102400.113698518, current stake amount: ◎25021.464995962 - reserve depleted
 * Vote account address: SoLiDFg9qMi7tFEo4tiLxEVE7mteRyGZkBHJn2YYyjP
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),24961-DE-Europe/Berlin (seniority: 1)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),23470-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Baseline** (for 5 epochs)
 * Stake reason: Poor block production during epoch 224: 28 blocks in 48 slots, 42% skip rate
@@ -333,14 +340,14 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25035.824086065 - removing ◎35.824086065
 * Vote account address: SoLiDFg9qMi7tFEo4tiLxEVE7mteRyGZkBHJn2YYyjP
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 9),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24961-DE-Europe/Berlin (seniority: 9)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 211: 161 blocks in 240 slots, 33% skip rate
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎25023.902742679 - reserve depleted
 * Vote account address: SoLiDFg9qMi7tFEo4tiLxEVE7mteRyGZkBHJn2YYyjP
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 10),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24961-DE-Europe/Berlin (seniority: 10)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 209: 128 blocks in 220 slots, 42% skip rate
@@ -361,7 +368,7 @@
 * Staking activity: target stake amount: ◎134361.831949474, current stake amount: ◎139735.254739868 - removing ◎5373.422790394
 * Vote account address: SoLiDFg9qMi7tFEo4tiLxEVE7mteRyGZkBHJn2YYyjP
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24961-DE-Europe/Berlin (seniority: 9)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 9),24940-FI-Helsinki (seniority: 5)
 ### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 206: 222 blocks in 228 slots, 3% skip rate
@@ -384,7 +391,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144903.662496331 - removing ◎1192.495489975
 * Vote account address: SoLiDFg9qMi7tFEo4tiLxEVE7mteRyGZkBHJn2YYyjP
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 6),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),24961-DE-Europe/Berlin (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 * Insufficient testnet participation
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
@@ -402,7 +409,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152995.287093510 - removing ◎1199.974742050
 * Vote account address: SoLiDFg9qMi7tFEo4tiLxEVE7mteRyGZkBHJn2YYyjP
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 4),24940-FI-Helsinki (seniority: 10)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),24961-DE-Europe/Berlin (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 * Insufficient testnet participation
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
@@ -429,7 +436,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 667Fo4L1ntq7sumLYMAg2q1ihSeR4FhTzNoMBREtykL4
 * Vote account address: SoLiDFg9qMi7tFEo4tiLxEVE7mteRyGZkBHJn2YYyjP
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 13),24961-DE-Europe/Berlin (seniority: 1)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),24940-FI-Helsinki (seniority: 13)
 * Insufficient self stake: ◎0.000000000
 * Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]

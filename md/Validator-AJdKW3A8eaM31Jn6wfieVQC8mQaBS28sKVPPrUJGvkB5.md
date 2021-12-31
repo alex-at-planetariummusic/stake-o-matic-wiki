@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 32 epochs)
+* Stake reason: Good block production during epoch 263: 123 blocks in 128 slots, 4% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.653103482 - removing ◎922.450215260
+* Vote account address: 3Lob7j9sNsbTDM4VnTFEuCEuMKQd2nwsWfPMzkRoKGHC
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 21)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 262: 124 blocks in 124 slots, 0% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.173066040 - reserve depleted
 * Vote account address: 3Lob7j9sNsbTDM4VnTFEuCEuMKQd2nwsWfPMzkRoKGHC
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),16276-FR-Gravelines (seniority: 8)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 8),16276-FR-Roubaix (seniority: 3)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 249: 146 blocks in 148 slots, 2% skip rate
@@ -123,14 +130,14 @@
 * Staking activity: target stake amount: ◎89537.761977190, current stake amount: ◎88629.632789116 - reserve depleted
 * Vote account address: 3Lob7j9sNsbTDM4VnTFEuCEuMKQd2nwsWfPMzkRoKGHC
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),16276-FR-Gravelines (seniority: 3)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),16276-FR-Roubaix (seniority: 8)
 ### [[Mainnet Epoch 245|Mainnet#Epoch-245]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 244: 104 blocks in 120 slots, 14% skip rate
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89429.821455106 - removing ◎841.468191900
 * Vote account address: 3Lob7j9sNsbTDM4VnTFEuCEuMKQd2nwsWfPMzkRoKGHC
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),16276-FR-Roubaix (seniority: 9)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 9),16276-FR-Gravelines (seniority: 2)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 243: 72 blocks in 112 slots, 36% skip rate

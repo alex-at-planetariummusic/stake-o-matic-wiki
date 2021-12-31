@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 263: 92 blocks in 92 slots, 0% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.456539796 - removing ◎922.253651574
+* Vote account address: E8DxKVZ86hngSiBRMhSpZP5vdkUAEyZGcYAqrFBmzjZY
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 41),24940-FI-Helsinki (seniority: 17)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 262: 112 blocks in 112 slots, 0% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80085.782038109 - removing ◎1475.026043366
 * Vote account address: E8DxKVZ86hngSiBRMhSpZP5vdkUAEyZGcYAqrFBmzjZY
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 45),24940-FI-Helsinki (seniority: 13)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 13),16276-FR-Roubaix (seniority: 45)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 258: 88 blocks in 88 slots, 0% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.429609957 - removing ◎861.027930553
 * Vote account address: E8DxKVZ86hngSiBRMhSpZP5vdkUAEyZGcYAqrFBmzjZY
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 47),24940-FI-Helsinki (seniority: 11)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 11),16276-FR-Roubaix (seniority: 47)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 256: 86 blocks in 88 slots, 3% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82944.844662390 - reserve depleted
 * Vote account address: E8DxKVZ86hngSiBRMhSpZP5vdkUAEyZGcYAqrFBmzjZY
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 50),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),16276-FR-Roubaix (seniority: 50)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 253: 106 blocks in 124 slots, 15% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86372.554358355 - removing ◎2209.788325326
 * Vote account address: E8DxKVZ86hngSiBRMhSpZP5vdkUAEyZGcYAqrFBmzjZY
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 55),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Roubaix (seniority: 55)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 248: 144 blocks in 156 slots, 8% skip rate

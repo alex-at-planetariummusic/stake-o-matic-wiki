@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **None** (for 8 epochs)
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.003219331 - not removing ◎0.003219331 (amount too small)
+* Vote account address: 3QUAqPGy4A4jgKzhvxfrNFdXZDGengT4P8L1y7hZpFbT
+* Data Center: 24940-DE-Nuremburg
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: Insufficient testnet participation
@@ -73,7 +79,7 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.364595831 - removing ◎322.964188799
 * Vote account address: 3QUAqPGy4A4jgKzhvxfrNFdXZDGengT4P8L1y7hZpFbT
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),24940-DE-Nuremburg (seniority: 4)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),24961-DE-Europe/Berlin (seniority: 1)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 251: 46 blocks in 48 slots, 5% skip rate

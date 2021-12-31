@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: Good block production during epoch 263: 115 blocks in 124 slots, 8% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.615967297 - removing ◎922.413079075
+* Vote account address: HsUhGC6yKwr8kLC5gdqVLrDfKsGCd2ZAXiabP1WojuzA
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 16)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 262: 104 blocks in 108 slots, 4% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84174.494563344 - reserve depleted
 * Vote account address: HsUhGC6yKwr8kLC5gdqVLrDfKsGCd2ZAXiabP1WojuzA
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),16276-CA-Beauharnois (seniority: 3)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 3),16276-FR-Roubaix (seniority: 1)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 249: 126 blocks in 128 slots, 2% skip rate

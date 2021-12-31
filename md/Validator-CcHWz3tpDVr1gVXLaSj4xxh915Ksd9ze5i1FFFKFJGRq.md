@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 162968 credits earned in epoch 263
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎75782.892922947 - removing ◎75781.892922947
+* Vote account address: H372sYDhyrLbQj7GM6xR3Qq7gx32Vg8EcxRHTEmkMu5o
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 4),23470-US-America/Chicago (seniority: 20)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 262: 115 blocks in 124 slots, 8% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.887181549 - removing ◎362.551678906
 * Vote account address: H372sYDhyrLbQj7GM6xR3Qq7gx32Vg8EcxRHTEmkMu5o
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 5),23470-US-America/Chicago (seniority: 21)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 21),23470-US-Miami (seniority: 5)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 261: 147 blocks in 148 slots, 1% skip rate
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76509.037012604 - removing ◎414.667772321
 * Vote account address: H372sYDhyrLbQj7GM6xR3Qq7gx32Vg8EcxRHTEmkMu5o
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 4),23470-US-America/Chicago (seniority: 22)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 22),23470-US-Miami (seniority: 4)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 260: 147 blocks in 160 slots, 9% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80085.943999344 - removing ◎1475.188004601
 * Vote account address: H372sYDhyrLbQj7GM6xR3Qq7gx32Vg8EcxRHTEmkMu5o
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 24),23470-US-Miami (seniority: 2)
+* Resident Data Center(s): 23470-US-Miami (seniority: 2),23470-US-America/Chicago (seniority: 24)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 258: 107 blocks in 132 slots, 19% skip rate

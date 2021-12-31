@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 263: 24 blocks in 24 slots, 0% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.701777909 - removing ◎922.498889687
+* Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
+* Data Center: 23470-US-New York
+* Resident Data Center(s): 23470-US-New York (seniority: 4),23470-US-Las Vegas (seniority: 26)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 262: 8 blocks in 8 slots, 0% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76094.369692236 - removing ◎327.034189593
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 3),23470-US-Las Vegas (seniority: 27)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 27),23470-US-New York (seniority: 3)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 261: 104 blocks in 104 slots, 0% skip rate
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎1.000905324 - adding ◎76093.368334959
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 2),23470-US-Las Vegas (seniority: 28)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 28),23470-US-New York (seniority: 2)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 260: 138 blocks in 148 slots, 7% skip rate
@@ -235,7 +242,7 @@
 * Staking activity: target stake amount: ◎100309.681012023, current stake amount: ◎25023.408530270 - adding ◎75286.272481753
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 2),24961-DE-Europe/Berlin (seniority: 1)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),23470-US-Las Vegas (seniority: 2)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 134 blocks in 140 slots, 5% skip rate
@@ -333,7 +340,7 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25036.173229437 - removing ◎36.173229437
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 9),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24961-DE-Europe/Berlin (seniority: 9)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 211: 169 blocks in 224 slots, 25% skip rate
@@ -347,21 +354,21 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎133362.354552067 - removing ◎108362.354552067
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),24961-DE-Europe/Berlin (seniority: 9)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 9),24940-FI-Helsinki (seniority: 3)
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 208: 226 blocks in 264 slots, 15% skip rate
 * Staking activity: target stake amount: ◎133296.203844555, current stake amount: ◎134426.606636232 - removing ◎1130.402791677
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),24961-DE-Europe/Berlin (seniority: 10)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 10),24940-FI-Helsinki (seniority: 4)
 ### [[Mainnet Epoch 208|Mainnet#Epoch-208]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 207: 249 blocks in 268 slots, 8% skip rate
 * Staking activity: target stake amount: ◎134361.831949474, current stake amount: ◎139735.328514512 - removing ◎5373.496565038
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 9),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24961-DE-Europe/Berlin (seniority: 9)
 ### [[Mainnet Epoch 207|Mainnet#Epoch-207]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 206: 253 blocks in 268 slots, 6% skip rate
@@ -376,7 +383,7 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143784.426183617 - removing ◎3811.609381911
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 7),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),24961-DE-Europe/Berlin (seniority: 7)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 8 epochs)
@@ -384,7 +391,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144903.458329496 - removing ◎1192.291323140
 * Vote account address: 4ysUQbvWDjUdRprcjaBEH4V2VqPJgrPSwRsS6ATTMbiB
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 6),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),24961-DE-Europe/Berlin (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 * Insufficient testnet participation
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]

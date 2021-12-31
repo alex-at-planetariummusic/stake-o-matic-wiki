@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000907243 - not removing ◎0.000907243 (amount too small)
+* Vote account address: HhTHWzAFhebkBMMD52bYbQhxJ3e5XK4BDMbiyUjrCVf
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 59)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient testnet participation

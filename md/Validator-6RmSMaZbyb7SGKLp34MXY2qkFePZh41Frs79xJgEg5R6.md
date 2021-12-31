@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 263: 126 blocks in 140 slots, 10% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75801.538757260 - removing ◎921.335869038
+* Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
+* Data Center: 56694-RU-Europe/Moscow
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 58)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 262: 80 blocks in 84 slots, 5% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86372.440942395 - removing ◎2209.674909366
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 44),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),56694-RU-Europe/Moscow (seniority: 44)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 248: 173 blocks in 200 slots, 14% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎25011.624122684 - reserve depleted
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),56694-RU-Europe/Moscow (seniority: 44)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 44),24940-FI-Helsinki (seniority: 1)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 246: 87 blocks in 172 slots, 50% skip rate
@@ -420,7 +427,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎192368.564126708 - removing ◎5852.988138618
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),56694-RU-Europe/Moscow (seniority: 4)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 4),24940-FI-Helsinki (seniority: 5)
 * Insufficient self stake: ◎0.514857837
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 4 epochs)
@@ -428,7 +435,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎200093.250230197 - removing ◎7835.503002663
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 3),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),56694-RU-Europe/Moscow (seniority: 3)
 * Insufficient self stake: ◎0.514561246
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -436,7 +443,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 6fayjfZLsDAeBeZHmkgq4KgT2aoJQf8Gg94rN5wo1vHR
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),56694-RU-Europe/Moscow (seniority: 2)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 2),24940-FI-Helsinki (seniority: 7)
 * Insufficient self stake: ◎0.514265541
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -444,7 +451,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎1.001627049 - adding ◎199977.259116852
 * Vote account address: DGu5PHMFTRhrRcqXw3EfmMxHk3eYLVL6iWbieQ63GYoN
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),56694-RU-Europe/Moscow (seniority: 1)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 1),24940-FI-Helsinki (seniority: 8)
 * Insufficient self stake: ◎0.513969555
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus**

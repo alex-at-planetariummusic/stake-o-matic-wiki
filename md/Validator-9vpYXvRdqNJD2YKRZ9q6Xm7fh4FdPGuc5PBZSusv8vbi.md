@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: Good block production during epoch 263: 131 blocks in 140 slots, 7% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.668178125 - removing ◎922.465289903
+* Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 53)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 262: 151 blocks in 152 slots, 1% skip rate
@@ -354,7 +361,7 @@
 * Staking activity: target stake amount: ◎133296.203844555, current stake amount: ◎134428.667448829 - removing ◎1132.463604274
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 10),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),16276-FR-Roubaix (seniority: 10)
 ### [[Mainnet Epoch 208|Mainnet#Epoch-208]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 207: 262 blocks in 284 slots, 8% skip rate
@@ -368,7 +375,7 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.571883619 - removing ◎376.757488080
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-FR-Roubaix (seniority: 8)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),24940-DE-Falkenstein (seniority: 4)
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 205: 223 blocks in 276 slots, 20% skip rate
@@ -399,7 +406,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎180281.563617008 - removing ◎28486.251265548
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),16276-FR-Roubaix (seniority: 4)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),24940-DE-Falkenstein (seniority: 8)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 3 epochs)
@@ -415,7 +422,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎1.001345812 - adding ◎180187.303115365
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),24940-DE-Falkenstein (seniority: 10)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),16276-FR-Roubaix (seniority: 2)
 * Insufficient self stake: ◎2.011702453
 * Insufficient testnet participation
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
@@ -424,7 +431,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎1.000792699 - reserve depleted
 * Vote account address: 8dk8UAi3d6K49fCPiwXyPynhYjQX6wxVA8mdSNzTGVts
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),24940-DE-Falkenstein (seniority: 11)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-FR-Roubaix (seniority: 1)
 * Insufficient self stake: ◎0.513696820
 * Insufficient testnet participation
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]

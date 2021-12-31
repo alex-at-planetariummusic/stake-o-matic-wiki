@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 263: 127 blocks in 136 slots, 7% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.653192560 - removing ◎922.450304338
+* Vote account address: HhrkPmp8drPTMBrisM91wwoWnFHJXS55VYXGBkE6gP9i
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 37),16276-CA-Beauharnois (seniority: 18)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 262: 108 blocks in 108 slots, 0% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.270286694 - removing ◎1646.395132172
 * Vote account address: HhrkPmp8drPTMBrisM91wwoWnFHJXS55VYXGBkE6gP9i
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 10),16276-PL-Warsaw (seniority: 45)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 45),16276-CA-Beauharnois (seniority: 10)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 254: 83 blocks in 96 slots, 14% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83199.967262004 - removing ◎294.361723933
 * Vote account address: HhrkPmp8drPTMBrisM91wwoWnFHJXS55VYXGBkE6gP9i
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 47),16276-CA-Beauharnois (seniority: 8)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 8),16276-PL-Warsaw (seniority: 47)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 252: 119 blocks in 120 slots, 1% skip rate
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.381114981 - removing ◎322.980707949
 * Vote account address: HhrkPmp8drPTMBrisM91wwoWnFHJXS55VYXGBkE6gP9i
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 48),16276-CA-Beauharnois (seniority: 7)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 7),16276-PL-Warsaw (seniority: 48)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 251: 103 blocks in 112 slots, 9% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.450267656 - removing ◎2238.684234627
 * Vote account address: HhrkPmp8drPTMBrisM91wwoWnFHJXS55VYXGBkE6gP9i
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),16276-PL-Warsaw (seniority: 51)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 51),16276-CA-Beauharnois (seniority: 4)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 248: 157 blocks in 160 slots, 2% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎89174.252100622 - removing ◎1799.654745131
 * Vote account address: HhrkPmp8drPTMBrisM91wwoWnFHJXS55VYXGBkE6gP9i
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 53),16276-CA-Beauharnois (seniority: 2)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),16276-PL-Warsaw (seniority: 53)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 246: 59 blocks in 84 slots, 30% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎89537.761977190, current stake amount: ◎88599.985420954 - reserve depleted
 * Vote account address: HhrkPmp8drPTMBrisM91wwoWnFHJXS55VYXGBkE6gP9i
 * Data Center: 16276-CA-America/Toronto
-* Resident Data Center(s): 16276-CA-America/Toronto (seniority: 1),16276-PL-Warsaw (seniority: 55)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 55),16276-CA-America/Toronto (seniority: 1)
 ### [[Mainnet Epoch 245|Mainnet#Epoch-245]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 244: 127 blocks in 148 slots, 15% skip rate

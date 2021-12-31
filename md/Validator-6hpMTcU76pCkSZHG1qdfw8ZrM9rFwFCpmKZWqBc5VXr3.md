@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 263: 134 blocks in 140 slots, 5% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.452913260 - removing ◎922.250025038
+* Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
+* Data Center: 213220-RU-Europe/Moscow
+* Resident Data Center(s): 213220-RU-Europe/Moscow (seniority: 6),0-Unknown (seniority: 8),35539-RU-Shchelkovo (seniority: 33)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 262: 139 blocks in 140 slots, 1% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.689578259 - removing ◎362.354075616
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 213220-RU-Europe/Moscow
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 34),213220-RU-Europe/Moscow (seniority: 5),0-Unknown (seniority: 9)
+* Resident Data Center(s): 0-Unknown (seniority: 9),213220-RU-Europe/Moscow (seniority: 5),35539-RU-Shchelkovo (seniority: 34)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 261: 166 blocks in 180 slots, 8% skip rate
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76509.003622989 - removing ◎414.634382706
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 213220-RU-Europe/Moscow
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 35),0-Unknown (seniority: 10),213220-RU-Europe/Moscow (seniority: 4)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 35),213220-RU-Europe/Moscow (seniority: 4),0-Unknown (seniority: 10)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 260: 175 blocks in 180 slots, 3% skip rate
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78647.324301935 - removing ◎2173.752873754
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 213220-RU-Europe/Moscow
-* Resident Data Center(s): 213220-RU-Europe/Moscow (seniority: 3),35539-RU-Shchelkovo (seniority: 36),0-Unknown (seniority: 11)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 36),0-Unknown (seniority: 11),213220-RU-Europe/Moscow (seniority: 3)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 259: 143 blocks in 148 slots, 4% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.157546362 - reserve depleted
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 213220-RU-Europe/Moscow
-* Resident Data Center(s): 213220-RU-Europe/Moscow (seniority: 1),35539-RU-Shchelkovo (seniority: 38),0-Unknown (seniority: 13)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 38),213220-RU-Europe/Moscow (seniority: 1),0-Unknown (seniority: 13)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 257: 163 blocks in 176 slots, 8% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.177943752 - removing ◎541.809537348
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 0-Unknown
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 40),0-Unknown (seniority: 13)
+* Resident Data Center(s): 0-Unknown (seniority: 13),35539-RU-Shchelkovo (seniority: 40)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 255: 145 blocks in 168 slots, 14% skip rate
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82982.719689892 - removing ◎1644.844535370
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 12),35539-RU-Shchelkovo (seniority: 41)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 41),0-Unknown (seniority: 12)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 254: 178 blocks in 188 slots, 6% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83199.875458511 - removing ◎294.269920440
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 10),35539-RU-Shchelkovo (seniority: 43)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 43),0-Unknown (seniority: 10)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 252: 154 blocks in 160 slots, 4% skip rate
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.076066101 - removing ◎322.675659069
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 0-Unknown
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 44),0-Unknown (seniority: 9)
+* Resident Data Center(s): 0-Unknown (seniority: 9),35539-RU-Shchelkovo (seniority: 44)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 251: 142 blocks in 144 slots, 2% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎1.000691141 - reserve depleted
 * Vote account address: J9Go27V87fCdJtjMxmFJu48ctrHzFoe6xQpA6Ecq4Wkw
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 1),35539-RU-Shchelkovo (seniority: 52)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 52),0-Unknown (seniority: 1)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 199419 credits earned in epoch 243

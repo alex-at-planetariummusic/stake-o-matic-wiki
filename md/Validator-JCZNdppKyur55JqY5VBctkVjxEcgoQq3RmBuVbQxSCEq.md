@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 263: 44 blocks in 92 slots, 53% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.000899909 - adding ◎24998.999100091
+* Vote account address: 39ueFBsyhKixjBqNJ74L7DackgeZyBALqjiP8CsBhgEc
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 262: 68 blocks in 100 slots, 32% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎1.000450569 - reserve depleted
 * Vote account address: 39ueFBsyhKixjBqNJ74L7DackgeZyBALqjiP8CsBhgEc
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 36),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),16276-CA-Beauharnois (seniority: 36)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 223977 credits earned in epoch 261

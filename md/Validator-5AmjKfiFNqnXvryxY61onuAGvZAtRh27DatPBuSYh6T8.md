@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 263: 27 blocks in 44 slots, 39% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎75778.982389617 - removing ◎50778.982389617
+* Vote account address: HBoQV5KNk4upoeBzWi6c6mARwwHGn3mqKTLcKcBvbqJy
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 28)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 262: 88 blocks in 124 slots, 30% skip rate
@@ -249,7 +256,7 @@
 * Staking activity: target stake amount: ◎102400.113698518, current stake amount: ◎106179.448238280 - removing ◎3779.334539762
 * Vote account address: HBoQV5KNk4upoeBzWi6c6mARwwHGn3mqKTLcKcBvbqJy
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),23470-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),21409-FR-Europe/Paris (seniority: 1)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 224: 60 blocks in 64 slots, 7% skip rate
@@ -263,14 +270,14 @@
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎1.001294472 - adding ◎106078.281237046
 * Vote account address: HBoQV5KNk4upoeBzWi6c6mARwwHGn3mqKTLcKcBvbqJy
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),23470-US-America/Chicago (seniority: 2)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),21409-FR-Europe/Paris (seniority: 3)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 222: 59 blocks in 64 slots, 8% skip rate
 * Staking activity: target stake amount: ◎104609.901914827, current stake amount: ◎1.000801208 - reserve depleted
 * Vote account address: HBoQV5KNk4upoeBzWi6c6mARwwHGn3mqKTLcKcBvbqJy
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),23470-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 168780 credits earned in epoch 221

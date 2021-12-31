@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 59 epochs)
+* Stake reason: Good block production during epoch 263: 108 blocks in 128 slots, 16% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.579398583 - removing ◎922.376510361
+* Vote account address: EzZEi48kvDWPJJBM1z9nmjpgRyMwWJwaa4xVW2U6psPr
+* Data Center: 40021-US-America/Chicago
+* Resident Data Center(s): 40021-US-America/Chicago (seniority: 56)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 262: 116 blocks in 116 slots, 0% skip rate
@@ -319,7 +326,7 @@
 * Staking activity: target stake amount: ◎122212.013967839, current stake amount: ◎122114.773400234 - reserve depleted
 * Vote account address: EzZEi48kvDWPJJBM1z9nmjpgRyMwWJwaa4xVW2U6psPr
 * Data Center: 40021-US-America/Chicago
-* Resident Data Center(s): 40021-US-America/Chicago (seniority: 12),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),40021-US-America/Chicago (seniority: 12)
 ### [[Mainnet Epoch 214|Mainnet#Epoch-214]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 213: 192 blocks in 208 slots, 8% skip rate
@@ -389,14 +396,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 9Ji8He9ggXL7PshfzLeJBMraYex8Aw8QAsEj3MEaMtrs
 * Vote account address: EzZEi48kvDWPJJBM1z9nmjpgRyMwWJwaa4xVW2U6psPr
 * Data Center: 40021-US-America/Chicago
-* Resident Data Center(s): 40021-US-America/Chicago (seniority: 2),24940-FI-Helsinki (seniority: 13)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 13),40021-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 202: 20 blocks in 32 slots, 38% skip rate
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎25025.261447095 - adding ◎126770.050904365
 * Vote account address: EzZEi48kvDWPJJBM1z9nmjpgRyMwWJwaa4xVW2U6psPr
 * Data Center: 40021-US-America/Chicago
-* Resident Data Center(s): 40021-US-America/Chicago (seniority: 1),24940-FI-Helsinki (seniority: 14)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 14),40021-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 201: 172 blocks in 316 slots, 46% skip rate

@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
+* Stake level: **Bonus** (for 15 epochs)
+* Stake reason: Good block production during epoch 263: 88 blocks in 92 slots, 5% skip rate
+* Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.644894724 - removing ◎922.442006502
+* Vote account address: ZBfLjZjz48oS3ArtnjmPn4Fc1bd2VbKeBnxeCSrKE9S
+* Data Center: 23470-US-New York
+* Resident Data Center(s): 23470-US-New York (seniority: 6),23470-US-Las Vegas (seniority: 3)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 262: 100 blocks in 100 slots, 0% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.857533880 - removing ◎362.522031237
 * Vote account address: ZBfLjZjz48oS3ArtnjmPn4Fc1bd2VbKeBnxeCSrKE9S
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 4),23470-US-New York (seniority: 5)
+* Resident Data Center(s): 23470-US-New York (seniority: 5),23470-US-Las Vegas (seniority: 4)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 261: 89 blocks in 92 slots, 4% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78647.581472636 - removing ◎2174.010044455
 * Vote account address: ZBfLjZjz48oS3ArtnjmPn4Fc1bd2VbKeBnxeCSrKE9S
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 3),23470-US-Las Vegas (seniority: 6)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 6),23470-US-New York (seniority: 3)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 259: 92 blocks in 96 slots, 5% skip rate
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80083.661223425 - removing ◎1472.905228682
 * Vote account address: ZBfLjZjz48oS3ArtnjmPn4Fc1bd2VbKeBnxeCSrKE9S
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 7),23470-US-New York (seniority: 2)
+* Resident Data Center(s): 23470-US-New York (seniority: 2),23470-US-Las Vegas (seniority: 7)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 258: 57 blocks in 68 slots, 17% skip rate
