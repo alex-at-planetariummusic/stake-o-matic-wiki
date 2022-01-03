@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 10.9% is too high; find a new data center
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25011.532717110 - removing ◎25010.532717110
+* Vote account address: EtGWDbP7342Mo2PnG6MYUP1rL8v69ycn1FRnRTB1BLU3
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 368066 credits earned in epoch 263
