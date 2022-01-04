@@ -1,3 +1,10 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 269: 74 blocks in 124 slots, 41% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
+* Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 16)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 268: 142 blocks in 160 slots, 12% skip rate
@@ -137,7 +144,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),8972-FR-Strasbourg (seniority: 3)
+* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 3),24940-DE-Falkenstein (seniority: 8)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 248: 158 blocks in 316 slots, 50% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 5),24940-DE-Falkenstein (seniority: 10)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),8972-FR-Strasbourg (seniority: 5)
 * infrastructure concentration 25.0% is too high; consider finding a new data center
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 4 epochs)
@@ -181,21 +188,21 @@
 * Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 9),24940-DE-Falkenstein (seniority: 6)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),8972-FR-Strasbourg (seniority: 9)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 294700 credits earned in epoch 242
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 10),24940-DE-Falkenstein (seniority: 5)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),8972-FR-Strasbourg (seniority: 10)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 266712 credits earned in epoch 241
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - adding ◎4999.000000000
 * Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 11),24940-DE-Falkenstein (seniority: 6)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),8972-FR-Strasbourg (seniority: 11)
 ### [[Testnet Epoch 241|Testnet#Epoch-241]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 153088 credits earned in epoch 240
@@ -209,14 +216,14 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎40416.812091631 - removing ◎40415.812091631
 * Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),8972-FR-Strasbourg (seniority: 13)
+* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 13),24940-DE-Falkenstein (seniority: 8)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 236: 175 blocks in 272 slots, 36% skip rate
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎41485.687353389 - removing ◎1068.875261758
 * Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),8972-FR-Strasbourg (seniority: 14)
+* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 14),24940-DE-Falkenstein (seniority: 9)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 235: 209 blocks in 248 slots, 16% skip rate
@@ -251,7 +258,7 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: 2idKc5bHGBcTMCBjYbcSZhL385zsgcSk7USbTn17Qzfc
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),8972-FR-Strasbourg (seniority: 19)
+* Resident Data Center(s): 8972-FR-Strasbourg (seniority: 19),24940-DE-Falkenstein (seniority: 4)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 230: 137 blocks in 192 slots, 29% skip rate

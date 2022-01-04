@@ -1,10 +1,17 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: Good block production during epoch 269: 132 blocks in 140 slots, 6% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
+* Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),24940-DE-Falkenstein (seniority: 14)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 268: 107 blocks in 108 slots, 1% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 13),16276-FR-Roubaix (seniority: 6)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 6),24940-DE-Falkenstein (seniority: 13)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 267: 111 blocks in 124 slots, 11% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 9gzXnV9aDmmtoSFKSV3grYrHhKnYEvpfJT6uMT9M4Jhf
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-FR-Roubaix (seniority: 8)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),24940-DE-Falkenstein (seniority: 11)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 265: 44 blocks in 44 slots, 0% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),16276-FR-Roubaix (seniority: 15)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 15),24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 332019 credits earned in epoch 258
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - adding ◎4999.000000000
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 16),24940-DE-Falkenstein (seniority: 7)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),16276-FR-Roubaix (seniority: 16)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 257
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎33068.373512476 - removing ◎28068.373512476
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 20),24940-DE-Falkenstein (seniority: 11)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-FR-Roubaix (seniority: 20)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 253: 103 blocks in 192 slots, 47% skip rate
@@ -116,35 +123,35 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-FR-Roubaix (seniority: 22)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 22),24940-DE-Falkenstein (seniority: 11)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 251: 97 blocks in 164 slots, 41% skip rate
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 23),24940-DE-Falkenstein (seniority: 10)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),16276-FR-Roubaix (seniority: 23)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 250: 124 blocks in 188 slots, 35% skip rate
 * Staking activity: target stake amount: ◎34776.815121908, current stake amount: ◎34324.243729506 - reserve depleted
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 24),24940-DE-Falkenstein (seniority: 9)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),16276-FR-Roubaix (seniority: 24)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 249: 112 blocks in 160 slots, 30% skip rate
 * Staking activity: target stake amount: ◎34324.243729506, current stake amount: ◎34916.925891894 - removing ◎592.682162388
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 25),24940-DE-Falkenstein (seniority: 8)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),16276-FR-Roubaix (seniority: 25)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 248: 107 blocks in 136 slots, 22% skip rate
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),16276-FR-Roubaix (seniority: 26)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 26),24940-DE-Falkenstein (seniority: 7)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 247: 188 blocks in 204 slots, 8% skip rate
@@ -159,21 +166,21 @@
 * Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 28),24940-DE-Falkenstein (seniority: 5)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),16276-FR-Roubaix (seniority: 28)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 245: 16 blocks in 20 slots, 20% skip rate
 * Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),16276-FR-Roubaix (seniority: 29)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 29),24940-DE-Falkenstein (seniority: 4)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 280843 credits earned in epoch 244
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎4197.769256593 - adding ◎32460.547631021
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 30),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-FR-Roubaix (seniority: 30)
 * infrastructure concentration 25.2% is too high; consider finding a new data center
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 2 epochs)
@@ -188,7 +195,7 @@
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎1.000000000 - adding ◎4196.769256593
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),16276-FR-Roubaix (seniority: 32)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 32),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Outdated Solana release: 1.7.13
@@ -202,7 +209,7 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎40113.573861180 - removing ◎40112.573861180
 * Vote account address: BjjcSx1ykWi3d1JoEoB993E7scWEUduCdbSu3hfVmJxX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 34),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),16276-FR-Roubaix (seniority: 34)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 237: 192 blocks in 200 slots, 4% skip rate

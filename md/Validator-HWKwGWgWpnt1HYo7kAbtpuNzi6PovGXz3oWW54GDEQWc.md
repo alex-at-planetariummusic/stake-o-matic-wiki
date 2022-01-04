@@ -1,3 +1,10 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 269: 67 blocks in 128 slots, 48% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎27250.045097051 - removing ◎22250.045097051
+* Vote account address: AGp9WeQpaYiKgrXbawhMSWg3AdSXEJvjRvCpL4LsNzbA
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 25),16276-FR-Gravelines (seniority: 19)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 268: 79 blocks in 120 slots, 35% skip rate
@@ -32,14 +39,14 @@
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: AGp9WeQpaYiKgrXbawhMSWg3AdSXEJvjRvCpL4LsNzbA
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 16),24940-DE-Falkenstein (seniority: 30)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 30),16276-FR-Gravelines (seniority: 16)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 263: 126 blocks in 168 slots, 25% skip rate
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: AGp9WeQpaYiKgrXbawhMSWg3AdSXEJvjRvCpL4LsNzbA
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 31),16276-FR-Gravelines (seniority: 15)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 15),24940-DE-Falkenstein (seniority: 31)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 262: 168 blocks in 176 slots, 5% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: AGp9WeQpaYiKgrXbawhMSWg3AdSXEJvjRvCpL4LsNzbA
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 34),16276-FR-Gravelines (seniority: 12)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 12),24940-DE-Falkenstein (seniority: 34)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 259: 176 blocks in 180 slots, 3% skip rate
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: AGp9WeQpaYiKgrXbawhMSWg3AdSXEJvjRvCpL4LsNzbA
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 35),16276-FR-Gravelines (seniority: 11)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 11),24940-DE-Falkenstein (seniority: 35)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 258: 175 blocks in 188 slots, 7% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: AGp9WeQpaYiKgrXbawhMSWg3AdSXEJvjRvCpL4LsNzbA
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 7),24940-DE-Falkenstein (seniority: 39)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 39),16276-FR-Gravelines (seniority: 7)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 254: 119 blocks in 144 slots, 18% skip rate
@@ -116,14 +123,14 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: AGp9WeQpaYiKgrXbawhMSWg3AdSXEJvjRvCpL4LsNzbA
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 42),16276-FR-Gravelines (seniority: 4)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),24940-DE-Falkenstein (seniority: 42)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 251: 20 blocks in 20 slots, 0% skip rate
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34776.815121908 - removing ◎405.412436055
 * Vote account address: AGp9WeQpaYiKgrXbawhMSWg3AdSXEJvjRvCpL4LsNzbA
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24940-DE-Falkenstein (seniority: 43)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 43),16276-FR-Gravelines (seniority: 3)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 250: 188 blocks in 196 slots, 5% skip rate

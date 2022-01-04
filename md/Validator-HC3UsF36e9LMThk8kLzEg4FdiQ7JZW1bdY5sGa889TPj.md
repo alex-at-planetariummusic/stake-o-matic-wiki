@@ -1,3 +1,9 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **None**
+* Stake reason: Outdated Solana release: 1.7.17
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: PghQgXLYeNJMibdeGTEKJqF39eu1jFwjEm4BCMLT73a
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 268: 11 blocks in 32 slots, 66% skip rate

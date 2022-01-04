@@ -1,3 +1,10 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 269: 253 blocks in 296 slots, 15% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎5000.000000000 - reserve depleted
+* Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 29),24940-FI-Helsinki (seniority: 8)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 268: 113 blocks in 204 slots, 45% skip rate
@@ -19,7 +26,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: Ccmtdq1wDQrxrj3NapM4Vi4PksudGbXbtz6Hag9CeuTz
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),24940-DE-Falkenstein (seniority: 32)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 32),24940-FI-Helsinki (seniority: 7)
 * infrastructure concentration 25.6% is too high; consider finding a new data center
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 6 epochs)
@@ -27,7 +34,7 @@
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 33),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24940-DE-Falkenstein (seniority: 33)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 264: 211 blocks in 232 slots, 10% skip rate
@@ -63,7 +70,7 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 38),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24940-DE-Falkenstein (seniority: 38)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 259: 143 blocks in 248 slots, 43% skip rate
@@ -77,14 +84,14 @@
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 39608-UA-Kyiv
-* Resident Data Center(s): 39608-UA-Kyiv (seniority: 2),24940-DE-Falkenstein (seniority: 40)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 40),39608-UA-Kyiv (seniority: 2)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 257: 271 blocks in 288 slots, 6% skip rate
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 39608-UA-Kyiv
-* Resident Data Center(s): 39608-UA-Kyiv (seniority: 1),24940-DE-Falkenstein (seniority: 41)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 41),39608-UA-Kyiv (seniority: 1)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 256: 206 blocks in 228 slots, 10% skip rate
@@ -140,14 +147,14 @@
 * Staking activity: target stake amount: ◎34324.243729506, current stake amount: ◎34916.925891894 - removing ◎592.682162388
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 35),39608-UA-Kyiv (seniority: 2)
+* Resident Data Center(s): 39608-UA-Kyiv (seniority: 2),24940-DE-Falkenstein (seniority: 35)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 248: 292 blocks in 312 slots, 7% skip rate
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 34),39608-UA-Kyiv (seniority: 3)
+* Resident Data Center(s): 39608-UA-Kyiv (seniority: 3),24940-DE-Falkenstein (seniority: 34)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 247: 285 blocks in 336 slots, 16% skip rate
@@ -162,7 +169,7 @@
 * Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 39608-UA-Kyiv (seniority: 5),24940-DE-Falkenstein (seniority: 32)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 32),39608-UA-Kyiv (seniority: 5)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 245: 216 blocks in 236 slots, 9% skip rate
@@ -204,7 +211,7 @@
 * Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎40113.573861180 - reserve depleted
 * Vote account address: JA6y3aYampTaRXtcBcv8JtoGS6zYDBmLroBfoxnsb8f4
 * Data Center: 39608-UA-Kyiv
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 36),39608-UA-Kyiv (seniority: 1)
+* Resident Data Center(s): 39608-UA-Kyiv (seniority: 1),24940-DE-Falkenstein (seniority: 36)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 237: 240 blocks in 256 slots, 7% skip rate

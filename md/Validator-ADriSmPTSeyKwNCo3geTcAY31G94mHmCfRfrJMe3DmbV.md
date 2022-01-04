@@ -1,17 +1,24 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus** (for 15 epochs)
+* Stake reason: Good block production during epoch 269: 118 blocks in 124 slots, 5% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
+* Vote account address: Bc8XjzPWAC4RjB1pyHxqqH8GgzbnJ4C26Hi5GKcWPd5W
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 41),16276-DE-Frankfurt (seniority: 13)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 268: 111 blocks in 112 slots, 1% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: Bc8XjzPWAC4RjB1pyHxqqH8GgzbnJ4C26Hi5GKcWPd5W
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 42),16276-DE-Frankfurt (seniority: 12)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 12),24940-DE-Falkenstein (seniority: 42)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 267: 120 blocks in 120 slots, 0% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 3qNEA8zXANnmtXVhgY7YrSDCrEvQVHGqqZnB3KLTn7bs
 * Vote account address: Bc8XjzPWAC4RjB1pyHxqqH8GgzbnJ4C26Hi5GKcWPd5W
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 43),16276-DE-Frankfurt (seniority: 11)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 11),24940-DE-Falkenstein (seniority: 43)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 266: 124 blocks in 128 slots, 4% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: Bc8XjzPWAC4RjB1pyHxqqH8GgzbnJ4C26Hi5GKcWPd5W
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 7),24940-DE-Falkenstein (seniority: 47)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 47),16276-DE-Frankfurt (seniority: 7)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 262: 179 blocks in 188 slots, 5% skip rate
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: Bc8XjzPWAC4RjB1pyHxqqH8GgzbnJ4C26Hi5GKcWPd5W
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 6),24940-DE-Falkenstein (seniority: 48)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 48),16276-DE-Frankfurt (seniority: 6)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 261: 143 blocks in 148 slots, 4% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 242053 credits earned in epoch 269
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 8o3M5iCcxiwRL8Awb4YVtnXEmAfErMjnyZUAxMprqqFJ
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: No leader slots; 316775 credits earned in epoch 268
@@ -11,21 +18,21 @@
 * Staking activity: stake account busy due to transient stake activation: ABV9GhaLTeUNeVpYDY6trk67bPw2DQLnR7Rsqvh4PABh
 * Vote account address: 8o3M5iCcxiwRL8Awb4YVtnXEmAfErMjnyZUAxMprqqFJ
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),22612-US-America/Chicago (seniority: 2)
+* Resident Data Center(s): 22612-US-America/Chicago (seniority: 2),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Insufficient vote credits: 23909 credits earned in epoch 266
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
 * Vote account address: 8o3M5iCcxiwRL8Awb4YVtnXEmAfErMjnyZUAxMprqqFJ
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 22612-US-America/Chicago (seniority: 3),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),22612-US-America/Chicago (seniority: 3)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 265
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
 * Vote account address: 8o3M5iCcxiwRL8Awb4YVtnXEmAfErMjnyZUAxMprqqFJ
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),22612-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 22612-US-America/Chicago (seniority: 4),21409-FR-Europe/Paris (seniority: 6)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 264
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: 8o3M5iCcxiwRL8Awb4YVtnXEmAfErMjnyZUAxMprqqFJ
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),22612-US-America/Chicago (seniority: 7)
+* Resident Data Center(s): 22612-US-America/Chicago (seniority: 7),21409-FR-Europe/Paris (seniority: 7)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 261: 128 blocks in 164 slots, 22% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: 8o3M5iCcxiwRL8Awb4YVtnXEmAfErMjnyZUAxMprqqFJ
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),22612-US-America/Chicago (seniority: 8)
+* Resident Data Center(s): 22612-US-America/Chicago (seniority: 8),21409-FR-Europe/Paris (seniority: 6)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 260: 120 blocks in 148 slots, 19% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 8o3M5iCcxiwRL8Awb4YVtnXEmAfErMjnyZUAxMprqqFJ
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),22612-US-America/Chicago (seniority: 13)
+* Resident Data Center(s): 22612-US-America/Chicago (seniority: 13),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: Poor block production during epoch 255: 80 blocks in 164 slots, 52% skip rate

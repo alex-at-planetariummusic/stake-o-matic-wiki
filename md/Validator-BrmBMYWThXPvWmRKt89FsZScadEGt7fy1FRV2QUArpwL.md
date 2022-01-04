@@ -1,3 +1,10 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus** (for 63 epochs)
+* Stake reason: Good block production during epoch 269: 120 blocks in 132 slots, 10% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
+* Vote account address: BfmGLU7QwZktLjtnmDFZGMGmLsT6pzwFU28C6yYmpH7R
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 61)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 62 epochs)
 * Stake reason: Good block production during epoch 268: 113 blocks in 120 slots, 6% skip rate
@@ -417,7 +424,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 2UaT7Lgdz746Aisk3d3dfk4fg8edc5Yq3bPommUcw7uY
 * Vote account address: BfmGLU7QwZktLjtnmDFZGMGmLsT6pzwFU28C6yYmpH7R
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-DE-Munich (seniority: 1)
+* Resident Data Center(s): 24940-DE-Munich (seniority: 1),24940-DE-Nuremburg (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: no leader slots; 176076 credits earned in epoch 200

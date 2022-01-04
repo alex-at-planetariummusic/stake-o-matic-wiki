@@ -1,17 +1,24 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus** (for 73 epochs)
+* Stake reason: Good block production during epoch 269: 216 blocks in 276 slots, 22% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
+* Vote account address: Hp1JfiBsoACqhZxTYfKNNMasS8Z3fzTDpY7RgHyxdcGE
+* Data Center: 18450-US-America/Chicago
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 1),16276-CA-Beauharnois (seniority: 61),18450-US-Clearfield (seniority: 3)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 72 epochs)
 * Stake reason: Good block production during epoch 268: 207 blocks in 264 slots, 22% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: Hp1JfiBsoACqhZxTYfKNNMasS8Z3fzTDpY7RgHyxdcGE
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 4),16276-CA-Beauharnois (seniority: 62)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 62),18450-US-Clearfield (seniority: 4)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 71 epochs)
 * Stake reason: Good block production during epoch 267: 323 blocks in 348 slots, 8% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: EoTEtPgdvoi6KKYe7G6oVXsc2t7ijLHQG2tTnN4r8Xqd
 * Vote account address: Hp1JfiBsoACqhZxTYfKNNMasS8Z3fzTDpY7RgHyxdcGE
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 3),16276-CA-Beauharnois (seniority: 63)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 63),18450-US-Clearfield (seniority: 3)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 70 epochs)
 * Stake reason: Good block production during epoch 266: 273 blocks in 280 slots, 3% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
 * Vote account address: Hp1JfiBsoACqhZxTYfKNNMasS8Z3fzTDpY7RgHyxdcGE
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 1),16276-CA-Beauharnois (seniority: 65)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 65),18450-US-Clearfield (seniority: 1)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 264: 346 blocks in 352 slots, 2% skip rate

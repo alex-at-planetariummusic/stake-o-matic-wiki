@@ -1,3 +1,9 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **None** (for 19 epochs)
+* Stake reason: Outdated Solana release: 1.8.0
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 8HbQbGLaPXbtYdqPsiGL6X4uJ6xXw5XiAe2abRRtUpcq
+* Data Center: 12400-IL-Ashdod
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **None** (for 18 epochs)
 * Stake reason: Outdated Solana release: 1.8.0

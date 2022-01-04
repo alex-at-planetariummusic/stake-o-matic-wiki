@@ -1,3 +1,10 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 269: 32 blocks in 32 slots, 0% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
+* Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 21),24940-DE-Falkenstein (seniority: 4)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 268: 28 blocks in 28 slots, 0% skip rate
@@ -11,28 +18,28 @@
 * Staking activity: stake account busy due to transient stake activation: J1U53P7iax4EWkhURjgrEg23Qo5TsT5YTRD8wAypE8eG
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 23),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),35539-RU-Shchelkovo (seniority: 23)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 266: 20 blocks in 20 slots, 0% skip rate
 * Staking activity: target stake amount: ◎28209.737213941, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 24),24940-DE-Falkenstein (seniority: 1),0-Unknown (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),0-Unknown (seniority: 1),35539-RU-Shchelkovo (seniority: 24)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 265: 8 blocks in 20 slots, 60% skip rate
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - adding ◎4999.000000000
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 25),0-Unknown (seniority: 2)
+* Resident Data Center(s): 0-Unknown (seniority: 2),35539-RU-Shchelkovo (seniority: 25)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 108651 credits earned in epoch 264
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 0-Unknown (seniority: 3),35539-RU-Shchelkovo (seniority: 26)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 26),0-Unknown (seniority: 3)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 263: 2 blocks in 36 slots, 95% skip rate
@@ -53,14 +60,14 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 35539-RU-Sverdlovskiy
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 29),0-Unknown (seniority: 6)
+* Resident Data Center(s): 0-Unknown (seniority: 6),35539-RU-Shchelkovo (seniority: 29)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 260: 60 blocks in 172 slots, 66% skip rate
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 213220-RU-Moscow
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 30),0-Unknown (seniority: 7)
+* Resident Data Center(s): 0-Unknown (seniority: 7),35539-RU-Shchelkovo (seniority: 30)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 259: 96 blocks in 180 slots, 47% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 9),35539-RU-Shchelkovo (seniority: 32)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 32),0-Unknown (seniority: 9)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 257: 12 blocks in 12 slots, 0% skip rate
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33186.706533774 - removing ◎65.506750822
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 8),35539-RU-Shchelkovo (seniority: 33)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 33),0-Unknown (seniority: 8)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 256: 143 blocks in 200 slots, 29% skip rate
@@ -95,14 +102,14 @@
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 35),0-Unknown (seniority: 6)
+* Resident Data Center(s): 0-Unknown (seniority: 6),35539-RU-Shchelkovo (seniority: 35)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 254: 72 blocks in 156 slots, 54% skip rate
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎33068.373512476 - removing ◎28068.373512476
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 5),35539-RU-Shchelkovo (seniority: 36)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 36),0-Unknown (seniority: 5)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 253: 159 blocks in 192 slots, 18% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 5),35539-RU-Shchelkovo (seniority: 38)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 38),0-Unknown (seniority: 5)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: No leader slots; 242661 credits earned in epoch 251
@@ -130,21 +137,21 @@
 * Staking activity: target stake amount: ◎34776.815121908, current stake amount: ◎34324.243729506 - reserve depleted
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 40),0-Unknown (seniority: 3)
+* Resident Data Center(s): 0-Unknown (seniority: 3),35539-RU-Shchelkovo (seniority: 40)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 249: 197 blocks in 228 slots, 14% skip rate
 * Staking activity: target stake amount: ◎34324.243729506, current stake amount: ◎1.000000000 - adding ◎34323.243729506
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 2),35539-RU-Shchelkovo (seniority: 41)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 41),0-Unknown (seniority: 2)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 248: 168 blocks in 168 slots, 0% skip rate
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: Dz6oWZx4we97kHe9pdm6W89yhd4BFrgRVhx9h9jwRfek
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 1),35539-RU-Shchelkovo (seniority: 42)
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 42),0-Unknown (seniority: 1)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 55193 credits earned in epoch 247

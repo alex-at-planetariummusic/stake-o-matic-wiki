@@ -1,3 +1,10 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus** (for 56 epochs)
+* Stake reason: Good block production during epoch 269: 143 blocks in 160 slots, 11% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
+* Vote account address: J1D6sjrXjG4Eu7w85Z2uezLBfPUrG2Pqqm7QfR9o59fb
+* Data Center: 41786-RU-Yoshkar-Ola
+* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 57)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 268: 171 blocks in 176 slots, 3% skip rate
@@ -214,7 +221,7 @@
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎41485.687353389 - removing ◎1068.875261758
 * Vote account address: J1D6sjrXjG4Eu7w85Z2uezLBfPUrG2Pqqm7QfR9o59fb
 * Data Center: 41786-RU-Yoshkar-Ola
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),41786-RU-Yoshkar-Ola (seniority: 26)
+* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 26),16276-FR-Roubaix (seniority: 1)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 235: 110 blocks in 188 slots, 42% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 5JUR9Zor7oFdKEMGYUHN9hL1ccxvcAiEq3Wdsd3P9M6b
 * Vote account address: J1D6sjrXjG4Eu7w85Z2uezLBfPUrG2Pqqm7QfR9o59fb
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 24),16276-FR-Roubaix (seniority: 3)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),41786-RU-Yoshkar-Ola (seniority: 24)
 ### [[Testnet Epoch 234|Testnet#Epoch-234]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 233: 200 blocks in 224 slots, 11% skip rate
@@ -242,7 +249,7 @@
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: J1D6sjrXjG4Eu7w85Z2uezLBfPUrG2Pqqm7QfR9o59fb
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 41786-RU-Yoshkar-Ola (seniority: 26),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),41786-RU-Yoshkar-Ola (seniority: 26)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 231: 141 blocks in 192 slots, 27% skip rate

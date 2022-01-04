@@ -1,10 +1,17 @@
+### [[Testnet Epoch 270|Testnet#Epoch-270]]
+* Stake level: **Bonus** (for 12 epochs)
+* Stake reason: Good block production during epoch 269: 134 blocks in 140 slots, 5% skip rate
+* Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
+* Vote account address: CLZ4efiAnb6DzoFu3dzk39CuqdLQFiTkSh157YsuTumg
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 45),23470-US-Miami (seniority: 12)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 268: 126 blocks in 136 slots, 8% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: CLZ4efiAnb6DzoFu3dzk39CuqdLQFiTkSh157YsuTumg
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 11),24940-DE-Falkenstein (seniority: 46)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 46),23470-US-Miami (seniority: 11)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 267: 121 blocks in 132 slots, 9% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
 * Vote account address: CLZ4efiAnb6DzoFu3dzk39CuqdLQFiTkSh157YsuTumg
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 8),24940-DE-Falkenstein (seniority: 49)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 49),23470-US-Miami (seniority: 8)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 264: 101 blocks in 112 slots, 10% skip rate
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: CLZ4efiAnb6DzoFu3dzk39CuqdLQFiTkSh157YsuTumg
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 7),24940-DE-Falkenstein (seniority: 50)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 50),23470-US-Miami (seniority: 7)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 263: 126 blocks in 164 slots, 24% skip rate
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: CLZ4efiAnb6DzoFu3dzk39CuqdLQFiTkSh157YsuTumg
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 51),23470-US-Miami (seniority: 6)
+* Resident Data Center(s): 23470-US-Miami (seniority: 6),24940-DE-Falkenstein (seniority: 51)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 262: 139 blocks in 152 slots, 9% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: CLZ4efiAnb6DzoFu3dzk39CuqdLQFiTkSh157YsuTumg
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 53),23470-US-Miami (seniority: 4)
+* Resident Data Center(s): 23470-US-Miami (seniority: 4),24940-DE-Falkenstein (seniority: 53)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 260: 8 blocks in 12 slots, 34% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: CLZ4efiAnb6DzoFu3dzk39CuqdLQFiTkSh157YsuTumg
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 56),23470-US-Miami (seniority: 1)
+* Resident Data Center(s): 23470-US-Miami (seniority: 1),24940-DE-Falkenstein (seniority: 56)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 257: 59 blocks in 132 slots, 56% skip rate
