@@ -1,3 +1,10 @@
+### [[Testnet Epoch 271|Testnet#Epoch-271]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 270
+* Staking activity: stake account busy due to transient stake deactivation: AU6xcNbwb3rNCN72LtVX6MUGeBJwvmhHzobJ7dr1xWuF
+* Vote account address: BiBKkjdpkj5mAxq2Xyc86Gad6hTmj2fELwTFfdr1DfmN
+* Data Center: 49981-NL-Naaldwijk
+* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 1),24940-DE-Falkenstein (seniority: 27)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 269: 26 blocks in 48 slots, 46% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: stake account busy due to transient stake activation: AU6xcNbwb3rNCN72LtVX6MUGeBJwvmhHzobJ7dr1xWuF
 * Vote account address: BiBKkjdpkj5mAxq2Xyc86Gad6hTmj2fELwTFfdr1DfmN
 * Data Center: 49981-NL-Naaldwijk
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 30),49981-NL-Naaldwijk (seniority: 2)
+* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 2),24940-DE-Falkenstein (seniority: 30)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 266: 36 blocks in 40 slots, 10% skip rate

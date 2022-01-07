@@ -1,3 +1,10 @@
+### [[Testnet Epoch 271|Testnet#Epoch-271]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 270: 145 blocks in 152 slots, 5% skip rate
+* Staking activity: stake account busy due to transient stake activation: 5GJQR9aWysKXuRrq7s7fP79dTK38irYamehNnGDqfufn
+* Vote account address: Aw4NBZdxGzcYVrUS27yecdyfZz9KL2kJiPLCEZiHR2Vb
+* Data Center: 12668-RU-Yekaterinburg
+* Resident Data Center(s): 12668-RU-Yekaterinburg (seniority: 5)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 269: 118 blocks in 128 slots, 8% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 5GJQR9aWysKXuRrq7s7fP79dTK38irYamehNnGDqfufn
 * Vote account address: Aw4NBZdxGzcYVrUS27yecdyfZz9KL2kJiPLCEZiHR2Vb
 * Data Center: 12668-RU-Yekaterinburg
-* Resident Data Center(s): 12668-RU-Yekaterinburg (seniority: 2),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),12668-RU-Yekaterinburg (seniority: 2)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 266: 75 blocks in 76 slots, 2% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 5GJQR9aWysKXuRrq7s7fP79dTK38irYamehNnGDqfufn
 * Vote account address: Aw4NBZdxGzcYVrUS27yecdyfZz9KL2kJiPLCEZiHR2Vb
 * Data Center: 12668-RU-Yekaterinburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),12668-RU-Yekaterinburg (seniority: 1)
+* Resident Data Center(s): 12668-RU-Yekaterinburg (seniority: 1),24940-DE-Nuremburg (seniority: 2)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 265: 55 blocks in 56 slots, 2% skip rate

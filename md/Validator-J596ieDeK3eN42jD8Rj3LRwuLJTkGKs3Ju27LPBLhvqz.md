@@ -1,3 +1,9 @@
+### [[Testnet Epoch 271|Testnet#Epoch-271]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 20134 credits earned in epoch 270
+* Staking activity: stake account busy due to transient stake deactivation: 3YSdcipHZ8CEv1iZbEU9SRzHZioFB8K9yCbcYurrvMo9
+* Vote account address: GXwgPMGbHyMr1RJQUk1Xvw6uFxNAU9qBeVBLAm2tD8pv
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 269: 0 blocks in 8 slots, 100% skip rate
