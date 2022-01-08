@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 367889 credits earned in epoch 265
+* Staking activity: stake account busy due to transient stake activation: 6Z1K9oz9NNcxKXnPX5ZVLVwQaCQpogN4WbC15j8X3vUj
+* Vote account address: DuH43g1bKd2V1rD3eXWK73vg6jAGpBYesNWQzYtL8hw8
+* Data Center: 16276-PL-Warsaw
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Insufficient testnet participation

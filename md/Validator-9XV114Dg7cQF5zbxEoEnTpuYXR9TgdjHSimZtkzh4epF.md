@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: Poor block production during epoch 265: 13 blocks in 52 slots, 75% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: H6XmBbitfnkgfCmt4aN3eWFJKW44peA1oAaTnZ55HFnD
+* Vote account address: DeJtHx8YijwzNRDuEDyJBgbnXiHdbKZzMGtHXUF73y8i
+* Data Center: 12212-CA-Toronto
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 264: 21 blocks in 40 slots, 48% skip rate

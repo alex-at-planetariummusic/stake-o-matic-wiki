@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 265: 15 blocks in 24 slots, 38% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 5fA4cWjbS3Z3VPSw5fEgPKc5n8Q3QxaD9fSyfNmvqhdX
+* Vote account address: 5afRnmkFn1pRU9oussqwk1RRBVyoDgUkL16Jz4qNf574
+* Data Center: 8560-GB-Europe/London
+* Resident Data Center(s): 8560-GB-Europe/London (seniority: 4)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 381269 credits earned in epoch 264

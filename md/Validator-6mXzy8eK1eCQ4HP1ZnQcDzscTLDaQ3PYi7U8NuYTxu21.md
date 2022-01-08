@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 265: 23 blocks in 36 slots, 37% skip rate
+* Staking activity: stake account busy due to transient stake activation: AX5hTJKqmmJKNgqYPvVfTqERMFVrBCKNr6ySuQbeEJV4
+* Vote account address: FN7gfdj5hoovXh7VBbuwzwt1L3db62EfarB8CZ3vJj24
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 220560 credits earned in epoch 264

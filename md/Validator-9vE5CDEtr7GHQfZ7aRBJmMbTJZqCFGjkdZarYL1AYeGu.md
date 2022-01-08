@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 10.2% is too high; find a new data center
+* Staking activity: stake account busy due to transient stake deactivation: GJSXV24cLpZSSsTScVMfjPAbiDDNYTmuXc5dKKADgUA6
+* Vote account address: 5HVnkucygxhRqnVqch1vEoH36CEpb9TRJAQHW1gKwuzD
+* Data Center: 24940-FI-Helsinki
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 264: 4 blocks in 4 slots, 0% skip rate

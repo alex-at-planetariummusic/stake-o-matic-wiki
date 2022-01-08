@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: No leader slots; 370387 credits earned in epoch 265
+* Staking activity: stake account busy due to transient stake deactivation: UBgmXvGV48i8n2W5kHLa565eCJWRYgGvGyoPmEZSUjR
+* Vote account address: EfbKSf2VqyvNovauczZWRH4xBj3whabzMmmhJKNNNpJ6
+* Data Center: 18450-US-Ogden
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 385889 credits earned in epoch 264

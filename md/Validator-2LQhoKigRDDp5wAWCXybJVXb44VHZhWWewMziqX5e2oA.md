@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 369308 credits earned in epoch 265
+* Staking activity: stake account busy due to transient stake activation: 9GvTrfY5QW9s8egcy6xFFGCFRsALBdxM1Wrb2NRjE4vw
+* Vote account address: 88QW8gdJ6vv1VNR5N3hHzYxSfhFmLku26CGrYvtXEesb
+* Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 10.9% is too high; find a new data center

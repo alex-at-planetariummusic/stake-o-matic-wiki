@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **Baseline** (for 16 epochs)
+* Stake reason: Poor block production during epoch 265: 8 blocks in 32 slots, 75% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: DNMfRtuagBYYto9B6ibdnNYdhQxW6yFC1gBCaaWswhPx
+* Vote account address: DzCirYWNsCECVHgSaMVg1mqMzKwtGuN2Pqm2a4HqVpTE
+* Data Center: 60945-GB-Europe/London
+* Resident Data Center(s): 60945-GB-Europe/London (seniority: 39)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Baseline** (for 15 epochs)
 * Stake reason: Poor block production during epoch 264: 5 blocks in 40 slots, 88% skip rate

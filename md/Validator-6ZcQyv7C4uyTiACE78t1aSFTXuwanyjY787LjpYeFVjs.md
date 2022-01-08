@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 265: 33 blocks in 40 slots, 18% skip rate
+* Staking activity: target stake amount: ◎73755.855111467, current stake amount: ◎25011.523884524 - reserve depleted
+* Vote account address: BFmCHyipf9eWB2KSCXifvm7zULWa3Q8upwJ6pwawqhUz
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 264: 60 blocks in 112 slots, 47% skip rate
@@ -10,7 +17,7 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎25011.529200175 - reserve depleted
 * Vote account address: BFmCHyipf9eWB2KSCXifvm7zULWa3Q8upwJ6pwawqhUz
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-Fort Lauderdale (seniority: 1)
+* Resident Data Center(s): 23470-US-Fort Lauderdale (seniority: 1),24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 262: 19 blocks in 32 slots, 41% skip rate
