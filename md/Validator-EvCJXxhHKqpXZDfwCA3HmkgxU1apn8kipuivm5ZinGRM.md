@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
+* Stake level: **Bonus** (for 34 epochs)
+* Stake reason: Good block production during epoch 266: 96 blocks in 104 slots, 8% skip rate
+* Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.476547652 - removing ◎320.477084859
+* Vote account address: CR64wh7PFaTz5mFY3mXC1u5NLXepegddZqv6VLXGvo4D
+* Data Center: 35320-UA-Lviv
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 34)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 265: 123 blocks in 128 slots, 4% skip rate

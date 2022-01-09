@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
+* Stake level: **None** (for 32 epochs)
+* Stake reason: Insufficient self stake: ◎0.008242697
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.013529600 - not removing ◎0.013529600 (amount too small)
+* Vote account address: CrdE3LLgvBDU7wkiPJHRH6mtspSWwZmUd9ybhrtG9adv
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 16)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **None** (for 31 epochs)
 * Stake reason: Insufficient self stake: ◎0.008238861
