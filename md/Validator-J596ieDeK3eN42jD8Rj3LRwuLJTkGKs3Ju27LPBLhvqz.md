@@ -1,3 +1,9 @@
+### [[Testnet Epoch 272|Testnet#Epoch-272]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Outdated Solana release: 1.8.5
+* Staking activity: stake account busy due to transient stake activation: 3YSdcipHZ8CEv1iZbEU9SRzHZioFB8K9yCbcYurrvMo9
+* Vote account address: GXwgPMGbHyMr1RJQUk1Xvw6uFxNAU9qBeVBLAm2tD8pv
+* Data Center: 16276-FR-Roubaix
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 20134 credits earned in epoch 270

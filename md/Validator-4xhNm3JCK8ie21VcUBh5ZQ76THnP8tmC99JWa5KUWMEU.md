@@ -1,3 +1,10 @@
+### [[Testnet Epoch 272|Testnet#Epoch-272]]
+* Stake level: **Bonus** (for 18 epochs)
+* Stake reason: Good block production during epoch 271: 127 blocks in 164 slots, 23% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: BrL4cBJFMSvfax55pSkGMnq7KDQXNCSd8DBdtrXB4gNN
+* Vote account address: ARXcnDH4B3Ru695vJxy3J6aPhKXh5ZSgE4vGaKe7P22R
+* Data Center: 62440-RU-Nazran
+* Resident Data Center(s): 62440-RU-Nazran (seniority: 11)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 270: 110 blocks in 156 slots, 30% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: ARXcnDH4B3Ru695vJxy3J6aPhKXh5ZSgE4vGaKe7P22R
 * Data Center: 62440-RU-Nazran
-* Resident Data Center(s): 62440-RU-Nazran (seniority: 2),16276-PL-Warsaw (seniority: 5)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 5),62440-RU-Nazran (seniority: 2)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 261: 103 blocks in 144 slots, 29% skip rate

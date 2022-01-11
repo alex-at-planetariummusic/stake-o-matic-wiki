@@ -1,3 +1,9 @@
+### [[Testnet Epoch 272|Testnet#Epoch-272]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 271: 1 blocks in 24 slots, 96% skip rate
+* Staking activity: stake account busy due to transient stake activation: 7ERdawhdzoCfF5EwcYknRX29MBgzbH1qoL5NfE6ddBT9
+* Vote account address: trYXHi424SP55bSYRn54HWJzUuWybp7D3DPQCK9gXMZ
+* Data Center: 1136-NL-Katwijk
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 79526 credits earned in epoch 270

@@ -1,10 +1,17 @@
+### [[Testnet Epoch 272|Testnet#Epoch-272]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 271: 174 blocks in 228 slots, 24% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 4nErm8FgXzMeNH6Zn91BMRHbLMEmkHyUD34SmE5bR1T5
+* Vote account address: gNTvVUftx3XUEYg2rHp4sd58XXXGCYXr5Ra9eFTcy6B
+* Data Center: 18450-US-Ogden
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 19),18450-US-Ogden (seniority: 6)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 270: 300 blocks in 316 slots, 6% skip rate
 * Staking activity: stake account busy due to transient stake activation: 4nErm8FgXzMeNH6Zn91BMRHbLMEmkHyUD34SmE5bR1T5
 * Vote account address: gNTvVUftx3XUEYg2rHp4sd58XXXGCYXr5Ra9eFTcy6B
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 5),15440-RU-Europe/Moscow (seniority: 20)
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 20),18450-US-Ogden (seniority: 5)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 269: 146 blocks in 148 slots, 2% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to transient stake activation: 4nErm8FgXzMeNH6Zn91BMRHbLMEmkHyUD34SmE5bR1T5
 * Vote account address: gNTvVUftx3XUEYg2rHp4sd58XXXGCYXr5Ra9eFTcy6B
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 23),18450-US-Ogden (seniority: 2)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 2),15440-RU-Europe/Moscow (seniority: 23)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 266: 254 blocks in 260 slots, 3% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: gNTvVUftx3XUEYg2rHp4sd58XXXGCYXr5Ra9eFTcy6B
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 26),18450-US-Ogden (seniority: 1)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 1),15440-RU-Europe/Moscow (seniority: 26)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 263: 479 blocks in 612 slots, 22% skip rate

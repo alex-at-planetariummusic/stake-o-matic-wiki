@@ -1,10 +1,17 @@
+### [[Testnet Epoch 272|Testnet#Epoch-272]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 271: 132 blocks in 160 slots, 18% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 5vtjM1Xdj4oM5J698BpHpFWKxdBB4BKNwHR7HAx84PV9
+* Vote account address: CmeDd1KV57dpE17XzBUF3dJtKuNJZ5jgqmB9Gt53EBtj
+* Data Center: 18450-US-Morrisville
+* Resident Data Center(s): 18450-US-Morrisville (seniority: 21),16276-CA-Beauharnois (seniority: 13)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 270: 139 blocks in 140 slots, 1% skip rate
 * Staking activity: stake account busy due to transient stake activation: 5vtjM1Xdj4oM5J698BpHpFWKxdBB4BKNwHR7HAx84PV9
 * Vote account address: CmeDd1KV57dpE17XzBUF3dJtKuNJZ5jgqmB9Gt53EBtj
 * Data Center: 18450-US-Morrisville
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 14),18450-US-Morrisville (seniority: 20)
+* Resident Data Center(s): 18450-US-Morrisville (seniority: 20),16276-CA-Beauharnois (seniority: 14)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 269: 103 blocks in 104 slots, 1% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 5vtjM1Xdj4oM5J698BpHpFWKxdBB4BKNwHR7HAx84PV9
 * Vote account address: CmeDd1KV57dpE17XzBUF3dJtKuNJZ5jgqmB9Gt53EBtj
 * Data Center: 18450-US-Morrisville
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 18),18450-US-Morrisville (seniority: 16)
+* Resident Data Center(s): 18450-US-Morrisville (seniority: 16),16276-CA-Beauharnois (seniority: 18)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 265: 139 blocks in 140 slots, 1% skip rate
@@ -53,21 +60,21 @@
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: CmeDd1KV57dpE17XzBUF3dJtKuNJZ5jgqmB9Gt53EBtj
 * Data Center: 18450-US-Morrisville
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 21),18450-US-Morrisville (seniority: 13)
+* Resident Data Center(s): 18450-US-Morrisville (seniority: 13),16276-CA-Beauharnois (seniority: 21)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 262: 157 blocks in 172 slots, 9% skip rate
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: CmeDd1KV57dpE17XzBUF3dJtKuNJZ5jgqmB9Gt53EBtj
 * Data Center: 18450-US-Morrisville
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 22),18450-US-Morrisville (seniority: 12)
+* Resident Data Center(s): 18450-US-Morrisville (seniority: 12),16276-CA-Beauharnois (seniority: 22)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 261: 131 blocks in 140 slots, 7% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: CmeDd1KV57dpE17XzBUF3dJtKuNJZ5jgqmB9Gt53EBtj
 * Data Center: 18450-US-Morrisville
-* Resident Data Center(s): 18450-US-Morrisville (seniority: 11),16276-CA-Beauharnois (seniority: 23)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 23),18450-US-Morrisville (seniority: 11)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 260: 113 blocks in 132 slots, 15% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: CmeDd1KV57dpE17XzBUF3dJtKuNJZ5jgqmB9Gt53EBtj
 * Data Center: 18450-US-Morrisville
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 26),18450-US-Morrisville (seniority: 8)
+* Resident Data Center(s): 18450-US-Morrisville (seniority: 8),16276-CA-Beauharnois (seniority: 26)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 257: 124 blocks in 128 slots, 4% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎22753.248215862 - adding ◎10315.125296614
 * Vote account address: CmeDd1KV57dpE17XzBUF3dJtKuNJZ5jgqmB9Gt53EBtj
 * Data Center: 18450-US-Morrisville
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 31),18450-US-Morrisville (seniority: 3)
+* Resident Data Center(s): 18450-US-Morrisville (seniority: 3),16276-CA-Beauharnois (seniority: 31)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 252: 24 blocks in 24 slots, 0% skip rate

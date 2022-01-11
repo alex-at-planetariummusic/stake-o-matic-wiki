@@ -1,3 +1,10 @@
+### [[Testnet Epoch 272|Testnet#Epoch-272]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: No leader slots; 307679 credits earned in epoch 271
+* Staking activity: stake account busy due to transient stake deactivation: 3HqnKhSbxCjTWwdQjgBHVM4YiJMcHcR2GPurLctRSiTn
+* Vote account address: 4SrmLCz99Eis37hYJwGEv46qXwS9twLtCPmgt4JEG9si
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 318440 credits earned in epoch 270
