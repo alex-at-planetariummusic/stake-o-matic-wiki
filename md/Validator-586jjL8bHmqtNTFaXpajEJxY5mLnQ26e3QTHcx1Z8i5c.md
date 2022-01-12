@@ -1,3 +1,10 @@
+### [[Testnet Epoch 273|Testnet#Epoch-273]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 272: 63 blocks in 96 slots, 35% skip rate
+* Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
+* Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
+* Data Center: 3255-UA-Kyiv
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 36)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 271: 110 blocks in 128 slots, 15% skip rate
@@ -270,7 +277,7 @@
 * Staking activity: target stake amount: ◎42600.138718013, current stake amount: ◎41839.923678665 - reserve depleted
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 1),3255-UA-Kyiv (seniority: 1)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 1),13188-UA-Dnipro (seniority: 1)
 ### [[Testnet Epoch 231|Testnet#Epoch-231]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 230: 22 blocks in 32 slots, 32% skip rate
@@ -291,14 +298,14 @@
 * Staking activity: stake account busy due to transient stake activation: 4D9pjcmn9BhEuy5YKoWwFrgbV4aimsHWxiTo9rXNL9V2
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 6703-UA-Dnipro (seniority: 1),13188-UA-Dnipro (seniority: 2)
+* Resident Data Center(s): 13188-UA-Dnipro (seniority: 2),6703-UA-Dnipro (seniority: 1)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 31 blocks in 36 slots, 14% skip rate
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 1),6703-UA-Dnipro (seniority: 2)
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 2),13188-UA-Dnipro (seniority: 1)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 225: 11 blocks in 24 slots, 55% skip rate
@@ -333,14 +340,14 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 6703-UA-Dnipro (seniority: 7),3255-UA-Kyiv (seniority: 1),13188-UA-Dnipro (seniority: 2)
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 7),13188-UA-Dnipro (seniority: 2),3255-UA-Kyiv (seniority: 1)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 217: 126 blocks in 272 slots, 54% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 4D9pjcmn9BhEuy5YKoWwFrgbV4aimsHWxiTo9rXNL9V2
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 6703-UA-Dnipro (seniority: 8),13188-UA-Dnipro (seniority: 3)
+* Resident Data Center(s): 13188-UA-Dnipro (seniority: 3),6703-UA-Dnipro (seniority: 8)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 215: 137 blocks in 204 slots, 33% skip rate
@@ -354,7 +361,7 @@
 * Staking activity: target stake amount: ◎48627.221310778, current stake amount: ◎43598.804034553 - adding ◎5028.417276225
 * Vote account address: E8233r4w9EZVFziSs6Wkd7ZVddFpYqnQFuUw8uMtQjiB
 * Data Center: 13188-UA-Dnipro
-* Resident Data Center(s): 13188-UA-Dnipro (seniority: 1),6703-UA-Dnipro (seniority: 10)
+* Resident Data Center(s): 6703-UA-Dnipro (seniority: 10),13188-UA-Dnipro (seniority: 1)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 213: 142 blocks in 224 slots, 37% skip rate

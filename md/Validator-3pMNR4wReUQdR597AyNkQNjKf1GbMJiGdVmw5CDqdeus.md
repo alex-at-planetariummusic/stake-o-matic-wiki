@@ -1,17 +1,24 @@
+### [[Testnet Epoch 273|Testnet#Epoch-273]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 272: 75 blocks in 96 slots, 22% skip rate
+* Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
+* Vote account address: 6Q8J2tfzcyjfct4SJtgSFmLrrFVnTtKS6YYE2FHJYdhJ
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **None**
 * Stake reason: Outdated Solana release: 1.8.11
 * Staking activity: stake account busy due to transient stake deactivation: 2u9ZNsrtnqGx1MFAtWycMc8F9dGZkjMbB4CvJaxMjhM4
 * Vote account address: 6Q8J2tfzcyjfct4SJtgSFmLrrFVnTtKS6YYE2FHJYdhJ
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24940-DE-Nuremburg (seniority: 3)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 270: 101 blocks in 104 slots, 3% skip rate
 * Staking activity: stake account busy due to transient stake activation: 2u9ZNsrtnqGx1MFAtWycMc8F9dGZkjMbB4CvJaxMjhM4
 * Vote account address: 6Q8J2tfzcyjfct4SJtgSFmLrrFVnTtKS6YYE2FHJYdhJ
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),21409-FR-Europe/Paris (seniority: 2)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),24940-DE-Nuremburg (seniority: 4)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 269: 111 blocks in 112 slots, 1% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 2u9ZNsrtnqGx1MFAtWycMc8F9dGZkjMbB4CvJaxMjhM4
 * Vote account address: 6Q8J2tfzcyjfct4SJtgSFmLrrFVnTtKS6YYE2FHJYdhJ
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),24940-DE-Nuremburg (seniority: 1)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 266: 90 blocks in 120 slots, 25% skip rate
