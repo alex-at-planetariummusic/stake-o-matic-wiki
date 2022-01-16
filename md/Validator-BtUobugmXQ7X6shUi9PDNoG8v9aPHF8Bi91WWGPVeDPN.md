@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: No leader slots; 280971 credits earned in epoch 273
+* Staking activity: stake account busy due to transient stake activation: 6mYKVkrwECaevms15FkGGWkraK9u2iRsL12MLgrsEFkW
+* Vote account address: 3NuaQLzYKf2GJF5iSEGQh1cL6Yt8oFwTZiteddDetTyR
+* Data Center: 35539-RU-Shchelkovo
+* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 10)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 167959 credits earned in epoch 272

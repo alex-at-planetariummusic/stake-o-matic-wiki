@@ -1,10 +1,17 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 273: 111 blocks in 112 slots, 1% skip rate
+* Staking activity: stake account busy due to transient stake activation: 3Wb4ypjhBU9SNBec7hr4GcLm31YgGHxST1XAtWGPVr2y
+* Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
+* Data Center: 8560-GB-Europe/London
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 28),8560-GB-Europe/London (seniority: 7)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 272: 82 blocks in 140 slots, 42% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-GB-Europe/London
-* Resident Data Center(s): 8560-GB-Europe/London (seniority: 6),8560-US-America/Chicago (seniority: 29)
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 29),8560-GB-Europe/London (seniority: 6)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 271: 117 blocks in 124 slots, 6% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-GB-Europe/London
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 32),8560-GB-Europe/London (seniority: 3)
+* Resident Data Center(s): 8560-GB-Europe/London (seniority: 3),8560-US-America/Chicago (seniority: 32)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 319872 credits earned in epoch 268
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-GB-Europe/London
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 33),8560-GB-Europe/London (seniority: 2)
+* Resident Data Center(s): 8560-GB-Europe/London (seniority: 2),8560-US-America/Chicago (seniority: 33)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 267: 122 blocks in 128 slots, 5% skip rate
 * Staking activity: stake account busy due to transient stake activation: 3Wb4ypjhBU9SNBec7hr4GcLm31YgGHxST1XAtWGPVr2y
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-GB-Europe/London
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 34),8560-GB-Europe/London (seniority: 1)
+* Resident Data Center(s): 8560-GB-Europe/London (seniority: 1),8560-US-America/Chicago (seniority: 34)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 124707 credits earned in epoch 266
@@ -214,14 +221,14 @@
 * Staking activity: target stake amount: ◎38116.953738428, current stake amount: ◎39492.751969070 - removing ◎1375.798230642
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 2),8560-US-America/Chicago (seniority: 15)
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 15),8560-DE-Europe/Berlin (seniority: 2)
 ### [[Testnet Epoch 242|Testnet#Epoch-242]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 241: 222 blocks in 240 slots, 8% skip rate
 * Staking activity: target stake amount: ◎39492.751969070, current stake amount: ◎40113.573861180 - removing ◎620.821892110
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 3),8560-US-America/Chicago (seniority: 14)
+* Resident Data Center(s): 8560-US-America/Chicago (seniority: 14),8560-DE-Europe/Berlin (seniority: 3)
 ### [[Testnet Epoch 241|Testnet#Epoch-241]]
 * Stake level: **Bonus** (for 38 epochs)
 * Stake reason: Good block production during epoch 240: 179 blocks in 212 slots, 16% skip rate
@@ -242,14 +249,14 @@
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎39500.594279906 - adding ◎916.217811725
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 11),8560-DE-Europe/Berlin (seniority: 6)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 6),8560-US-America/Chicago (seniority: 11)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 235: 183 blocks in 232 slots, 22% skip rate
 * Staking activity: target stake amount: ◎41485.687353389, current stake amount: ◎39500.594279906 - reserve depleted
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 10),8560-DE-Europe/Berlin (seniority: 7)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 7),8560-US-America/Chicago (seniority: 10)
 ### [[Testnet Epoch 235|Testnet#Epoch-235]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 234: 175 blocks in 216 slots, 19% skip rate
@@ -291,14 +298,14 @@
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 4),8560-DE-Europe/Berlin (seniority: 13)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 13),8560-US-America/Chicago (seniority: 4)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 228: 196 blocks in 228 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 3Wb4ypjhBU9SNBec7hr4GcLm31YgGHxST1XAtWGPVr2y
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-US-America/Chicago
-* Resident Data Center(s): 8560-US-America/Chicago (seniority: 3),8560-DE-Europe/Berlin (seniority: 14)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 14),8560-US-America/Chicago (seniority: 3)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 227: 185 blocks in 220 slots, 16% skip rate
@@ -403,7 +410,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 3Wb4ypjhBU9SNBec7hr4GcLm31YgGHxST1XAtWGPVr2y
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-DE-Europe/Berlin
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 5),8560-ES-Europe/Madrid (seniority: 3)
+* Resident Data Center(s): 8560-ES-Europe/Madrid (seniority: 3),8560-DE-Europe/Berlin (seniority: 5)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: good block production during epoch 206: 160 blocks in 196 slots, 19% skip rate
@@ -417,14 +424,14 @@
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎44854.504850894 - reserve depleted
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-DE-Europe/Berlin
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 3),8560-ES-Europe/Madrid (seniority: 5)
+* Resident Data Center(s): 8560-ES-Europe/Madrid (seniority: 5),8560-DE-Europe/Berlin (seniority: 3)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: good block production during epoch 204: 195 blocks in 244 slots, 21% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 3Wb4ypjhBU9SNBec7hr4GcLm31YgGHxST1XAtWGPVr2y
 * Vote account address: FKEbs4VGtp782SHKn7iuzebDKXkyLQ3zvUPGk8GmETqY
 * Data Center: 8560-DE-Europe/Berlin
-* Resident Data Center(s): 8560-ES-Europe/Madrid (seniority: 6),8560-DE-Europe/Berlin (seniority: 2)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 2),8560-ES-Europe/Madrid (seniority: 6)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: good block production during epoch 203: 168 blocks in 228 slots, 27% skip rate

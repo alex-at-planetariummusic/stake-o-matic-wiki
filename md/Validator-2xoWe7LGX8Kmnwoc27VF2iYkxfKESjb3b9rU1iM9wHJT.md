@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 273: 96 blocks in 104 slots, 8% skip rate
+* Staking activity: stake account busy due to transient stake activation: BM8Zfs8JgAtbi4TrKGN1fHZR2hfHA2vLPTxVEVf4pEEA
+* Vote account address: B5gEYFEEGXtfmM4HVwwrhBDNLbA2pnugoEZaUtaLcZRW
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 57)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 272: 99 blocks in 128 slots, 23% skip rate
@@ -438,14 +445,14 @@
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44670.972509869 - reserve depleted
 * Vote account address: B5gEYFEEGXtfmM4HVwwrhBDNLbA2pnugoEZaUtaLcZRW
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24940-DE-Nuremburg (seniority: 2)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: no leader slots; 163370 credits earned in epoch 201
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BM8Zfs8JgAtbi4TrKGN1fHZR2hfHA2vLPTxVEVf4pEEA
 * Vote account address: B5gEYFEEGXtfmM4HVwwrhBDNLbA2pnugoEZaUtaLcZRW
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-FI-Helsinki (seniority: 3),24940-DE-Munich (seniority: 1)
+* Resident Data Center(s): 24940-DE-Munich (seniority: 1),24940-FI-Helsinki (seniority: 3),24940-DE-Nuremburg (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 200: 207 blocks in 260 slots, 21% skip rate
@@ -459,7 +466,7 @@
 * Staking activity: target stake amount: ◎45239.342126859, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: B5gEYFEEGXtfmM4HVwwrhBDNLbA2pnugoEZaUtaLcZRW
 * Data Center: 24940-DE-Munich
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24940-DE-Munich (seniority: 1)
+* Resident Data Center(s): 24940-DE-Munich (seniority: 1),24940-FI-Helsinki (seniority: 5)
 ### [[Testnet Epoch 199|Testnet#Epoch-199]]
 * Stake level: **None**
 * Stake reason: insufficient vote credits: 94125 credits earned in epoch 198

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 273: 56 blocks in 104 slots, 47% skip rate
+* Staking activity: stake account busy due to transient stake activation: 4iF8jixADmnznpiPZuUzWYimLwvbajpcSsbsv9V9Ut92
+* Vote account address: 4mqjS14zxNnaSp1WsHMBdcAH3w9oyrv3dS65fQhXDyP9
+* Data Center: 21409-FR-Paris
+* Resident Data Center(s): 21409-FR-Paris (seniority: 1)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Outdated Solana release: 1.8.11

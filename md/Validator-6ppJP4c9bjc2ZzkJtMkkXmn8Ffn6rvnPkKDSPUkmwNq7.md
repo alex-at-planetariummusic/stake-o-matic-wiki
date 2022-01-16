@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 273: 84 blocks in 104 slots, 20% skip rate
+* Staking activity: target stake amount: ◎26762.483150301, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: 21K4TgSfRyZFcDFhHtZKtRitVdsqpx8R6G4RTJZ19Crt
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Outdated Solana release: 1.9.2

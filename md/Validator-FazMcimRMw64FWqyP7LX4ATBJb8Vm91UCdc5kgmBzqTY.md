@@ -1,24 +1,31 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: Good block production during epoch 273: 152 blocks in 152 slots, 0% skip rate
+* Staking activity: target stake amount: ◎26762.483150301, current stake amount: ◎26510.519050774 - reserve depleted
+* Vote account address: EyVYEcoSV7h8ieeHT8Fvb7ErbLgmZvMQUaQLKPsFPS7k
+* Data Center: 12389-RU-Yekaterinburg
+* Resident Data Center(s): 12389-RU-Yekaterinburg (seniority: 11),25086-RU-Yekaterinburg (seniority: 9)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 272: 79 blocks in 88 slots, 11% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎27377.444380494 - removing ◎866.925329720
 * Vote account address: EyVYEcoSV7h8ieeHT8Fvb7ErbLgmZvMQUaQLKPsFPS7k
 * Data Center: 12389-RU-Yekaterinburg
-* Resident Data Center(s): 25086-RU-Yekaterinburg (seniority: 10),12389-RU-Yekaterinburg (seniority: 10)
+* Resident Data Center(s): 12389-RU-Yekaterinburg (seniority: 10),25086-RU-Yekaterinburg (seniority: 10)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 271: 110 blocks in 120 slots, 9% skip rate
 * Staking activity: target stake amount: ◎27424.298422185, current stake amount: ◎27377.444380494 - reserve depleted
 * Vote account address: EyVYEcoSV7h8ieeHT8Fvb7ErbLgmZvMQUaQLKPsFPS7k
 * Data Center: 12389-RU-Yekaterinburg
-* Resident Data Center(s): 25086-RU-Yekaterinburg (seniority: 11),12389-RU-Yekaterinburg (seniority: 9)
+* Resident Data Center(s): 12389-RU-Yekaterinburg (seniority: 9),25086-RU-Yekaterinburg (seniority: 11)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 270: 156 blocks in 160 slots, 3% skip rate
 * Staking activity: stake account busy due to transient stake activation: 5x8kAweem5isWiMKFBSfngPrSfnbkYtGLQMD8V64WRNR
 * Vote account address: EyVYEcoSV7h8ieeHT8Fvb7ErbLgmZvMQUaQLKPsFPS7k
 * Data Center: 12389-RU-Yekaterinburg
-* Resident Data Center(s): 12389-RU-Yekaterinburg (seniority: 8),25086-RU-Yekaterinburg (seniority: 12)
+* Resident Data Center(s): 25086-RU-Yekaterinburg (seniority: 12),12389-RU-Yekaterinburg (seniority: 8)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 269: 129 blocks in 132 slots, 3% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 5x8kAweem5isWiMKFBSfngPrSfnbkYtGLQMD8V64WRNR
 * Vote account address: EyVYEcoSV7h8ieeHT8Fvb7ErbLgmZvMQUaQLKPsFPS7k
 * Data Center: 12389-RU-Yekaterinburg
-* Resident Data Center(s): 12389-RU-Yekaterinburg (seniority: 5),25086-RU-Yekaterinburg (seniority: 15)
+* Resident Data Center(s): 25086-RU-Yekaterinburg (seniority: 15),12389-RU-Yekaterinburg (seniority: 5)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 266: 123 blocks in 124 slots, 1% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 5x8kAweem5isWiMKFBSfngPrSfnbkYtGLQMD8V64WRNR
 * Vote account address: EyVYEcoSV7h8ieeHT8Fvb7ErbLgmZvMQUaQLKPsFPS7k
 * Data Center: 12389-RU-Yekaterinburg
-* Resident Data Center(s): 25086-RU-Yekaterinburg (seniority: 16),12389-RU-Yekaterinburg (seniority: 4)
+* Resident Data Center(s): 12389-RU-Yekaterinburg (seniority: 4),25086-RU-Yekaterinburg (seniority: 16)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 265: 90 blocks in 120 slots, 25% skip rate
@@ -403,7 +410,7 @@
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: EyVYEcoSV7h8ieeHT8Fvb7ErbLgmZvMQUaQLKPsFPS7k
 * Data Center: 25086-RU-Yekaterinburg
-* Resident Data Center(s): 25086-RU-Yekaterinburg (seniority: 1),12389-RU-Yekaterinburg (seniority: 1)
+* Resident Data Center(s): 12389-RU-Yekaterinburg (seniority: 1),25086-RU-Yekaterinburg (seniority: 1)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: poor block production during epoch 206: 10 blocks in 32 slots, 69% skip rate

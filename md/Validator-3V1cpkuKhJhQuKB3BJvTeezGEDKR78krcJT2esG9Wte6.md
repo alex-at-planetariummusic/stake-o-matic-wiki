@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 71 epochs)
+* Stake reason: Good block production during epoch 273: 84 blocks in 88 slots, 5% skip rate
+* Staking activity: stake account busy due to transient stake activation: 4cp2QdzJTaKczdoUy3evUwSHcg695Pt8Crusu88waeDN
+* Vote account address: 9UwoF2ibDDxVdMLXJDErZorr3HSsT97cwYRBtGfPkbSG
+* Data Center: 2588-LV-Riga
+* Resident Data Center(s): 2588-LV-Riga (seniority: 3),20910-LV-Riga (seniority: 65)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 70 epochs)
 * Stake reason: Good block production during epoch 272: 69 blocks in 92 slots, 25% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 4cp2QdzJTaKczdoUy3evUwSHcg695Pt8Crusu88waeDN
 * Vote account address: 9UwoF2ibDDxVdMLXJDErZorr3HSsT97cwYRBtGfPkbSG
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 1),20910-LV-Riga (seniority: 67)
+* Resident Data Center(s): 20910-LV-Riga (seniority: 67),2588-LV-Riga (seniority: 1)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 270: 123 blocks in 132 slots, 7% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 273: 68 blocks in 72 slots, 6% skip rate
+* Staking activity: target stake amount: ◎26762.483150301, current stake amount: ◎26510.519050774 - reserve depleted
+* Vote account address: 4AbRgqNqmK1P9taxUkdHMvuWevcNbk4AoRdbVyQ1cvGC
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 20)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 272: 62 blocks in 68 slots, 9% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 4AbRgqNqmK1P9taxUkdHMvuWevcNbk4AoRdbVyQ1cvGC
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 1),15169-US-North Charleston (seniority: 1)
+* Resident Data Center(s): 15169-US-North Charleston (seniority: 1),23470-US-Miami (seniority: 1)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 237: 28 blocks in 76 slots, 64% skip rate

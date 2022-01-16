@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 273: 52 blocks in 100 slots, 48% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 2neuTqegkmFWa3REpuGyGKKaaVtPgupeYSy7pzQVuGJK
+* Vote account address: EqV6CPju1gmqan5DSbmXHThCBBvtmbk3FR9zLDZnuB6S
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),16276-CA-Beauharnois (seniority: 10)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 272: 106 blocks in 136 slots, 23% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 2neuTqegkmFWa3REpuGyGKKaaVtPgupeYSy7pzQVuGJK
 * Vote account address: EqV6CPju1gmqan5DSbmXHThCBBvtmbk3FR9zLDZnuB6S
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 12),16276-FR-Gravelines (seniority: 2)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),16276-CA-Beauharnois (seniority: 12)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 270: 114 blocks in 140 slots, 19% skip rate
 * Staking activity: stake account busy due to transient stake activation: 2neuTqegkmFWa3REpuGyGKKaaVtPgupeYSy7pzQVuGJK
 * Vote account address: EqV6CPju1gmqan5DSbmXHThCBBvtmbk3FR9zLDZnuB6S
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),16276-CA-Beauharnois (seniority: 13)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 13),16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 269: 75 blocks in 76 slots, 2% skip rate

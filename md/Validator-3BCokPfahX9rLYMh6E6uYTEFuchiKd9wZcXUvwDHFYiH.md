@@ -1,10 +1,17 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 273: 14 blocks in 24 slots, 42% skip rate
+* Staking activity: target stake amount: ◎26762.483150301, current stake amount: ◎26510.519050774 - reserve depleted
+* Vote account address: BkUKq9m66Lb4rRNwNFT45HHovHkfQGidEozRGunerPYt
+* Data Center: 21409-FR-Maurepas
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 59),21409-FR-Maurepas (seniority: 3)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 272: 74 blocks in 100 slots, 26% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎5000.000000000 - adding ◎21510.519050774
 * Vote account address: BkUKq9m66Lb4rRNwNFT45HHovHkfQGidEozRGunerPYt
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 60),21409-FR-Maurepas (seniority: 2)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 2),21409-FR-Europe/Paris (seniority: 60)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 271: 95 blocks in 132 slots, 29% skip rate
@@ -354,7 +361,7 @@
 * Staking activity: target stake amount: ◎46147.349330196, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: BkUKq9m66Lb4rRNwNFT45HHovHkfQGidEozRGunerPYt
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 1),21409-FR-Europe/Paris (seniority: 20)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 20),23470-US-Las Vegas (seniority: 1)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 214: 48 blocks in 188 slots, 75% skip rate

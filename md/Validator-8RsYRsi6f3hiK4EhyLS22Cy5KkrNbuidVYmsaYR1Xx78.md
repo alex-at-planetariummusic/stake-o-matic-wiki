@@ -1,3 +1,11 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 100692 credits earned in epoch 273
+* Staking activity: stake account busy due to transient stake deactivation: 865GrY85myXhc2nKosDCCS3VTqbZ2qLnobPcCPHLzYWk
+* Vote account address: ASDjo1U2bJfThuZ1ftJ7Ku9XEz7Gn8gjEMiCoY7pRRvQ
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 47)
+* infrastructure concentration 25.1% is too high; consider finding a new data center
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 272: 8 blocks in 24 slots, 67% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 70 epochs)
+* Stake reason: Good block production during epoch 273: 108 blocks in 112 slots, 4% skip rate
+* Staking activity: stake account busy due to transient stake activation: 3qdC9T1qYm4bqxb7URnVQX9fdSr4UF8TDXJ1rXAwwahg
+* Vote account address: CdHya1jWcagRVaUJNCeXNssWDi5jdg9VkZJZ1WBH8sj2
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 7),16276-EN-London (seniority: 56)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 69 epochs)
 * Stake reason: Good block production during epoch 272: 97 blocks in 108 slots, 11% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 3qdC9T1qYm4bqxb7URnVQX9fdSr4UF8TDXJ1rXAwwahg
 * Vote account address: CdHya1jWcagRVaUJNCeXNssWDi5jdg9VkZJZ1WBH8sj2
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-EN-London (seniority: 58),23470-US-Las Vegas (seniority: 5)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 5),16276-EN-London (seniority: 58)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 67 epochs)
 * Stake reason: Good block production during epoch 270: 149 blocks in 152 slots, 2% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: CdHya1jWcagRVaUJNCeXNssWDi5jdg9VkZJZ1WBH8sj2
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 2),16276-EN-London (seniority: 61)
+* Resident Data Center(s): 16276-EN-London (seniority: 61),23470-US-Las Vegas (seniority: 2)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 267: 132 blocks in 156 slots, 16% skip rate

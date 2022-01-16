@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **None** (for 5 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 273
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: AdWzmcXFfGmMhesu1YxXcwhoAFSmvPHGDa3Zx3QxxeV8
+* Data Center: 20473-US-Miami
+* Resident Data Center(s): 20473-US-Miami (seniority: 44)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 272
@@ -438,7 +445,7 @@
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎5000.000000000 - adding ◎41186.979283631
 * Vote account address: AdWzmcXFfGmMhesu1YxXcwhoAFSmvPHGDa3Zx3QxxeV8
 * Data Center: 20473-US-Miami
-* Resident Data Center(s): 20473-US-Seattle (seniority: 3),20473-US-Miami (seniority: 1)
+* Resident Data Center(s): 20473-US-Miami (seniority: 1),20473-US-Seattle (seniority: 3)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus**
 * Stake reason: good block production during epoch 201: 116 blocks in 256 slots, 55% skip rate

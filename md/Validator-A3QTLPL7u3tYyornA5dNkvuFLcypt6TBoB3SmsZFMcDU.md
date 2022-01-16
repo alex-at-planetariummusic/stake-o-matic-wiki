@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 273: 6 blocks in 40 slots, 85% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: Ag6adMHttJ9ndWk5PWoyTRNxGbtaRwyMBDw3on6XEuke
+* Vote account address: CEr4544WKSGS7uLoVWWgqbeo9ZrUoGi3Z1aH2znPuNgs
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 49)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 272: 79 blocks in 112 slots, 30% skip rate
@@ -354,7 +361,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account Ag6adMHttJ9ndWk5PWoyTRNxGbtaRwyMBDw3on6XEuke
 * Vote account address: CEr4544WKSGS7uLoVWWgqbeo9ZrUoGi3Z1aH2znPuNgs
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 4),56694-RU-Europe/Moscow (seniority: 3)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 3),201814-PL-Europe/Warsaw (seniority: 4)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 214: 195 blocks in 304 slots, 36% skip rate
@@ -375,7 +382,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: Ag6adMHttJ9ndWk5PWoyTRNxGbtaRwyMBDw3on6XEuke
 * Vote account address: CEr4544WKSGS7uLoVWWgqbeo9ZrUoGi3Z1aH2znPuNgs
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 6),201814-PL-Europe/Warsaw (seniority: 1)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),56694-RU-Europe/Moscow (seniority: 6)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 210: 166 blocks in 236 slots, 30% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 273: 143 blocks in 156 slots, 9% skip rate
+* Staking activity: stake account busy due to transient stake activation: D8uCkFuW24U79qJBwewodxTJb8WqoA9EMF9YJiUEGR1G
+* Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 28),24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 272: 26 blocks in 40 slots, 35% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: stake account busy due to transient stake activation: D8uCkFuW24U79qJBwewodxTJb8WqoA9EMF9YJiUEGR1G
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 25),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),23470-US-Miami (seniority: 25)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 269: 55 blocks in 56 slots, 2% skip rate
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 24),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),23470-US-Miami (seniority: 24)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 268: 12 blocks in 32 slots, 63% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: target stake amount: ◎27928.000825499, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 24),24940-FI-Helsinki (seniority: 9)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),23470-US-Miami (seniority: 24)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 266: 67 blocks in 132 slots, 50% skip rate
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),23470-US-Miami (seniority: 23)
+* Resident Data Center(s): 23470-US-Miami (seniority: 23),24940-FI-Helsinki (seniority: 10)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 265: 72 blocks in 144 slots, 50% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 12),23470-US-Miami (seniority: 25)
+* Resident Data Center(s): 23470-US-Miami (seniority: 25),24940-FI-Helsinki (seniority: 12)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 51 epochs)
 * Stake reason: Good block production during epoch 263: 98 blocks in 180 slots, 46% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 22),24940-FI-Helsinki (seniority: 15)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15),23470-US-Miami (seniority: 22)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 260: 125 blocks in 152 slots, 18% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 18),24940-FI-Helsinki (seniority: 19)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 19),23470-US-Miami (seniority: 18)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 256: 170 blocks in 176 slots, 4% skip rate
@@ -137,7 +144,7 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 23),23470-US-Miami (seniority: 14)
+* Resident Data Center(s): 23470-US-Miami (seniority: 14),24940-FI-Helsinki (seniority: 23)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 252: 142 blocks in 160 slots, 12% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 25),23470-US-Miami (seniority: 12)
+* Resident Data Center(s): 23470-US-Miami (seniority: 12),24940-FI-Helsinki (seniority: 25)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 38 epochs)
 * Stake reason: Good block production during epoch 250: 213 blocks in 220 slots, 4% skip rate
@@ -172,14 +179,14 @@
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 28),23470-US-Miami (seniority: 9)
+* Resident Data Center(s): 23470-US-Miami (seniority: 9),24940-FI-Helsinki (seniority: 28)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 247: 222 blocks in 240 slots, 8% skip rate
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 8),24940-FI-Helsinki (seniority: 29)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 29),23470-US-Miami (seniority: 8)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 246: 220 blocks in 260 slots, 16% skip rate
@@ -193,21 +200,21 @@
 * Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 6),24940-FI-Helsinki (seniority: 31)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 31),23470-US-Miami (seniority: 6)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 244: 186 blocks in 204 slots, 9% skip rate
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38116.953738428 - removing ◎1458.636850814
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 5),24940-FI-Helsinki (seniority: 32)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 32),23470-US-Miami (seniority: 5)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 243: 289 blocks in 316 slots, 9% skip rate
 * Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎38116.953738428 - reserve depleted
 * Vote account address: scs7U1KiR5zQLsksHonKRFZtEBbi7MCZZMZr7TWZ9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 33),23470-US-Miami (seniority: 4)
+* Resident Data Center(s): 23470-US-Miami (seniority: 4),24940-FI-Helsinki (seniority: 33)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 242: 231 blocks in 236 slots, 3% skip rate

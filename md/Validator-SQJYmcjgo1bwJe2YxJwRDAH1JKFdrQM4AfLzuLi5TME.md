@@ -1,17 +1,24 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 13 epochs)
+* Stake reason: Good block production during epoch 273: 158 blocks in 164 slots, 4% skip rate
+* Staking activity: stake account busy due to transient stake activation: 2uTNYSQtouqMimggUwywQqHbQKBta4UaEarYx8ZBDQxM
+* Vote account address: 8jBSuV4HzRdmTX7kRocRpVMqqFsYBHN8tPDQLKT3eGdE
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 25),24940-DE-Falkenstein (seniority: 13)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 272: 134 blocks in 164 slots, 19% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: 8jBSuV4HzRdmTX7kRocRpVMqqFsYBHN8tPDQLKT3eGdE
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 26),24940-DE-Falkenstein (seniority: 12)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12),16276-CA-Beauharnois (seniority: 26)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 271: 112 blocks in 124 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 2uTNYSQtouqMimggUwywQqHbQKBta4UaEarYx8ZBDQxM
 * Vote account address: 8jBSuV4HzRdmTX7kRocRpVMqqFsYBHN8tPDQLKT3eGdE
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 27),24940-DE-Falkenstein (seniority: 11)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),16276-CA-Beauharnois (seniority: 27)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 270: 155 blocks in 156 slots, 1% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: 8jBSuV4HzRdmTX7kRocRpVMqqFsYBHN8tPDQLKT3eGdE
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-CA-Beauharnois (seniority: 35)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 262: 32 blocks in 32 slots, 0% skip rate

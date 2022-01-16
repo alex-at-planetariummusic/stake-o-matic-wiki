@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 67 epochs)
+* Stake reason: Good block production during epoch 273: 128 blocks in 168 slots, 24% skip rate
+* Staking activity: stake account busy due to transient stake activation: E33va7fKCi1Qxg8JXNSV4v7t2tTMneaQAmXBuoWdKpWd
+* Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 50)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 272: 187 blocks in 228 slots, 18% skip rate
@@ -151,14 +158,14 @@
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 28),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-FR-Strasbourg (seniority: 28)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 250: 150 blocks in 156 slots, 4% skip rate
 * Staking activity: target stake amount: ◎34776.815121908, current stake amount: ◎34324.243729506 - reserve depleted
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 27),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-FR-Strasbourg (seniority: 27)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 249: 158 blocks in 168 slots, 6% skip rate
@@ -172,14 +179,14 @@
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 27),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-FR-Strasbourg (seniority: 27)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 247: 119 blocks in 124 slots, 5% skip rate
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-FR-Strasbourg (seniority: 28)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 28),24940-FI-Helsinki (seniority: 4)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 246: 143 blocks in 204 slots, 30% skip rate
@@ -375,28 +382,28 @@
 * Staking activity: stake account busy due to transient stake deactivation: E33va7fKCi1Qxg8JXNSV4v7t2tTMneaQAmXBuoWdKpWd
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 8),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Strasbourg (seniority: 8)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 210: 215 blocks in 272 slots, 21% skip rate
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎44295.045998223 - removing ◎597.954528850
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 7),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-FR-Strasbourg (seniority: 7)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 209: 176 blocks in 244 slots, 28% skip rate
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎44905.738139368 - removing ◎610.692141145
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 6),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-FR-Strasbourg (seniority: 6)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 208: 235 blocks in 316 slots, 26% skip rate
 * Staking activity: target stake amount: ◎44905.738139368, current stake amount: ◎46644.025953063 - removing ◎1738.287813695
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 5),24940-FI-Helsinki (seniority: 6)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),16276-FR-Strasbourg (seniority: 5)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 207: 167 blocks in 228 slots, 27% skip rate
@@ -424,7 +431,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account E33va7fKCi1Qxg8JXNSV4v7t2tTMneaQAmXBuoWdKpWd
 * Vote account address: 4DewcLeABf1gaash8CnL5ttm3fHZfF1e74Pnq28zXZNh
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),16276-FR-Strasbourg (seniority: 1)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),24940-FI-Helsinki (seniority: 10)
 ### [[Testnet Epoch 204|Testnet#Epoch-204]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 203: 166 blocks in 216 slots, 24% skip rate

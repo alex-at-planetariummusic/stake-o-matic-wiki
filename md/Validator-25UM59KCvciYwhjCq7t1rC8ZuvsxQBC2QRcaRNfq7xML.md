@@ -1,31 +1,38 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 50 epochs)
+* Stake reason: Good block production during epoch 273: 106 blocks in 108 slots, 2% skip rate
+* Staking activity: stake account busy due to transient stake activation: EfFQHAXFVQwxw2hpQygNxHPU5PPtiPMfPqdzLAbPPEhM
+* Vote account address: EhtsaJ9zaPizGQvqjCRx5bC3Lw7yW9nk9T2PyBSty9qJ
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 57),24940-DE-Nuremburg (seniority: 5)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 49 epochs)
 * Stake reason: Good block production during epoch 272: 98 blocks in 132 slots, 26% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: EhtsaJ9zaPizGQvqjCRx5bC3Lw7yW9nk9T2PyBSty9qJ
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 58),24940-DE-Nuremburg (seniority: 4)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),24940-FI-Helsinki (seniority: 58)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 271: 138 blocks in 152 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: EfFQHAXFVQwxw2hpQygNxHPU5PPtiPMfPqdzLAbPPEhM
 * Vote account address: EhtsaJ9zaPizGQvqjCRx5bC3Lw7yW9nk9T2PyBSty9qJ
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 59),24940-DE-Nuremburg (seniority: 3)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),24940-FI-Helsinki (seniority: 59)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 270: 148 blocks in 180 slots, 18% skip rate
 * Staking activity: stake account busy due to transient stake activation: EfFQHAXFVQwxw2hpQygNxHPU5PPtiPMfPqdzLAbPPEhM
 * Vote account address: EhtsaJ9zaPizGQvqjCRx5bC3Lw7yW9nk9T2PyBSty9qJ
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 60),24940-DE-Nuremburg (seniority: 2)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),24940-FI-Helsinki (seniority: 60)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 46 epochs)
 * Stake reason: Good block production during epoch 269: 123 blocks in 144 slots, 15% skip rate
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: EhtsaJ9zaPizGQvqjCRx5bC3Lw7yW9nk9T2PyBSty9qJ
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-FI-Helsinki (seniority: 61)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 61),24940-DE-Nuremburg (seniority: 1)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 268: 147 blocks in 164 slots, 11% skip rate

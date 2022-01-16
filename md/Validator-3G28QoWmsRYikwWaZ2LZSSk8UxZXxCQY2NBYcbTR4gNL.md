@@ -1,3 +1,9 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 8439 credits earned in epoch 273
+* Staking activity: stake account busy due to transient stake deactivation: 66hMdZktvF3oBZBRjxj3XKzLdhbxT8sbehmVV5HDEbh7
+* Vote account address: 7ADkMkbc6n1df4t9k6BaejaEPCJEAiNoLYqKc3JKWMKP
+* Data Center: 35539-RU-Sverdlovskiy
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 167497 credits earned in epoch 272
@@ -81,7 +87,7 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 7ADkMkbc6n1df4t9k6BaejaEPCJEAiNoLYqKc3JKWMKP
 * Data Center: 35539-RU-Sverdlovskiy
-* Resident Data Center(s): 35539-RU-Shchelkovo (seniority: 3),35539-RU-Sverdlovskiy (seniority: 1)
+* Resident Data Center(s): 35539-RU-Sverdlovskiy (seniority: 1),35539-RU-Shchelkovo (seniority: 3)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: Poor block production during epoch 259: 97 blocks in 168 slots, 43% skip rate

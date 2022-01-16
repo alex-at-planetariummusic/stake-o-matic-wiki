@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 10 epochs)
+* Stake reason: Good block production during epoch 273: 84 blocks in 116 slots, 28% skip rate
+* Staking activity: stake account busy due to transient stake activation: J5f4mNtAtVYvrKD3RtbFu2WzHxXJ3szXUbeWJvPavrQE
+* Vote account address: 9N82Qff8M5xabyvdZmbbUXKzCgwgSqeesXNDKNNYtCfa
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 12),21409-FR-Paris (seniority: 16)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 272: 120 blocks in 160 slots, 25% skip rate
@@ -18,42 +25,42 @@
 * Staking activity: stake account busy due to transient stake activation: J5f4mNtAtVYvrKD3RtbFu2WzHxXJ3szXUbeWJvPavrQE
 * Vote account address: 9N82Qff8M5xabyvdZmbbUXKzCgwgSqeesXNDKNNYtCfa
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 9),21409-FR-Paris (seniority: 19)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 19),16276-FR-Gravelines (seniority: 9)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 269: 90 blocks in 144 slots, 38% skip rate
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: 9N82Qff8M5xabyvdZmbbUXKzCgwgSqeesXNDKNNYtCfa
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 8),21409-FR-Paris (seniority: 20)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 20),16276-FR-Gravelines (seniority: 8)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 268: 131 blocks in 144 slots, 10% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: 9N82Qff8M5xabyvdZmbbUXKzCgwgSqeesXNDKNNYtCfa
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 7),21409-FR-Paris (seniority: 21)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 21),16276-FR-Gravelines (seniority: 7)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 267: 112 blocks in 124 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: J5f4mNtAtVYvrKD3RtbFu2WzHxXJ3szXUbeWJvPavrQE
 * Vote account address: 9N82Qff8M5xabyvdZmbbUXKzCgwgSqeesXNDKNNYtCfa
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 6),21409-FR-Paris (seniority: 22)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 22),16276-FR-Gravelines (seniority: 6)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 266: 28 blocks in 28 slots, 0% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: J5f4mNtAtVYvrKD3RtbFu2WzHxXJ3szXUbeWJvPavrQE
 * Vote account address: 9N82Qff8M5xabyvdZmbbUXKzCgwgSqeesXNDKNNYtCfa
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 5),21409-FR-Paris (seniority: 23)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 23),16276-FR-Gravelines (seniority: 5)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 265: 140 blocks in 144 slots, 3% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎29314.358424838 - removing ◎544.792937516
 * Vote account address: 9N82Qff8M5xabyvdZmbbUXKzCgwgSqeesXNDKNNYtCfa
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),21409-FR-Paris (seniority: 24)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 24),16276-FR-Gravelines (seniority: 4)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 264: 163 blocks in 180 slots, 10% skip rate

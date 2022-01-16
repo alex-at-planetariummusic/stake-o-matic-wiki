@@ -1,3 +1,10 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 273: 294 blocks in 312 slots, 6% skip rate
+* Staking activity: target stake amount: ◎26762.483150301, current stake amount: ◎26510.519050774 - reserve depleted
+* Vote account address: uFMumULsDPMdRKWsaC8MkKQ6h7dN41JTNrHHBGb5ux2
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 43)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 272: 250 blocks in 312 slots, 20% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎5000.000000000 - adding ◎24314.358424838
 * Vote account address: uFMumULsDPMdRKWsaC8MkKQ6h7dN41JTNrHHBGb5ux2
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),21409-FR-Europe/Paris (seniority: 36)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 36),23470-US-America/Chicago (seniority: 2)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 263: 164 blocks in 232 slots, 30% skip rate
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: uFMumULsDPMdRKWsaC8MkKQ6h7dN41JTNrHHBGb5ux2
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),21409-FR-Europe/Paris (seniority: 37)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 37),23470-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 262: 103 blocks in 184 slots, 45% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎33121.199782952 - removing ◎28121.199782952
 * Vote account address: uFMumULsDPMdRKWsaC8MkKQ6h7dN41JTNrHHBGb5ux2
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 41),23470-US-Los Angeles (seniority: 1)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 1),21409-FR-Europe/Paris (seniority: 41)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 258: 223 blocks in 384 slots, 42% skip rate

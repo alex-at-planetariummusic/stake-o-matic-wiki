@@ -1,10 +1,17 @@
+### [[Testnet Epoch 274|Testnet#Epoch-274]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 273: 119 blocks in 152 slots, 22% skip rate
+* Staking activity: stake account busy due to transient stake activation: 7zpxNKGhe4Yctt4sJZ9t5u7izq2hyUcdsqzAB139gkq7
+* Vote account address: J39uGoK5Egy6eLTT7KJZv9H9f4SGm9SgMd6veU8RGgsY
+* Data Center: 21409-FR-Bidos
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),21409-FR-Bidos (seniority: 8)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 272: 61 blocks in 92 slots, 34% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: J39uGoK5Egy6eLTT7KJZv9H9f4SGm9SgMd6veU8RGgsY
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Bidos (seniority: 7),21409-FR-Europe/Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),21409-FR-Bidos (seniority: 7)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 271: 105 blocks in 116 slots, 10% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: stake account busy due to transient stake activation: 7zpxNKGhe4Yctt4sJZ9t5u7izq2hyUcdsqzAB139gkq7
 * Vote account address: J39uGoK5Egy6eLTT7KJZv9H9f4SGm9SgMd6veU8RGgsY
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Bidos (seniority: 5),21409-FR-Europe/Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),21409-FR-Bidos (seniority: 5)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 269: 32 blocks in 32 slots, 0% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎28209.737213941, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: J39uGoK5Egy6eLTT7KJZv9H9f4SGm9SgMd6veU8RGgsY
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 12),21409-FR-Bidos (seniority: 1)
+* Resident Data Center(s): 21409-FR-Bidos (seniority: 1),21409-FR-Europe/Paris (seniority: 12)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 265: 20 blocks in 48 slots, 59% skip rate
