@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
+* Stake level: **Bonus** (for 12 epochs)
+* Stake reason: Good block production during epoch 268: 96 blocks in 96 slots, 0% skip rate
+* Staking activity: stake account busy due to inactive stake 5PkbydJ1CqqKnZJNguy7cYjGBpeDV1ws8sepKxnbjiyB
+* Vote account address: 9Gko8QZBbV5SrEvHKtQHcMrGGSfgFP3KJUozEGifu25x
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 12)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 267: 100 blocks in 112 slots, 11% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: No leader slots; 244569 credits earned in epoch 268
+* Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72682.519915235 - removing ◎54.438266576
+* Vote account address: 7xpGAKm2Afc94L8nQ2EJFDwF4xNuKjWaYiW5bkAmE9RG
+* Data Center: 12212-CA-Toronto
+* Resident Data Center(s): 12212-CA-Toronto (seniority: 2)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 267: 19 blocks in 24 slots, 21% skip rate
