@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 15 epochs)
+* Stake reason: Good block production during epoch 269: 114 blocks in 124 slots, 9% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72660.002079595 - removing ◎196.028935863
+* Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
+* Data Center: 23470-US-Piscataway
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 34),16276-CA-Beauharnois (seniority: 9)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 268: 108 blocks in 116 slots, 7% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 9u1eijEhmo6ry9gav1twM9RxkYUi2X2Rx1UQ73757yGs
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 13),23470-US-Piscataway (seniority: 30)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 30),16276-CA-Beauharnois (seniority: 13)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 264: 111 blocks in 112 slots, 1% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.610710453 - removing ◎922.407822231
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 15),23470-US-Piscataway (seniority: 28)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 28),16276-CA-Beauharnois (seniority: 15)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 262: 95 blocks in 96 slots, 2% skip rate
@@ -67,21 +74,21 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80086.157072012 - removing ◎1475.401077269
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 19),23470-US-Piscataway (seniority: 24)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 24),16276-CA-Beauharnois (seniority: 19)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 258: 50 blocks in 56 slots, 11% skip rate
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.767778429 - reserve depleted
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 23),16276-CA-Beauharnois (seniority: 20)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 20),23470-US-Piscataway (seniority: 23)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 257: 50 blocks in 52 slots, 4% skip rate
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80834.368870190 - removing ◎822.967190786
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 21),23470-US-Piscataway (seniority: 22)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 22),16276-CA-Beauharnois (seniority: 21)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 256: 137 blocks in 140 slots, 3% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.159040950 - reserve depleted
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 28),23470-US-Piscataway (seniority: 17)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 17),16276-CA-Beauharnois (seniority: 28)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 249: 132 blocks in 136 slots, 3% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎87415.355426828 - removing ◎1054.467317089
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 30),23470-US-Piscataway (seniority: 15)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 15),16276-CA-Beauharnois (seniority: 30)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 247: 176 blocks in 184 slots, 5% skip rate
@@ -158,14 +165,14 @@
 * Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎88670.937111353 - adding ◎462.070901610
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 32),23470-US-Piscataway (seniority: 13)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 13),16276-CA-Beauharnois (seniority: 32)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 245: 137 blocks in 148 slots, 8% skip rate
 * Staking activity: target stake amount: ◎89537.761977190, current stake amount: ◎88629.681693012 - reserve depleted
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 12),16276-CA-Beauharnois (seniority: 33)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 33),23470-US-Piscataway (seniority: 12)
 ### [[Mainnet Epoch 245|Mainnet#Epoch-245]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 244: 159 blocks in 160 slots, 1% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.821131084 - removing ◎546.009340480
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 10),16276-CA-Beauharnois (seniority: 35)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35),23470-US-Piscataway (seniority: 10)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 242: 173 blocks in 180 slots, 4% skip rate
@@ -221,7 +228,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 9u1eijEhmo6ry9gav1twM9RxkYUi2X2Rx1UQ73757yGs
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 4),16276-CA-Beauharnois (seniority: 41)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 41),23470-US-Piscataway (seniority: 4)
 ### [[Mainnet Epoch 237|Mainnet#Epoch-237]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 236: 163 blocks in 172 slots, 6% skip rate
@@ -235,14 +242,14 @@
 * Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎94528.664223792 - reserve depleted
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 43),23470-US-Piscataway (seniority: 2)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 2),16276-CA-Beauharnois (seniority: 43)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 233: 56 blocks in 60 slots, 7% skip rate
 * Staking activity: target stake amount: ◎94439.178943147, current stake amount: ◎97158.457212306 - removing ◎2719.278269159
 * Vote account address: 2cFGQhgkuibqREEXvz7wEb5CwUqGHfBSTB2oa1hmhkcw
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 1),16276-CA-Beauharnois (seniority: 44)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 44),23470-US-Piscataway (seniority: 1)
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 232: 64 blocks in 72 slots, 12% skip rate

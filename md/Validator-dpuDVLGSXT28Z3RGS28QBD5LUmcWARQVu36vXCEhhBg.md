@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **None**
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: creating new stake account AD2uc95VsrafPppR3XuqyhugXHC8Ct473dsZFFzNd7Qx
+* Vote account address: 6AqFc9V6PqyXJReuP12ATGggaVpG1Ppg4LFNvnqQYz8B
+* Data Center: 24940-DE-Falkenstein
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 267: 84 blocks in 92 slots, 9% skip rate

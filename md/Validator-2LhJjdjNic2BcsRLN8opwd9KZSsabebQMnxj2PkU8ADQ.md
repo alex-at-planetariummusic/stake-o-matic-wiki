@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 23 epochs)
+* Stake reason: Good block production during epoch 269: 102 blocks in 104 slots, 2% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.678380582 - removing ◎197.705236850
+* Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 23),16276-CA-Beauharnois (seniority: 35)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 268: 79 blocks in 80 slots, 2% skip rate
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.237460424 - removing ◎88.155811765
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 22),16276-CA-Beauharnois (seniority: 36)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 36),16276-FR-Roubaix (seniority: 22)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 267: 93 blocks in 96 slots, 4% skip rate
@@ -32,21 +39,21 @@
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.819788000 - removing ◎720.367417801
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 18),16276-CA-Beauharnois (seniority: 40)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 40),16276-FR-Roubaix (seniority: 18)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 263: 103 blocks in 104 slots, 1% skip rate
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.700255829 - removing ◎922.497367607
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 41),16276-FR-Roubaix (seniority: 17)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 17),16276-CA-Beauharnois (seniority: 41)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 262: 132 blocks in 132 slots, 0% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.820864974 - removing ◎362.485362331
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 42),16276-FR-Roubaix (seniority: 16)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 16),16276-CA-Beauharnois (seniority: 42)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 261: 71 blocks in 72 slots, 2% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.614162627 - removing ◎861.212483223
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 47),16276-FR-Roubaix (seniority: 11)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 11),16276-CA-Beauharnois (seniority: 47)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 256: 142 blocks in 144 slots, 2% skip rate
@@ -95,14 +102,14 @@
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.398953888 - removing ◎1646.523799366
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 49),16276-FR-Roubaix (seniority: 9)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 9),16276-CA-Beauharnois (seniority: 49)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 254: 113 blocks in 116 slots, 3% skip rate
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82945.154767717 - reserve depleted
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 50),16276-FR-Roubaix (seniority: 8)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),16276-CA-Beauharnois (seniority: 50)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 253: 71 blocks in 76 slots, 7% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.378973199 - removing ◎322.978566167
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 52),16276-FR-Roubaix (seniority: 6)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 6),16276-CA-Beauharnois (seniority: 52)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 251: 121 blocks in 132 slots, 9% skip rate
@@ -130,28 +137,28 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.150608664 - reserve depleted
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 54),16276-FR-Roubaix (seniority: 4)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),16276-CA-Beauharnois (seniority: 54)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 249: 39 blocks in 40 slots, 3% skip rate
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86372.605060664 - removing ◎2209.839027635
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 55),16276-FR-Roubaix (seniority: 3)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),16276-CA-Beauharnois (seniority: 55)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 248: 136 blocks in 140 slots, 3% skip rate
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎25023.466338857 - adding ◎61337.421770882
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 56),16276-FR-Roubaix (seniority: 2)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),16276-CA-Beauharnois (seniority: 56)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 247: 190 blocks in 204 slots, 7% skip rate
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎25011.636837911 - reserve depleted
 * Vote account address: 6mCs4Gi8L5RQ4ewnabmwCcVDQLBuvyqnaRcm5LGTciyz
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),16276-CA-Beauharnois (seniority: 57)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 57),16276-FR-Roubaix (seniority: 1)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 246: 52 blocks in 88 slots, 41% skip rate

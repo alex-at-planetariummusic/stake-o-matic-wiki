@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 85 epochs)
+* Stake reason: Good block production during epoch 269: 148 blocks in 156 slots, 6% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.645107619 - removing ◎197.671963887
+* Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
+* Data Center: 51167-DE-Düsseldorf
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 46)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 84 epochs)
 * Stake reason: Good block production during epoch 268: 92 blocks in 96 slots, 5% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80086.218235871 - removing ◎1475.462241128
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 36),21409-FR-Europe/Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),51167-DE-Düsseldorf (seniority: 36)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 74 epochs)
 * Stake reason: Good block production during epoch 258: 163 blocks in 164 slots, 1% skip rate
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.856400533 - reserve depleted
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),51167-DE-Düsseldorf (seniority: 35)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 35),21409-FR-Europe/Paris (seniority: 2)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 73 epochs)
 * Stake reason: Good block production during epoch 257: 170 blocks in 184 slots, 8% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.200595828 - removing ◎541.832189424
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 33),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),51167-DE-Düsseldorf (seniority: 33)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 71 epochs)
 * Stake reason: Good block production during epoch 255: 151 blocks in 164 slots, 8% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.425482585 - removing ◎323.025075553
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 29),21409-FR-Europe/Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),51167-DE-Düsseldorf (seniority: 29)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 67 epochs)
 * Stake reason: Good block production during epoch 251: 158 blocks in 160 slots, 2% skip rate
@@ -130,14 +137,14 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.061755575 - reserve depleted
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 27),21409-FR-Europe/Paris (seniority: 10)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 10),51167-DE-Düsseldorf (seniority: 27)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 65 epochs)
 * Stake reason: Good block production during epoch 249: 199 blocks in 204 slots, 3% skip rate
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.406894012 - removing ◎2238.640860983
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 26),21409-FR-Europe/Paris (seniority: 11)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 11),51167-DE-Düsseldorf (seniority: 26)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 248: 182 blocks in 200 slots, 9% skip rate
@@ -158,7 +165,7 @@
 * Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎88670.968461544 - adding ◎462.039551419
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 23),21409-FR-Europe/Paris (seniority: 14)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14),51167-DE-Düsseldorf (seniority: 23)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 61 epochs)
 * Stake reason: Good block production during epoch 245: 167 blocks in 176 slots, 6% skip rate
@@ -172,21 +179,21 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89430.580523806 - removing ◎842.227260600
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 21),21409-FR-Europe/Paris (seniority: 16)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 16),51167-DE-Düsseldorf (seniority: 21)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 59 epochs)
 * Stake reason: Good block production during epoch 243: 155 blocks in 156 slots, 1% skip rate
 * Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.788224430 - removing ◎545.976433826
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 17),51167-DE-Düsseldorf (seniority: 20)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 20),21409-FR-Europe/Paris (seniority: 17)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 242: 155 blocks in 160 slots, 4% skip rate
 * Staking activity: target stake amount: ◎89892.879101639, current stake amount: ◎91851.889562498 - removing ◎1959.010460859
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 18),51167-DE-Düsseldorf (seniority: 19)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 19),21409-FR-Europe/Paris (seniority: 18)
 ### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
 * Stake level: **Bonus** (for 57 epochs)
 * Stake reason: Good block production during epoch 241: 160 blocks in 164 slots, 3% skip rate
@@ -235,7 +242,7 @@
 * Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎94528.654881458 - reserve depleted
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 25),51167-DE-Düsseldorf (seniority: 12)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 12),21409-FR-Europe/Paris (seniority: 25)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 233: 179 blocks in 180 slots, 1% skip rate
@@ -263,7 +270,7 @@
 * Staking activity: target stake amount: ◎98674.474580560, current stake amount: ◎100405.415762963 - removing ◎1730.941182403
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 29),51167-DE-Düsseldorf (seniority: 8)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 8),21409-FR-Europe/Paris (seniority: 29)
 ### [[Mainnet Epoch 230|Mainnet#Epoch-230]]
 * Stake level: **Bonus** (for 46 epochs)
 * Stake reason: Good block production during epoch 229: 185 blocks in 200 slots, 8% skip rate
@@ -291,21 +298,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: AAxFgaYiXRdrZD12NXMHKmgoCT669N9bMWv3GxkCK3QA
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 33),51167-DE-Düsseldorf (seniority: 4)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 4),21409-FR-Europe/Paris (seniority: 33)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 224: 230 blocks in 236 slots, 3% skip rate
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104711.987583004 - removing ◎1074.019800481
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 34),51167-DE-Düsseldorf (seniority: 3)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 3),21409-FR-Europe/Paris (seniority: 34)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 223: 222 blocks in 224 slots, 1% skip rate
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104660.824473726 - reserve depleted
 * Vote account address: 6UDU4Z9TTbYy8gcRKBd7RX3Lm2qMsSR4PMuzoyYPzLma
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 2),21409-FR-Europe/Paris (seniority: 35)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 35),51167-DE-Düsseldorf (seniority: 2)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 222: 159 blocks in 204 slots, 23% skip rate

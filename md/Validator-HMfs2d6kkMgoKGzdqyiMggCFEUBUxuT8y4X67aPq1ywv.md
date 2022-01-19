@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 269: 95 blocks in 104 slots, 9% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.656840996 - removing ◎197.683697264
+* Vote account address: AkVoTV14wHZVB7sNiLxGCiE4tS1mXG2CkZSuqLzxHS2V
+* Data Center: 58061-GB-Europe/London
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 12)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 268: 107 blocks in 112 slots, 5% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: 3dKJSPG9f6w9xPbau8PtCWo6K8njxMzTx7GHBdgscHFB
 * Vote account address: AkVoTV14wHZVB7sNiLxGCiE4tS1mXG2CkZSuqLzxHS2V
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 8),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),58061-GB-Europe/London (seniority: 8)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 264: 109 blocks in 120 slots, 10% skip rate
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.010522010 - removing ◎719.558151811
 * Vote account address: AkVoTV14wHZVB7sNiLxGCiE4tS1mXG2CkZSuqLzxHS2V
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 7),16276-FR-Gravelines (seniority: 2)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),58061-GB-Europe/London (seniority: 7)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 263: 129 blocks in 136 slots, 6% skip rate
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.545613162 - removing ◎922.342724940
 * Vote account address: AkVoTV14wHZVB7sNiLxGCiE4tS1mXG2CkZSuqLzxHS2V
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),58061-GB-Europe/London (seniority: 6)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 6),16276-FR-Gravelines (seniority: 3)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 262: 130 blocks in 132 slots, 2% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.807489017 - reserve depleted
 * Vote account address: AkVoTV14wHZVB7sNiLxGCiE4tS1mXG2CkZSuqLzxHS2V
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 8),58061-GB-Europe/London (seniority: 1)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 1),16276-FR-Gravelines (seniority: 8)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 257: 31 blocks in 36 slots, 14% skip rate

@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 85 epochs)
+* Stake reason: Good block production during epoch 269: 150 blocks in 156 slots, 4% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.623923252 - removing ◎197.650779520
+* Vote account address: 5swjaAU8NapTsmgHGAPe8wUjrK1HYPL2G64AwyH4djhz
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 72)
+* infrastructure concentration 10.2% is too high; consider finding a new data center
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 84 epochs)
 * Stake reason: Good block production during epoch 268: 111 blocks in 124 slots, 11% skip rate
@@ -511,7 +519,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account DBBJrjxkTwvhJCNVCj1VyMChBo7ZQumq9JWnkFJX3qHx
 * Vote account address: 5swjaAU8NapTsmgHGAPe8wUjrK1HYPL2G64AwyH4djhz
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 1),24940-FI-Helsinki (seniority: 1),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-DE-Europe/Berlin (seniority: 1),24940-FI-Helsinki (seniority: 1)
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: good block production during epoch 193: 142 blocks in 304 slots, 54% skip rate
@@ -534,7 +542,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: DBBJrjxkTwvhJCNVCj1VyMChBo7ZQumq9JWnkFJX3qHx
 * Vote account address: 5swjaAU8NapTsmgHGAPe8wUjrK1HYPL2G64AwyH4djhz
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 4),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-DE-Europe/Berlin (seniority: 4)
 ### [[Mainnet Epoch 190|Mainnet#Epoch-190]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: good block production during epoch 189: 348 blocks in 400 slots, 13% skip rate

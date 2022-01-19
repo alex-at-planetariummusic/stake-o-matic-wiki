@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 269: 87 blocks in 92 slots, 6% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.246084678 - removing ◎197.272940946
+* Vote account address: 3Le35iTn2KXRfomruXiDLcMd4BVLKYVgQ7yssmrFJZXx
+* Data Center: 41668-RU-Kazan’
+* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 5),16276-CA-Beauharnois (seniority: 7)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 268: 92 blocks in 108 slots, 15% skip rate
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72715.632979545 - removing ◎87.551330886
 * Vote account address: 3Le35iTn2KXRfomruXiDLcMd4BVLKYVgQ7yssmrFJZXx
 * Data Center: 41668-RU-Kazan’
-* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 4),16276-CA-Beauharnois (seniority: 8)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 8),41668-RU-Kazan’ (seniority: 4)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 267: 95 blocks in 108 slots, 13% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73744.972240496 - removing ◎317.972777703
 * Vote account address: 3Le35iTn2KXRfomruXiDLcMd4BVLKYVgQ7yssmrFJZXx
 * Data Center: 41668-RU-Kazan’
-* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 2),16276-CA-Beauharnois (seniority: 10)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 10),41668-RU-Kazan’ (seniority: 2)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 265: 94 blocks in 104 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: DYCvERFZiDhMoBk1jggp8CnHV8WwbYwKc3iWbgRrLi7b
 * Vote account address: 3Le35iTn2KXRfomruXiDLcMd4BVLKYVgQ7yssmrFJZXx
 * Data Center: 41668-RU-Kazan’
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 11),41668-RU-Kazan’ (seniority: 1)
+* Resident Data Center(s): 41668-RU-Kazan’ (seniority: 1),16276-CA-Beauharnois (seniority: 11)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 264: 115 blocks in 124 slots, 8% skip rate

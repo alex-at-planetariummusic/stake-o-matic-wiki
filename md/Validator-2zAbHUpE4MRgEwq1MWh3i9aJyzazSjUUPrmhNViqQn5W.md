@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 85 epochs)
+* Stake reason: Good block production during epoch 269: 126 blocks in 132 slots, 5% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.595466699 - removing ◎197.622322967
+* Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 23470-US-Miami (seniority: 55),24940-DE-Falkenstein (seniority: 13)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 84 epochs)
 * Stake reason: Good block production during epoch 268: 131 blocks in 132 slots, 1% skip rate
@@ -18,28 +25,28 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.585863447 - removing ◎320.586400654
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Miami (seniority: 58),24940-DE-Falkenstein (seniority: 10)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 10),23470-US-Miami (seniority: 58)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 81 epochs)
 * Stake reason: Good block production during epoch 265: 102 blocks in 104 slots, 2% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: GwNpzC1bSzwHX6qmMMUdyGVo9zsw1NYmTuWkKJUQYLb2
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Miami (seniority: 59),24940-DE-Falkenstein (seniority: 9)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),23470-US-Miami (seniority: 59)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 80 epochs)
 * Stake reason: Good block production during epoch 264: 120 blocks in 132 slots, 10% skip rate
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.729179967 - removing ◎720.276809768
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),23470-US-Miami (seniority: 60)
+* Resident Data Center(s): 23470-US-Miami (seniority: 60),24940-DE-Falkenstein (seniority: 8)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 79 epochs)
 * Stake reason: Good block production during epoch 263: 123 blocks in 140 slots, 13% skip rate
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.499402694 - removing ◎922.296514472
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),23470-US-Miami (seniority: 61)
+* Resident Data Center(s): 23470-US-Miami (seniority: 61),24940-DE-Falkenstein (seniority: 7)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 78 epochs)
 * Stake reason: Good block production during epoch 262: 102 blocks in 104 slots, 2% skip rate
@@ -60,28 +67,28 @@
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78647.380015144 - removing ◎2173.808586963
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Miami (seniority: 64),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),23470-US-Miami (seniority: 64)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 75 epochs)
 * Stake reason: Good block production during epoch 259: 96 blocks in 100 slots, 4% skip rate
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80085.819741263 - removing ◎1475.063746520
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Miami (seniority: 65),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),23470-US-Miami (seniority: 65)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 74 epochs)
 * Stake reason: Good block production during epoch 258: 146 blocks in 148 slots, 2% skip rate
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.610344769 - reserve depleted
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),23470-US-Miami (seniority: 66)
+* Resident Data Center(s): 23470-US-Miami (seniority: 66),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 73 epochs)
 * Stake reason: Good block production during epoch 257: 122 blocks in 188 slots, 36% skip rate
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.396773912 - removing ◎860.995094508
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Miami (seniority: 67),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-Miami (seniority: 67)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 72 epochs)
 * Stake reason: Good block production during epoch 256: 118 blocks in 156 slots, 25% skip rate
@@ -375,7 +382,7 @@
 * Staking activity: target stake amount: ◎123236.911853987, current stake amount: ◎126785.772166636 - removing ◎3548.860312649
 * Vote account address: ESjX2jRuvdr2a47JfEKjP24gNsgreE9PvSpkw4t5Xn2M
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-Miami (seniority: 27),23470-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),23470-US-Miami (seniority: 27)
 ### [[Mainnet Epoch 212|Mainnet#Epoch-212]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 211: 177 blocks in 208 slots, 15% skip rate

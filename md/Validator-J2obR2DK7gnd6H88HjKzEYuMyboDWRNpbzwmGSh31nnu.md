@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 56 epochs)
+* Stake reason: Good block production during epoch 269: 92 blocks in 96 slots, 5% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.641019586 - removing ◎197.667875854
+* Vote account address: DXv73X82WCjVMsqDszK3z764tTJMU3nPXyCU3UktudBG
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 46)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 268: 103 blocks in 108 slots, 5% skip rate
@@ -270,14 +277,14 @@
 * Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎100358.046946480 - reserve depleted
 * Vote account address: DXv73X82WCjVMsqDszK3z764tTJMU3nPXyCU3UktudBG
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),23470-US-America/Chicago (seniority: 3)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 3),24940-DE-Falkenstein (seniority: 7)
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 228: 166 blocks in 172 slots, 4% skip rate
 * Staking activity: target stake amount: ◎100309.681012023, current stake amount: ◎100919.537667423 - removing ◎609.856655400
 * Vote account address: DXv73X82WCjVMsqDszK3z764tTJMU3nPXyCU3UktudBG
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),23470-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),24940-DE-Falkenstein (seniority: 6)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 227: 180 blocks in 192 slots, 7% skip rate
@@ -298,7 +305,7 @@
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104708.532044346 - removing ◎1070.564261823
 * Vote account address: DXv73X82WCjVMsqDszK3z764tTJMU3nPXyCU3UktudBG
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),23470-US-America/Chicago (seniority: 7)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 7),24940-DE-Falkenstein (seniority: 3)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 223: 173 blocks in 200 slots, 14% skip rate
@@ -312,7 +319,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: G1zmdvtNjq2KBt7k1R5xxpYHFsAwpKnR1gtHSy7nMccy
 * Vote account address: DXv73X82WCjVMsqDszK3z764tTJMU3nPXyCU3UktudBG
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 9),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-America/Chicago (seniority: 9)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 221: 182 blocks in 184 slots, 2% skip rate

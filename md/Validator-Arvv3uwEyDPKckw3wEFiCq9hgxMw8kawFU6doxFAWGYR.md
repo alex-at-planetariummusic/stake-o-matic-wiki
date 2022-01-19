@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 180981 credits earned in epoch 269
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎72644.535626190 - removing ◎72643.535626190
+* Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 68)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 268: 139 blocks in 152 slots, 9% skip rate
@@ -432,7 +439,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151875.237043379 - removing ◎7047.987074373
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 10),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),15440-RU-Europe/Moscow (seniority: 10)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 22 epochs)
@@ -456,7 +463,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186620.958240491 - removing ◎6432.653779314
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),15440-RU-Europe/Moscow (seniority: 7)
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 7),24940-FI-Helsinki (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 19 epochs)
@@ -464,7 +471,7 @@
 * Staking activity: target stake amount: ◎186515.575988090, current stake amount: ◎192367.523083275 - removing ◎5851.947095185
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 6),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),15440-RU-Europe/Moscow (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
@@ -472,7 +479,7 @@
 * Staking activity: target stake amount: ◎192257.747227534, current stake amount: ◎193103.477294138 - removing ◎845.730066604
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),15440-RU-Europe/Moscow (seniority: 5)
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 5),24940-FI-Helsinki (seniority: 6)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 198|Mainnet#Epoch-198]]
 * Stake level: **Bonus** (for 17 epochs)
@@ -480,7 +487,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200092.317544845 - removing ◎7099.009255282
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 4),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),15440-RU-Europe/Moscow (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 16 epochs)
@@ -488,7 +495,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎206011.850544686 - removing ◎6033.589800785
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 3),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),15440-RU-Europe/Moscow (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus** (for 15 epochs)

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 136083 credits earned in epoch 269
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎72640.453703380 - removing ◎72639.453703380
+* Vote account address: 5FLYx9unyge3RgRAYHbFBM3zHH2G8a36hZBfwetfSEjS
+* Data Center: 4657-SG-Singapore
+* Resident Data Center(s): 4657-SG-Singapore (seniority: 55)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 268: 96 blocks in 112 slots, 15% skip rate

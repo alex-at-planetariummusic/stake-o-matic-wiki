@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 141422 credits earned in epoch 269
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎72640.939099242 - removing ◎72639.939099242
+* Vote account address: 7xpGAKm2Afc94L8nQ2EJFDwF4xNuKjWaYiW5bkAmE9RG
+* Data Center: 12212-CA-Toronto
+* Resident Data Center(s): 12212-CA-Toronto (seniority: 1)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 244569 credits earned in epoch 268

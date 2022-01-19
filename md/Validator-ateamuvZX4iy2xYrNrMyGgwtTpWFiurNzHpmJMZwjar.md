@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **None** (for 35 epochs)
+* Stake reason: Insufficient self stake: ◎4.197097269
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.012905551 - not removing ◎0.012905551 (amount too small)
+* Vote account address: ateamaZDqNWDztxnVKZhRsp4ac53KvT1rVKyU5LnL6o
+* Data Center: 15169-BE-Brussels
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **None** (for 34 epochs)
 * Stake reason: Insufficient self stake: ◎4.195152192
@@ -496,7 +502,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200088.080754120 - removing ◎7094.772464557
 * Vote account address: ateamaZDqNWDztxnVKZhRsp4ac53KvT1rVKyU5LnL6o
 * Data Center: 15169-BE-Brussels
-* Resident Data Center(s): 15169-BE-Brussels (seniority: 6),15169-US-Council Bluffs (seniority: 1)
+* Resident Data Center(s): 15169-US-Council Bluffs (seniority: 1),15169-BE-Brussels (seniority: 6)
 * Insufficient self stake: ◎4.078322677
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 11 epochs)

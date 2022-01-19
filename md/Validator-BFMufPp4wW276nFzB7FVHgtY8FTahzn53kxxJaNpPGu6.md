@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus** (for 34 epochs)
+* Stake reason: Good block production during epoch 269: 161 blocks in 176 slots, 9% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.631378323 - removing ◎197.658234591
+* Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
+* Data Center: 57043-NL-Europe/Amsterdam
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 45)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 268: 165 blocks in 168 slots, 2% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.620124045 - removing ◎861.218444641
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 33),39647-NL-Mierlo (seniority: 1)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 1),57043-NL-Europe/Amsterdam (seniority: 33)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 256: 180 blocks in 196 slots, 9% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.303951626 - removing ◎1646.428797104
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 3),57043-NL-Europe/Amsterdam (seniority: 31)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 31),39647-NL-Mierlo (seniority: 3)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 254: 141 blocks in 156 slots, 10% skip rate
@@ -109,14 +116,14 @@
 * Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83200.088607976 - removing ◎294.483069905
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 29),39647-NL-Mierlo (seniority: 5)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 5),57043-NL-Europe/Amsterdam (seniority: 29)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 252: 217 blocks in 228 slots, 5% skip rate
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.416710420 - removing ◎323.016303388
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 6),57043-NL-Europe/Amsterdam (seniority: 28)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 28),39647-NL-Mierlo (seniority: 6)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 251: 181 blocks in 188 slots, 4% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.169266167 - reserve depleted
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 8),57043-NL-Europe/Amsterdam (seniority: 26)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 26),39647-NL-Mierlo (seniority: 8)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 249: 173 blocks in 180 slots, 4% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎89174.368309272 - removing ◎1799.770953781
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 11),57043-NL-Europe/Amsterdam (seniority: 23)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 23),39647-NL-Mierlo (seniority: 11)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 246: 154 blocks in 160 slots, 4% skip rate
@@ -172,14 +179,14 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89430.558909883 - removing ◎842.205646677
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 14),57043-NL-Europe/Amsterdam (seniority: 20)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 20),39647-NL-Mierlo (seniority: 14)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 243: 190 blocks in 196 slots, 4% skip rate
 * Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.818247287 - removing ◎546.006456683
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 19),39647-NL-Mierlo (seniority: 15)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 15),57043-NL-Europe/Amsterdam (seniority: 19)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 242: 154 blocks in 156 slots, 2% skip rate
@@ -193,7 +200,7 @@
 * Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.526551923 - removing ◎266.568023795
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 17),57043-NL-Europe/Amsterdam (seniority: 17)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 17),39647-NL-Mierlo (seniority: 17)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 240: 188 blocks in 188 slots, 0% skip rate
@@ -228,21 +235,21 @@
 * Staking activity: target stake amount: ◎96057.164656909, current stake amount: ◎1.000461615 - adding ◎96056.164195294
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 12),39647-NL-Mierlo (seniority: 22)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 22),57043-NL-Europe/Amsterdam (seniority: 12)
 ### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
 * Stake level: **None**
 * Stake reason: Insufficient self stake: ◎0.000000000
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎94528.640935617 - removing ◎94527.640935617
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 23),57043-NL-Europe/Amsterdam (seniority: 11)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 11),39647-NL-Mierlo (seniority: 23)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 233: 176 blocks in 176 slots, 0% skip rate
 * Staking activity: target stake amount: ◎94439.178943147, current stake amount: ◎96338.628285340 - removing ◎1899.449342193
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 24),57043-NL-Europe/Amsterdam (seniority: 12)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 12),39647-NL-Mierlo (seniority: 24)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **Bonus** (for 49 epochs)
@@ -250,7 +257,7 @@
 * Staking activity: target stake amount: ◎96291.894840897, current stake amount: ◎97158.033647836 - removing ◎866.138806939
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 25),57043-NL-Europe/Amsterdam (seniority: 11)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 11),39647-NL-Mierlo (seniority: 25)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 232|Mainnet#Epoch-232]]
 * Stake level: **Bonus** (for 48 epochs)
@@ -282,7 +289,7 @@
 * Staking activity: target stake amount: ◎100309.681012023, current stake amount: ◎100919.538162935 - removing ◎609.857150912
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 7),39647-NL-Mierlo (seniority: 29)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 29),57043-NL-Europe/Amsterdam (seniority: 7)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 227: 178 blocks in 192 slots, 8% skip rate
@@ -303,21 +310,21 @@
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104712.288317157 - removing ◎1074.320534634
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 4),39647-NL-Mierlo (seniority: 32)
+* Resident Data Center(s): 39647-NL-Mierlo (seniority: 32),57043-NL-Europe/Amsterdam (seniority: 4)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 223: 195 blocks in 208 slots, 7% skip rate
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104661.067633152 - reserve depleted
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 33),57043-NL-Europe/Amsterdam (seniority: 3)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 3),39647-NL-Mierlo (seniority: 33)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 222: 195 blocks in 208 slots, 7% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: CQzha2ken74Bif1cTn1Xqa9aR8DXgdeW82g2sVz9eHee
 * Vote account address: 7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh
 * Data Center: 57043-NL-Europe/Amsterdam
-* Resident Data Center(s): 39647-NL-Mierlo (seniority: 34),57043-NL-Europe/Amsterdam (seniority: 2)
+* Resident Data Center(s): 57043-NL-Europe/Amsterdam (seniority: 2),39647-NL-Mierlo (seniority: 34)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 221: 245 blocks in 264 slots, 8% skip rate

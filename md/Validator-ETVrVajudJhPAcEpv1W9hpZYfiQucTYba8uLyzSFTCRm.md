@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 269: 101 blocks in 120 slots, 16% skip rate
+* Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎1.000455908 - reserve depleted
+* Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-FR-Strasbourg (seniority: 17),24940-FI-Helsinki (seniority: 12)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **None**
 * Stake reason: Insufficient self stake: ◎0.000000000
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73456.350905815 - removing ◎773.831287409
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 19),24940-FI-Helsinki (seniority: 14),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-FR-Strasbourg (seniority: 19),24940-FI-Helsinki (seniority: 14)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 266: 91 blocks in 124 slots, 27% skip rate
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73746.373503527 - removing ◎319.374040734
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15),24940-DE-Falkenstein (seniority: 2),16276-FR-Strasbourg (seniority: 20)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15),16276-FR-Strasbourg (seniority: 20),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 265: 121 blocks in 124 slots, 3% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.857134664 - removing ◎720.404764465
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 22),24940-FI-Helsinki (seniority: 17)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 17),16276-FR-Strasbourg (seniority: 22)
 * infrastructure concentration 10.9% is too high; consider finding a new data center
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 17 epochs)
@@ -40,7 +47,7 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.622649709 - removing ◎922.419761487
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),16276-FR-Strasbourg (seniority: 23)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 23),24940-FI-Helsinki (seniority: 16)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 262: 56 blocks in 56 slots, 0% skip rate
@@ -54,28 +61,28 @@
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76509.260219278 - removing ◎414.890978995
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 25),24940-FI-Helsinki (seniority: 14)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 14),16276-FR-Strasbourg (seniority: 25)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 260: 77 blocks in 80 slots, 4% skip rate
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78647.389696089 - removing ◎2173.818267908
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 13),16276-FR-Strasbourg (seniority: 26)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 26),24940-FI-Helsinki (seniority: 13)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 259: 48 blocks in 56 slots, 15% skip rate
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80085.787104621 - removing ◎1475.031109878
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 27),24940-FI-Helsinki (seniority: 12)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 12),16276-FR-Strasbourg (seniority: 27)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 258: 84 blocks in 84 slots, 0% skip rate
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.573489822 - reserve depleted
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 28),24940-FI-Helsinki (seniority: 11)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 11),16276-FR-Strasbourg (seniority: 28)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 257: 83 blocks in 96 slots, 14% skip rate
@@ -89,7 +96,7 @@
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.278322696 - removing ◎541.909916292
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 30),24940-FI-Helsinki (seniority: 9)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),16276-FR-Strasbourg (seniority: 30)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 255: 106 blocks in 108 slots, 2% skip rate
@@ -145,7 +152,7 @@
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎25022.613220554 - adding ◎61338.274889185
 * Vote account address: HoCWouds6KMeG2R3bncdeoj3B2Tsm5DBKMF5HgXUkQVq
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 38),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-FR-Strasbourg (seniority: 38)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 247: 91 blocks in 128 slots, 29% skip rate
