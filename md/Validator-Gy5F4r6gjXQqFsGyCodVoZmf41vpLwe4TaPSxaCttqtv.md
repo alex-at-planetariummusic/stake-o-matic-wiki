@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
+* Stake level: **Bonus** (for 38 epochs)
+* Stake reason: Good block production during epoch 270: 133 blocks in 136 slots, 3% skip rate
+* Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.380943056 - removing ◎1275.002394982
+* Vote account address: Cu1ddDuUR3eoMq7RT38vd8uAhq3EYMZdwK4uPtvxQFW5
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 31)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 269: 115 blocks in 120 slots, 5% skip rate
@@ -172,7 +179,7 @@
 * Staking activity: target stake amount: ◎89537.761977190, current stake amount: ◎88629.378412439 - reserve depleted
 * Vote account address: Cu1ddDuUR3eoMq7RT38vd8uAhq3EYMZdwK4uPtvxQFW5
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 6),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),23470-US-America/Chicago (seniority: 6)
 ### [[Mainnet Epoch 245|Mainnet#Epoch-245]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 244: 131 blocks in 132 slots, 1% skip rate
@@ -193,14 +200,14 @@
 * Staking activity: target stake amount: ◎89892.879101639, current stake amount: ◎91851.711744211 - removing ◎1958.832642572
 * Vote account address: Cu1ddDuUR3eoMq7RT38vd8uAhq3EYMZdwK4uPtvxQFW5
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),23470-US-America/Chicago (seniority: 3)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 3),16276-FR-Roubaix (seniority: 4)
 ### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 241: 133 blocks in 136 slots, 3% skip rate
 * Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.339559388 - removing ◎266.381031260
 * Vote account address: Cu1ddDuUR3eoMq7RT38vd8uAhq3EYMZdwK4uPtvxQFW5
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),16276-FR-Roubaix (seniority: 5)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 240: 131 blocks in 156 slots, 17% skip rate
