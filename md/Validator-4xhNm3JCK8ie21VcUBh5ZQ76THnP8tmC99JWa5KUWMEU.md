@@ -1,3 +1,10 @@
+### [[Testnet Epoch 278|Testnet#Epoch-278]]
+* Stake level: **Bonus** (for 23 epochs)
+* Stake reason: Good block production during epoch 277: 96 blocks in 116 slots, 18% skip rate
+* Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
+* Vote account address: ARXcnDH4B3Ru695vJxy3J6aPhKXh5ZSgE4vGaKe7P22R
+* Data Center: 62440-RU-Nazran
+* Resident Data Center(s): 62440-RU-Nazran (seniority: 16)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 276: 99 blocks in 104 slots, 5% skip rate
@@ -67,21 +74,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: BrL4cBJFMSvfax55pSkGMnq7KDQXNCSd8DBdtrXB4gNN
 * Vote account address: ARXcnDH4B3Ru695vJxy3J6aPhKXh5ZSgE4vGaKe7P22R
 * Data Center: 62440-RU-Nazran
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),62440-RU-Nazran (seniority: 6)
+* Resident Data Center(s): 62440-RU-Nazran (seniority: 6),16276-PL-Warsaw (seniority: 1)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 265: 207 blocks in 220 slots, 6% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
 * Vote account address: ARXcnDH4B3Ru695vJxy3J6aPhKXh5ZSgE4vGaKe7P22R
 * Data Center: 62440-RU-Nazran
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 2),62440-RU-Nazran (seniority: 5)
+* Resident Data Center(s): 62440-RU-Nazran (seniority: 5),16276-PL-Warsaw (seniority: 2)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 264: 147 blocks in 156 slots, 6% skip rate
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: ARXcnDH4B3Ru695vJxy3J6aPhKXh5ZSgE4vGaKe7P22R
 * Data Center: 62440-RU-Nazran
-* Resident Data Center(s): 62440-RU-Nazran (seniority: 4),16276-PL-Warsaw (seniority: 3)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 3),62440-RU-Nazran (seniority: 4)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 263: 117 blocks in 148 slots, 21% skip rate
