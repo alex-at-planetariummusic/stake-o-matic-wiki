@@ -1,31 +1,38 @@
+### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 271: 0 blocks in 16 slots, 100% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎71246.226175485 - removing ◎46246.226175485
+* Vote account address: 4R2eqfCDqN3UesKPW4kSTZVd55955V4awbof4vBuWibY
+* Data Center: 48314-DE-Europe/Berlin
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 35),48314-DE-Europe/Berlin (seniority: 2)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 270: 11 blocks in 16 slots, 32% skip rate
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72463.973602273 - removing ◎1241.595054199
 * Vote account address: 4R2eqfCDqN3UesKPW4kSTZVd55955V4awbof4vBuWibY
 * Data Center: 48314-DE-Europe/Berlin
-* Resident Data Center(s): 48314-DE-Europe/Berlin (seniority: 3),16276-FR-Gravelines (seniority: 36)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 36),48314-DE-Europe/Berlin (seniority: 3)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 269: 39 blocks in 48 slots, 19% skip rate
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎1.000876761 - adding ◎72462.972266971
 * Vote account address: 4R2eqfCDqN3UesKPW4kSTZVd55955V4awbof4vBuWibY
 * Data Center: 48314-DE-Europe/Berlin
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 37),48314-DE-Europe/Berlin (seniority: 2)
+* Resident Data Center(s): 48314-DE-Europe/Berlin (seniority: 2),16276-FR-Gravelines (seniority: 37)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 268: 116 blocks in 128 slots, 10% skip rate
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎1.000420480 - reserve depleted
 * Vote account address: 4R2eqfCDqN3UesKPW4kSTZVd55955V4awbof4vBuWibY
 * Data Center: 48314-DE-Europe/Berlin
-* Resident Data Center(s): 48314-DE-Europe/Berlin (seniority: 1),16276-FR-Gravelines (seniority: 38),51167-DE-Düsseldorf (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 38),48314-DE-Europe/Berlin (seniority: 1),51167-DE-Düsseldorf (seniority: 1)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 10.2% is too high; find a new data center
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25004.038709599 - removing ◎25003.038709599
 * Vote account address: 4R2eqfCDqN3UesKPW4kSTZVd55955V4awbof4vBuWibY
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 39),51167-DE-Düsseldorf (seniority: 2)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 2),16276-FR-Gravelines (seniority: 39)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 266: 45 blocks in 128 slots, 65% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.647469034 - removing ◎922.444580812
 * Vote account address: 4R2eqfCDqN3UesKPW4kSTZVd55955V4awbof4vBuWibY
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 43),51167-DE-Düsseldorf (seniority: 4)
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 4),16276-FR-Gravelines (seniority: 43)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 262: 122 blocks in 124 slots, 2% skip rate

@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: No leader slots; 242844 credits earned in epoch 271
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25000.000460080 - not removing ◎0.000460080 (amount too small)
+* Vote account address: 6PWPmzgTPbqNRvgb1XFPGGdJps14XFxjg6VfdiphM42b
+* Data Center: 16276-FR-Strasbourg
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 340288 credits earned in epoch 270
