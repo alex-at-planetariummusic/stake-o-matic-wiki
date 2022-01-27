@@ -1,3 +1,10 @@
+### [[Testnet Epoch 279|Testnet#Epoch-279]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 307089 credits earned in epoch 278
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎1.000000000 - adding ◎4999.000000000
+* Vote account address: J4fjAFKaZd1i7Ghnx7DFUZifusF6sAmuYGEjMSSxLami
+* Data Center: 61400-RU-Europe/Moscow
+* Resident Data Center(s): 61400-RU-Europe/Moscow (seniority: 9)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: Outdated Solana release: 1.9.2

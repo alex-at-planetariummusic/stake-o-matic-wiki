@@ -1,3 +1,9 @@
+### [[Testnet Epoch 279|Testnet#Epoch-279]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 56464 credits earned in epoch 278
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎26346.183379311 - removing ◎26345.183379311
+* Vote account address: 81JKf4pAQmQ5P36hoKHvZATBP4NAtiejFF2hwLd3xuGB
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 277: 103 blocks in 140 slots, 27% skip rate

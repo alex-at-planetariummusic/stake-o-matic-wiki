@@ -1,10 +1,17 @@
+### [[Testnet Epoch 279|Testnet#Epoch-279]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 278: 97 blocks in 124 slots, 22% skip rate
+* Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
+* Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
+* Data Center: 174-DK-Charlottenlund
+* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 14),174-DK-Charlottenlund (seniority: 6)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 277: 49 blocks in 68 slots, 28% skip rate
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Charlottenlund
-* Resident Data Center(s): 174-DK-Charlottenlund (seniority: 5),8220-DE-Frankfurt am Main (seniority: 15)
+* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 15),174-DK-Charlottenlund (seniority: 5)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 276: 95 blocks in 100 slots, 5% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Charlottenlund
-* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 17),174-DK-Charlottenlund (seniority: 3)
+* Resident Data Center(s): 174-DK-Charlottenlund (seniority: 3),8220-DE-Frankfurt am Main (seniority: 17)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 273: 130 blocks in 136 slots, 5% skip rate
 * Staking activity: stake account busy due to transient stake activation: vKbhmGhuDP3jyEKsoHYZayMwaWCcD9LozSakuWkEE2K
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Charlottenlund
-* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 18),174-DK-Charlottenlund (seniority: 2)
+* Resident Data Center(s): 174-DK-Charlottenlund (seniority: 2),8220-DE-Frankfurt am Main (seniority: 18)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 272: 79 blocks in 144 slots, 46% skip rate
@@ -53,14 +60,14 @@
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Charlottenlund
-* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 20),174-DK-Charlottenlund (seniority: 2)
+* Resident Data Center(s): 174-DK-Charlottenlund (seniority: 2),8220-DE-Frankfurt am Main (seniority: 20)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 268: 130 blocks in 148 slots, 13% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Charlottenlund
-* Resident Data Center(s): 174-DK-Charlottenlund (seniority: 1),8220-DE-Frankfurt am Main (seniority: 21)
+* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 21),174-DK-Charlottenlund (seniority: 1)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 267: 83 blocks in 88 slots, 6% skip rate
@@ -158,28 +165,28 @@
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 8220-DE-Frankfurt am Main
-* Resident Data Center(s): 3257-NL-Santpoort-Noord (seniority: 1),8220-DE-Frankfurt am Main (seniority: 9)
+* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 9),3257-NL-Santpoort-Noord (seniority: 1)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 253: 156 blocks in 188 slots, 18% skip rate
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 8220-DE-Frankfurt am Main
-* Resident Data Center(s): 3257-NL-Santpoort-Noord (seniority: 2),8220-DE-Frankfurt am Main (seniority: 8)
+* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 8),3257-NL-Santpoort-Noord (seniority: 2)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 252: 161 blocks in 168 slots, 5% skip rate
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 8220-DE-Frankfurt am Main
-* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 7),3257-NL-Santpoort-Noord (seniority: 3)
+* Resident Data Center(s): 3257-NL-Santpoort-Noord (seniority: 3),8220-DE-Frankfurt am Main (seniority: 7)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 251: 121 blocks in 128 slots, 6% skip rate
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 8220-DE-Frankfurt am Main
-* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 6),3257-NL-Santpoort-Noord (seniority: 4)
+* Resident Data Center(s): 3257-NL-Santpoort-Noord (seniority: 4),8220-DE-Frankfurt am Main (seniority: 6)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 250: 150 blocks in 160 slots, 7% skip rate
@@ -207,7 +214,7 @@
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 8220-DE-Frankfurt am Main
-* Resident Data Center(s): 3257-NL-Santpoort-Noord (seniority: 8),8220-DE-Frankfurt am Main (seniority: 2)
+* Resident Data Center(s): 8220-DE-Frankfurt am Main (seniority: 2),3257-NL-Santpoort-Noord (seniority: 8)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 246: 132 blocks in 168 slots, 22% skip rate
@@ -387,14 +394,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account vKbhmGhuDP3jyEKsoHYZayMwaWCcD9LozSakuWkEE2K
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Klampenborg
-* Resident Data Center(s): 174-DK-Klampenborg (seniority: 1),3257-NL-Hoofddorp (seniority: 2)
+* Resident Data Center(s): 3257-NL-Hoofddorp (seniority: 2),174-DK-Klampenborg (seniority: 1)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 212: 12 blocks in 20 slots, 40% skip rate
 * Staking activity: stake account busy due to transient stake activation: vKbhmGhuDP3jyEKsoHYZayMwaWCcD9LozSakuWkEE2K
 * Vote account address: HBHKkTUGpUfSK7DPQ2E14BnLH6exXgDMo7oi4yUTRoBN
 * Data Center: 174-DK-Klampenborg
-* Resident Data Center(s): 174-DK-Klampenborg (seniority: 2),3257-NL-Hoofddorp (seniority: 3)
+* Resident Data Center(s): 3257-NL-Hoofddorp (seniority: 3),174-DK-Klampenborg (seniority: 2)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 210: 13 blocks in 24 slots, 46% skip rate
