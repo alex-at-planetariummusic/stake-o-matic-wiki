@@ -1,3 +1,11 @@
+### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 159172 credits earned in epoch 272
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎71259.703651907 - removing ◎71258.703651907
+* Vote account address: 7gds7PbCzmHbJStjxA5L5K8cu2LVUakmd3MDXFHSfcic
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 74)
+* infrastructure concentration 10.1% is too high; consider finding a new data center
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 271: 116 blocks in 128 slots, 10% skip rate

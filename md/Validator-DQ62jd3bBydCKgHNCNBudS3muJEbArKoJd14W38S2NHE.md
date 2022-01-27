@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 380389 credits earned in epoch 272
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎1.000463064 - adding ◎24998.999536936
+* Vote account address: 4ZCnzKSLNUrJnLqPGYvD2DWgZuoFrs419tEk1J1VZyNw
+* Data Center: 212853-DE-Europe/Berlin
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **None**
 * Stake reason: Outdated Solana release: 1.8.12
