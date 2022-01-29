@@ -1,10 +1,17 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 75 epochs)
+* Stake reason: Good block production during epoch 279: 95 blocks in 108 slots, 13% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: CdHya1jWcagRVaUJNCeXNssWDi5jdg9VkZJZ1WBH8sj2
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 16276-EN-London (seniority: 51),23470-US-Las Vegas (seniority: 12)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 74 epochs)
 * Stake reason: Good block production during epoch 278: 61 blocks in 64 slots, 5% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: CdHya1jWcagRVaUJNCeXNssWDi5jdg9VkZJZ1WBH8sj2
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-EN-London (seniority: 52),23470-US-Las Vegas (seniority: 11)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 11),16276-EN-London (seniority: 52)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 73 epochs)
 * Stake reason: Good block production during epoch 277: 126 blocks in 132 slots, 5% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: CdHya1jWcagRVaUJNCeXNssWDi5jdg9VkZJZ1WBH8sj2
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-EN-London (seniority: 54),23470-US-Las Vegas (seniority: 9)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 9),16276-EN-London (seniority: 54)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 71 epochs)
 * Stake reason: Good block production during epoch 275: 107 blocks in 108 slots, 1% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 3qdC9T1qYm4bqxb7URnVQX9fdSr4UF8TDXJ1rXAwwahg
 * Vote account address: CdHya1jWcagRVaUJNCeXNssWDi5jdg9VkZJZ1WBH8sj2
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-EN-London (seniority: 58),23470-US-Las Vegas (seniority: 5)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 5),16276-EN-London (seniority: 58)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 67 epochs)
 * Stake reason: Good block production during epoch 270: 149 blocks in 152 slots, 2% skip rate
 * Staking activity: stake account busy due to transient stake activation: 3qdC9T1qYm4bqxb7URnVQX9fdSr4UF8TDXJ1rXAwwahg
 * Vote account address: CdHya1jWcagRVaUJNCeXNssWDi5jdg9VkZJZ1WBH8sj2
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-EN-London (seniority: 59),23470-US-Las Vegas (seniority: 4)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 4),16276-EN-London (seniority: 59)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 269: 123 blocks in 124 slots, 1% skip rate

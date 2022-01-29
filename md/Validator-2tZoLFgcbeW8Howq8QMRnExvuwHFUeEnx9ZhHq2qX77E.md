@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 279
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎26470.012750087 - removing ◎26469.012750087
+* Vote account address: 6BCmNg85vPQsxRUpCuQ1JBXhqPkkatT8R9X7vGzhUUhN
+* Data Center: 33915-NL-Amsterdam
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 57)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 278: 83 blocks in 124 slots, 34% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: 6BCmNg85vPQsxRUpCuQ1JBXhqPkkatT8R9X7vGzhUUhN
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),21409-FR-Europe/Paris (seniority: 61)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 61),24940-DE-Nuremburg (seniority: 1)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 273: 136 blocks in 156 slots, 13% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 279: 96 blocks in 96 slots, 0% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
+* Data Center: 22439-US-Orchard Park
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 16),22439-US-Orchard Park (seniority: 20)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 278: 108 blocks in 120 slots, 10% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 20),22439-US-Orchard Park (seniority: 16)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 16),24961-DE-Europe/Berlin (seniority: 20)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 273: 107 blocks in 112 slots, 5% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 25),22439-US-Orchard Park (seniority: 11)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 11),24961-DE-Europe/Berlin (seniority: 25)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 268: 135 blocks in 144 slots, 7% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 10),24961-DE-Europe/Berlin (seniority: 26)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 26),22439-US-Orchard Park (seniority: 10)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 267: 106 blocks in 120 slots, 12% skip rate
@@ -109,14 +116,14 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 4),24961-DE-Europe/Berlin (seniority: 32)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 32),22439-US-Orchard Park (seniority: 4)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 261: 24 blocks in 24 slots, 0% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 33),22439-US-Orchard Park (seniority: 3)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 3),24961-DE-Europe/Berlin (seniority: 33)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 260: 139 blocks in 156 slots, 11% skip rate
@@ -137,21 +144,21 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎33121.199782952 - removing ◎28121.199782952
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24961-DE-Europe/Berlin (seniority: 36)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 36),16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 257: 151 blocks in 152 slots, 1% skip rate
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 37),16276-FR-Gravelines (seniority: 3)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24961-DE-Europe/Berlin (seniority: 37)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 256: 4 blocks in 4 slots, 0% skip rate
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24961-DE-Europe/Berlin (seniority: 38)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 38),16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 255: 12 blocks in 12 slots, 0% skip rate
@@ -172,7 +179,7 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 39),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24961-DE-Europe/Berlin (seniority: 39)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 252: 24 blocks in 180 slots, 87% skip rate
@@ -186,7 +193,7 @@
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24961-DE-Europe/Berlin (seniority: 39)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 39),16276-FR-Gravelines (seniority: 3)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 250: 97 blocks in 100 slots, 3% skip rate
@@ -207,28 +214,28 @@
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),24961-DE-Europe/Berlin (seniority: 38)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 38),16276-FR-Gravelines (seniority: 4)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 247: 171 blocks in 180 slots, 5% skip rate
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 39),16276-FR-Gravelines (seniority: 3)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24961-DE-Europe/Berlin (seniority: 39)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 246: 177 blocks in 196 slots, 10% skip rate
 * Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 40),16276-FR-Gravelines (seniority: 2)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24961-DE-Europe/Berlin (seniority: 40)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 245: 186 blocks in 208 slots, 11% skip rate
 * Staking activity: target stake amount: ◎35961.594021946, current stake amount: ◎36658.316887614 - removing ◎696.722865668
 * Vote account address: EZv8mpH3XGkkvh9ZzSgmL8qREC4Y8jA8UsLQH2nFXupY
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24961-DE-Europe/Berlin (seniority: 41)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 41),16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 245|Testnet#Epoch-245]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 244: 168 blocks in 176 slots, 5% skip rate

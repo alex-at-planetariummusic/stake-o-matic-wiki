@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 57 epochs)
+* Stake reason: Good block production during epoch 279: 86 blocks in 92 slots, 7% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 35),21409-FR-Europe/Paris (seniority: 1)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 56 epochs)
 * Stake reason: Good block production during epoch 278: 83 blocks in 100 slots, 17% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),24940-FI-Helsinki (seniority: 32)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 32),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 53 epochs)
 * Stake reason: Good block production during epoch 275: 95 blocks in 108 slots, 13% skip rate
@@ -40,21 +47,21 @@
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),24940-FI-Helsinki (seniority: 29)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 29),21409-FR-Europe/Paris (seniority: 7)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 271: 98 blocks in 104 slots, 6% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 99mfLLmutS3NqHF77Jbh7G5njyEH6nh4dMsbd9FxQGt
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),24940-FI-Helsinki (seniority: 28)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 28),21409-FR-Europe/Paris (seniority: 8)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 49 epochs)
 * Stake reason: Good block production during epoch 270: 103 blocks in 108 slots, 5% skip rate
 * Staking activity: stake account busy due to transient stake activation: 99mfLLmutS3NqHF77Jbh7G5njyEH6nh4dMsbd9FxQGt
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 27),21409-FR-Europe/Paris (seniority: 9)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),24940-FI-Helsinki (seniority: 27)
 * infrastructure concentration 25.6% is too high; consider finding a new data center
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 48 epochs)
@@ -62,7 +69,7 @@
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 26),21409-FR-Europe/Paris (seniority: 10)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 10),24940-FI-Helsinki (seniority: 26)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 268: 127 blocks in 132 slots, 4% skip rate
@@ -84,7 +91,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 99mfLLmutS3NqHF77Jbh7G5njyEH6nh4dMsbd9FxQGt
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),24940-FI-Helsinki (seniority: 23)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 23),21409-FR-Europe/Paris (seniority: 13)
 * infrastructure concentration 25.6% is too high; consider finding a new data center
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 44 epochs)
@@ -121,7 +128,7 @@
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 18),24940-FI-Helsinki (seniority: 18)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 18),21409-FR-Europe/Paris (seniority: 18)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 260: 203 blocks in 212 slots, 5% skip rate
@@ -135,14 +142,14 @@
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),21409-FR-Europe/Paris (seniority: 20)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 20),24940-FI-Helsinki (seniority: 16)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 258: 163 blocks in 164 slots, 1% skip rate
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 21),24940-FI-Helsinki (seniority: 15)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15),21409-FR-Europe/Paris (seniority: 21)
 * infrastructure concentration 25.0% is too high; consider finding a new data center
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 36 epochs)
@@ -158,7 +165,7 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 23),24940-FI-Helsinki (seniority: 13)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 13),21409-FR-Europe/Paris (seniority: 23)
 * infrastructure concentration 25.6% is too high; consider finding a new data center
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 34 epochs)
@@ -173,14 +180,14 @@
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 11),21409-FR-Europe/Paris (seniority: 25)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 25),24940-FI-Helsinki (seniority: 11)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 253: 165 blocks in 196 slots, 16% skip rate
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 26),24940-FI-Helsinki (seniority: 10)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),21409-FR-Europe/Paris (seniority: 26)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 252: 155 blocks in 156 slots, 1% skip rate
@@ -194,7 +201,7 @@
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),21409-FR-Europe/Paris (seniority: 28)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 28),24940-FI-Helsinki (seniority: 8)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 250: 144 blocks in 148 slots, 3% skip rate
@@ -222,14 +229,14 @@
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 32),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),21409-FR-Europe/Paris (seniority: 32)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 246: 126 blocks in 140 slots, 10% skip rate
 * Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),21409-FR-Europe/Paris (seniority: 33)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 33),24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 245: 183 blocks in 192 slots, 5% skip rate
@@ -243,7 +250,7 @@
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎38116.953738428 - removing ◎1458.636850814
 * Vote account address: DSUFQCGrVgciD5tYR4NzB2wZXndjQ41bBHjagjENtisK
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),21409-FR-Europe/Paris (seniority: 35)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 35),24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 243: 195 blocks in 200 slots, 3% skip rate

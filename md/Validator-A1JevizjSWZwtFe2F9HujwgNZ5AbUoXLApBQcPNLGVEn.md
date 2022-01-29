@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 4 epochs)
+* Stake reason: Good block production during epoch 279: 87 blocks in 112 slots, 23% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
+* Data Center: 0-Unknown
+* Resident Data Center(s): 0-Unknown (seniority: 27)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 308073 credits earned in epoch 278
@@ -123,21 +130,21 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 28917-RU-Fryazino (seniority: 4),0-Unknown (seniority: 13)
+* Resident Data Center(s): 0-Unknown (seniority: 13),28917-RU-Fryazino (seniority: 4)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 259: 171 blocks in 180 slots, 5% skip rate
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 12),28917-RU-Fryazino (seniority: 5)
+* Resident Data Center(s): 28917-RU-Fryazino (seniority: 5),0-Unknown (seniority: 12)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 258: 175 blocks in 176 slots, 1% skip rate
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 11),28917-RU-Fryazino (seniority: 6)
+* Resident Data Center(s): 28917-RU-Fryazino (seniority: 6),0-Unknown (seniority: 11)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 257: 191 blocks in 192 slots, 1% skip rate
@@ -151,35 +158,35 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 28917-RU-Fryazino (seniority: 8),0-Unknown (seniority: 9)
+* Resident Data Center(s): 0-Unknown (seniority: 9),28917-RU-Fryazino (seniority: 8)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 255: 171 blocks in 180 slots, 5% skip rate
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 8),28917-RU-Fryazino (seniority: 9)
+* Resident Data Center(s): 28917-RU-Fryazino (seniority: 9),0-Unknown (seniority: 8)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 254: 141 blocks in 152 slots, 8% skip rate
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 28917-RU-Fryazino (seniority: 10),0-Unknown (seniority: 7)
+* Resident Data Center(s): 0-Unknown (seniority: 7),28917-RU-Fryazino (seniority: 10)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 253: 133 blocks in 156 slots, 15% skip rate
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 28917-RU-Fryazino (seniority: 11),0-Unknown (seniority: 6)
+* Resident Data Center(s): 0-Unknown (seniority: 6),28917-RU-Fryazino (seniority: 11)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 252: 127 blocks in 140 slots, 10% skip rate
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 28917-RU-Fryazino (seniority: 12),0-Unknown (seniority: 5)
+* Resident Data Center(s): 0-Unknown (seniority: 5),28917-RU-Fryazino (seniority: 12)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 251: 16 blocks in 16 slots, 0% skip rate

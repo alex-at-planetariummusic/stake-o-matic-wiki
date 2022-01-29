@@ -1,24 +1,31 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 279: 110 blocks in 120 slots, 9% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: FFRvvdAHx5g9S6M4k8gy2ZVegnC4MRaGHnJnxYLXk4zf
+* Data Center: 16276-PL-Warsaw
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 28),16276-PL-Warsaw (seniority: 7)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 278: 75 blocks in 76 slots, 2% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: FFRvvdAHx5g9S6M4k8gy2ZVegnC4MRaGHnJnxYLXk4zf
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 29),16276-PL-Warsaw (seniority: 6)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 6),16276-FR-Gravelines (seniority: 29)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 277: 148 blocks in 152 slots, 3% skip rate
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: FFRvvdAHx5g9S6M4k8gy2ZVegnC4MRaGHnJnxYLXk4zf
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 5),16276-FR-Gravelines (seniority: 30)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 30),16276-PL-Warsaw (seniority: 5)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 276: 98 blocks in 100 slots, 2% skip rate
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: FFRvvdAHx5g9S6M4k8gy2ZVegnC4MRaGHnJnxYLXk4zf
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 4),16276-FR-Gravelines (seniority: 31)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 31),16276-PL-Warsaw (seniority: 4)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 275: 20 blocks in 20 slots, 0% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: FFRvvdAHx5g9S6M4k8gy2ZVegnC4MRaGHnJnxYLXk4zf
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 34),16276-PL-Warsaw (seniority: 1)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),16276-FR-Gravelines (seniority: 34)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 306607 credits earned in epoch 271
@@ -417,14 +424,14 @@
 * Staking activity: target stake amount: ◎43697.091469373, current stake amount: ◎5000.000000000 - adding ◎38697.091469373
 * Vote account address: FFRvvdAHx5g9S6M4k8gy2ZVegnC4MRaGHnJnxYLXk4zf
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),16276-FR-Gravelines (seniority: 2)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 210|Testnet#Epoch-210]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 209: 167 blocks in 296 slots, 44% skip rate
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: FFRvvdAHx5g9S6M4k8gy2ZVegnC4MRaGHnJnxYLXk4zf
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),16276-FR-Gravelines (seniority: 1)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 208: 11 blocks in 36 slots, 70% skip rate

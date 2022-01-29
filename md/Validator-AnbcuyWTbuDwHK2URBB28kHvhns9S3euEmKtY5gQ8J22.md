@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 53 epochs)
+* Stake reason: Good block production during epoch 279: 91 blocks in 120 slots, 25% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: Dtuah4bP1V5FMKUzFr1q9B2w8DLwM31obb3xevQxA9ga
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 47),201814-PL-Europe/Warsaw (seniority: 1)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 52 epochs)
 * Stake reason: Good block production during epoch 278: 124 blocks in 124 slots, 0% skip rate
@@ -354,14 +361,14 @@
 * Staking activity: target stake amount: ◎46426.869643469, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: Dtuah4bP1V5FMKUzFr1q9B2w8DLwM31obb3xevQxA9ga
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),23470-US-America/Chicago (seniority: 2),23470-US-Miami (seniority: 1)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),21409-FR-Europe/Paris (seniority: 2),23470-US-Miami (seniority: 1)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 223: 168 blocks in 220 slots, 24% skip rate
 * Staking activity: target stake amount: ◎44346.337022444, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: Dtuah4bP1V5FMKUzFr1q9B2w8DLwM31obb3xevQxA9ga
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),23470-US-America/Chicago (seniority: 1),23470-US-Miami (seniority: 2)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),23470-US-Miami (seniority: 2),23470-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 222: 57 blocks in 224 slots, 75% skip rate
@@ -375,14 +382,14 @@
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎46033.143606724 - reserve depleted
 * Vote account address: Dtuah4bP1V5FMKUzFr1q9B2w8DLwM31obb3xevQxA9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 4),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),23470-US-Miami (seniority: 4)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 217: 12 blocks in 12 slots, 0% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: Do2Ycrp9Uh1Urf8ewPFoMrxYkxeZqoL14Eu14EjRFfCk
 * Vote account address: Dtuah4bP1V5FMKUzFr1q9B2w8DLwM31obb3xevQxA9ga
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 3),21409-FR-Europe/Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),23470-US-Miami (seniority: 3)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 215: 178 blocks in 228 slots, 22% skip rate

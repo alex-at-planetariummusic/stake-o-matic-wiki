@@ -1,10 +1,17 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 82 epochs)
+* Stake reason: Good block production during epoch 279: 107 blocks in 116 slots, 8% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: 6ywJde3bfasHsLE4uj3U5kjnpkXXPyWcADjETbeYK4Tw
+* Data Center: 18450-US-Ogden
+* Resident Data Center(s): 18450-US-Ogden (seniority: 6),18450-US-Los Angeles (seniority: 68)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 81 epochs)
 * Stake reason: Good block production during epoch 278: 123 blocks in 128 slots, 4% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: 6ywJde3bfasHsLE4uj3U5kjnpkXXPyWcADjETbeYK4Tw
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 5),18450-US-Los Angeles (seniority: 69)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 69),18450-US-Ogden (seniority: 5)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 80 epochs)
 * Stake reason: Good block production during epoch 277: 66 blocks in 68 slots, 3% skip rate

@@ -1,3 +1,9 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **None** (for 19 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 279
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: f1e8EeLv9yb7EgRacpDLakjg7jgp5nxrrfcuktBvtz4
+* Data Center: 59253-SG-Asia/Singapore
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **None** (for 18 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 278

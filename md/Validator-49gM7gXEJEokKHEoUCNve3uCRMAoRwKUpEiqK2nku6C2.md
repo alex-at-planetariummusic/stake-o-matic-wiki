@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 279: 244 blocks in 252 slots, 4% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: B74LmhNiyvFT1ZibVTQ16bRw9dGozh398HWcEGqCPoNn
+* Data Center: 21409-FR-Bidos
+* Resident Data Center(s): 21409-FR-Bidos (seniority: 7),21409-FR-Europe/Paris (seniority: 54)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 278: 175 blocks in 180 slots, 3% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: B74LmhNiyvFT1ZibVTQ16bRw9dGozh398HWcEGqCPoNn
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 56),21409-FR-Bidos (seniority: 5)
+* Resident Data Center(s): 21409-FR-Bidos (seniority: 5),21409-FR-Europe/Paris (seniority: 56)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 276: 228 blocks in 244 slots, 7% skip rate
@@ -32,14 +39,14 @@
 * Staking activity: stake account busy due to transient stake activation: 9gshVt8LunKCmMJe856Sjva3eb2Zni59C8wq5SHtncKq
 * Vote account address: B74LmhNiyvFT1ZibVTQ16bRw9dGozh398HWcEGqCPoNn
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Bidos (seniority: 2),21409-FR-Europe/Paris (seniority: 59)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 59),21409-FR-Bidos (seniority: 2)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 272: 100 blocks in 164 slots, 40% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: B74LmhNiyvFT1ZibVTQ16bRw9dGozh398HWcEGqCPoNn
 * Data Center: 21409-FR-Bidos
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 60),21409-FR-Bidos (seniority: 1)
+* Resident Data Center(s): 21409-FR-Bidos (seniority: 1),21409-FR-Europe/Paris (seniority: 60)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 271: 75 blocks in 132 slots, 44% skip rate
@@ -403,7 +410,7 @@
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎43598.804034553 - reserve depleted
 * Vote account address: B74LmhNiyvFT1ZibVTQ16bRw9dGozh398HWcEGqCPoNn
 * Data Center: 23470-US-Los Angeles
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 20),23470-US-Los Angeles (seniority: 1)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 1),21409-FR-Europe/Paris (seniority: 20)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 212: 301 blocks in 364 slots, 18% skip rate

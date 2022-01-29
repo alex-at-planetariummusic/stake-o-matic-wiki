@@ -1,17 +1,24 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 38 epochs)
+* Stake reason: Good block production during epoch 279: 71 blocks in 76 slots, 7% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: ECNNj8g3bvmdfEtZ6tToCr2fE4uxbHcmsBmtWEvpWWk3
+* Data Center: 18450-US-Ogden
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 66),18450-US-Ogden (seniority: 6)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 278: 115 blocks in 120 slots, 5% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: ECNNj8g3bvmdfEtZ6tToCr2fE4uxbHcmsBmtWEvpWWk3
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Los Angeles (seniority: 67),18450-US-Ogden (seniority: 5)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 5),18450-US-Los Angeles (seniority: 67)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 277: 97 blocks in 104 slots, 7% skip rate
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: ECNNj8g3bvmdfEtZ6tToCr2fE4uxbHcmsBmtWEvpWWk3
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 4),18450-US-Los Angeles (seniority: 68)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 68),18450-US-Ogden (seniority: 4)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 276: 141 blocks in 148 slots, 5% skip rate
@@ -25,14 +32,14 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: ECNNj8g3bvmdfEtZ6tToCr2fE4uxbHcmsBmtWEvpWWk3
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Los Angeles (seniority: 70),18450-US-Ogden (seniority: 2)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 2),18450-US-Los Angeles (seniority: 70)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 273: 174 blocks in 184 slots, 6% skip rate
 * Staking activity: stake account busy due to transient stake activation: BttA7WryvEJBtGHYa2aNjQGGiLy2p4UzYZvrG45QuFzk
 * Vote account address: ECNNj8g3bvmdfEtZ6tToCr2fE4uxbHcmsBmtWEvpWWk3
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 1),18450-US-Los Angeles (seniority: 71)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 71),18450-US-Ogden (seniority: 1)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 272: 93 blocks in 116 slots, 20% skip rate

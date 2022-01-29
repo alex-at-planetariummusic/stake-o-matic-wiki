@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 279: 129 blocks in 132 slots, 3% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 278: 122 blocks in 128 slots, 5% skip rate
@@ -74,28 +81,28 @@
 * Staking activity: stake account busy due to transient stake deactivation: 69xu9EDqjhuHRm6LyKTdQGtmPHjtiKGED7KeVdraHdyV
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),21409-FR-Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 1),24940-DE-Falkenstein (seniority: 5)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 266: 20 blocks in 32 slots, 38% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 69xu9EDqjhuHRm6LyKTdQGtmPHjtiKGED7KeVdraHdyV
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 21409-FR-Paris (seniority: 2),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),21409-FR-Paris (seniority: 2)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 265: 20 blocks in 32 slots, 38% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎29314.358424838 - removing ◎544.792937516
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),21409-FR-Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 3),24940-DE-Falkenstein (seniority: 3)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 264: 24 blocks in 24 slots, 0% skip rate
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎5000.000000000 - adding ◎24314.358424838
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 21409-FR-Paris (seniority: 4),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),21409-FR-Paris (seniority: 4)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 263: 12 blocks in 20 slots, 40% skip rate
@@ -319,7 +326,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 69xu9EDqjhuHRm6LyKTdQGtmPHjtiKGED7KeVdraHdyV
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 8),201814-PL-Europe/Warsaw (seniority: 1)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),21409-FR-Paris (seniority: 8)
 ### [[Testnet Epoch 230|Testnet#Epoch-230]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 229: 174 blocks in 224 slots, 23% skip rate
@@ -333,7 +340,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 69xu9EDqjhuHRm6LyKTdQGtmPHjtiKGED7KeVdraHdyV
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 3),21409-FR-Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 6),201814-PL-Europe/Warsaw (seniority: 3)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 227: 155 blocks in 208 slots, 26% skip rate
@@ -354,14 +361,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 69xu9EDqjhuHRm6LyKTdQGtmPHjtiKGED7KeVdraHdyV
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 3),201814-PL-Europe/Warsaw (seniority: 6)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 6),21409-FR-Paris (seniority: 3)
 ### [[Testnet Epoch 224|Testnet#Epoch-224]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 260196 credits earned in epoch 223
 * Staking activity: stake account busy due to transient stake activation: 69xu9EDqjhuHRm6LyKTdQGtmPHjtiKGED7KeVdraHdyV
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 2),201814-PL-Europe/Warsaw (seniority: 7)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 7),21409-FR-Paris (seniority: 2)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 222: 7 blocks in 8 slots, 13% skip rate
@@ -424,7 +431,7 @@
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎44905.738139368 - removing ◎610.692141145
 * Vote account address: C9JEtdHzPBoz2xQYSvKRLxE7rFS4fXbd4weXoLhM33wq
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 51167-DE-Nuremberg (seniority: 1),201814-PL-Europe/Warsaw (seniority: 4)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 4),51167-DE-Nuremberg (seniority: 1)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 208: 12 blocks in 20 slots, 40% skip rate

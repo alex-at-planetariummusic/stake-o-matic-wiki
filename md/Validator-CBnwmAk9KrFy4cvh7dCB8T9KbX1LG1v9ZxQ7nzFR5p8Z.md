@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 40 epochs)
+* Stake reason: Good block production during epoch 279: 74 blocks in 92 slots, 20% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: qVK55n4h1L77QG8qyEg67E9rjLQ5irBFJ9yRp4NHEP3
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 58)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 278: 99 blocks in 100 slots, 1% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: qVK55n4h1L77QG8qyEg67E9rjLQ5irBFJ9yRp4NHEP3
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 2),21409-FR-Europe/Paris (seniority: 56)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 56),16276-FR-Strasbourg (seniority: 2)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 276: 124 blocks in 140 slots, 12% skip rate
@@ -25,14 +32,14 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: qVK55n4h1L77QG8qyEg67E9rjLQ5irBFJ9yRp4NHEP3
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 4),21409-FR-Europe/Paris (seniority: 54)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 54),16276-FR-Strasbourg (seniority: 4)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 273: 131 blocks in 132 slots, 1% skip rate
 * Staking activity: stake account busy due to transient stake activation: 4eZBBc9cE3var4NxvbNgwrZNwxRcvNaWsPBsn7caqZqL
 * Vote account address: qVK55n4h1L77QG8qyEg67E9rjLQ5irBFJ9yRp4NHEP3
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 55),16276-FR-Strasbourg (seniority: 3)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 3),21409-FR-Europe/Paris (seniority: 55)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 272: 97 blocks in 132 slots, 27% skip rate

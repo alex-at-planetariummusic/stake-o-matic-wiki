@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: Good block production during epoch 279: 103 blocks in 116 slots, 12% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: BHxnrKqtmmBR4a3z5bFpuB7SejHEVVVWgq7snzxZKE9r
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 72)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 278: 126 blocks in 132 slots, 5% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: BHxnrKqtmmBR4a3z5bFpuB7SejHEVVVWgq7snzxZKE9r
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 63),23470-US-Miami (seniority: 1)
+* Resident Data Center(s): 23470-US-Miami (seniority: 1),24940-DE-Falkenstein (seniority: 63)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 268: 126 blocks in 128 slots, 2% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: BHxnrKqtmmBR4a3z5bFpuB7SejHEVVVWgq7snzxZKE9r
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Miami (seniority: 2),24940-DE-Falkenstein (seniority: 62)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 62),23470-US-Miami (seniority: 2)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 326429 credits earned in epoch 267

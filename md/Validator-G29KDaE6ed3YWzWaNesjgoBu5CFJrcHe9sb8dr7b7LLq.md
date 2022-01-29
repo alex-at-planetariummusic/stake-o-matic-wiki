@@ -1,10 +1,17 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 55 epochs)
+* Stake reason: Good block production during epoch 279: 274 blocks in 324 slots, 16% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
+* Data Center: 16276-PL-Warsaw
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 25),21409-FR-Europe/Paris (seniority: 18)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 278: 227 blocks in 316 slots, 29% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 24),21409-FR-Europe/Paris (seniority: 19)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 19),16276-PL-Warsaw (seniority: 24)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 53 epochs)
 * Stake reason: Good block production during epoch 277: 334 blocks in 364 slots, 9% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 8JJuHsrVhFT2osZMMe4VYBeg7D99voqWv8CwwWucVpPy
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 18),21409-FR-Europe/Paris (seniority: 25)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 25),16276-PL-Warsaw (seniority: 18)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 270: 350 blocks in 372 slots, 6% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 27),16276-PL-Warsaw (seniority: 16)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 16),21409-FR-Europe/Paris (seniority: 27)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 268: 279 blocks in 348 slots, 20% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 28),16276-PL-Warsaw (seniority: 15)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 15),21409-FR-Europe/Paris (seniority: 28)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 267: 246 blocks in 268 slots, 9% skip rate
@@ -109,14 +116,14 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 9),21409-FR-Europe/Paris (seniority: 34)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 34),16276-PL-Warsaw (seniority: 9)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 38 epochs)
 * Stake reason: Good block production during epoch 261: 404 blocks in 408 slots, 1% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 8),21409-FR-Europe/Paris (seniority: 35)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 35),16276-PL-Warsaw (seniority: 8)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 260: 433 blocks in 436 slots, 1% skip rate
@@ -165,7 +172,7 @@
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),21409-FR-Europe/Paris (seniority: 42)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 42),16276-PL-Warsaw (seniority: 1)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 253: 282 blocks in 452 slots, 38% skip rate
@@ -326,7 +333,7 @@
 * Staking activity: target stake amount: ◎44019.658520105, current stake amount: ◎43440.277335128 - reserve depleted
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 21),16276-PL-Warsaw (seniority: 1)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),21409-FR-Europe/Paris (seniority: 21)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 228: 254 blocks in 304 slots, 17% skip rate
@@ -340,7 +347,7 @@
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎44318.843345878 - reserve depleted
 * Vote account address: Hwta1eXpzMfdnUgRT5MwT9VSXujXsuCKkU883GGDwVyq
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 19),16276-PL-Warsaw (seniority: 3)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 3),21409-FR-Europe/Paris (seniority: 19)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 225: 232 blocks in 252 slots, 8% skip rate

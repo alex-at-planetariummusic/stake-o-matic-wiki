@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 10 epochs)
+* Stake reason: Good block production during epoch 279: 157 blocks in 176 slots, 11% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 8),24961-DE-Immenstaad am Bodensee (seniority: 40)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 278: 127 blocks in 144 slots, 12% skip rate
@@ -32,28 +39,28 @@
 * Staking activity: stake account busy due to transient stake activation: BBCy17AwSiD6t5zQnQ35fdKB2eK363zij4tJC5XjvsRV
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 3),24961-DE-Immenstaad am Bodensee (seniority: 45)
+* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 45),16276-FR-Gravelines (seniority: 3)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 272: 54 blocks in 68 slots, 21% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),24961-DE-Immenstaad am Bodensee (seniority: 46)
+* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 46),16276-FR-Gravelines (seniority: 2)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 271: 40 blocks in 44 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: BBCy17AwSiD6t5zQnQ35fdKB2eK363zij4tJC5XjvsRV
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24961-DE-Immenstaad am Bodensee (seniority: 47),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),24961-DE-Immenstaad am Bodensee (seniority: 47),24940-FI-Helsinki (seniority: 1)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 270: 39 blocks in 52 slots, 25% skip rate
 * Staking activity: stake account busy due to transient stake activation: BBCy17AwSiD6t5zQnQ35fdKB2eK363zij4tJC5XjvsRV
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 48),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),24961-DE-Immenstaad am Bodensee (seniority: 48)
 * infrastructure concentration 25.6% is too high; consider finding a new data center
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus**
@@ -453,7 +460,7 @@
 * Staking activity: target stake amount: ◎49723.306233669, current stake amount: ◎44854.504850894 - reserve depleted
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 24961-DE-Immenstaad am Bodensee
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 1),24961-DE-Immenstaad am Bodensee (seniority: 5)
+* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 5),8560-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 204: 172 blocks in 256 slots, 33% skip rate
@@ -467,21 +474,21 @@
 * Staking activity: target stake amount: ◎44854.504850894, current stake amount: ◎44670.972509869 - adding ◎183.532341025
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 24961-DE-Immenstaad am Bodensee
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 3),24961-DE-Immenstaad am Bodensee (seniority: 3)
+* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 3),8560-DE-Europe/Berlin (seniority: 3)
 ### [[Testnet Epoch 203|Testnet#Epoch-203]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 202: 51 blocks in 60 slots, 15% skip rate
 * Staking activity: target stake amount: ◎46186.979283631, current stake amount: ◎44670.972509869 - reserve depleted
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 24961-DE-Immenstaad am Bodensee
-* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 2),8560-DE-Europe/Berlin (seniority: 4)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 4),24961-DE-Immenstaad am Bodensee (seniority: 2)
 ### [[Testnet Epoch 202|Testnet#Epoch-202]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: good block production during epoch 201: 57 blocks in 76 slots, 25% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BBCy17AwSiD6t5zQnQ35fdKB2eK363zij4tJC5XjvsRV
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 24961-DE-Immenstaad am Bodensee
-* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 1),8560-DE-Europe/Berlin (seniority: 5)
+* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 5),24961-DE-Immenstaad am Bodensee (seniority: 1)
 ### [[Testnet Epoch 201|Testnet#Epoch-201]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 200: 200 blocks in 252 slots, 21% skip rate
@@ -516,7 +523,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: BBCy17AwSiD6t5zQnQ35fdKB2eK363zij4tJC5XjvsRV
 * Vote account address: 2Af1mXjkBFqFoU9hf5zEYG75Rh9kkWBgDyaHkBkrBRhf
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 8560-DE-Europe/Berlin (seniority: 4),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),8560-DE-Europe/Berlin (seniority: 4)
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 195: 345 blocks in 408 slots, 16% skip rate

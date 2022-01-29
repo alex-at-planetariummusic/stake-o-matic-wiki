@@ -1,17 +1,24 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 279: 191 blocks in 224 slots, 15% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
+* Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
+* Data Center: 35540-FR-Paris
+* Resident Data Center(s): 35540-FR-Paris (seniority: 6),21409-FR-Europe/Paris (seniority: 2),8560-GB-Glasgow (seniority: 3)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 278: 87 blocks in 112 slots, 23% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 35540-FR-Paris
-* Resident Data Center(s): 35540-FR-Paris (seniority: 5),21409-FR-Europe/Paris (seniority: 3),8560-GB-Glasgow (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),8560-GB-Glasgow (seniority: 4),35540-FR-Paris (seniority: 5)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 277: 80 blocks in 128 slots, 38% skip rate
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26348.579446904 - removing ◎2.396067593
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 35540-FR-Paris
-* Resident Data Center(s): 8560-GB-Glasgow (seniority: 5),21409-FR-Europe/Paris (seniority: 4),35540-FR-Paris (seniority: 4)
+* Resident Data Center(s): 8560-GB-Glasgow (seniority: 5),35540-FR-Paris (seniority: 4),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 276: 106 blocks in 168 slots, 37% skip rate
@@ -32,14 +39,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 8vqvZmCwUQCiTpjsQpUW5xzMAnxaCP2RUJZ13vw7U5Mq
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 35540-FR-Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),8560-GB-Glasgow (seniority: 8),35540-FR-Paris (seniority: 1)
+* Resident Data Center(s): 8560-GB-Glasgow (seniority: 8),21409-FR-Europe/Paris (seniority: 7),35540-FR-Paris (seniority: 1)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 272: 170 blocks in 276 slots, 39% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 35540-FR-Paris
-* Resident Data Center(s): 8560-GB-Glasgow (seniority: 9),21409-FR-Europe/Paris (seniority: 8),35540-FR-Paris (seniority: 2)
+* Resident Data Center(s): 35540-FR-Paris (seniority: 2),21409-FR-Europe/Paris (seniority: 8),8560-GB-Glasgow (seniority: 9)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 271: 145 blocks in 176 slots, 18% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: stake account busy due to transient stake activation: 8vqvZmCwUQCiTpjsQpUW5xzMAnxaCP2RUJZ13vw7U5Mq
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 8560-GB-Glasgow
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 10),8560-GB-Glasgow (seniority: 11)
+* Resident Data Center(s): 8560-GB-Glasgow (seniority: 11),21409-FR-Europe/Paris (seniority: 10)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 269: 91 blocks in 104 slots, 13% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎5000.000000000 - adding ◎22250.045097051
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 8560-GB-Glasgow
-* Resident Data Center(s): 8560-GB-Glasgow (seniority: 9),21409-FR-Europe/Paris (seniority: 12)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 12),8560-GB-Glasgow (seniority: 9)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 267: 146 blocks in 188 slots, 23% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 8560-GB-Glasgow
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14),8560-GB-Glasgow (seniority: 7)
+* Resident Data Center(s): 8560-GB-Glasgow (seniority: 7),21409-FR-Europe/Paris (seniority: 14)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 265: 48 blocks in 212 slots, 78% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎1.000000000 - adding ◎32013.546799635
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 8560-GB-Glasgow
-* Resident Data Center(s): 8560-GB-Glasgow (seniority: 6),21409-FR-Europe/Paris (seniority: 19)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 19),8560-GB-Glasgow (seniority: 6)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 162748 credits earned in epoch 260
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 8560-GB-Glasgow
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 21),8560-GB-Glasgow (seniority: 6)
+* Resident Data Center(s): 8560-GB-Glasgow (seniority: 6),21409-FR-Europe/Paris (seniority: 21)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 258: 265 blocks in 292 slots, 10% skip rate
@@ -151,14 +158,14 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 8560-GB-Glasgow
-* Resident Data Center(s): 8560-GB-Glasgow (seniority: 3),21409-FR-Europe/Paris (seniority: 24)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 24),8560-GB-Glasgow (seniority: 3)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 255: 236 blocks in 256 slots, 8% skip rate
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33381.293719276 - removing ◎338.449086022
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 8560-GB-Glasgow
-* Resident Data Center(s): 8560-GB-Glasgow (seniority: 2),21409-FR-Europe/Paris (seniority: 25)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 25),8560-GB-Glasgow (seniority: 2)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 254: 224 blocks in 280 slots, 20% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: HQm93D7qqogur6dC64kf64GiVFvFoN8tBG7j9K7UuPu7
 * Data Center: 8560-GB-Glasgow
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 28),8560-GB-Glasgow (seniority: 1)
+* Resident Data Center(s): 8560-GB-Glasgow (seniority: 1),21409-FR-Europe/Paris (seniority: 28)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 251: 103 blocks in 124 slots, 17% skip rate

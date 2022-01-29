@@ -1,3 +1,10 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 279: 11 blocks in 28 slots, 61% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎26470.012750087 - removing ◎21470.012750087
+* Vote account address: ERLdTGBjzoC2QXyRryEdW1D6jKVGSnhhbb4DASo2ghfA
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 42)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 278: 13 blocks in 16 slots, 19% skip rate
@@ -409,7 +416,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: CUDmD18ydJkKcgGtnTu5rz53JX93bzZz1vDkXGpzKj8A
 * Vote account address: ERLdTGBjzoC2QXyRryEdW1D6jKVGSnhhbb4DASo2ghfA
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),24940-FI-Helsinki (seniority: 3),56694-RU-Europe/Moscow (seniority: 5)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),56694-RU-Europe/Moscow (seniority: 5),24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 210: 224 blocks in 284 slots, 22% skip rate
@@ -437,7 +444,7 @@
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎46644.025953063 - removing ◎1224.716586572
 * Vote account address: ERLdTGBjzoC2QXyRryEdW1D6jKVGSnhhbb4DASo2ghfA
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),56694-RU-Europe/Moscow (seniority: 3)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 3),24940-FI-Helsinki (seniority: 7)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 206: 20 blocks in 28 slots, 29% skip rate
@@ -451,7 +458,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account CUDmD18ydJkKcgGtnTu5rz53JX93bzZz1vDkXGpzKj8A
 * Vote account address: ERLdTGBjzoC2QXyRryEdW1D6jKVGSnhhbb4DASo2ghfA
 * Data Center: 56694-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),56694-RU-Europe/Moscow (seniority: 1)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 1),24940-FI-Helsinki (seniority: 9)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: good block production during epoch 204: 159 blocks in 204 slots, 23% skip rate

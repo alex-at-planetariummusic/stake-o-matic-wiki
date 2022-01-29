@@ -1,10 +1,17 @@
+### [[Testnet Epoch 280|Testnet#Epoch-280]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 279: 4 blocks in 4 slots, 0% skip rate
+* Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎5046.997812455 - adding ◎21077.403639602
+* Vote account address: 3RyZ5mr56v6rvAW1uheEcpyQhEVUtoeEvoADmah5vwLA
+* Data Center: 18450-US-Los Angeles
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 6),18450-US-Los Angeles (seniority: 2)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 278: 8 blocks in 8 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎5000.009310671 - reserve depleted
 * Vote account address: 3RyZ5mr56v6rvAW1uheEcpyQhEVUtoeEvoADmah5vwLA
 * Data Center: 18450-US-Los Angeles
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 7),18450-US-Los Angeles (seniority: 1)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 1),16276-PL-Warsaw (seniority: 7)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 277: 0 blocks in 4 slots, 100% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎5051.825281451 - reserve depleted
 * Vote account address: 3RyZ5mr56v6rvAW1uheEcpyQhEVUtoeEvoADmah5vwLA
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),12570-CZ-Krumvir (seniority: 1)
+* Resident Data Center(s): 12570-CZ-Krumvir (seniority: 1),16276-PL-Warsaw (seniority: 1)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 256: 8 blocks in 32 slots, 75% skip rate
