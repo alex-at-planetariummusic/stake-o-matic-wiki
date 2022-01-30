@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 273: 74 blocks in 96 slots, 23% skip rate
+* Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎1.000363304 - reserve depleted
+* Vote account address: 725My2yzg5ZUpQtpEtivLT7JmRes2gGxF3KeGCbYACDe
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 38)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 178386 credits earned in epoch 272
