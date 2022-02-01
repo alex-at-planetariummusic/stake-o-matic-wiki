@@ -1,3 +1,10 @@
+### [[Testnet Epoch 281|Testnet#Epoch-281]]
+* Stake level: **Bonus** (for 9 epochs)
+* Stake reason: Good block production during epoch 280: 43 blocks in 68 slots, 37% skip rate
+* Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
+* Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
+* Data Center: 21409-FR-Maurepas
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 32)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 279: 96 blocks in 132 slots, 28% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),21409-FR-Maurepas (seniority: 21)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 21),21409-FR-Europe/Paris (seniority: 4)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 263: 86 blocks in 144 slots, 41% skip rate
@@ -116,14 +123,14 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Maurepas (seniority: 19),21409-FR-Europe/Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),21409-FR-Maurepas (seniority: 19)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 261: 147 blocks in 160 slots, 9% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Maurepas (seniority: 18),21409-FR-Europe/Paris (seniority: 7)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),21409-FR-Maurepas (seniority: 18)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 260: 146 blocks in 172 slots, 16% skip rate
@@ -158,28 +165,28 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 12),21409-FR-Maurepas (seniority: 13)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 13),21409-FR-Europe/Paris (seniority: 12)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 255: 205 blocks in 224 slots, 9% skip rate
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Maurepas (seniority: 12),21409-FR-Europe/Paris (seniority: 13)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),21409-FR-Maurepas (seniority: 12)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 254: 130 blocks in 172 slots, 25% skip rate
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Maurepas (seniority: 11),21409-FR-Europe/Paris (seniority: 14)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14),21409-FR-Maurepas (seniority: 11)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 253: 169 blocks in 200 slots, 16% skip rate
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 15),21409-FR-Maurepas (seniority: 10)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 10),21409-FR-Europe/Paris (seniority: 15)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 252: 135 blocks in 144 slots, 7% skip rate
@@ -193,14 +200,14 @@
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 17),21409-FR-Maurepas (seniority: 8)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 8),21409-FR-Europe/Paris (seniority: 17)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 250: 184 blocks in 192 slots, 5% skip rate
 * Staking activity: target stake amount: ◎34776.815121908, current stake amount: ◎34324.243729506 - reserve depleted
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 18),21409-FR-Maurepas (seniority: 7)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 7),21409-FR-Europe/Paris (seniority: 18)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 249: 190 blocks in 208 slots, 9% skip rate
@@ -214,21 +221,21 @@
 * Staking activity: target stake amount: ◎34916.925891894, current stake amount: ◎34382.748476894 - adding ◎534.177415000
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 20),21409-FR-Maurepas (seniority: 5)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 5),21409-FR-Europe/Paris (seniority: 20)
 ### [[Testnet Epoch 248|Testnet#Epoch-248]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 247: 126 blocks in 164 slots, 24% skip rate
 * Staking activity: target stake amount: ◎35116.660877845, current stake amount: ◎34382.748476894 - reserve depleted
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 21),21409-FR-Maurepas (seniority: 4)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 4),21409-FR-Europe/Paris (seniority: 21)
 ### [[Testnet Epoch 247|Testnet#Epoch-247]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 246: 16 blocks in 16 slots, 0% skip rate
 * Staking activity: target stake amount: ◎34382.748476894, current stake amount: ◎35961.594021946 - removing ◎1578.845545052
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 22),21409-FR-Maurepas (seniority: 3)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 3),21409-FR-Europe/Paris (seniority: 22)
 ### [[Testnet Epoch 246|Testnet#Epoch-246]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 245: 39 blocks in 40 slots, 3% skip rate
@@ -242,7 +249,7 @@
 * Staking activity: target stake amount: ◎36658.316887614, current stake amount: ◎5000.000000000 - adding ◎31658.316887614
 * Vote account address: 3PUY4eUcpnZxhzeFjsuBUzBw1ENJNa4eAEg5KAMxfJho
 * Data Center: 21409-FR-Maurepas
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 24),21409-FR-Maurepas (seniority: 1)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 1),21409-FR-Europe/Paris (seniority: 24)
 ### [[Testnet Epoch 244|Testnet#Epoch-244]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 287888 credits earned in epoch 243

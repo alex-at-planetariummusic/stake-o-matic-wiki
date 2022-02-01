@@ -1,3 +1,10 @@
+### [[Testnet Epoch 281|Testnet#Epoch-281]]
+* Stake level: **Bonus** (for 58 epochs)
+* Stake reason: Good block production during epoch 280: 245 blocks in 252 slots, 3% skip rate
+* Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26371.196277956 - removing ◎186.348074152
+* Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 52)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 57 epochs)
 * Stake reason: Good block production during epoch 279: 254 blocks in 264 slots, 4% skip rate
@@ -349,7 +356,7 @@
 * Staking activity: target stake amount: ◎44481.437720377, current stake amount: ◎45376.139291317 - removing ◎894.701570940
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-DE-Nuremburg (seniority: 5)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 226|Testnet#Epoch-226]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 225: 358 blocks in 396 slots, 10% skip rate
@@ -460,7 +467,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5051.899208936 - removing ◎51.899208936
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 4766-KR-Yongdu-dong (seniority: 1),4766-KR-Gangnam-gu (seniority: 3)
+* Resident Data Center(s): 4766-KR-Gangnam-gu (seniority: 3),4766-KR-Yongdu-dong (seniority: 1)
 ### [[Testnet Epoch 205|Testnet#Epoch-205]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 204: 67 blocks in 256 slots, 74% skip rate
@@ -495,7 +502,7 @@
 * Staking activity: target stake amount: ◎44670.972509869, current stake amount: ◎45758.515189324 - removing ◎1087.542679455
 * Vote account address: 4kARmfWrpgyCABPHoiSxZh2jMf7GeABX7AhMBXVC8Wds
 * Data Center: 4766-KR-Gangnam-gu
-* Resident Data Center(s): 4766-KR-Gangnam-gu (seniority: 2),4766-KR-Yongdu-dong (seniority: 6)
+* Resident Data Center(s): 4766-KR-Yongdu-dong (seniority: 6),4766-KR-Gangnam-gu (seniority: 2)
 ### [[Testnet Epoch 200|Testnet#Epoch-200]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: good block production during epoch 199: 137 blocks in 296 slots, 54% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 281|Testnet#Epoch-281]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 297771 credits earned in epoch 280
+* Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
+* Vote account address: Ep4qhyL4fqRKsjZrWpN2CDacDizg5K79UQ1Pirr4er39
+* Data Center: 8334-RU-Moscow
+* Resident Data Center(s): 8334-RU-Moscow (seniority: 3)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 273322 credits earned in epoch 279

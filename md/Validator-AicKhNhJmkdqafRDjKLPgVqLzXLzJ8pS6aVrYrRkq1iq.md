@@ -1,17 +1,24 @@
+### [[Testnet Epoch 281|Testnet#Epoch-281]]
+* Stake level: **Bonus** (for 73 epochs)
+* Stake reason: Good block production during epoch 280: 88 blocks in 128 slots, 32% skip rate
+* Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
+* Vote account address: Cb2fX2H5hUQndUb1nqWNPNPmRyEh8NXf97Yw4e6JTSpi
+* Data Center: 24961-DE-Immenstaad am Bodensee
+* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 9),24940-DE-Falkenstein (seniority: 59)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 72 epochs)
 * Stake reason: Good block production during epoch 279: 85 blocks in 132 slots, 36% skip rate
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
 * Vote account address: Cb2fX2H5hUQndUb1nqWNPNPmRyEh8NXf97Yw4e6JTSpi
 * Data Center: 24961-DE-Immenstaad am Bodensee
-* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 8),24940-DE-Falkenstein (seniority: 60)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 60),24961-DE-Immenstaad am Bodensee (seniority: 8)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 71 epochs)
 * Stake reason: Good block production during epoch 278: 83 blocks in 104 slots, 21% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: Cb2fX2H5hUQndUb1nqWNPNPmRyEh8NXf97Yw4e6JTSpi
 * Data Center: 24961-DE-Immenstaad am Bodensee
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 61),24961-DE-Immenstaad am Bodensee (seniority: 7)
+* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 7),24940-DE-Falkenstein (seniority: 61)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 70 epochs)
 * Stake reason: Good block production during epoch 277: 106 blocks in 128 slots, 18% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎26762.483150301, current stake amount: ◎26510.519050774 - reserve depleted
 * Vote account address: Cb2fX2H5hUQndUb1nqWNPNPmRyEh8NXf97Yw4e6JTSpi
 * Data Center: 24961-DE-Immenstaad am Bodensee
-* Resident Data Center(s): 24961-DE-Immenstaad am Bodensee (seniority: 3),24940-DE-Falkenstein (seniority: 65)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 65),24961-DE-Immenstaad am Bodensee (seniority: 3)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 272: 97 blocks in 132 slots, 27% skip rate

@@ -1,3 +1,9 @@
+### [[Testnet Epoch 281|Testnet#Epoch-281]]
+* Stake level: **None** (for 4 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 280
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000000000 - no change
+* Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
+* Data Center: 24940-DE-Falkenstein
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 279
@@ -188,7 +194,7 @@
 * Staking activity: target stake amount: ◎34776.815121908, current stake amount: ◎34324.243729506 - reserve depleted
 * Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Morris Plains (seniority: 2),24940-DE-Falkenstein (seniority: 5)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),23470-US-Morris Plains (seniority: 2)
 ### [[Testnet Epoch 250|Testnet#Epoch-250]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 249: 20 blocks in 20 slots, 0% skip rate
@@ -294,7 +300,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 6uuZBHZCUXioSZBgAAdH7XxFmHnqSqiHDNUzHahcBZBq
 * Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-Morris Plains (seniority: 17)
+* Resident Data Center(s): 23470-US-Morris Plains (seniority: 17),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 233|Testnet#Epoch-233]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 232: 0 blocks in 20 slots, 100% skip rate
@@ -322,14 +328,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 6uuZBHZCUXioSZBgAAdH7XxFmHnqSqiHDNUzHahcBZBq
 * Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Morris Plains (seniority: 21),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-Morris Plains (seniority: 21)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 228: 155 blocks in 180 slots, 14% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 6uuZBHZCUXioSZBgAAdH7XxFmHnqSqiHDNUzHahcBZBq
 * Vote account address: 4q4ngTskQ4YEtyyZ6M91SHNXPjCP5MSGT7SugbgvRBUm
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Morris Plains (seniority: 22),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),23470-US-Morris Plains (seniority: 22)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 227: 150 blocks in 248 slots, 40% skip rate

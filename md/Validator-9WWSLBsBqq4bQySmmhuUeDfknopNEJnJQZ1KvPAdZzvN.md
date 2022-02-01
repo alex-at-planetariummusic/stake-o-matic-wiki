@@ -1,10 +1,17 @@
+### [[Testnet Epoch 281|Testnet#Epoch-281]]
+* Stake level: **Bonus** (for 45 epochs)
+* Stake reason: Good block production during epoch 280: 145 blocks in 152 slots, 5% skip rate
+* Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
+* Vote account address: 72VWF1q6PGrgQpFJ8owvzAzNtdxDc3wcQ71jKVBCMCd8
+* Data Center: 22439-US-Orchard Park
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 15),22439-US-Orchard Park (seniority: 15)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 279: 148 blocks in 156 slots, 6% skip rate
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
 * Vote account address: 72VWF1q6PGrgQpFJ8owvzAzNtdxDc3wcQ71jKVBCMCd8
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 16),22439-US-Orchard Park (seniority: 14)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 14),21409-FR-Europe/Paris (seniority: 16)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 278: 143 blocks in 148 slots, 4% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: 72VWF1q6PGrgQpFJ8owvzAzNtdxDc3wcQ71jKVBCMCd8
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 18),22439-US-Orchard Park (seniority: 12)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 12),21409-FR-Europe/Paris (seniority: 18)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 276: 111 blocks in 124 slots, 11% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: 72VWF1q6PGrgQpFJ8owvzAzNtdxDc3wcQ71jKVBCMCd8
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 22),22439-US-Orchard Park (seniority: 8)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 8),21409-FR-Europe/Paris (seniority: 22)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 271: 145 blocks in 156 slots, 8% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: 72VWF1q6PGrgQpFJ8owvzAzNtdxDc3wcQ71jKVBCMCd8
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 25),22439-US-Orchard Park (seniority: 5)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 5),21409-FR-Europe/Paris (seniority: 25)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 268: 146 blocks in 172 slots, 16% skip rate
@@ -88,14 +95,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: CR5XoEpnUaei5bvVhtJd3oHRMqtbxXSfRuPgu2LU5CvE
 * Vote account address: 72VWF1q6PGrgQpFJ8owvzAzNtdxDc3wcQ71jKVBCMCd8
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 28),22439-US-Orchard Park (seniority: 2)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 2),21409-FR-Europe/Paris (seniority: 28)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 265: 140 blocks in 172 slots, 19% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
 * Vote account address: 72VWF1q6PGrgQpFJ8owvzAzNtdxDc3wcQ71jKVBCMCd8
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 1),21409-FR-Europe/Paris (seniority: 29)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 29),22439-US-Orchard Park (seniority: 1)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 264: 157 blocks in 180 slots, 13% skip rate

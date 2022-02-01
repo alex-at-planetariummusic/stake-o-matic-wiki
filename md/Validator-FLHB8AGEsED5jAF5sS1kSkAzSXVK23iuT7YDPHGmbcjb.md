@@ -1,3 +1,10 @@
+### [[Testnet Epoch 281|Testnet#Epoch-281]]
+* Stake level: **Baseline** (for 5 epochs)
+* Stake reason: Poor block production during epoch 280: 8 blocks in 24 slots, 67% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 6TgYAobhNJHYL98bum85QvGgTh2vDp6hH9C1kKoDnVPs
+* Data Center: 48607-RU-Europe/Moscow
+* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 63)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: Poor block production during epoch 279: 8 blocks in 28 slots, 72% skip rate
@@ -515,21 +522,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: 7YtEenK4JD2equYJ8AzZfv2KRLQQMTy4Kf3kgeq1MM5r
 * Vote account address: 6TgYAobhNJHYL98bum85QvGgTh2vDp6hH9C1kKoDnVPs
 * Data Center: 48607-RU-Europe/Moscow
-* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 3),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),48607-RU-Europe/Moscow (seniority: 3)
 ### [[Testnet Epoch 197|Testnet#Epoch-197]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 196: 316 blocks in 364 slots, 14% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 7YtEenK4JD2equYJ8AzZfv2KRLQQMTy4Kf3kgeq1MM5r
 * Vote account address: 6TgYAobhNJHYL98bum85QvGgTh2vDp6hH9C1kKoDnVPs
 * Data Center: 48607-RU-Europe/Moscow
-* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 2),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),48607-RU-Europe/Moscow (seniority: 2)
 ### [[Testnet Epoch 196|Testnet#Epoch-196]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 195: 285 blocks in 340 slots, 17% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 7YtEenK4JD2equYJ8AzZfv2KRLQQMTy4Kf3kgeq1MM5r
 * Vote account address: 6TgYAobhNJHYL98bum85QvGgTh2vDp6hH9C1kKoDnVPs
 * Data Center: 48607-RU-Europe/Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),48607-RU-Europe/Moscow (seniority: 1)
+* Resident Data Center(s): 48607-RU-Europe/Moscow (seniority: 1),24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 195|Testnet#Epoch-195]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: good block production during epoch 194: 302 blocks in 352 slots, 15% skip rate
