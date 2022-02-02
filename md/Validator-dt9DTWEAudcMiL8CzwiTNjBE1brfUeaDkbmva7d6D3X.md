@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: Good block production during epoch 274: 95 blocks in 100 slots, 5% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.703633375 - removing ◎1120.773896254
+* Vote account address: 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 15)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 273: 150 blocks in 152 slots, 2% skip rate
@@ -25,28 +32,28 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.435870617 - removing ◎1275.057322543
 * Vote account address: 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 18450-US-Ogden (seniority: 3),16276-FR-Gravelines (seniority: 11)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 11),18450-US-Ogden (seniority: 3)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 269: 108 blocks in 108 slots, 0% skip rate
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.598471125 - removing ◎197.625327393
 * Vote account address: 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 18450-US-Ogden (seniority: 4),16276-FR-Gravelines (seniority: 10)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 10),18450-US-Ogden (seniority: 4)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 268: 92 blocks in 92 slots, 0% skip rate
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.187076593 - removing ◎88.105427934
 * Vote account address: 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 18450-US-Ogden (seniority: 5),16276-FR-Gravelines (seniority: 9)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 9),18450-US-Ogden (seniority: 5)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 267: 123 blocks in 128 slots, 4% skip rate
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73460.989479210 - removing ◎778.469860804
 * Vote account address: 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 8),18450-US-Ogden (seniority: 6)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 6),16276-FR-Gravelines (seniority: 8)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 266: 112 blocks in 124 slots, 10% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.659116589 - removing ◎922.456228367
 * Vote account address: 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 18450-US-Ogden (seniority: 10),16276-FR-Gravelines (seniority: 4)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),18450-US-Ogden (seniority: 10)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 262: 47 blocks in 48 slots, 3% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76473.571891442 - removing ◎379.202651159
 * Vote account address: 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 2),18450-US-Ogden (seniority: 12)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 12),16276-FR-Gravelines (seniority: 2)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 260: 46 blocks in 52 slots, 12% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎1.002729682 - reserve depleted
 * Vote account address: 6QSbUo4JPAq3URVazSi3dejdqQf7fpsCjSWSewpA6uMZ
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 18450-US-Ogden (seniority: 14),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),18450-US-Ogden (seniority: 14)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **None** (for 6 epochs)
 * Stake reason: Insufficient testnet participation

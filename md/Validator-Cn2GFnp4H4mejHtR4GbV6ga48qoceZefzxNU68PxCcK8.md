@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 29 epochs)
+* Stake reason: Good block production during epoch 274: 120 blocks in 120 slots, 0% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.647359745 - removing ◎1120.717622624
+* Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 28),16276-FR-Strasbourg (seniority: 29)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 273: 81 blocks in 88 slots, 8% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71255.208658493 - reserve depleted
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 26),16276-FR-Roubaix (seniority: 31)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 31),16276-FR-Strasbourg (seniority: 26)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 270: 107 blocks in 112 slots, 5% skip rate
@@ -32,14 +39,14 @@
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.548372470 - removing ◎197.575228738
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 24),16276-FR-Roubaix (seniority: 33)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 33),16276-FR-Strasbourg (seniority: 24)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 268: 88 blocks in 96 slots, 9% skip rate
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.188975550 - removing ◎88.107326891
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 34),16276-FR-Strasbourg (seniority: 23)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 23),16276-FR-Roubaix (seniority: 34)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 267: 88 blocks in 92 slots, 5% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.562237893 - removing ◎320.562775100
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 36),16276-FR-Strasbourg (seniority: 21)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 21),16276-FR-Roubaix (seniority: 36)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 265: 142 blocks in 152 slots, 7% skip rate
@@ -109,28 +116,28 @@
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.634852209 - reserve depleted
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 13),16276-FR-Roubaix (seniority: 44)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 44),16276-FR-Strasbourg (seniority: 13)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 257: 122 blocks in 132 slots, 8% skip rate
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.393631188 - removing ◎860.991951784
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 45),16276-FR-Strasbourg (seniority: 12)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 12),16276-FR-Roubaix (seniority: 45)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 256: 106 blocks in 112 slots, 6% skip rate
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.051589819 - removing ◎541.683183415
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 11),16276-FR-Roubaix (seniority: 46)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 46),16276-FR-Strasbourg (seniority: 11)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 255: 86 blocks in 92 slots, 7% skip rate
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82983.814951658 - removing ◎1645.939797136
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 47),16276-FR-Strasbourg (seniority: 10)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 10),16276-FR-Roubaix (seniority: 47)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 254: 94 blocks in 100 slots, 6% skip rate
@@ -151,21 +158,21 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.189783491 - removing ◎322.789376459
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 7),16276-FR-Roubaix (seniority: 50)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 50),16276-FR-Strasbourg (seniority: 7)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 251: 122 blocks in 128 slots, 5% skip rate
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84240.886097016 - removing ◎795.137531186
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 51),16276-FR-Strasbourg (seniority: 6)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 6),16276-FR-Roubaix (seniority: 51)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 250: 120 blocks in 136 slots, 12% skip rate
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84201.829761218 - reserve depleted
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 52),16276-FR-Strasbourg (seniority: 5)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 5),16276-FR-Roubaix (seniority: 52)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 249: 55 blocks in 56 slots, 2% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎87386.330011859 - removing ◎1025.441902120
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 3),16276-FR-Roubaix (seniority: 54)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 54),16276-FR-Strasbourg (seniority: 3)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 247: 163 blocks in 172 slots, 6% skip rate
@@ -193,7 +200,7 @@
 * Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎25011.435399976 - reserve depleted
 * Vote account address: 8BXicETLFX5vbSjgyCBKbe5KRQH9nGTmWf5Y2R1k4C26
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),16276-FR-Roubaix (seniority: 56)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 56),16276-FR-Strasbourg (seniority: 1)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 245: 72 blocks in 116 slots, 38% skip rate

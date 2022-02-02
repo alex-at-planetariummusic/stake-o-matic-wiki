@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 274: 31 blocks in 32 slots, 4% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎1.002012690 - adding ◎68951.927724431
+* Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 63),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 273: 52 blocks in 52 slots, 0% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎1.001553587 - reserve depleted
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),15440-RU-Europe/Moscow (seniority: 64)
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 64),24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: infrastructure concentration 10.1% is too high; find a new data center
@@ -491,7 +498,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186620.958240491 - removing ◎6432.653779314
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 7),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),15440-RU-Europe/Moscow (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 19 epochs)
@@ -515,7 +522,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200092.317544845 - removing ◎7099.009255282
 * Vote account address: 27MtjMSAQ2BGkXNuJEJkxFyCJT8dugGAaHJ9T7Gc6x4x
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 4),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),15440-RU-Europe/Moscow (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 16 epochs)

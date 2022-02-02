@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 49 epochs)
+* Stake reason: Good block production during epoch 274: 191 blocks in 200 slots, 5% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.692482439 - removing ◎1120.762745318
+* Vote account address: 3CnKZPQn92W8WXG7KTVaFQRk8LJJ3KZbrVVF4ngUxqkg
+* Data Center: 31148-UA-Dnipro
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 21),31148-UA-Dnipro (seniority: 14)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 273: 135 blocks in 136 slots, 1% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.443633336 - removing ◎1275.065085262
 * Vote account address: 3CnKZPQn92W8WXG7KTVaFQRk8LJJ3KZbrVVF4ngUxqkg
 * Data Center: 31148-UA-Dnipro
-* Resident Data Center(s): 57197-UA-Dnipro (seniority: 25),31148-UA-Dnipro (seniority: 10)
+* Resident Data Center(s): 31148-UA-Dnipro (seniority: 10),57197-UA-Dnipro (seniority: 25)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 269: 136 blocks in 152 slots, 11% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73460.819497488 - removing ◎778.299879082
 * Vote account address: 3CnKZPQn92W8WXG7KTVaFQRk8LJJ3KZbrVVF4ngUxqkg
 * Data Center: 31148-UA-Dnipro
-* Resident Data Center(s): 31148-UA-Dnipro (seniority: 7),57197-UA-Dnipro (seniority: 28)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 28),31148-UA-Dnipro (seniority: 7)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 266: 97 blocks in 116 slots, 17% skip rate
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.857457957 - removing ◎320.857995164
 * Vote account address: 3CnKZPQn92W8WXG7KTVaFQRk8LJJ3KZbrVVF4ngUxqkg
 * Data Center: 31148-UA-Dnipro
-* Resident Data Center(s): 57197-UA-Dnipro (seniority: 29),31148-UA-Dnipro (seniority: 6)
+* Resident Data Center(s): 31148-UA-Dnipro (seniority: 6),57197-UA-Dnipro (seniority: 29)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 265: 124 blocks in 148 slots, 17% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.829747158 - removing ◎362.494244515
 * Vote account address: 3CnKZPQn92W8WXG7KTVaFQRk8LJJ3KZbrVVF4ngUxqkg
 * Data Center: 31148-UA-Dnipro
-* Resident Data Center(s): 31148-UA-Dnipro (seniority: 2),57197-UA-Dnipro (seniority: 33)
+* Resident Data Center(s): 57197-UA-Dnipro (seniority: 33),31148-UA-Dnipro (seniority: 2)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 261: 140 blocks in 148 slots, 6% skip rate

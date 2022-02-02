@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 90 epochs)
+* Stake reason: Good block production during epoch 274: 131 blocks in 136 slots, 4% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.693421683 - removing ◎1120.763684562
+* Vote account address: 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 47433-RU-Leninsk-Kuznetsky (seniority: 65),23470-US-Las Vegas (seniority: 4)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 89 epochs)
 * Stake reason: Good block production during epoch 273: 95 blocks in 96 slots, 2% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.354210458 - removing ◎1274.975662384
 * Vote account address: 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 1),47433-RU-Leninsk-Kuznetsky (seniority: 69)
+* Resident Data Center(s): 47433-RU-Leninsk-Kuznetsky (seniority: 69),23470-US-Piscataway (seniority: 1)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 85 epochs)
 * Stake reason: Good block production during epoch 269: 141 blocks in 152 slots, 8% skip rate
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.653107128 - removing ◎197.679963396
 * Vote account address: 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
 * Data Center: 47433-RU-Leninsk-Kuznetsky
-* Resident Data Center(s): 23470-US-New Haven (seniority: 1),47433-RU-Leninsk-Kuznetsky (seniority: 70)
+* Resident Data Center(s): 47433-RU-Leninsk-Kuznetsky (seniority: 70),23470-US-New Haven (seniority: 1)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 84 epochs)
 * Stake reason: Good block production during epoch 268: 103 blocks in 116 slots, 12% skip rate
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.203657271 - removing ◎88.122008612
 * Vote account address: 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
 * Data Center: 47433-RU-Leninsk-Kuznetsky
-* Resident Data Center(s): 23470-US-New Haven (seniority: 2),47433-RU-Leninsk-Kuznetsky (seniority: 69)
+* Resident Data Center(s): 47433-RU-Leninsk-Kuznetsky (seniority: 69),23470-US-New Haven (seniority: 2)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 83 epochs)
 * Stake reason: Good block production during epoch 267: 103 blocks in 116 slots, 12% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.809801361 - removing ◎720.357431162
 * Vote account address: 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
 * Data Center: 23470-US-New Haven
-* Resident Data Center(s): 47433-RU-Leninsk-Kuznetsky (seniority: 69),23470-US-New Haven (seniority: 2)
+* Resident Data Center(s): 23470-US-New Haven (seniority: 2),47433-RU-Leninsk-Kuznetsky (seniority: 69)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 79 epochs)
 * Stake reason: Good block production during epoch 263: 98 blocks in 136 slots, 28% skip rate
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.516490574 - removing ◎922.313602352
 * Vote account address: 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
 * Data Center: 23470-US-New Haven
-* Resident Data Center(s): 23470-US-New Haven (seniority: 1),47433-RU-Leninsk-Kuznetsky (seniority: 70)
+* Resident Data Center(s): 47433-RU-Leninsk-Kuznetsky (seniority: 70),23470-US-New Haven (seniority: 1)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 78 epochs)
 * Stake reason: Good block production during epoch 262: 160 blocks in 160 slots, 0% skip rate
@@ -574,14 +581,14 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎205584.624004906 - reserve depleted
 * Vote account address: 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
 * Data Center: 47433-RU-Leninsk-Kuznetsky
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),47433-RU-Leninsk-Kuznetsky (seniority: 2)
+* Resident Data Center(s): 47433-RU-Leninsk-Kuznetsky (seniority: 2),23470-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 209 blocks in 244 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: EsYJbFvndFnyXMqYxcXBY8bQH3adH5vZzfRQKqrJdtiE
 * Vote account address: 32PqUswoHFz1mEYqm4bsxyZmtXFQUc4x6a4JjLNwhHVo
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),47433-RU-Leninsk-Kuznetsky (seniority: 1)
+* Resident Data Center(s): 47433-RU-Leninsk-Kuznetsky (seniority: 1),23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 187|Mainnet#Epoch-187]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: good block production during epoch 186: 178 blocks in 220 slots, 20% skip rate

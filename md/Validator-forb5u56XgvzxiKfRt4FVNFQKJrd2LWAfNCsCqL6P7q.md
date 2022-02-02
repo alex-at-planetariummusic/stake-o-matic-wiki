@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 203932 credits earned in epoch 274
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25006.313077487 - removing ◎25005.313077487
+* Vote account address: 76nwV8zz8tLz97SBRXH6uwHvgHXtqJDLQfF66jZhQ857
+* Data Center: 23881-HK-Asia/Hong_Kong
+* Resident Data Center(s): 23881-HK-Asia/Hong_Kong (seniority: 14)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 273: 118 blocks in 588 slots, 80% skip rate

@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 274: 115 blocks in 120 slots, 5% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.748226363 - removing ◎1120.818489242
+* Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 40),23470-US-Las Vegas (seniority: 7)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 273: 123 blocks in 128 slots, 4% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.885272091 - removing ◎954.144235660
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 41),23470-US-Las Vegas (seniority: 6)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 6),16276-PL-Warsaw (seniority: 41)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 272: 111 blocks in 112 slots, 1% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.374937482 - removing ◎1274.996389408
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 3),16276-PL-Warsaw (seniority: 44)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 44),23470-US-Las Vegas (seniority: 3)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 269: 56 blocks in 56 slots, 0% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎25023.015042272 - adding ◎47605.066606387
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 1),16276-PL-Warsaw (seniority: 46)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 46),23470-US-Las Vegas (seniority: 1)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 267: 57 blocks in 64 slots, 11% skip rate
@@ -340,14 +347,14 @@
 * Staking activity: target stake amount: ◎106079.282531518, current stake amount: ◎104661.870264988 - reserve depleted
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),16276-PL-Warsaw (seniority: 17)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 17),16276-FR-Roubaix (seniority: 1)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 222: 151 blocks in 156 slots, 4% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: B2udvZfWQ8LNyvbEz56qAktXCFB3hCce7Kiw7XUH2M1i
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 16),16276-FR-Roubaix (seniority: 2)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),16276-PL-Warsaw (seniority: 16)
 ### [[Mainnet Epoch 222|Mainnet#Epoch-222]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 221: 134 blocks in 140 slots, 5% skip rate
@@ -375,7 +382,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: B2udvZfWQ8LNyvbEz56qAktXCFB3hCce7Kiw7XUH2M1i
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 12),16276-FR-Roubaix (seniority: 6)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 6),16276-PL-Warsaw (seniority: 12)
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 216: 184 blocks in 192 slots, 5% skip rate
@@ -389,21 +396,21 @@
 * Staking activity: target stake amount: ◎117608.867212503, current stake amount: ◎122173.754583778 - removing ◎4564.887371275
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),16276-PL-Warsaw (seniority: 10)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 10),16276-FR-Roubaix (seniority: 8)
 ### [[Mainnet Epoch 215|Mainnet#Epoch-215]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 214: 180 blocks in 188 slots, 5% skip rate
 * Staking activity: target stake amount: ◎122212.013967839, current stake amount: ◎122114.824039430 - reserve depleted
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 9),16276-FR-Roubaix (seniority: 9)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 9),16276-PL-Warsaw (seniority: 9)
 ### [[Mainnet Epoch 214|Mainnet#Epoch-214]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 213: 178 blocks in 188 slots, 6% skip rate
 * Staking activity: target stake amount: ◎122054.971079467, current stake amount: ◎123295.883194142 - removing ◎1240.912114675
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 10),16276-PL-Warsaw (seniority: 8)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 8),16276-FR-Roubaix (seniority: 10)
 ### [[Mainnet Epoch 213|Mainnet#Epoch-213]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 212: 213 blocks in 236 slots, 10% skip rate
@@ -417,7 +424,7 @@
 * Staking activity: target stake amount: ◎126724.160426347, current stake amount: ◎127583.229313842 - removing ◎859.068887495
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 6),16276-FR-Roubaix (seniority: 12)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 12),16276-PL-Warsaw (seniority: 6)
 ### [[Mainnet Epoch 210|Mainnet#Epoch-210]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 209: 230 blocks in 236 slots, 3% skip rate
@@ -456,7 +463,7 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143777.286362940 - removing ◎3804.469561234
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Poznan
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),16276-FR-Roubaix (seniority: 17),16276-PL-Poznan (seniority: 1)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 1),16276-PL-Poznan (seniority: 1),16276-FR-Roubaix (seniority: 17)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 24 epochs)
@@ -464,7 +471,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144898.633013668 - removing ◎1187.466007312
 * Vote account address: GTeoHau1SpLhoiDGJdQpGd7AS3gyaFLgGVG2EHQRHoWp
 * Data Center: 16276-PL-Warsaw
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 18),16276-PL-Warsaw (seniority: 2)
+* Resident Data Center(s): 16276-PL-Warsaw (seniority: 2),16276-FR-Roubaix (seniority: 18)
 * Insufficient testnet participation
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)

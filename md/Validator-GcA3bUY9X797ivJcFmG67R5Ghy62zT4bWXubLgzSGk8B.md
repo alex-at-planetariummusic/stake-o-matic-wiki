@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 41 epochs)
+* Stake reason: Good block production during epoch 274: 113 blocks in 120 slots, 6% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.635871065 - removing ◎1120.706133944
+* Vote account address: HS2kSsdkGF7iktkPYFVsWWkUwEwj8jgvuKZiF6JNbGgy
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 35)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 273: 128 blocks in 136 slots, 6% skip rate
@@ -207,7 +214,7 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89430.560803716 - removing ◎842.207540510
 * Vote account address: HS2kSsdkGF7iktkPYFVsWWkUwEwj8jgvuKZiF6JNbGgy
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 5),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),16276-EN-London (seniority: 5)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 243: 124 blocks in 124 slots, 0% skip rate
@@ -221,14 +228,14 @@
 * Staking activity: target stake amount: ◎89892.879101639, current stake amount: ◎91851.559262191 - removing ◎1958.680160552
 * Vote account address: HS2kSsdkGF7iktkPYFVsWWkUwEwj8jgvuKZiF6JNbGgy
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),16276-EN-London (seniority: 3)
+* Resident Data Center(s): 16276-EN-London (seniority: 3),16276-FR-Roubaix (seniority: 3)
 ### [[Mainnet Epoch 242|Mainnet#Epoch-242]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 241: 107 blocks in 108 slots, 1% skip rate
 * Staking activity: target stake amount: ◎91808.958528128, current stake amount: ◎92075.523873598 - removing ◎266.565345470
 * Vote account address: HS2kSsdkGF7iktkPYFVsWWkUwEwj8jgvuKZiF6JNbGgy
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 2),16276-FR-Roubaix (seniority: 4)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),16276-EN-London (seniority: 2)
 ### [[Mainnet Epoch 241|Mainnet#Epoch-241]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 240: 72 blocks in 84 slots, 15% skip rate

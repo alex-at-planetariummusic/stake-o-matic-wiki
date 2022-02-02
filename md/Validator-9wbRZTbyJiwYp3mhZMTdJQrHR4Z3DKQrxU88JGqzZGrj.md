@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 65 epochs)
+* Stake reason: Good block production during epoch 274: 152 blocks in 152 slots, 0% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.707836421 - removing ◎1120.778099300
+* Vote account address: 4a96rzedYGQVFPz53Vj3mfFGsWSNmb59wHAFZNrNCXyb
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 56)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 273: 86 blocks in 92 slots, 7% skip rate
@@ -333,7 +340,7 @@
 * Staking activity: target stake amount: ◎103637.967782523, current stake amount: ◎104709.010448917 - removing ◎1071.042666394
 * Vote account address: 4a96rzedYGQVFPz53Vj3mfFGsWSNmb59wHAFZNrNCXyb
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 1),24940-DE-Falkenstein (seniority: 8)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 8),23470-US-Las Vegas (seniority: 1)
 ### [[Mainnet Epoch 224|Mainnet#Epoch-224]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 223: 165 blocks in 184 slots, 11% skip rate
@@ -375,7 +382,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 5js2ouscF7dMB9QU1zTrmRc1Ev77z7Wo5D5NxoEhQp1A
 * Vote account address: 4a96rzedYGQVFPz53Vj3mfFGsWSNmb59wHAFZNrNCXyb
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 7),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),23470-US-Las Vegas (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Bonus** (for 10 epochs)
@@ -383,7 +390,7 @@
 * Staking activity: target stake amount: ◎115214.861665898, current stake amount: ◎117665.598249733 - removing ◎2450.736583835
 * Vote account address: 4a96rzedYGQVFPz53Vj3mfFGsWSNmb59wHAFZNrNCXyb
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 8),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-Las Vegas (seniority: 8)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 216|Mainnet#Epoch-216]]
 * Stake level: **Bonus** (for 9 epochs)

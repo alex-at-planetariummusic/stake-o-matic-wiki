@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **None** (for 40 epochs)
+* Stake reason: Insufficient self stake: ◎0.000000000
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.018865949 - not removing ◎0.018865949 (amount too small)
+* Vote account address: RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y
+* Data Center: 201730-CZ-Europe/Prague
+* Resident Data Center(s): 201730-CZ-Europe/Prague (seniority: 4)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **None** (for 39 epochs)
 * Stake reason: Insufficient self stake: ◎0.000000000
@@ -601,7 +608,7 @@
 * Staking activity: target stake amount: ◎206799.920462267, current stake amount: ◎205593.066750007 - reserve depleted
 * Vote account address: RBFvvcGPBpgkBYmJGsphoDQJD8sszSuorM7TorWm12Y
 * Data Center: 201730-CZ-Europe/Prague
-* Resident Data Center(s): 5610-CZ-Zabreh (seniority: 1),201730-CZ-Europe/Prague (seniority: 3)
+* Resident Data Center(s): 201730-CZ-Europe/Prague (seniority: 3),5610-CZ-Zabreh (seniority: 1)
 ### [[Mainnet Epoch 188|Mainnet#Epoch-188]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: good block production during epoch 187: 1665 blocks in 3080 slots, 46% skip rate

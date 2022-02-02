@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
+* Stake level: **Bonus** (for 28 epochs)
+* Stake reason: Good block production during epoch 274: 108 blocks in 108 slots, 0% skip rate
+* Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.657316247 - removing ◎1120.727579126
+* Vote account address: GdVBPczdFaPf1GXvx8ByHeA1ZHAHwwmdQEPihH74SXm9
+* Data Center: 19318-US-Secaucus
+* Resident Data Center(s): 8560-ES-Sant Just Desvern (seniority: 16),19318-US-Secaucus (seniority: 6)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 273: 135 blocks in 140 slots, 4% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.928957552 - removing ◎954.187921121
 * Vote account address: GdVBPczdFaPf1GXvx8ByHeA1ZHAHwwmdQEPihH74SXm9
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 19318-US-Secaucus (seniority: 5),8560-ES-Sant Just Desvern (seniority: 17)
+* Resident Data Center(s): 8560-ES-Sant Just Desvern (seniority: 17),19318-US-Secaucus (seniority: 5)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 272: 115 blocks in 116 slots, 1% skip rate
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.351010854 - removing ◎326.922688631
 * Vote account address: GdVBPczdFaPf1GXvx8ByHeA1ZHAHwwmdQEPihH74SXm9
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 8560-ES-Sant Just Desvern (seniority: 18),19318-US-Secaucus (seniority: 4)
+* Resident Data Center(s): 19318-US-Secaucus (seniority: 4),8560-ES-Sant Just Desvern (seniority: 18)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 271: 45 blocks in 56 slots, 20% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.161819219 - removing ◎1274.783271145
 * Vote account address: GdVBPczdFaPf1GXvx8ByHeA1ZHAHwwmdQEPihH74SXm9
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 19318-US-Secaucus (seniority: 2),8560-ES-Sant Just Desvern (seniority: 20)
+* Resident Data Center(s): 8560-ES-Sant Just Desvern (seniority: 20),19318-US-Secaucus (seniority: 2)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 269: 109 blocks in 116 slots, 7% skip rate
