@@ -1,3 +1,10 @@
+### [[Testnet Epoch 282|Testnet#Epoch-282]]
+* Stake level: **Bonus** (for 36 epochs)
+* Stake reason: Good block production during epoch 281: 110 blocks in 112 slots, 2% skip rate
+* Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - reserve depleted
+* Vote account address: 6rWgwvRWDUZwcmQj2x8BowQLX5A7mXbrxi1tw8hKmsMh
+* Data Center: 50867-RU-Europe/Moscow
+* Resident Data Center(s): 50867-RU-Europe/Moscow (seniority: 32)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 280: 98 blocks in 112 slots, 13% skip rate
@@ -123,21 +130,21 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: 6rWgwvRWDUZwcmQj2x8BowQLX5A7mXbrxi1tw8hKmsMh
 * Data Center: 50867-RU-Europe/Moscow
-* Resident Data Center(s): 50867-CN-Shenzhen (seniority: 1),50867-RU-Europe/Moscow (seniority: 14)
+* Resident Data Center(s): 50867-RU-Europe/Moscow (seniority: 14),50867-CN-Shenzhen (seniority: 1)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 261: 162 blocks in 184 slots, 12% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: 6rWgwvRWDUZwcmQj2x8BowQLX5A7mXbrxi1tw8hKmsMh
 * Data Center: 50867-CN-Shenzhen
-* Resident Data Center(s): 50867-RU-Europe/Moscow (seniority: 13),50867-CN-Shenzhen (seniority: 2)
+* Resident Data Center(s): 50867-CN-Shenzhen (seniority: 2),50867-RU-Europe/Moscow (seniority: 13)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 260: 185 blocks in 216 slots, 15% skip rate
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: 6rWgwvRWDUZwcmQj2x8BowQLX5A7mXbrxi1tw8hKmsMh
 * Data Center: 50867-CN-Shenzhen
-* Resident Data Center(s): 50867-CN-Shenzhen (seniority: 1),50867-RU-Europe/Moscow (seniority: 14)
+* Resident Data Center(s): 50867-RU-Europe/Moscow (seniority: 14),50867-CN-Shenzhen (seniority: 1)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 259: 156 blocks in 164 slots, 5% skip rate
