@@ -1,17 +1,24 @@
+### [[Testnet Epoch 283|Testnet#Epoch-283]]
+* Stake level: **Bonus** (for 15 epochs)
+* Stake reason: Good block production during epoch 282: 149 blocks in 152 slots, 2% skip rate
+* Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26124.401452057 - adding ◎248.439211285
+* Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
+* Data Center: 23470-US-New York
+* Resident Data Center(s): 23470-US-New York (seniority: 15),16276-FR-Strasbourg (seniority: 45)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 281: 144 blocks in 144 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 46),23470-US-New York (seniority: 14)
+* Resident Data Center(s): 23470-US-New York (seniority: 14),16276-FR-Strasbourg (seniority: 46)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 280: 143 blocks in 144 slots, 1% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 13),16276-FR-Strasbourg (seniority: 47)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 47),23470-US-New York (seniority: 13)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 279: 110 blocks in 116 slots, 6% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 11),16276-FR-Strasbourg (seniority: 49)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 49),23470-US-New York (seniority: 11)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 277: 120 blocks in 124 slots, 4% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 51),23470-US-New York (seniority: 9)
+* Resident Data Center(s): 23470-US-New York (seniority: 9),16276-FR-Strasbourg (seniority: 51)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 275: 78 blocks in 84 slots, 8% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: stake account busy due to transient stake activation: 4Qyk1WF8En3pdHueP29W7ZckPJezwaTaFBNC6gTj7mhJ
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 7),16276-FR-Strasbourg (seniority: 53)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 53),23470-US-New York (seniority: 7)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 272: 78 blocks in 104 slots, 25% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: 4Qyk1WF8En3pdHueP29W7ZckPJezwaTaFBNC6gTj7mhJ
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 5),16276-FR-Strasbourg (seniority: 55)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 55),23470-US-New York (seniority: 5)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 270: 16 blocks in 16 slots, 0% skip rate
 * Staking activity: stake account busy due to transient stake activation: 4Qyk1WF8En3pdHueP29W7ZckPJezwaTaFBNC6gTj7mhJ
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 4),16276-FR-Strasbourg (seniority: 56)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 56),23470-US-New York (seniority: 4)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 269: 12 blocks in 16 slots, 25% skip rate
@@ -88,14 +95,14 @@
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎5000.000000000 - adding ◎22250.045097051
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 2),16276-FR-Strasbourg (seniority: 58)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 58),23470-US-New York (seniority: 2)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 267: 67 blocks in 80 slots, 17% skip rate
 * Staking activity: target stake amount: ◎27928.000825499, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: ExYPCVN6WHtiTMvYdehSdgsyaGMfqvTugo2tKrtka4Wc
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 59),23470-US-New York (seniority: 1)
+* Resident Data Center(s): 23470-US-New York (seniority: 1),16276-FR-Strasbourg (seniority: 59)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 266: 71 blocks in 128 slots, 45% skip rate

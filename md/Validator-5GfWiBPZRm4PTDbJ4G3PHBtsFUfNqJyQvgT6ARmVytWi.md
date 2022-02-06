@@ -1,17 +1,24 @@
+### [[Testnet Epoch 283|Testnet#Epoch-283]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: Good block production during epoch 282: 117 blocks in 120 slots, 3% skip rate
+* Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26700.791453828 - removing ◎327.950790486
+* Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
+* Data Center: 19318-US-Secaucus
+* Resident Data Center(s): 19318-US-Secaucus (seniority: 16),15440-LT-Vilnius (seniority: 4)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 281: 68 blocks in 68 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26453.275693558 - removing ◎21.338659220
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 15440-LT-Vilnius (seniority: 5),19318-US-Secaucus (seniority: 15)
+* Resident Data Center(s): 19318-US-Secaucus (seniority: 15),15440-LT-Vilnius (seniority: 5)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 280: 98 blocks in 100 slots, 2% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26387.813771359 - removing ◎202.965567555
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 15440-LT-Vilnius (seniority: 6),19318-US-Secaucus (seniority: 14)
+* Resident Data Center(s): 19318-US-Secaucus (seniority: 14),15440-LT-Vilnius (seniority: 6)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 279: 110 blocks in 132 slots, 17% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26609.004050221 - removing ◎138.991300134
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 19318-US-Secaucus (seniority: 12),15440-LT-Vilnius (seniority: 8)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 8),19318-US-Secaucus (seniority: 12)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 277: 108 blocks in 112 slots, 4% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26606.772481319 - removing ◎258.193034415
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 19318-US-Secaucus (seniority: 10),15440-LT-Vilnius (seniority: 10)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 10),19318-US-Secaucus (seniority: 10)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 275: 99 blocks in 100 slots, 1% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26716.024497115 - removing ◎205.505446341
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 19318-US-Secaucus (seniority: 7),15440-LT-Vilnius (seniority: 13)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 13),19318-US-Secaucus (seniority: 7)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 271: 80 blocks in 80 slots, 0% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 8bZNkH59Mqa1Ptoi62ntdTZnWFSdgUfQbpcaoJ8pKWnH
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 15440-LT-Vilnius (seniority: 14),19318-US-Secaucus (seniority: 6)
+* Resident Data Center(s): 19318-US-Secaucus (seniority: 6),15440-LT-Vilnius (seniority: 14)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 270: 134 blocks in 140 slots, 5% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎28209.737213941, current stake amount: ◎5049.936298954 - reserve depleted
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 19318-US-Secaucus
-* Resident Data Center(s): 19318-US-Secaucus (seniority: 1),15440-LT-Vilnius (seniority: 19),8369-RU-Chelyabinsk (seniority: 1)
+* Resident Data Center(s): 8369-RU-Chelyabinsk (seniority: 1),19318-US-Secaucus (seniority: 1),15440-LT-Vilnius (seniority: 19)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 265: 181 blocks in 340 slots, 47% skip rate
@@ -263,7 +270,7 @@
 * Staking activity: target stake amount: ◎38954.979182110, current stake amount: ◎38547.266800443 - reserve depleted
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 15440-LT-Vilnius
-* Resident Data Center(s): 15440-LT-Vilnius (seniority: 6),8369-RU-Chelyabinsk (seniority: 2),16276-FR-Gravelines (seniority: 2)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 6),16276-FR-Gravelines (seniority: 2),8369-RU-Chelyabinsk (seniority: 2)
 ### [[Testnet Epoch 243|Testnet#Epoch-243]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 242: 140 blocks in 164 slots, 15% skip rate
@@ -277,14 +284,14 @@
 * Staking activity: target stake amount: ◎39492.751969070, current stake amount: ◎42019.806319746 - removing ◎2527.054350676
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 15440-LT-Vilnius
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),15440-LT-Vilnius (seniority: 4),8369-RU-Chelyabinsk (seniority: 4)
+* Resident Data Center(s): 8369-RU-Chelyabinsk (seniority: 4),15440-LT-Vilnius (seniority: 4),16276-FR-Gravelines (seniority: 4)
 ### [[Testnet Epoch 241|Testnet#Epoch-241]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 240: 207 blocks in 216 slots, 5% skip rate
 * Staking activity: target stake amount: ◎46791.742268086, current stake amount: ◎41539.356805347 - reserve depleted
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 15440-LT-Vilnius
-* Resident Data Center(s): 15440-LT-Vilnius (seniority: 3),16276-FR-Gravelines (seniority: 5),8369-RU-Chelyabinsk (seniority: 5)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 3),8369-RU-Chelyabinsk (seniority: 5),16276-FR-Gravelines (seniority: 5)
 ### [[Testnet Epoch 238|Testnet#Epoch-238]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 237: 192 blocks in 212 slots, 10% skip rate
@@ -326,7 +333,7 @@
 * Staking activity: target stake amount: ◎43216.827663833, current stake amount: ◎42402.935264704 - reserve depleted
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 5),8369-RU-Chelyabinsk (seniority: 11)
+* Resident Data Center(s): 8369-RU-Chelyabinsk (seniority: 11),16276-FR-Gravelines (seniority: 5)
 ### [[Testnet Epoch 232|Testnet#Epoch-232]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 231: 18 blocks in 20 slots, 10% skip rate
@@ -354,7 +361,7 @@
 * Staking activity: target stake amount: ◎42859.842037136, current stake amount: ◎5058.883400309 - reserve depleted
 * Vote account address: ACvzpj5bha6hXMcaGRMkA1tsE1Vu75jssAY4nAiJjFgb
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 8369-RU-Chelyabinsk (seniority: 15),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),8369-RU-Chelyabinsk (seniority: 15)
 ### [[Testnet Epoch 228|Testnet#Epoch-228]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 227: 65 blocks in 220 slots, 71% skip rate

@@ -1,17 +1,24 @@
+### [[Testnet Epoch 283|Testnet#Epoch-283]]
+* Stake level: **Bonus** (for 31 epochs)
+* Stake reason: Good block production during epoch 282: 127 blocks in 128 slots, 1% skip rate
+* Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
+* Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
+* Data Center: 19318-US-America/Chicago
+* Resident Data Center(s): 19318-US-America/Chicago (seniority: 3),21409-FR-Paris (seniority: 11)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 281: 107 blocks in 124 slots, 14% skip rate
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 19318-US-America/Chicago
-* Resident Data Center(s): 21409-FR-Paris (seniority: 12),19318-US-America/Chicago (seniority: 2)
+* Resident Data Center(s): 19318-US-America/Chicago (seniority: 2),21409-FR-Paris (seniority: 12)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 280: 160 blocks in 168 slots, 5% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 19318-US-America/Chicago
-* Resident Data Center(s): 19318-US-America/Chicago (seniority: 1),21409-FR-Paris (seniority: 13)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 13),19318-US-America/Chicago (seniority: 1)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 279: 178 blocks in 188 slots, 6% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 8560-US-Abington (seniority: 2),21409-FR-Paris (seniority: 11)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 11),8560-US-Abington (seniority: 2)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 275: 156 blocks in 164 slots, 5% skip rate
@@ -74,21 +81,21 @@
 * Staking activity: stake account busy due to transient stake activation: DU7yitwQ6LhHhE7XbGaJGwvKL8BnAYAJFNdnmXBW2iVL
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 8560-US-Abington (seniority: 7),21409-FR-Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 6),8560-US-Abington (seniority: 7)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 269: 139 blocks in 172 slots, 20% skip rate
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 8560-US-Abington (seniority: 8),21409-FR-Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 5),8560-US-Abington (seniority: 8)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 268: 164 blocks in 172 slots, 5% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 8560-US-Abington (seniority: 9),21409-FR-Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 4),8560-US-Abington (seniority: 9)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 267: 150 blocks in 152 slots, 2% skip rate

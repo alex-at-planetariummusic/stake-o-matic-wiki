@@ -1,3 +1,9 @@
+### [[Testnet Epoch 283|Testnet#Epoch-283]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 225944 credits earned in epoch 282
+* Staking activity: creating new stake account 5nixm376S2b2urWFaDrsknz8W9ENdGiLCAXkaYpFSMfd
+* Vote account address: 49LBADDHU2SV7afUiVcxREHCpLryMHG9urNNLs9wQH9e
+* Data Center: 21409-FR-Europe/Paris
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **None** (for 7 epochs)
 * Stake reason: Insufficient vote credits: 0 credits earned in epoch 281

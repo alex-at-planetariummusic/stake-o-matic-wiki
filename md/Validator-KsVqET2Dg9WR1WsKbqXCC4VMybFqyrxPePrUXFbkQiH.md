@@ -1,3 +1,10 @@
+### [[Testnet Epoch 283|Testnet#Epoch-283]]
+* Stake level: **Bonus** (for 40 epochs)
+* Stake reason: Good block production during epoch 282: 129 blocks in 132 slots, 3% skip rate
+* Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
+* Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
+* Data Center: 39927-RU-Kemerovo
+* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 10),39927-RU-Kemerovo (seniority: 11)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 281: 137 blocks in 144 slots, 5% skip rate
@@ -25,14 +32,14 @@
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
 * Data Center: 39927-RU-Kemerovo
-* Resident Data Center(s): 39927-RU-Kemerovo (seniority: 7),47433-RU-Kemerovo (seniority: 14)
+* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 14),39927-RU-Kemerovo (seniority: 7)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 277: 132 blocks in 140 slots, 6% skip rate
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
 * Data Center: 39927-RU-Kemerovo
-* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 15),39927-RU-Kemerovo (seniority: 6)
+* Resident Data Center(s): 39927-RU-Kemerovo (seniority: 6),47433-RU-Kemerovo (seniority: 15)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 276: 110 blocks in 116 slots, 6% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
 * Data Center: 39927-RU-Kemerovo
-* Resident Data Center(s): 39927-RU-Kemerovo (seniority: 4),47433-RU-Kemerovo (seniority: 17)
+* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 17),39927-RU-Kemerovo (seniority: 4)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 273: 147 blocks in 148 slots, 1% skip rate
 * Staking activity: stake account busy due to transient stake activation: 29MkGxbtzXmTGJAtA7UAKH9xGsHJysH2ziXB9zMrvHop
 * Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
 * Data Center: 39927-RU-Kemerovo
-* Resident Data Center(s): 39927-RU-Kemerovo (seniority: 3),47433-RU-Kemerovo (seniority: 18)
+* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 18),39927-RU-Kemerovo (seniority: 3)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 272: 73 blocks in 132 slots, 45% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 29MkGxbtzXmTGJAtA7UAKH9xGsHJysH2ziXB9zMrvHop
 * Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
 * Data Center: 39927-RU-Kemerovo
-* Resident Data Center(s): 39927-RU-Kemerovo (seniority: 1),47433-RU-Kemerovo (seniority: 20)
+* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 20),39927-RU-Kemerovo (seniority: 1)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 270: 110 blocks in 112 slots, 2% skip rate
@@ -81,21 +88,21 @@
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
 * Data Center: 47433-RU-Kemerovo
-* Resident Data Center(s): 39927-RU-Kemerovo (seniority: 1),47433-RU-Kemerovo (seniority: 20)
+* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 20),39927-RU-Kemerovo (seniority: 1)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 268: 107 blocks in 152 slots, 30% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
 * Data Center: 47433-RU-Kemerovo
-* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 19),39927-RU-Kemerovo (seniority: 2)
+* Resident Data Center(s): 39927-RU-Kemerovo (seniority: 2),47433-RU-Kemerovo (seniority: 19)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 267: 118 blocks in 168 slots, 30% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 29MkGxbtzXmTGJAtA7UAKH9xGsHJysH2ziXB9zMrvHop
 * Vote account address: 9A8u44zT6UgBFBk2QMoDUoH7sKm7ww5infBdm3RPqk3j
 * Data Center: 47433-RU-Kemerovo
-* Resident Data Center(s): 39927-RU-Kemerovo (seniority: 3),47433-RU-Kemerovo (seniority: 18)
+* Resident Data Center(s): 47433-RU-Kemerovo (seniority: 18),39927-RU-Kemerovo (seniority: 3)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 266: 115 blocks in 164 slots, 30% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 283|Testnet#Epoch-283]]
+* Stake level: **Bonus** (for 10 epochs)
+* Stake reason: Good block production during epoch 282: 149 blocks in 172 slots, 14% skip rate
+* Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26124.401452057 - adding ◎248.439211285
+* Vote account address: PVYAQCaU3srkHWf4RYuiC2m74XTB9t2u1pTMFDFTPPq
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 20)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 281: 108 blocks in 148 slots, 28% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: PVYAQCaU3srkHWf4RYuiC2m74XTB9t2u1pTMFDFTPPq
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),51604-RU-Yekaterinburg (seniority: 1)
+* Resident Data Center(s): 51604-RU-Yekaterinburg (seniority: 1),24940-DE-Nuremburg (seniority: 5)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 263: 142 blocks in 156 slots, 9% skip rate
@@ -137,28 +144,28 @@
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: PVYAQCaU3srkHWf4RYuiC2m74XTB9t2u1pTMFDFTPPq
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),51604-RU-Yekaterinburg (seniority: 4)
+* Resident Data Center(s): 51604-RU-Yekaterinburg (seniority: 4),24940-DE-Nuremburg (seniority: 2)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 260: 140 blocks in 184 slots, 24% skip rate
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: PVYAQCaU3srkHWf4RYuiC2m74XTB9t2u1pTMFDFTPPq
 * Data Center: 51604-RU-Yekaterinburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),51604-RU-Yekaterinburg (seniority: 5)
+* Resident Data Center(s): 51604-RU-Yekaterinburg (seniority: 5),24940-DE-Nuremburg (seniority: 1)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 259: 112 blocks in 136 slots, 18% skip rate
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: PVYAQCaU3srkHWf4RYuiC2m74XTB9t2u1pTMFDFTPPq
 * Data Center: 51604-RU-Yekaterinburg
-* Resident Data Center(s): 51604-RU-Yekaterinburg (seniority: 4),24940-DE-Nuremburg (seniority: 2)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),51604-RU-Yekaterinburg (seniority: 4)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 258: 174 blocks in 204 slots, 15% skip rate
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: PVYAQCaU3srkHWf4RYuiC2m74XTB9t2u1pTMFDFTPPq
 * Data Center: 51604-RU-Yekaterinburg
-* Resident Data Center(s): 51604-RU-Yekaterinburg (seniority: 3),24940-DE-Nuremburg (seniority: 3)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),51604-RU-Yekaterinburg (seniority: 3)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 257: 176 blocks in 188 slots, 7% skip rate
@@ -172,7 +179,7 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: PVYAQCaU3srkHWf4RYuiC2m74XTB9t2u1pTMFDFTPPq
 * Data Center: 51604-RU-Yekaterinburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),51604-RU-Yekaterinburg (seniority: 1)
+* Resident Data Center(s): 51604-RU-Yekaterinburg (seniority: 1),24940-DE-Nuremburg (seniority: 5)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 255: 146 blocks in 188 slots, 23% skip rate
