@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 276: 10 blocks in 12 slots, 17% skip rate
+* Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎25004.803859836 - reserve depleted
+* Vote account address: HK8x8tP8QkCQydvjCe1nQHPM9oFa51ogG8U1pYXqUskd
+* Data Center: 207143-CH-Richterswil
+* Resident Data Center(s): 207143-CH-Richterswil (seniority: 1)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 313216 credits earned in epoch 275
