@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 283: 199 blocks in 284 slots, 30% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: gsTcLxSMkfZHxh1zDqEiXgA1A8Hpd4vzQXPcJT4TQj1
+* Vote account address: FGPACQFmUgDSKL2VJYmGfTtRy7CcsR9weFLy2FFwDJ8e
+* Data Center: 23470-US-Los Angeles
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 9),23470-US-Los Angeles (seniority: 2)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 282: 196 blocks in 264 slots, 26% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: FGPACQFmUgDSKL2VJYmGfTtRy7CcsR9weFLy2FFwDJ8e
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 10),23470-US-New York (seniority: 1)
+* Resident Data Center(s): 23470-US-New York (seniority: 1),23470-US-America/Chicago (seniority: 10)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 279: 128 blocks in 196 slots, 35% skip rate

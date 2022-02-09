@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 283: 100 blocks in 124 slots, 20% skip rate
+* Staking activity: target stake amount: ◎26351.387947117, current stake amount: ◎5000.000000000 - reserve depleted
+* Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
+* Data Center: 52000-NL-Dronten
+* Resident Data Center(s): 52000-NL-Dronten (seniority: 1)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 282: 2 blocks in 8 slots, 75% skip rate
@@ -23,7 +30,7 @@
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-RU-Moscow
-* Resident Data Center(s): 52000-NL-Meppel (seniority: 1),52000-RU-Moscow (seniority: 2)
+* Resident Data Center(s): 52000-RU-Moscow (seniority: 2),52000-NL-Meppel (seniority: 1)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 278: 12 blocks in 20 slots, 40% skip rate
@@ -37,14 +44,14 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎26348.579446904 - removing ◎21348.579446904
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-RU-Moscow
-* Resident Data Center(s): 52000-NL-Meppel (seniority: 3),52000-RU-Moscow (seniority: 2)
+* Resident Data Center(s): 52000-RU-Moscow (seniority: 2),52000-NL-Meppel (seniority: 3)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 276: 110 blocks in 132 slots, 17% skip rate
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎5000.000000000 - adding ◎21348.579446904
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-RU-Moscow
-* Resident Data Center(s): 52000-RU-Moscow (seniority: 3),52000-NL-Meppel (seniority: 4)
+* Resident Data Center(s): 52000-NL-Meppel (seniority: 4),52000-RU-Moscow (seniority: 3)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 275: 23 blocks in 28 slots, 18% skip rate
@@ -58,7 +65,7 @@
 * Staking activity: stake account busy due to transient stake activation: 4yrpSaf6YZhtUY4jD2sNjyKtQXRm47NGs6AAoP8Zjkx3
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-RU-Moscow
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 2),52000-NL-Meppel (seniority: 6),52000-RU-Moscow (seniority: 1)
+* Resident Data Center(s): 52000-RU-Moscow (seniority: 1),52000-NL-Meppel (seniority: 6),24961-DE-Düsseldorf (seniority: 2)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 272: 23 blocks in 28 slots, 18% skip rate
@@ -86,7 +93,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-NL-Meppel
-* Resident Data Center(s): 52000-NL-Meppel (seniority: 8),24961-DE-Düsseldorf (seniority: 6)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 6),52000-NL-Meppel (seniority: 8)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: Poor block production during epoch 268: 4 blocks in 12 slots, 67% skip rate
@@ -100,14 +107,14 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-NL-Meppel
-* Resident Data Center(s): 52000-NL-Meppel (seniority: 10),24961-DE-Düsseldorf (seniority: 8)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 8),52000-NL-Meppel (seniority: 10)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 266: 72 blocks in 140 slots, 49% skip rate
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-NL-Meppel
-* Resident Data Center(s): 52000-NL-Meppel (seniority: 11),24961-DE-Düsseldorf (seniority: 9)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 9),52000-NL-Meppel (seniority: 11)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 265: 134 blocks in 192 slots, 31% skip rate
@@ -156,7 +163,7 @@
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-NL-Meppel
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 16),52000-NL-Meppel (seniority: 8)
+* Resident Data Center(s): 52000-NL-Meppel (seniority: 8),24961-DE-Düsseldorf (seniority: 16)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 258: 143 blocks in 176 slots, 19% skip rate
@@ -177,7 +184,7 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-NL-Meppel
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 19),52000-NL-Meppel (seniority: 5)
+* Resident Data Center(s): 52000-NL-Meppel (seniority: 5),24961-DE-Düsseldorf (seniority: 19)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 255: 20 blocks in 24 slots, 17% skip rate
@@ -198,14 +205,14 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎5000.000000000 - adding ◎28068.373512476
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-NL-Meppel
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 22),52000-NL-Meppel (seniority: 2)
+* Resident Data Center(s): 52000-NL-Meppel (seniority: 2),24961-DE-Düsseldorf (seniority: 22)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 252: 120 blocks in 148 slots, 19% skip rate
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 2MB5rMt2PwqdPrCkBngRv18m1hMTqY2pF3EwXBAtyaBG
 * Data Center: 52000-NL-Meppel
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 23),52000-NL-Meppel (seniority: 1)
+* Resident Data Center(s): 52000-NL-Meppel (seniority: 1),24961-DE-Düsseldorf (seniority: 23)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 251: 97 blocks in 192 slots, 50% skip rate

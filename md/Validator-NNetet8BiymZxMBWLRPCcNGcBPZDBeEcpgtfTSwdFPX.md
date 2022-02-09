@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 51991 credits earned in epoch 283
+* Staking activity: stake account busy due to transient stake deactivation: GBcBAFTM2MvCH86FbZWks6DoLuC6tBN6znLSt9iAaJYZ
+* Vote account address: GFA6pjxZziBivQftE4XrtL3rtgvAbrF8VscSJSETbM1
+* Data Center: 39310-PL-Laszczki
+* Resident Data Center(s): 39310-PL-Laszczki (seniority: 70)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 282: 263 blocks in 380 slots, 31% skip rate

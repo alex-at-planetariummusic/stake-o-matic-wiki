@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 283: 64 blocks in 108 slots, 41% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: CxTENwSHbiWRfhWu7eTMvARfHmddsek7y5iGSWresktR
+* Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 19),201814-PL-Europe/Warsaw (seniority: 6)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 282: 58 blocks in 92 slots, 37% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎26124.401452057 - removing ◎21124.401452057
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 4),16276-CA-Beauharnois (seniority: 21)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 21),201814-PL-Europe/Warsaw (seniority: 4)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 56 epochs)
 * Stake reason: Good block production during epoch 280: 109 blocks in 144 slots, 25% skip rate
@@ -39,28 +46,28 @@
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 25),201814-PL-Europe/Warsaw (seniority: 2)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 2),16276-CA-Beauharnois (seniority: 25)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 52 epochs)
 * Stake reason: Good block production during epoch 276: 109 blocks in 132 slots, 18% skip rate
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),16276-CA-Beauharnois (seniority: 26),24872-UA-Bila Tserkva (seniority: 1)
+* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 1),201814-PL-Europe/Warsaw (seniority: 1),16276-CA-Beauharnois (seniority: 26)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 51 epochs)
 * Stake reason: Good block production during epoch 275: 170 blocks in 180 slots, 6% skip rate
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 2),16276-CA-Beauharnois (seniority: 27)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 27),24872-UA-Bila Tserkva (seniority: 2)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 273: 125 blocks in 140 slots, 11% skip rate
 * Staking activity: stake account busy due to transient stake activation: CxTENwSHbiWRfhWu7eTMvARfHmddsek7y5iGSWresktR
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 3),16276-CA-Beauharnois (seniority: 26)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 26),24872-UA-Bila Tserkva (seniority: 3)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 49 epochs)
 * Stake reason: Good block production during epoch 272: 91 blocks in 120 slots, 25% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: stake account busy due to transient stake activation: CxTENwSHbiWRfhWu7eTMvARfHmddsek7y5iGSWresktR
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 6),16276-CA-Beauharnois (seniority: 23)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 23),24872-UA-Bila Tserkva (seniority: 6)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 46 epochs)
 * Stake reason: Good block production during epoch 269: 133 blocks in 144 slots, 8% skip rate
@@ -102,21 +109,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: CxTENwSHbiWRfhWu7eTMvARfHmddsek7y5iGSWresktR
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 20),24872-UA-Bila Tserkva (seniority: 9)
+* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 9),16276-CA-Beauharnois (seniority: 20)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 266: 120 blocks in 128 slots, 7% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: CxTENwSHbiWRfhWu7eTMvARfHmddsek7y5iGSWresktR
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 10),16276-CA-Beauharnois (seniority: 19)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 19),24872-UA-Bila Tserkva (seniority: 10)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 265: 144 blocks in 156 slots, 8% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎28521.877427565 - adding ◎247.688059757
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 11),16276-CA-Beauharnois (seniority: 18)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 18),24872-UA-Bila Tserkva (seniority: 11)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 264: 163 blocks in 176 slots, 8% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 15),16276-CA-Beauharnois (seniority: 14)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 14),24872-UA-Bila Tserkva (seniority: 15)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 260: 156 blocks in 172 slots, 10% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 20),16276-CA-Beauharnois (seniority: 9)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 9),24872-UA-Bila Tserkva (seniority: 20)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 255: 140 blocks in 148 slots, 6% skip rate
@@ -200,7 +207,7 @@
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 6),24872-UA-Bila Tserkva (seniority: 23)
+* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 23),16276-CA-Beauharnois (seniority: 6)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 252: 124 blocks in 132 slots, 7% skip rate
@@ -214,7 +221,7 @@
 * Staking activity: target stake amount: ◎34371.402685853, current stake amount: ◎34324.243729506 - adding ◎47.158956347
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 4),24872-UA-Bila Tserkva (seniority: 25)
+* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 25),16276-CA-Beauharnois (seniority: 4)
 ### [[Testnet Epoch 251|Testnet#Epoch-251]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 250: 178 blocks in 180 slots, 2% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: target stake amount: ◎34324.243729506, current stake amount: ◎34916.925891894 - removing ◎592.682162388
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 27),16276-CA-Beauharnois (seniority: 2)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),24872-UA-Bila Tserkva (seniority: 27)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 248: 158 blocks in 176 slots, 11% skip rate
@@ -452,7 +459,7 @@
 * Staking activity: target stake amount: ◎44295.045998223, current stake amount: ◎5000.000000000 - adding ◎39295.045998223
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 24872-UA-Bila Tserkva
-* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 3),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24872-UA-Bila Tserkva (seniority: 3)
 ### [[Testnet Epoch 209|Testnet#Epoch-209]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 208: 181 blocks in 260 slots, 31% skip rate
@@ -466,7 +473,7 @@
 * Staking activity: target stake amount: ◎45419.309366491, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 4fLD9JRECjDgVzENu2Zum4BZwYH5dJRqhCkTV6UPwW4K
 * Data Center: 24872-UA-Bila Tserkva
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),24872-UA-Bila Tserkva (seniority: 1)
+* Resident Data Center(s): 24872-UA-Bila Tserkva (seniority: 1),24940-DE-Falkenstein (seniority: 3)
 ### [[Testnet Epoch 207|Testnet#Epoch-207]]
 * Stake level: **Baseline**
 * Stake reason: poor block production during epoch 206: 92 blocks in 224 slots, 59% skip rate

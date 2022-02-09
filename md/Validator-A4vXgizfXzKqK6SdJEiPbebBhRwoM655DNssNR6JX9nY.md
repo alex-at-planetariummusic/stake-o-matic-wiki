@@ -1,10 +1,17 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 24 epochs)
+* Stake reason: Good block production during epoch 283: 77 blocks in 84 slots, 9% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 7XFRfKVxeypQayfhNWsGYpCNEDGDgCVZRKcSg9fJqvGq
+* Vote account address: 31QfxtvZ1Araxst8kTgWvmf5wZuNu7TM6taFQtND9eEj
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 16),16276-DE-Frankfurt (seniority: 4)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 282: 146 blocks in 148 slots, 2% skip rate
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
 * Vote account address: 31QfxtvZ1Araxst8kTgWvmf5wZuNu7TM6taFQtND9eEj
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 3),16276-FR-Roubaix (seniority: 17)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 17),16276-DE-Frankfurt (seniority: 3)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 281: 118 blocks in 124 slots, 5% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: 31QfxtvZ1Araxst8kTgWvmf5wZuNu7TM6taFQtND9eEj
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1),16276-FR-Roubaix (seniority: 19)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 19),16276-DE-Frankfurt (seniority: 1)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 279: 137 blocks in 144 slots, 5% skip rate

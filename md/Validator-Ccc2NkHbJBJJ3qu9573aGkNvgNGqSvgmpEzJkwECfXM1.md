@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 283: 19 blocks in 28 slots, 33% skip rate
+* Staking activity: stake account busy due to transient stake activation: 2Q7bBsaEQF9xc8bhDF1JShVb6M2CbT2eetwMTT8fxpDF
+* Vote account address: DjVgKDZnBMcpFqqmJgnShcpzctNjJu19ZqftuJuktKpb
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 13)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 282: 77 blocks in 120 slots, 36% skip rate

@@ -1,10 +1,17 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 283: 92 blocks in 104 slots, 12% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: EPCYzmh1FX2zbmnrAz8qQCguXwRNUCz6oGuyd7LVmdRY
+* Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
+* Data Center: 8334-RU-Moscow
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15),8334-RU-Moscow (seniority: 9)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 282: 120 blocks in 136 slots, 12% skip rate
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26124.401452057 - adding ◎248.439211285
 * Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
 * Data Center: 8334-RU-Moscow
-* Resident Data Center(s): 8334-RU-Moscow (seniority: 8),24940-FI-Helsinki (seniority: 16)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),8334-RU-Moscow (seniority: 8)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 281: 39 blocks in 44 slots, 12% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
 * Data Center: 8334-RU-Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 18),8334-RU-Moscow (seniority: 6)
+* Resident Data Center(s): 8334-RU-Moscow (seniority: 6),24940-FI-Helsinki (seniority: 18)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 279: 54 blocks in 60 slots, 10% skip rate
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎5000.000000000 - adding ◎21124.401452057
 * Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
 * Data Center: 8334-RU-Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 19),8334-RU-Moscow (seniority: 5)
+* Resident Data Center(s): 8334-RU-Moscow (seniority: 5),24940-FI-Helsinki (seniority: 19)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 278: 145 blocks in 156 slots, 8% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎26333.745067376 - removing ◎21333.745067376
 * Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
 * Data Center: 8334-RU-Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 22),8334-RU-Moscow (seniority: 4)
+* Resident Data Center(s): 8334-RU-Moscow (seniority: 4),24940-FI-Helsinki (seniority: 22)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 275: 12 blocks in 16 slots, 25% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎26762.483150301, current stake amount: ◎1.000000000 - reserve depleted
 * Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
 * Data Center: 8334-RU-Moscow
-* Resident Data Center(s): 8334-RU-Moscow (seniority: 4),24940-FI-Helsinki (seniority: 24)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 24),8334-RU-Moscow (seniority: 4)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Outdated Solana release: 1.9.2
@@ -81,7 +88,7 @@
 * Staking activity: stake account busy due to transient stake activation: EPCYzmh1FX2zbmnrAz8qQCguXwRNUCz6oGuyd7LVmdRY
 * Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
 * Data Center: 8334-RU-Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 27),8334-RU-Moscow (seniority: 5)
+* Resident Data Center(s): 8334-RU-Moscow (seniority: 5),24940-FI-Helsinki (seniority: 27)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 269: 39 blocks in 40 slots, 3% skip rate
@@ -102,14 +109,14 @@
 * Staking activity: stake account busy due to transient stake activation: EPCYzmh1FX2zbmnrAz8qQCguXwRNUCz6oGuyd7LVmdRY
 * Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
 * Data Center: 8334-RU-Moscow
-* Resident Data Center(s): 8334-RU-Moscow (seniority: 2),24940-FI-Helsinki (seniority: 30)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 30),8334-RU-Moscow (seniority: 2)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 266: 138 blocks in 148 slots, 7% skip rate
 * Staking activity: target stake amount: ◎28209.737213941, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 2RUVhPQRH99VZn1qN83XVCdbEEokbfhBhcMK2b79D99k
 * Data Center: 8334-RU-Moscow
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 31),8334-RU-Moscow (seniority: 1)
+* Resident Data Center(s): 8334-RU-Moscow (seniority: 1),24940-FI-Helsinki (seniority: 31)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 265: 79 blocks in 160 slots, 51% skip rate

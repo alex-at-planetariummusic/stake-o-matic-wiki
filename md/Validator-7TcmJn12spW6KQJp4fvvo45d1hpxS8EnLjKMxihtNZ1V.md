@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 69 epochs)
+* Stake reason: Good block production during epoch 283: 139 blocks in 144 slots, 4% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: HfAivxqL4kruwjGtB5GUjf8u1iwQX1YEBUaGRTQHdW1h
+* Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
+* Data Center: 2588-LV-Riga
+* Resident Data Center(s): 2588-LV-Riga (seniority: 67)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 282: 128 blocks in 140 slots, 9% skip rate
@@ -410,28 +417,28 @@
 * Staking activity: stake account busy due to transient stake deactivation: HfAivxqL4kruwjGtB5GUjf8u1iwQX1YEBUaGRTQHdW1h
 * Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 10),20910-LV-Riga (seniority: 1)
+* Resident Data Center(s): 20910-LV-Riga (seniority: 1),2588-LV-Riga (seniority: 10)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 215: 209 blocks in 232 slots, 10% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account HfAivxqL4kruwjGtB5GUjf8u1iwQX1YEBUaGRTQHdW1h
 * Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 20910-LV-Riga (seniority: 2),2588-LV-Riga (seniority: 9)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 9),20910-LV-Riga (seniority: 2)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 214: 203 blocks in 276 slots, 27% skip rate
 * Staking activity: stake account busy due to transient stake activation: HfAivxqL4kruwjGtB5GUjf8u1iwQX1YEBUaGRTQHdW1h
 * Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 2588-LV-Riga (seniority: 8),20910-LV-Riga (seniority: 3)
+* Resident Data Center(s): 20910-LV-Riga (seniority: 3),2588-LV-Riga (seniority: 8)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 213: 189 blocks in 212 slots, 11% skip rate
 * Staking activity: target stake amount: ◎49662.224172391, current stake amount: ◎43604.704342558 - reserve depleted
 * Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 20910-LV-Riga (seniority: 4),2588-LV-Riga (seniority: 7)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 7),20910-LV-Riga (seniority: 4)
 ### [[Testnet Epoch 213|Testnet#Epoch-213]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 212: 273 blocks in 340 slots, 20% skip rate
@@ -459,7 +466,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account HfAivxqL4kruwjGtB5GUjf8u1iwQX1YEBUaGRTQHdW1h
 * Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 20910-LV-Riga (seniority: 8),2588-LV-Riga (seniority: 3)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 3),20910-LV-Riga (seniority: 8)
 ### [[Testnet Epoch 208|Testnet#Epoch-208]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 207: 97 blocks in 176 slots, 45% skip rate
@@ -473,7 +480,7 @@
 * Staking activity: target stake amount: ◎46644.025953063, current stake amount: ◎5000.661523702 - reserve depleted
 * Vote account address: ALUHwye9uSbJXMsUrPBdJ9q3cKNdxbigce3sqSCPdNGi
 * Data Center: 2588-LV-Riga
-* Resident Data Center(s): 20910-LV-Riga (seniority: 10),2588-LV-Riga (seniority: 1)
+* Resident Data Center(s): 2588-LV-Riga (seniority: 1),20910-LV-Riga (seniority: 10)
 ### [[Testnet Epoch 206|Testnet#Epoch-206]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: poor block production during epoch 205: 43 blocks in 228 slots, 82% skip rate

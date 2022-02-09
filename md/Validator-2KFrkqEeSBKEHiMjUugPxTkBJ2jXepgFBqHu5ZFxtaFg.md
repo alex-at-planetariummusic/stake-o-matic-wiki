@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 283: 71 blocks in 96 slots, 27% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 7zU3FTis7Z59pfJ5USvfniVaU7mTEzog77e3K9ii93tD
+* Vote account address: 8cjaVfnwBTwPPjTSUKTx9j4QEdfyV66wmXX1PViimwwd
+* Data Center: 19318-US-Secaucus
+* Resident Data Center(s): 19318-US-Secaucus (seniority: 3),16276-FR-Strasbourg (seniority: 50)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 282: 75 blocks in 92 slots, 19% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: 8cjaVfnwBTwPPjTSUKTx9j4QEdfyV66wmXX1PViimwwd
 * Data Center: 19318-US-Cassville
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 1),16276-FR-Strasbourg (seniority: 53),19318-US-Cassville (seniority: 1)
+* Resident Data Center(s): 19318-US-Cassville (seniority: 1),23470-US-Piscataway (seniority: 1),16276-FR-Strasbourg (seniority: 53)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: No leader slots; 273163 credits earned in epoch 279
@@ -207,7 +214,7 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: 8cjaVfnwBTwPPjTSUKTx9j4QEdfyV66wmXX1PViimwwd
 * Data Center: 43773-UA-Europe/Kiev
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 38),43773-UA-Europe/Kiev (seniority: 1)
+* Resident Data Center(s): 43773-UA-Europe/Kiev (seniority: 1),16276-FR-Strasbourg (seniority: 38)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 38 epochs)
 * Stake reason: Good block production during epoch 251: 158 blocks in 160 slots, 2% skip rate

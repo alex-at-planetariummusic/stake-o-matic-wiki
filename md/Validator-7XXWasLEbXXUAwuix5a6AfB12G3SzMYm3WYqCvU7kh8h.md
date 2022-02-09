@@ -1,3 +1,9 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Baseline**
+* Stake reason: No leader slots; 279137 credits earned in epoch 283
+* Staking activity: stake account busy due to transient stake activation: CyMdr3QegZLK2pk1vCohUesxgPGzpnsZcJcsykqiqiZN
+* Vote account address: DQZBxMLFrFNupnPbsApj5CAUxuZUdwjqJyNwYgUQXZb2
+* Data Center: 16276-FR-Gravelines
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 101333 credits earned in epoch 282

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: Poor block production during epoch 283: 5 blocks in 36 slots, 87% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.522854838 - not removing ◎0.522854838 (amount too small)
+* Vote account address: Ea9y4VDK986DP3CZ6FbnjLr4EeM9SvymHQkqNxzwYn9
+* Data Center: 23470-US-New Haven
+* Resident Data Center(s): 23470-US-New Haven (seniority: 5)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: Poor block production during epoch 282: 67 blocks in 132 slots, 50% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26425.192716956 - reserve depleted
 * Vote account address: Ea9y4VDK986DP3CZ6FbnjLr4EeM9SvymHQkqNxzwYn9
 * Data Center: 23470-US-New Haven
-* Resident Data Center(s): 23470-US-Miami (seniority: 2),23470-US-New Haven (seniority: 3)
+* Resident Data Center(s): 23470-US-New Haven (seniority: 3),23470-US-Miami (seniority: 2)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 271: 163 blocks in 164 slots, 1% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: No leader slots; 277349 credits earned in epoch 283
+* Staking activity: stake account busy due to transient stake deactivation: EYPkoYmfVc7ZEZJJdwsfg7B74EzK14Njh4SvsWVR5sJP
+* Vote account address: DdJPb4X4hDVzTGWYosX4CGMcbFVtPupfLyL1UbB55LVu
+* Data Center: 21409-FR-Maurepas
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 1),21409-FR-Europe/Paris (seniority: 23)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 282: 52 blocks in 52 slots, 0% skip rate

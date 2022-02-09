@@ -1,3 +1,9 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **None**
+* Stake reason: infrastructure concentration 25.5% is too high; find a new data center
+* Staking activity: stake account busy due to transient stake deactivation: 43pTmS372vmR9DtBoAvrBWk8WSDZFJgKRoG6fhZcdXWT
+* Vote account address: BoWhMPn9uvYvcnsA2ti2gG1V3fWUGuC4mSUPkABUVMJV
+* Data Center: 24940-FI-Helsinki
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 282: 20 blocks in 20 slots, 0% skip rate

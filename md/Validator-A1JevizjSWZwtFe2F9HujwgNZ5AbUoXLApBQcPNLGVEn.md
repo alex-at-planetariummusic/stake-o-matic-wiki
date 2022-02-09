@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 283: 123 blocks in 124 slots, 1% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: E4bfB9F7h6V5EscRwgcZzU74PYaKLxQTUg9MSe8vEf7t
+* Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
+* Data Center: 0-Unknown
+* Resident Data Center(s): 0-Unknown (seniority: 31)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 282: 87 blocks in 92 slots, 6% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 16),28917-RU-Fryazino (seniority: 1)
+* Resident Data Center(s): 28917-RU-Fryazino (seniority: 1),0-Unknown (seniority: 16)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 262: 175 blocks in 188 slots, 7% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 28917-RU-Fryazino (seniority: 4),0-Unknown (seniority: 13)
+* Resident Data Center(s): 0-Unknown (seniority: 13),28917-RU-Fryazino (seniority: 4)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 259: 171 blocks in 180 slots, 5% skip rate
@@ -179,28 +186,28 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 28917-RU-Fryazino (seniority: 8),0-Unknown (seniority: 9)
+* Resident Data Center(s): 0-Unknown (seniority: 9),28917-RU-Fryazino (seniority: 8)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 255: 171 blocks in 180 slots, 5% skip rate
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 28917-RU-Fryazino (seniority: 9),0-Unknown (seniority: 8)
+* Resident Data Center(s): 0-Unknown (seniority: 8),28917-RU-Fryazino (seniority: 9)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 254: 141 blocks in 152 slots, 8% skip rate
 * Staking activity: target stake amount: ◎33381.293719276, current stake amount: ◎33068.373512476 - reserve depleted
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 7),28917-RU-Fryazino (seniority: 10)
+* Resident Data Center(s): 28917-RU-Fryazino (seniority: 10),0-Unknown (seniority: 7)
 ### [[Testnet Epoch 254|Testnet#Epoch-254]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 253: 133 blocks in 156 slots, 15% skip rate
 * Staking activity: target stake amount: ◎33068.373512476, current stake amount: ◎33401.916723030 - removing ◎333.543210554
 * Vote account address: HfvUZjZwy4ods1KMHKY7X49tTcwynUUDPSH2UYdZPXRJ
 * Data Center: 0-Unknown
-* Resident Data Center(s): 0-Unknown (seniority: 6),28917-RU-Fryazino (seniority: 11)
+* Resident Data Center(s): 28917-RU-Fryazino (seniority: 11),0-Unknown (seniority: 6)
 ### [[Testnet Epoch 253|Testnet#Epoch-253]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 252: 127 blocks in 140 slots, 10% skip rate

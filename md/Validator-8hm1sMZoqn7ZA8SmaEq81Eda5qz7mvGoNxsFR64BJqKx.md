@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 283: 159 blocks in 164 slots, 4% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: F9po5ufSCwKyFC85yfhaBTaHCaJs6Qmu1QiDVe4KXEL2
+* Vote account address: BBh9hZJ2zmi847yu3n6uixfFLxqZfm4PD4MMgvBNxY49
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 282: 115 blocks in 120 slots, 5% skip rate
@@ -305,7 +312,7 @@
 * Staking activity: target stake amount: ◎40416.812091631, current stake amount: ◎41485.687353389 - removing ◎1068.875261758
 * Vote account address: BBh9hZJ2zmi847yu3n6uixfFLxqZfm4PD4MMgvBNxY49
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),16276-FR-Roubaix (seniority: 2)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),16276-CA-Beauharnois (seniority: 1)
 ### [[Testnet Epoch 236|Testnet#Epoch-236]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 235: 12 blocks in 16 slots, 25% skip rate
@@ -416,7 +423,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account F9po5ufSCwKyFC85yfhaBTaHCaJs6Qmu1QiDVe4KXEL2
 * Vote account address: BBh9hZJ2zmi847yu3n6uixfFLxqZfm4PD4MMgvBNxY49
 * Data Center: 24961-DE-Neuss
-* Resident Data Center(s): 24961-DE-Neuss (seniority: 3),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),24961-DE-Neuss (seniority: 3)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 213: 19 blocks in 20 slots, 5% skip rate
@@ -430,7 +437,7 @@
 * Staking activity: target stake amount: ◎43598.804034553, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: BBh9hZJ2zmi847yu3n6uixfFLxqZfm4PD4MMgvBNxY49
 * Data Center: 24961-DE-Neuss
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),24961-DE-Neuss (seniority: 1)
+* Resident Data Center(s): 24961-DE-Neuss (seniority: 1),24940-FI-Helsinki (seniority: 3)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 136658 credits earned in epoch 210

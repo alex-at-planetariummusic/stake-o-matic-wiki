@@ -1,10 +1,17 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 14 epochs)
+* Stake reason: Good block production during epoch 283: 100 blocks in 104 slots, 4% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: CnWd1MWoByAAUk5i76QSSh9vLzLawL5riDKkrypSz345
+* Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
+* Data Center: 3255-UA-Kyiv
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 14),49984-UA-Lviv (seniority: 18)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 282: 145 blocks in 152 slots, 5% skip rate
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 49984-UA-Lviv (seniority: 19),3255-UA-Kyiv (seniority: 13)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 13),49984-UA-Lviv (seniority: 19)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 281: 100 blocks in 144 slots, 31% skip rate
@@ -18,21 +25,21 @@
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 3255-UA-Kyiv (seniority: 11),49984-UA-Lviv (seniority: 21)
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 21),3255-UA-Kyiv (seniority: 11)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 279: 108 blocks in 116 slots, 7% skip rate
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 49984-UA-Lviv (seniority: 22),3255-UA-Kyiv (seniority: 10)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 10),49984-UA-Lviv (seniority: 22)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 278: 104 blocks in 108 slots, 4% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 49984-UA-Lviv (seniority: 23),3255-UA-Kyiv (seniority: 9)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 9),49984-UA-Lviv (seniority: 23)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 277: 110 blocks in 112 slots, 2% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26793.006692738 - removing ◎459.261625362
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 3255-UA-Kyiv (seniority: 6),49984-UA-Lviv (seniority: 26)
+* Resident Data Center(s): 49984-UA-Lviv (seniority: 26),3255-UA-Kyiv (seniority: 6)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 273: 110 blocks in 112 slots, 2% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: stake account busy due to transient stake activation: CnWd1MWoByAAUk5i76QSSh9vLzLawL5riDKkrypSz345
 * Vote account address: 5zeUtzqHWuipey58aKVc8WcBa2gvvE8dhKE1z1G9obUH
 * Data Center: 3255-UA-Kyiv
-* Resident Data Center(s): 49984-UA-Lviv (seniority: 30),3255-UA-Kyiv (seniority: 2)
+* Resident Data Center(s): 3255-UA-Kyiv (seniority: 2),49984-UA-Lviv (seniority: 30)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 269: 28 blocks in 32 slots, 13% skip rate

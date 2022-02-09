@@ -1,3 +1,10 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 13 epochs)
+* Stake reason: Good block production during epoch 283: 67 blocks in 88 slots, 24% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 2j1btv713kZ4ZnRuqQMYZDN7ogEdyo1zuVqK8z4gLAM1
+* Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
+* Data Center: 58061-GB-Europe/London
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 13),58061-NL-Meppel (seniority: 49)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 282: 130 blocks in 136 slots, 5% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26451.896885877 - removing ◎19.959851539
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-NL-Meppel (seniority: 51),58061-GB-Europe/London (seniority: 11)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 11),58061-NL-Meppel (seniority: 51)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 280: 127 blocks in 128 slots, 1% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26379.674237166 - removing ◎194.826033362
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 10),58061-NL-Meppel (seniority: 52)
+* Resident Data Center(s): 58061-NL-Meppel (seniority: 52),58061-GB-Europe/London (seniority: 10)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 279: 131 blocks in 136 slots, 4% skip rate
@@ -39,49 +46,49 @@
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26611.935954769 - removing ◎265.752575458
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 7),58061-NL-Meppel (seniority: 55)
+* Resident Data Center(s): 58061-NL-Meppel (seniority: 55),58061-GB-Europe/London (seniority: 7)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 276: 94 blocks in 96 slots, 3% skip rate
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26596.713310190 - removing ◎248.133863286
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-NL-Meppel (seniority: 56),58061-GB-Europe/London (seniority: 6)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 6),58061-NL-Meppel (seniority: 56)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 275: 108 blocks in 108 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎27032.082503090 - removing ◎698.337435714
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-NL-Meppel (seniority: 57),58061-GB-Europe/London (seniority: 5)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 5),58061-NL-Meppel (seniority: 57)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 273: 22 blocks in 24 slots, 9% skip rate
 * Staking activity: stake account busy due to transient stake activation: 2j1btv713kZ4ZnRuqQMYZDN7ogEdyo1zuVqK8z4gLAM1
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 4),58061-NL-Meppel (seniority: 58)
+* Resident Data Center(s): 58061-NL-Meppel (seniority: 58),58061-GB-Europe/London (seniority: 4)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 272: 20 blocks in 20 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-NL-Meppel (seniority: 59),58061-GB-Europe/London (seniority: 3)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 3),58061-NL-Meppel (seniority: 59)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 271: 125 blocks in 144 slots, 14% skip rate
 * Staking activity: stake account busy due to transient stake activation: 2j1btv713kZ4ZnRuqQMYZDN7ogEdyo1zuVqK8z4gLAM1
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-NL-Meppel (seniority: 60),58061-GB-Europe/London (seniority: 2)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 2),58061-NL-Meppel (seniority: 60)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 270: 72 blocks in 128 slots, 44% skip rate
 * Staking activity: target stake amount: ◎27386.758924346, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 4rjkHso2Gn5iEqFnostY3EQyeeKzwRt4B5paCsAuhdsh
 * Data Center: 58061-GB-Europe/London
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 1),58061-NL-Meppel (seniority: 61)
+* Resident Data Center(s): 58061-NL-Meppel (seniority: 61),58061-GB-Europe/London (seniority: 1)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 269: 40 blocks in 72 slots, 45% skip rate

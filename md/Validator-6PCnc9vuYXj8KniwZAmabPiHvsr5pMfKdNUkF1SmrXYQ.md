@@ -1,3 +1,11 @@
+### [[Testnet Epoch 284|Testnet#Epoch-284]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 283: 94 blocks in 100 slots, 6% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 3P2CqXBrWHHHuM7SWJCgFDyCPGFfeiEsmC6L42qREbiA
+* Vote account address: 6sm3evWMLdQ2SM6oUWdkr86dJx96yY8CN4Tw5tXjG1xA
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 21)
+* infrastructure concentration 25.5% is too high; consider finding a new data center
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 282: 87 blocks in 92 slots, 6% skip rate
