@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **Bonus** (for 22 epochs)
+* Stake reason: Good block production during epoch 277: 115 blocks in 120 slots, 5% skip rate
+* Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.984173874 - removing ◎365.708385470
+* Vote account address: DdvbBv6WuiEi4BpVTbsckRVwkJekjZumq4z2xS2shTjd
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 7),23470-US-America/Chicago (seniority: 8)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 276: 73 blocks in 80 slots, 9% skip rate
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.580160542 - removing ◎661.571876355
 * Vote account address: DdvbBv6WuiEi4BpVTbsckRVwkJekjZumq4z2xS2shTjd
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 6),23470-US-America/Chicago (seniority: 9)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 9),16276-EN-London (seniority: 6)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 275: 91 blocks in 96 slots, 6% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.708353228 - removing ◎1120.778616107
 * Vote account address: DdvbBv6WuiEi4BpVTbsckRVwkJekjZumq4z2xS2shTjd
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 4),23470-US-America/Chicago (seniority: 11)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 11),16276-EN-London (seniority: 4)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 273: 171 blocks in 176 slots, 3% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71287.417016302 - removing ◎325.988694079
 * Vote account address: DdvbBv6WuiEi4BpVTbsckRVwkJekjZumq4z2xS2shTjd
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 13),16276-EN-London (seniority: 2)
+* Resident Data Center(s): 16276-EN-London (seniority: 2),23470-US-America/Chicago (seniority: 13)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 271: 127 blocks in 140 slots, 10% skip rate

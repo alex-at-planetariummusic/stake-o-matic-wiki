@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 215498 credits earned in epoch 277
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎25006.882634901 - removing ◎25005.882634901
+* Vote account address: 2xjAQsHLsV36NLFkxdApzLg4SNqm15mNqYaBQ4xp5joh
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 51)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 276: 75 blocks in 116 slots, 36% skip rate

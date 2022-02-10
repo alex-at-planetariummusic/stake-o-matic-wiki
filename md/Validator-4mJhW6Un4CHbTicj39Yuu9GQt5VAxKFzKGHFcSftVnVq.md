@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **Bonus** (for 10 epochs)
+* Stake reason: Good block production during epoch 277: 130 blocks in 152 slots, 15% skip rate
+* Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.665629134 - removing ◎365.389840730
+* Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
+* Data Center: 22439-US-Portland
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 16),22439-US-Portland (seniority: 2)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 276: 103 blocks in 108 slots, 5% skip rate
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68618.602037644 - removing ◎662.593753457
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Portland
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 17),22439-US-Portland (seniority: 1)
+* Resident Data Center(s): 22439-US-Portland (seniority: 1),22439-US-Orchard Park (seniority: 17)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 275: 123 blocks in 132 slots, 7% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70074.583364610 - removing ◎1121.653627489
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 17),23470-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),22439-US-Orchard Park (seniority: 17)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 273: 122 blocks in 124 slots, 2% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73748.584034940 - removing ◎321.584572147
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 13),23470-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),22439-US-Orchard Park (seniority: 13)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 265: 154 blocks in 172 slots, 11% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 79wBFfNBckGaboeAnWiL5yvoaoPDcDPzYUvtjf1qBwHo
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),22439-US-Orchard Park (seniority: 12)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 12),23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 264: 181 blocks in 196 slots, 8% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75803.122542916 - removing ◎922.919654694
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),22439-US-Orchard Park (seniority: 10)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 10),23470-US-America/Chicago (seniority: 4)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 262: 166 blocks in 168 slots, 2% skip rate
@@ -109,21 +116,21 @@
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76509.910731381 - removing ◎415.541491098
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 8),23470-US-America/Chicago (seniority: 6)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 6),22439-US-Orchard Park (seniority: 8)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 260: 129 blocks in 132 slots, 3% skip rate
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78648.218363966 - removing ◎2174.646935785
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 7),23470-US-America/Chicago (seniority: 7)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 7),22439-US-Orchard Park (seniority: 7)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 259: 140 blocks in 144 slots, 3% skip rate
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80087.989781357 - removing ◎1477.233786614
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 6),23470-US-America/Chicago (seniority: 8)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 8),22439-US-Orchard Park (seniority: 6)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 258: 40 blocks in 40 slots, 0% skip rate
@@ -137,7 +144,7 @@
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80834.368923667 - removing ◎822.967244263
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 10),22439-US-Orchard Park (seniority: 4)
+* Resident Data Center(s): 22439-US-Orchard Park (seniority: 4),23470-US-America/Chicago (seniority: 10)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 256: 67 blocks in 76 slots, 12% skip rate
@@ -158,7 +165,7 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎82945.601405320 - removing ◎82944.601405320
 * Vote account address: 2giMniq7L6WLUaZwDsfP2fmTbTnsJgVDyBDZJ5vnmtE3
 * Data Center: 22439-US-Orchard Park
-* Resident Data Center(s): 22439-US-Orchard Park (seniority: 1),23470-US-America/Chicago (seniority: 13)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 13),22439-US-Orchard Park (seniority: 1)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 253: 168 blocks in 176 slots, 5% skip rate

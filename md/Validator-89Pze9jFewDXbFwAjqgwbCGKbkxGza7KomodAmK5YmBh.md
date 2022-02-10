@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 277: 88 blocks in 88 slots, 0% skip rate
+* Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.920710317 - removing ◎365.644921913
+* Vote account address: 8hwQjTttz3m81D1Sxe5vuT3mryCEjvu9jwVnLWtuDo4m
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 5),24940-FI-Helsinki (seniority: 7)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 276: 72 blocks in 72 slots, 0% skip rate
@@ -11,21 +18,21 @@
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68985.351084582 - removing ◎400.189858114
 * Vote account address: 8hwQjTttz3m81D1Sxe5vuT3mryCEjvu9jwVnLWtuDo4m
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 3),24940-FI-Helsinki (seniority: 9)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 9),16276-EN-London (seniority: 3)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 274: 92 blocks in 92 slots, 0% skip rate
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.691196866 - removing ◎1120.761459745
 * Vote account address: 8hwQjTttz3m81D1Sxe5vuT3mryCEjvu9jwVnLWtuDo4m
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 2),24940-FI-Helsinki (seniority: 10)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 10),16276-EN-London (seniority: 2)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 273: 111 blocks in 112 slots, 1% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.429589619 - removing ◎953.688553188
 * Vote account address: 8hwQjTttz3m81D1Sxe5vuT3mryCEjvu9jwVnLWtuDo4m
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 1),24940-FI-Helsinki (seniority: 11)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 11),16276-EN-London (seniority: 1)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 272: 73 blocks in 76 slots, 4% skip rate

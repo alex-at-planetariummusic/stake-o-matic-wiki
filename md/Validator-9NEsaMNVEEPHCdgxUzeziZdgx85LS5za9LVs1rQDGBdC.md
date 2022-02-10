@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **Bonus** (for 93 epochs)
+* Stake reason: Good block production during epoch 277: 127 blocks in 132 slots, 4% skip rate
+* Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67988.012641991 - removing ◎365.736853587
+* Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 65),24940-DE-Falkenstein (seniority: 13)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 92 epochs)
 * Stake reason: Good block production during epoch 276: 107 blocks in 108 slots, 1% skip rate
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.583114099 - removing ◎661.574829912
 * Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12),24940-FI-Helsinki (seniority: 66)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 66),24940-DE-Falkenstein (seniority: 12)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 91 epochs)
 * Stake reason: Good block production during epoch 275: 98 blocks in 100 slots, 2% skip rate
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68985.449899739 - removing ◎400.288673271
 * Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 67),24940-DE-Falkenstein (seniority: 11)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),24940-FI-Helsinki (seniority: 67)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 90 epochs)
 * Stake reason: Good block production during epoch 274: 102 blocks in 112 slots, 9% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.895247163 - removing ◎954.154210732
 * Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 9),24940-FI-Helsinki (seniority: 69)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 69),24940-DE-Falkenstein (seniority: 9)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 88 epochs)
 * Stake reason: Good block production during epoch 272: 110 blocks in 120 slots, 9% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71255.097809302 - reserve depleted
 * Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),24940-FI-Helsinki (seniority: 71)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 71),24940-DE-Falkenstein (seniority: 7)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 86 epochs)
 * Stake reason: Good block production during epoch 270: 91 blocks in 108 slots, 16% skip rate
@@ -53,14 +60,14 @@
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.689017695 - removing ◎197.715873963
 * Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-FI-Helsinki (seniority: 73)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 73),24940-DE-Falkenstein (seniority: 5)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 84 epochs)
 * Stake reason: Good block production during epoch 268: 161 blocks in 176 slots, 9% skip rate
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.236735401 - removing ◎88.155086742
 * Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),24940-FI-Helsinki (seniority: 74)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 74),24940-DE-Falkenstein (seniority: 4)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 83 epochs)
 * Stake reason: Good block production during epoch 267: 129 blocks in 148 slots, 13% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.282253301 - removing ◎320.282790508
 * Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-FI-Helsinki (seniority: 76)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 76),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 81 epochs)
 * Stake reason: Good block production during epoch 265: 151 blocks in 160 slots, 6% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: BqF3hDetTFWixjHsT1GvTLuHPHp2Z7HzbWpAAw694Rbj
 * Vote account address: DLMhVf7xXa8R2D2y1fZSRVQwXdup7EfwBFbttzn5ppnC
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 77),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-FI-Helsinki (seniority: 77)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 80 epochs)
 * Stake reason: Good block production during epoch 264: 110 blocks in 116 slots, 6% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 277: 97 blocks in 124 slots, 22% skip rate
+* Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67988.151806901 - removing ◎365.876018497
+* Vote account address: DzCirYWNsCECVHgSaMVg1mqMzKwtGuN2Pqm2a4HqVpTE
+* Data Center: 3170-GB-Willenhall
+* Resident Data Center(s): 3170-GB-Willenhall (seniority: 5),60945-GB-Europe/London (seniority: 29)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 276: 55 blocks in 56 slots, 2% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎25023.634533130 - adding ◎43929.295203991
 * Vote account address: DzCirYWNsCECVHgSaMVg1mqMzKwtGuN2Pqm2a4HqVpTE
 * Data Center: 3170-GB-Willenhall
-* Resident Data Center(s): 60945-GB-Europe/London (seniority: 32),3170-GB-Willenhall (seniority: 2)
+* Resident Data Center(s): 3170-GB-Willenhall (seniority: 2),60945-GB-Europe/London (seniority: 32)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 273: 68 blocks in 100 slots, 32% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎25011.824873418 - reserve depleted
 * Vote account address: DzCirYWNsCECVHgSaMVg1mqMzKwtGuN2Pqm2a4HqVpTE
 * Data Center: 3170-GB-Willenhall
-* Resident Data Center(s): 60945-GB-Europe/London (seniority: 33),3170-GB-Willenhall (seniority: 1)
+* Resident Data Center(s): 3170-GB-Willenhall (seniority: 1),60945-GB-Europe/London (seniority: 33)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 272: 24 blocks in 44 slots, 46% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎71233.870670563 - removing ◎46233.870670563
 * Vote account address: DzCirYWNsCECVHgSaMVg1mqMzKwtGuN2Pqm2a4HqVpTE
 * Data Center: 3170-GB-Willenhall
-* Resident Data Center(s): 3170-GB-Willenhall (seniority: 1),60945-GB-Europe/London (seniority: 35)
+* Resident Data Center(s): 60945-GB-Europe/London (seniority: 35),3170-GB-Willenhall (seniority: 1)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 270: 28 blocks in 40 slots, 30% skip rate

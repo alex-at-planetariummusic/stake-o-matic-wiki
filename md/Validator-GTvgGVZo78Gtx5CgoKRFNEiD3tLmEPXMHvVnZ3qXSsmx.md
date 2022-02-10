@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **Bonus** (for 65 epochs)
+* Stake reason: Good block production during epoch 277: 99 blocks in 120 slots, 18% skip rate
+* Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.732665836 - removing ◎365.456877432
+* Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 33)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 276: 128 blocks in 140 slots, 9% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.884312354 - removing ◎954.143275923
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 29),23470-US-Los Angeles (seniority: 3)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 3),23470-US-Miami (seniority: 29)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 60 epochs)
 * Stake reason: Good block production during epoch 272: 125 blocks in 132 slots, 6% skip rate
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.737023994 - removing ◎327.308701771
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 28),23470-US-Los Angeles (seniority: 4)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 4),23470-US-Miami (seniority: 28)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 59 epochs)
 * Stake reason: Good block production during epoch 271: 139 blocks in 156 slots, 11% skip rate
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71255.312075921 - reserve depleted
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 5),23470-US-Miami (seniority: 27)
+* Resident Data Center(s): 23470-US-Miami (seniority: 27),23470-US-Los Angeles (seniority: 5)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 270: 108 blocks in 116 slots, 7% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.232118672 - removing ◎88.150470013
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 24),23470-US-Los Angeles (seniority: 8)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 8),23470-US-Miami (seniority: 24)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 267: 121 blocks in 124 slots, 3% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80085.996996366 - removing ◎1475.241001623
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 17),23470-US-Miami (seniority: 15)
+* Resident Data Center(s): 23470-US-Miami (seniority: 15),23470-US-Los Angeles (seniority: 17)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 46 epochs)
 * Stake reason: Good block production during epoch 258: 126 blocks in 140 slots, 10% skip rate
@@ -144,21 +151,21 @@
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.322276039 - removing ◎541.953869635
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 12),23470-US-Los Angeles (seniority: 20)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 20),23470-US-Miami (seniority: 12)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 255: 167 blocks in 172 slots, 3% skip rate
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.262278650 - removing ◎1646.387124128
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 21),23470-US-Miami (seniority: 11)
+* Resident Data Center(s): 23470-US-Miami (seniority: 11),23470-US-Los Angeles (seniority: 21)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 254: 132 blocks in 148 slots, 11% skip rate
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82945.005384489 - reserve depleted
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 22),23470-US-Miami (seniority: 10)
+* Resident Data Center(s): 23470-US-Miami (seniority: 10),23470-US-Los Angeles (seniority: 22)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 253: 180 blocks in 188 slots, 5% skip rate
@@ -207,7 +214,7 @@
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎89174.278400317 - removing ◎1799.681044826
 * Vote account address: 8ptVw9EUjMcqyTwKVSnovJ8QpZtGPatWVRrsnuUCjqhQ
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 3),23470-US-Los Angeles (seniority: 29)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 29),23470-US-Miami (seniority: 3)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 246: 102 blocks in 104 slots, 2% skip rate

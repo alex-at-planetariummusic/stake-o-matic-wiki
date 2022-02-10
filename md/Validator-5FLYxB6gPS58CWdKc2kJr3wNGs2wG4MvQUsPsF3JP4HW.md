@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **None** (for 7 epochs)
+* Stake reason: Insufficient testnet participation
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.003667032 - not removing ◎0.003667032 (amount too small)
+* Vote account address: 5FLYx9unyge3RgRAYHbFBM3zHH2G8a36hZBfwetfSEjS
+* Data Center: 4657-SG-Singapore
+* Resident Data Center(s): 4657-SG-Singapore (seniority: 49)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **None** (for 6 epochs)
 * Stake reason: Insufficient testnet participation

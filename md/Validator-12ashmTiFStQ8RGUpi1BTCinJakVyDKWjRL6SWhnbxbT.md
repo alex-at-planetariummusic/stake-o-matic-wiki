@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **Bonus** (for 33 epochs)
+* Stake reason: Good block production during epoch 277: 255 blocks in 276 slots, 8% skip rate
+* Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67989.859400271 - removing ◎367.583611867
+* Vote account address: GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
+* Data Center: 18450-US-Clearfield
+* Resident Data Center(s): 18450-US-Ogden (seniority: 3),18450-US-Clearfield (seniority: 15)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 276: 188 blocks in 200 slots, 6% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72663.443534104 - removing ◎199.470390372
 * Vote account address: GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Ogden (seniority: 11),18450-US-Clearfield (seniority: 7)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 7),18450-US-Ogden (seniority: 11)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 268: 208 blocks in 212 slots, 2% skip rate
@@ -67,28 +74,28 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73462.822530009 - removing ◎780.302911603
 * Vote account address: GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Ogden (seniority: 13),18450-US-Clearfield (seniority: 5)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 5),18450-US-Ogden (seniority: 13)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 266: 211 blocks in 228 slots, 8% skip rate
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73749.876087921 - removing ◎322.876625128
 * Vote account address: GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 4),18450-US-Ogden (seniority: 14)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 14),18450-US-Clearfield (seniority: 4)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 265: 185 blocks in 200 slots, 8% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 9jXhq9CB7aua3Ay5tnpQW69iKB41LcaZ2zrV9u7Sukvx
 * Vote account address: GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Ogden (seniority: 15),18450-US-Clearfield (seniority: 3)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 3),18450-US-Ogden (seniority: 15)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 264: 198 blocks in 204 slots, 3% skip rate
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74916.804028930 - removing ◎722.351658731
 * Vote account address: GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 2),18450-US-Ogden (seniority: 16)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 16),18450-US-Clearfield (seniority: 2)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 263: 200 blocks in 216 slots, 8% skip rate

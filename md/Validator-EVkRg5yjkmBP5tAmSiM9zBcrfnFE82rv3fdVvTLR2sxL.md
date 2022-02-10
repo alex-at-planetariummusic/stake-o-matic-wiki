@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
+* Stake level: **Bonus** (for 18 epochs)
+* Stake reason: Good block production during epoch 277: 99 blocks in 104 slots, 5% skip rate
+* Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.983036672 - removing ◎365.707248268
+* Vote account address: FPS5ptyd5iJBMaWs118XwjWHvveNSELj8QeyTG584J3u
+* Data Center: 18450-US-Clearfield
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 18),18450-US-America/Chicago (seniority: 43)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 276: 62 blocks in 64 slots, 4% skip rate
@@ -18,21 +25,21 @@
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.701396742 - removing ◎1120.771659621
 * Vote account address: FPS5ptyd5iJBMaWs118XwjWHvveNSELj8QeyTG584J3u
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 46),18450-US-Clearfield (seniority: 15)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 15),18450-US-America/Chicago (seniority: 46)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 273: 115 blocks in 124 slots, 8% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.869571931 - removing ◎954.128535500
 * Vote account address: FPS5ptyd5iJBMaWs118XwjWHvveNSELj8QeyTG584J3u
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 47),18450-US-Clearfield (seniority: 14)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 14),18450-US-America/Chicago (seniority: 47)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 272: 116 blocks in 116 slots, 0% skip rate
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.731725060 - removing ◎327.303402837
 * Vote account address: FPS5ptyd5iJBMaWs118XwjWHvveNSELj8QeyTG584J3u
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 48),18450-US-Clearfield (seniority: 13)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 13),18450-US-America/Chicago (seniority: 48)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 271: 84 blocks in 104 slots, 20% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.202567621 - removing ◎88.120918962
 * Vote account address: FPS5ptyd5iJBMaWs118XwjWHvveNSELj8QeyTG584J3u
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 9),18450-US-America/Chicago (seniority: 52)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 52),18450-US-Clearfield (seniority: 9)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 267: 90 blocks in 104 slots, 14% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.869886081 - removing ◎320.870423288
 * Vote account address: FPS5ptyd5iJBMaWs118XwjWHvveNSELj8QeyTG584J3u
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 7),18450-US-America/Chicago (seniority: 54)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 54),18450-US-Clearfield (seniority: 7)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 265: 121 blocks in 128 slots, 6% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 3oP6qzqA7zmAc5sFHGzHbwr2P65ksHen7LUPbHe9ReA4
 * Vote account address: FPS5ptyd5iJBMaWs118XwjWHvveNSELj8QeyTG584J3u
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 6),18450-US-America/Chicago (seniority: 55)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 55),18450-US-Clearfield (seniority: 6)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 264: 89 blocks in 96 slots, 8% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎1.003205800 - adding ◎76093.366034483
 * Vote account address: FPS5ptyd5iJBMaWs118XwjWHvveNSELj8QeyTG584J3u
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 59),18450-US-Clearfield (seniority: 2)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 2),18450-US-America/Chicago (seniority: 59)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 260: 33 blocks in 36 slots, 9% skip rate
