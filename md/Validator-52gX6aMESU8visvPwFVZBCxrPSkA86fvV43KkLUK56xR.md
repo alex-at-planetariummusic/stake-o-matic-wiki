@@ -1,10 +1,17 @@
+### [[Testnet Epoch 285|Testnet#Epoch-285]]
+* Stake level: **Bonus** (for 33 epochs)
+* Stake reason: Good block production during epoch 284: 93 blocks in 104 slots, 11% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: DU7yitwQ6LhHhE7XbGaJGwvKL8BnAYAJFNdnmXBW2iVL
+* Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
+* Data Center: 19318-US-Bloomfield
+* Resident Data Center(s): 19318-US-Bloomfield (seniority: 1),19318-US-America/Chicago (seniority: 3),21409-FR-Paris (seniority: 9)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 283: 125 blocks in 128 slots, 3% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: DU7yitwQ6LhHhE7XbGaJGwvKL8BnAYAJFNdnmXBW2iVL
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 19318-US-America/Chicago
-* Resident Data Center(s): 19318-US-America/Chicago (seniority: 4),21409-FR-Paris (seniority: 10)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 10),19318-US-America/Chicago (seniority: 4)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 282: 127 blocks in 128 slots, 1% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 19318-US-America/Chicago
-* Resident Data Center(s): 21409-FR-Paris (seniority: 12),19318-US-America/Chicago (seniority: 2)
+* Resident Data Center(s): 19318-US-America/Chicago (seniority: 2),21409-FR-Paris (seniority: 12)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 280: 160 blocks in 168 slots, 5% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26333.745067376 - adding ◎12.438311935
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 12),8560-US-Abington (seniority: 1)
+* Resident Data Center(s): 8560-US-Abington (seniority: 1),21409-FR-Paris (seniority: 12)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 276: 167 blocks in 172 slots, 3% skip rate
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 11),8560-US-Abington (seniority: 2)
+* Resident Data Center(s): 8560-US-Abington (seniority: 2),21409-FR-Paris (seniority: 11)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 275: 156 blocks in 164 slots, 5% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: stake account busy due to transient stake activation: DU7yitwQ6LhHhE7XbGaJGwvKL8BnAYAJFNdnmXBW2iVL
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 9),8560-US-Abington (seniority: 4)
+* Resident Data Center(s): 8560-US-Abington (seniority: 4),21409-FR-Paris (seniority: 9)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 272: 90 blocks in 128 slots, 30% skip rate
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 8),8560-US-Abington (seniority: 5)
+* Resident Data Center(s): 8560-US-Abington (seniority: 5),21409-FR-Paris (seniority: 8)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 271: 154 blocks in 160 slots, 4% skip rate
@@ -88,14 +95,14 @@
 * Staking activity: stake account busy due to transient stake activation: DU7yitwQ6LhHhE7XbGaJGwvKL8BnAYAJFNdnmXBW2iVL
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 6),8560-US-Abington (seniority: 7)
+* Resident Data Center(s): 8560-US-Abington (seniority: 7),21409-FR-Paris (seniority: 6)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 269: 139 blocks in 172 slots, 20% skip rate
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 5),8560-US-Abington (seniority: 8)
+* Resident Data Center(s): 8560-US-Abington (seniority: 8),21409-FR-Paris (seniority: 5)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 268: 164 blocks in 172 slots, 5% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: DU7yitwQ6LhHhE7XbGaJGwvKL8BnAYAJFNdnmXBW2iVL
 * Vote account address: AjgcmeVHEGJAJ8kLcLc6YSkMqq7oP7ySFjKSWDU5J2sP
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 8560-US-Abington (seniority: 10),21409-FR-Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 3),8560-US-Abington (seniority: 10)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 266: 178 blocks in 184 slots, 4% skip rate

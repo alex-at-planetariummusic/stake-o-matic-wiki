@@ -1,3 +1,10 @@
+### [[Testnet Epoch 285|Testnet#Epoch-285]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 284: 81 blocks in 112 slots, 28% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 8vXJo7EEoQfUVeJQ2i9X8MUnBfgnVjyZR8R4xWbH8g9X
+* Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
+* Data Center: 2527-JP-Setagaya-ku
+* Resident Data Center(s): 2527-JP-Shibuya (seniority: 5),2527-JP-Setagaya-ku (seniority: 21)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 283: 82 blocks in 88 slots, 7% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26444.137804631 - removing ◎12.200770293
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 18),2527-JP-Shibuya (seniority: 8)
+* Resident Data Center(s): 2527-JP-Shibuya (seniority: 8),2527-JP-Setagaya-ku (seniority: 18)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 280: 80 blocks in 84 slots, 5% skip rate
@@ -39,35 +46,35 @@
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26603.056404423 - removing ◎133.043654336
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Shibuya (seniority: 11),2527-JP-Setagaya-ku (seniority: 15)
+* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 15),2527-JP-Shibuya (seniority: 11)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 277: 104 blocks in 112 slots, 8% skip rate
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26613.414527890 - removing ◎267.231148579
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Shibuya (seniority: 12),2527-JP-Setagaya-ku (seniority: 14)
+* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 14),2527-JP-Shibuya (seniority: 12)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 276: 138 blocks in 152 slots, 10% skip rate
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26598.120067840 - removing ◎249.540620936
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 13),2527-JP-Shibuya (seniority: 13)
+* Resident Data Center(s): 2527-JP-Shibuya (seniority: 13),2527-JP-Setagaya-ku (seniority: 13)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 275: 123 blocks in 128 slots, 4% skip rate
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎27064.065615948 - removing ◎730.320548572
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 12),2527-JP-Shibuya (seniority: 14)
+* Resident Data Center(s): 2527-JP-Shibuya (seniority: 14),2527-JP-Setagaya-ku (seniority: 12)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 273: 115 blocks in 116 slots, 1% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 8vXJo7EEoQfUVeJQ2i9X8MUnBfgnVjyZR8R4xWbH8g9X
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Shibuya (seniority: 15),2527-JP-Setagaya-ku (seniority: 11)
+* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 11),2527-JP-Shibuya (seniority: 15)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 272: 96 blocks in 148 slots, 36% skip rate
@@ -88,21 +95,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: 8vXJo7EEoQfUVeJQ2i9X8MUnBfgnVjyZR8R4xWbH8g9X
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 8),2527-JP-Shibuya (seniority: 18)
+* Resident Data Center(s): 2527-JP-Shibuya (seniority: 18),2527-JP-Setagaya-ku (seniority: 8)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 269: 94 blocks in 96 slots, 3% skip rate
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27536.562909774 - removing ◎274.367602085
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 7),2527-JP-Shibuya (seniority: 19)
+* Resident Data Center(s): 2527-JP-Shibuya (seniority: 19),2527-JP-Setagaya-ku (seniority: 7)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 268: 77 blocks in 84 slots, 9% skip rate
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎28237.050302482 - removing ◎987.005205431
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Shibuya (seniority: 20),2527-JP-Setagaya-ku (seniority: 6)
+* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 6),2527-JP-Shibuya (seniority: 20)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 267: 129 blocks in 136 slots, 6% skip rate
@@ -116,28 +123,28 @@
 * Staking activity: stake account busy due to transient stake deactivation: 8vXJo7EEoQfUVeJQ2i9X8MUnBfgnVjyZR8R4xWbH8g9X
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 4),2527-JP-Shibuya (seniority: 22)
+* Resident Data Center(s): 2527-JP-Shibuya (seniority: 22),2527-JP-Setagaya-ku (seniority: 4)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 265: 39 blocks in 40 slots, 3% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎29369.446105340 - removing ◎599.880618018
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 3),2527-JP-Shibuya (seniority: 23)
+* Resident Data Center(s): 2527-JP-Shibuya (seniority: 23),2527-JP-Setagaya-ku (seniority: 3)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 264: 114 blocks in 132 slots, 14% skip rate
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎5109.060267446 - adding ◎24205.298157392
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Shibuya (seniority: 24),2527-JP-Setagaya-ku (seniority: 2)
+* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 2),2527-JP-Shibuya (seniority: 24)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 263: 126 blocks in 164 slots, 24% skip rate
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎5051.877945373 - reserve depleted
 * Vote account address: Hm9Kw18NzopZhPGwKXAr74a4SHABpEkEDjbgSR4XsSfi
 * Data Center: 2527-JP-Setagaya-ku
-* Resident Data Center(s): 2527-JP-Shibuya (seniority: 25),2527-JP-Setagaya-ku (seniority: 1)
+* Resident Data Center(s): 2527-JP-Setagaya-ku (seniority: 1),2527-JP-Shibuya (seniority: 25)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 262: 84 blocks in 156 slots, 47% skip rate
