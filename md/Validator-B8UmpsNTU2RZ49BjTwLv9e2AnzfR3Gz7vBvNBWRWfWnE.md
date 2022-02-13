@@ -1,17 +1,24 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 285: 151 blocks in 160 slots, 6% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: BVJgKGAbPNhgoPz7GMWoKAbeq7LtjXntqB22H63L4oNv
+* Data Center: 49981-NL-Naaldwijk
+* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 7),24940-DE-Falkenstein (seniority: 24)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 284: 149 blocks in 164 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: CMbu6YyxGJaPmwMMxFsyvnPMPdEKD2EksYm3KDqPxsT4
 * Vote account address: BVJgKGAbPNhgoPz7GMWoKAbeq7LtjXntqB22H63L4oNv
 * Data Center: 49981-NL-Naaldwijk
-* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 6),24940-DE-Falkenstein (seniority: 25)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 25),49981-NL-Naaldwijk (seniority: 6)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 283: 176 blocks in 184 slots, 5% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: CMbu6YyxGJaPmwMMxFsyvnPMPdEKD2EksYm3KDqPxsT4
 * Vote account address: BVJgKGAbPNhgoPz7GMWoKAbeq7LtjXntqB22H63L4oNv
 * Data Center: 49981-NL-Naaldwijk
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 26),49981-NL-Naaldwijk (seniority: 5)
+* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 5),24940-DE-Falkenstein (seniority: 26)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 282: 183 blocks in 196 slots, 7% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: BVJgKGAbPNhgoPz7GMWoKAbeq7LtjXntqB22H63L4oNv
 * Data Center: 49981-NL-Naaldwijk
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 28),49981-NL-Naaldwijk (seniority: 3)
+* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 3),24940-DE-Falkenstein (seniority: 28)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 280: 90 blocks in 92 slots, 3% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: BVJgKGAbPNhgoPz7GMWoKAbeq7LtjXntqB22H63L4oNv
 * Data Center: 49981-NL-Naaldwijk
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 29),49981-NL-Naaldwijk (seniority: 2)
+* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 2),24940-DE-Falkenstein (seniority: 29)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 279: 59 blocks in 72 slots, 19% skip rate
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎1.000000000 - adding ◎26123.401452057
 * Vote account address: BVJgKGAbPNhgoPz7GMWoKAbeq7LtjXntqB22H63L4oNv
 * Data Center: 49981-NL-Naaldwijk
-* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 1),24940-DE-Falkenstein (seniority: 30)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 30),49981-NL-Naaldwijk (seniority: 1)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **None** (for 8 epochs)
 * Stake reason: Insufficient vote credits: 147941 credits earned in epoch 278
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: BVJgKGAbPNhgoPz7GMWoKAbeq7LtjXntqB22H63L4oNv
 * Data Center: 49981-NL-Naaldwijk
-* Resident Data Center(s): 49981-NL-Naaldwijk (seniority: 1),24940-DE-Falkenstein (seniority: 45)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 45),49981-NL-Naaldwijk (seniority: 1)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 262: 32 blocks in 84 slots, 62% skip rate

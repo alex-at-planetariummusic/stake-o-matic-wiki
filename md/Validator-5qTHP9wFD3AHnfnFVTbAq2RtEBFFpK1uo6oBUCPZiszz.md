@@ -1,10 +1,17 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: Good block production during epoch 285: 109 blocks in 116 slots, 7% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: 8MTtTX4vsA6YvWq6EwWPXyQ3WcTLFTjire7xftp1thVp
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 4),16276-DE-Frankfurt (seniority: 6)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 284: 103 blocks in 108 slots, 5% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: AvoRPym2bg3Z6V2tdsRDRxPceFuaZBmKvVz5wBaiFrqm
 * Vote account address: 8MTtTX4vsA6YvWq6EwWPXyQ3WcTLFTjire7xftp1thVp
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 5),16276-FR-Roubaix (seniority: 5)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),16276-DE-Frankfurt (seniority: 5)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 283: 133 blocks in 168 slots, 21% skip rate
@@ -25,14 +32,14 @@
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: 8MTtTX4vsA6YvWq6EwWPXyQ3WcTLFTjire7xftp1thVp
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 2),16276-FR-Roubaix (seniority: 8)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),16276-DE-Frankfurt (seniority: 2)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 280: 114 blocks in 124 slots, 9% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: 8MTtTX4vsA6YvWq6EwWPXyQ3WcTLFTjire7xftp1thVp
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1),16276-FR-Roubaix (seniority: 9)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 9),16276-DE-Frankfurt (seniority: 1)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 279: 120 blocks in 136 slots, 12% skip rate

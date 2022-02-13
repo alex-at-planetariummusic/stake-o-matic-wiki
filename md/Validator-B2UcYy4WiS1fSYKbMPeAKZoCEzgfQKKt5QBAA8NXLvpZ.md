@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Baseline** (for 7 epochs)
+* Stake reason: Poor block production during epoch 285: 18 blocks in 32 slots, 44% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5039.850080394 - removing ◎39.850080394
+* Vote account address: 5m2h5u5gaCb8d4iG2K1oKGrxDu99UZ1GJbFMJNFbCPmV
+* Data Center: 201814-PL-Europe/Warsaw
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Baseline** (for 6 epochs)
 * Stake reason: Poor block production during epoch 284: 7 blocks in 36 slots, 81% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎5047.451092423 - reserve depleted
 * Vote account address: 5m2h5u5gaCb8d4iG2K1oKGrxDu99UZ1GJbFMJNFbCPmV
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 9),201814-PL-Europe/Warsaw (seniority: 1)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),23470-US-America/Chicago (seniority: 9)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 277: 71 blocks in 124 slots, 43% skip rate
@@ -67,7 +74,7 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎27034.728439710 - removing ◎700.983372334
 * Vote account address: 5m2h5u5gaCb8d4iG2K1oKGrxDu99UZ1GJbFMJNFbCPmV
 * Data Center: 201814-PL-Europe/Warsaw
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),23470-US-America/Chicago (seniority: 12)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 12),201814-PL-Europe/Warsaw (seniority: 1)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 273: 150 blocks in 164 slots, 9% skip rate

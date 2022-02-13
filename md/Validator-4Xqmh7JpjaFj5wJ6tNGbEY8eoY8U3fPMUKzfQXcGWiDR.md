@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 58 epochs)
+* Stake reason: Good block production during epoch 285: 89 blocks in 96 slots, 8% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: ETbSCoZ6UUx6itTjkYfpv1ZGLDvAdsuFA9S4HsNLV6nK
+* Data Center: 24961-DE-Schopfheim
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 66)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 57 epochs)
 * Stake reason: Good block production during epoch 284: 98 blocks in 100 slots, 2% skip rate
@@ -424,21 +431,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: 5M1TFBkw9qixuHmoXyMnNebuRbuPG8qjcHPAET5HQ4sy
 * Vote account address: ETbSCoZ6UUx6itTjkYfpv1ZGLDvAdsuFA9S4HsNLV6nK
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24961-DE-Schopfheim (seniority: 7)
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 7),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 216|Testnet#Epoch-216]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 215: 38 blocks in 44 slots, 14% skip rate
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 5M1TFBkw9qixuHmoXyMnNebuRbuPG8qjcHPAET5HQ4sy
 * Vote account address: ETbSCoZ6UUx6itTjkYfpv1ZGLDvAdsuFA9S4HsNLV6nK
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24961-DE-Schopfheim (seniority: 6)
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 6),24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 214: 16 blocks in 28 slots, 43% skip rate
 * Staking activity: stake account busy due to transient stake activation: 5M1TFBkw9qixuHmoXyMnNebuRbuPG8qjcHPAET5HQ4sy
 * Vote account address: ETbSCoZ6UUx6itTjkYfpv1ZGLDvAdsuFA9S4HsNLV6nK
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 5),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),24961-DE-Schopfheim (seniority: 5)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 213: 16 blocks in 16 slots, 0% skip rate
@@ -452,7 +459,7 @@
 * Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
 * Vote account address: ETbSCoZ6UUx6itTjkYfpv1ZGLDvAdsuFA9S4HsNLV6nK
 * Data Center: 24961-DE-Schopfheim
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24961-DE-Schopfheim (seniority: 3)
+* Resident Data Center(s): 24961-DE-Schopfheim (seniority: 3),24940-DE-Falkenstein (seniority: 5)
 ### [[Testnet Epoch 211|Testnet#Epoch-211]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 210: 69 blocks in 192 slots, 65% skip rate

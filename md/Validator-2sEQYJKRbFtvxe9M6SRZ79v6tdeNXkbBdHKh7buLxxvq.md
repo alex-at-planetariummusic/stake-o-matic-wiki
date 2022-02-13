@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 12 epochs)
+* Stake reason: Good block production during epoch 285: 64 blocks in 72 slots, 12% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: B4fKZzwHrWeVoALLm3aC9PPg2M7VtXkSqz41Uz7o9EYi
+* Data Center: 6877-UA-Kharkiv
+* Resident Data Center(s): 6877-UA-Kharkiv (seniority: 6)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 284: 106 blocks in 132 slots, 20% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: DnFEPLRtsbopXC5J3NzEGdjUiNFrwooSLAWjP7kgUhRd
 * Vote account address: B4fKZzwHrWeVoALLm3aC9PPg2M7VtXkSqz41Uz7o9EYi
 * Data Center: 6877-UA-Kharkiv
-* Resident Data Center(s): 6877-UA-Kharkiv (seniority: 4),51500-UA-Lviv (seniority: 1)
+* Resident Data Center(s): 51500-UA-Lviv (seniority: 1),6877-UA-Kharkiv (seniority: 4)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 282: 97 blocks in 128 slots, 25% skip rate

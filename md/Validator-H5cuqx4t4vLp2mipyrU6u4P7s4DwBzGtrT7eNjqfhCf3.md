@@ -1,31 +1,38 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 285: 129 blocks in 168 slots, 24% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎5000.000000000 - adding ◎20753.676690444
+* Vote account address: 4LGKtrskFELxCrbgDjcfJmpH6ehGFb8vJo8oS1CrGmKX
+* Data Center: 23470-US-Miami
+* Resident Data Center(s): 23470-US-Miami (seniority: 4),58061-GB-Europe/London (seniority: 2)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 284: 124 blocks in 152 slots, 19% skip rate
 * Staking activity: target stake amount: ◎26125.560711308, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: 4LGKtrskFELxCrbgDjcfJmpH6ehGFb8vJo8oS1CrGmKX
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 3),58061-GB-Europe/London (seniority: 3)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 3),23470-US-Miami (seniority: 3)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 283: 5 blocks in 16 slots, 69% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: GBuohbXetgekP12LY1CfdXM7UrqBywPqwHVKEUUh5nKL
 * Vote account address: 4LGKtrskFELxCrbgDjcfJmpH6ehGFb8vJo8oS1CrGmKX
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 2),58061-GB-Europe/London (seniority: 4)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 4),23470-US-Miami (seniority: 2)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 282: 20 blocks in 24 slots, 17% skip rate
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
 * Vote account address: 4LGKtrskFELxCrbgDjcfJmpH6ehGFb8vJo8oS1CrGmKX
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 5),23470-US-Miami (seniority: 3)
+* Resident Data Center(s): 23470-US-Miami (seniority: 3),58061-GB-Europe/London (seniority: 5)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 281: 70 blocks in 88 slots, 21% skip rate
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎5000.000000000 - adding ◎21431.937034338
 * Vote account address: 4LGKtrskFELxCrbgDjcfJmpH6ehGFb8vJo8oS1CrGmKX
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 2),58061-GB-Europe/London (seniority: 6)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 6),23470-US-Miami (seniority: 2)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 280: 105 blocks in 108 slots, 3% skip rate

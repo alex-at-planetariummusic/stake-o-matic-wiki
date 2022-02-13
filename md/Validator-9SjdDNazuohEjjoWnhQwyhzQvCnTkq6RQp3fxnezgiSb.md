@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 285: 29 blocks in 108 slots, 74% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎26125.560711308 - removing ◎21125.560711308
+* Vote account address: Ewfm3tcnzWD6kADjqmBLM1L499rrzeTCG6wfUmn9c4SE
+* Data Center: 16276-CA-Beauharnois
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 45)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 49 epochs)
 * Stake reason: Good block production during epoch 284: 94 blocks in 112 slots, 17% skip rate
@@ -312,7 +319,7 @@
 * Staking activity: target stake amount: ◎40113.573861180, current stake amount: ◎40416.812091631 - removing ◎303.238230451
 * Vote account address: Ewfm3tcnzWD6kADjqmBLM1L499rrzeTCG6wfUmn9c4SE
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 2),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),16276-CA-Beauharnois (seniority: 2)
 ### [[Testnet Epoch 237|Testnet#Epoch-237]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 236: 113 blocks in 172 slots, 35% skip rate

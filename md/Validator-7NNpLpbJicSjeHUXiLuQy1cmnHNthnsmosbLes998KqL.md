@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 285: 106 blocks in 116 slots, 9% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: B7jP1NBRF5UQjuCibVujpiKLpHY9Pn1GCNkcjL2Z59ur
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),24961-DE-Europe/Berlin (seniority: 22)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 284: 95 blocks in 100 slots, 5% skip rate
@@ -12,7 +19,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 43JmJKrxV7p3LbbepJRTSjshH39kGFYKwPmUPJRYxJoD
 * Vote account address: B7jP1NBRF5UQjuCibVujpiKLpHY9Pn1GCNkcjL2Z59ur
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),24961-DE-Europe/Berlin (seniority: 24),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 24),24940-FI-Helsinki (seniority: 2),16276-FR-Roubaix (seniority: 1)
 * infrastructure concentration 25.5% is too high; consider finding a new data center
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 4 epochs)
@@ -34,14 +41,14 @@
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: B7jP1NBRF5UQjuCibVujpiKLpHY9Pn1GCNkcjL2Z59ur
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 2),24961-DE-Europe/Berlin (seniority: 27)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 27),16276-FR-Roubaix (seniority: 2)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 279: 78 blocks in 108 slots, 28% skip rate
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎1.000000000 - adding ◎26123.401452057
 * Vote account address: B7jP1NBRF5UQjuCibVujpiKLpHY9Pn1GCNkcjL2Z59ur
 * Data Center: 16276-FR-Roubaix
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 28),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),24961-DE-Europe/Berlin (seniority: 28)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 154025 credits earned in epoch 278

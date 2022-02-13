@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 34 epochs)
+* Stake reason: Good block production during epoch 285: 101 blocks in 116 slots, 13% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: SqsRRPMbnHecT5WvMZkMfphuGsbhZ7rzZYRyNzdR2w8
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 26)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 284: 95 blocks in 100 slots, 5% skip rate
@@ -137,14 +144,14 @@
 * Staking activity: target stake amount: ◎29314.358424838, current stake amount: ◎28521.877427565 - reserve depleted
 * Vote account address: SqsRRPMbnHecT5WvMZkMfphuGsbhZ7rzZYRyNzdR2w8
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 6),0-Unknown (seniority: 2)
+* Resident Data Center(s): 0-Unknown (seniority: 2),24940-DE-Falkenstein (seniority: 6)
 ### [[Testnet Epoch 264|Testnet#Epoch-264]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 263: 132 blocks in 168 slots, 22% skip rate
 * Staking activity: target stake amount: ◎28521.877427565, current stake amount: ◎30032.126718522 - removing ◎1510.249290957
 * Vote account address: SqsRRPMbnHecT5WvMZkMfphuGsbhZ7rzZYRyNzdR2w8
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 0-Unknown (seniority: 3),24940-DE-Falkenstein (seniority: 5)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),0-Unknown (seniority: 3)
 ### [[Testnet Epoch 263|Testnet#Epoch-263]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 262: 145 blocks in 164 slots, 12% skip rate
@@ -172,7 +179,7 @@
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: SqsRRPMbnHecT5WvMZkMfphuGsbhZ7rzZYRyNzdR2w8
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 0-Unknown (seniority: 7),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),0-Unknown (seniority: 7)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 258: 143 blocks in 152 slots, 6% skip rate

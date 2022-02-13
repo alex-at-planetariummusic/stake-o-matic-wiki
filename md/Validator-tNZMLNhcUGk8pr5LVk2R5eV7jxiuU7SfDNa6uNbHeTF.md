@@ -1,10 +1,17 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 50 epochs)
+* Stake reason: Good block production during epoch 285: 201 blocks in 224 slots, 11% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: EW7b78ujLXj6dt6Mu5M7DGCoMu5nUUANNVn64AF9JmHK
+* Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Lauchhammer (seniority: 52),24961-DE-Europe/Berlin (seniority: 2)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 49 epochs)
 * Stake reason: Good block production during epoch 284: 172 blocks in 188 slots, 9% skip rate
 * Staking activity: stake account busy due to transient stake activation: 524nCs8wHqzhenPWqdi5chomc3jV9WcTYpg4WEDqTJyo
 * Vote account address: EW7b78ujLXj6dt6Mu5M7DGCoMu5nUUANNVn64AF9JmHK
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 1),24961-DE-Lauchhammer (seniority: 53)
+* Resident Data Center(s): 24961-DE-Lauchhammer (seniority: 53),24961-DE-Europe/Berlin (seniority: 1)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 283: 128 blocks in 152 slots, 16% skip rate
@@ -368,7 +375,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 524nCs8wHqzhenPWqdi5chomc3jV9WcTYpg4WEDqTJyo
 * Vote account address: EW7b78ujLXj6dt6Mu5M7DGCoMu5nUUANNVn64AF9JmHK
 * Data Center: 24961-DE-Lauchhammer
-* Resident Data Center(s): 24961-DE-Lauchhammer (seniority: 7),21409-FR-Europe/Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24961-DE-Lauchhammer (seniority: 7)
 ### [[Testnet Epoch 229|Testnet#Epoch-229]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 228: 228 blocks in 296 slots, 23% skip rate
@@ -389,7 +396,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 524nCs8wHqzhenPWqdi5chomc3jV9WcTYpg4WEDqTJyo
 * Vote account address: EW7b78ujLXj6dt6Mu5M7DGCoMu5nUUANNVn64AF9JmHK
 * Data Center: 24961-DE-Lauchhammer
-* Resident Data Center(s): 24961-DE-Lauchhammer (seniority: 6),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),24961-DE-Lauchhammer (seniority: 6)
 ### [[Testnet Epoch 225|Testnet#Epoch-225]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 224: 214 blocks in 316 slots, 33% skip rate
@@ -403,21 +410,21 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account 524nCs8wHqzhenPWqdi5chomc3jV9WcTYpg4WEDqTJyo
 * Vote account address: EW7b78ujLXj6dt6Mu5M7DGCoMu5nUUANNVn64AF9JmHK
 * Data Center: 24961-DE-Lauchhammer
-* Resident Data Center(s): 24961-DE-Lauchhammer (seniority: 4),21409-FR-Europe/Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),24961-DE-Lauchhammer (seniority: 4)
 ### [[Testnet Epoch 223|Testnet#Epoch-223]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 222: 142 blocks in 152 slots, 7% skip rate
 * Staking activity: stake account busy due to transient stake activation: 524nCs8wHqzhenPWqdi5chomc3jV9WcTYpg4WEDqTJyo
 * Vote account address: EW7b78ujLXj6dt6Mu5M7DGCoMu5nUUANNVn64AF9JmHK
 * Data Center: 24961-DE-Lauchhammer
-* Resident Data Center(s): 24961-DE-Lauchhammer (seniority: 3),21409-FR-Europe/Paris (seniority: 7)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),24961-DE-Lauchhammer (seniority: 3)
 ### [[Testnet Epoch 220|Testnet#Epoch-220]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 181220 credits earned in epoch 219
 * Staking activity: target stake amount: ◎46502.897716519, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: EW7b78ujLXj6dt6Mu5M7DGCoMu5nUUANNVn64AF9JmHK
 * Data Center: 24961-DE-Lauchhammer
-* Resident Data Center(s): 24961-DE-Lauchhammer (seniority: 2),21409-FR-Europe/Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),24961-DE-Lauchhammer (seniority: 2)
 ### [[Testnet Epoch 218|Testnet#Epoch-218]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 217: 27 blocks in 36 slots, 25% skip rate

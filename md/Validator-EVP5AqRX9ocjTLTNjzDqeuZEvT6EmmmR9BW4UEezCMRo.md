@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 285: 122 blocks in 136 slots, 11% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎5000.000000000 - adding ◎20753.676690444
+* Vote account address: 3X9dmhgcArgpzQbzFuYAEDPhhYmDNtJJ8APUeFQ5ph99
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 5)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 284: 109 blocks in 124 slots, 13% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26470.012750087 - removing ◎345.611298030
 * Vote account address: 3X9dmhgcArgpzQbzFuYAEDPhhYmDNtJJ8APUeFQ5ph99
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 1),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),201814-PL-Europe/Warsaw (seniority: 1)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 278: 13 blocks in 20 slots, 35% skip rate
@@ -400,14 +407,14 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account GcPVSVQZGnPB8tErYDdyoyKpNQTqMhQyDXerbMW886rq
 * Vote account address: 3X9dmhgcArgpzQbzFuYAEDPhhYmDNtJJ8APUeFQ5ph99
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),21409-FR-Europe/Paris (seniority: 2)
 ### [[Testnet Epoch 215|Testnet#Epoch-215]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 214: 29 blocks in 48 slots, 40% skip rate
 * Staking activity: stake account busy due to transient stake activation: GcPVSVQZGnPB8tErYDdyoyKpNQTqMhQyDXerbMW886rq
 * Vote account address: 3X9dmhgcArgpzQbzFuYAEDPhhYmDNtJJ8APUeFQ5ph99
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),21409-FR-Europe/Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 1),24940-DE-Falkenstein (seniority: 2)
 ### [[Testnet Epoch 214|Testnet#Epoch-214]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 83298 credits earned in epoch 213

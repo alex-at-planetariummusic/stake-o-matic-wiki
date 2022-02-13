@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 285: 98 blocks in 100 slots, 2% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎1.000000000 - reserve depleted
+* Vote account address: FQmWNgrE4N3nr3tqjtrj6ka1mTP6g9ejcFYZ29XUDYLr
+* Data Center: 19318-US-America/Chicago
+* Resident Data Center(s): 19318-US-America/Chicago (seniority: 13)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 97213 credits earned in epoch 284

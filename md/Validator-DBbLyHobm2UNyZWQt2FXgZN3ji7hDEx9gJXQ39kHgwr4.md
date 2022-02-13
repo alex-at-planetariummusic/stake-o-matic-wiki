@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 285: 36 blocks in 36 slots, 0% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),212582-US-Tampa (seniority: 20)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 284: 32 blocks in 36 slots, 12% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎26351.387947117, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),212582-US-Tampa (seniority: 22)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 22),24940-DE-Falkenstein (seniority: 1)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 282: 72 blocks in 148 slots, 52% skip rate
@@ -81,14 +88,14 @@
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 2),212582-US-Tampa (seniority: 18)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 18),21409-FR-Europe/Paris (seniority: 2)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 271: 97 blocks in 112 slots, 14% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 6YS6PD2jbuDn9r39qjdwMrVJE8WsaViV7XcFpicSGmQh
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 17),21409-FR-Europe/Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),212582-US-Tampa (seniority: 17)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 270: 111 blocks in 132 slots, 16% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27947.509732817 - removing ◎697.464635766
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 14),21409-FR-Europe/Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),212582-US-Tampa (seniority: 14)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 267: 141 blocks in 156 slots, 10% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 6YS6PD2jbuDn9r39qjdwMrVJE8WsaViV7XcFpicSGmQh
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 12),21409-FR-Europe/Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),212582-US-Tampa (seniority: 12)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 265: 92 blocks in 100 slots, 8% skip rate
@@ -151,21 +158,21 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 12),212582-US-Tampa (seniority: 8)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 8),21409-FR-Europe/Paris (seniority: 12)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 261: 153 blocks in 184 slots, 17% skip rate
 * Staking activity: target stake amount: ◎32014.546799635, current stake amount: ◎32005.684263537 - reserve depleted
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 7),21409-FR-Europe/Paris (seniority: 13)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 13),212582-US-Tampa (seniority: 7)
 ### [[Testnet Epoch 261|Testnet#Epoch-261]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 260: 129 blocks in 132 slots, 3% skip rate
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 14),212582-US-Tampa (seniority: 6)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 6),21409-FR-Europe/Paris (seniority: 14)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 259: 114 blocks in 120 slots, 5% skip rate
@@ -179,14 +186,14 @@
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 16),212582-US-Tampa (seniority: 4)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 4),21409-FR-Europe/Paris (seniority: 16)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 257: 4 blocks in 4 slots, 0% skip rate
 * Staking activity: target stake amount: ◎33121.199782952, current stake amount: ◎33042.844633254 - adding ◎78.355149698
 * Vote account address: jeQ4YnJBB1bji33uY7eeRzJcae9ptRRAPFhL4HBAz1H
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 17),212582-US-Tampa (seniority: 3)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 3),21409-FR-Europe/Paris (seniority: 17)
 ### [[Testnet Epoch 257|Testnet#Epoch-257]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 256: 16 blocks in 20 slots, 20% skip rate

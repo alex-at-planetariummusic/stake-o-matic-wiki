@@ -1,10 +1,17 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 16 epochs)
+* Stake reason: Good block production during epoch 285: 192 blocks in 212 slots, 10% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: D9zWjspyc2gL5AxFxKNQq3n7i2Ja2NcXrwSZmH44dy9w
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-New York (seniority: 6),23470-US-America/Chicago (seniority: 3)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 284: 148 blocks in 176 slots, 16% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: D5JZc8rT7f2TpBSPeXhpsCtKHvGaJUox2xeJQDngcZbw
 * Vote account address: D9zWjspyc2gL5AxFxKNQq3n7i2Ja2NcXrwSZmH44dy9w
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),23470-US-New York (seniority: 7)
+* Resident Data Center(s): 23470-US-New York (seniority: 7),23470-US-America/Chicago (seniority: 2)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 283: 175 blocks in 180 slots, 3% skip rate
@@ -60,21 +67,21 @@
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: D9zWjspyc2gL5AxFxKNQq3n7i2Ja2NcXrwSZmH44dy9w
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 3),23470-US-Miami (seniority: 1)
+* Resident Data Center(s): 23470-US-Miami (seniority: 1),23470-US-New York (seniority: 3)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 275: 135 blocks in 136 slots, 1% skip rate
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: D9zWjspyc2gL5AxFxKNQq3n7i2Ja2NcXrwSZmH44dy9w
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 2),23470-US-Miami (seniority: 2)
+* Resident Data Center(s): 23470-US-Miami (seniority: 2),23470-US-New York (seniority: 2)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 273: 167 blocks in 188 slots, 12% skip rate
 * Staking activity: stake account busy due to transient stake activation: D5JZc8rT7f2TpBSPeXhpsCtKHvGaJUox2xeJQDngcZbw
 * Vote account address: D9zWjspyc2gL5AxFxKNQq3n7i2Ja2NcXrwSZmH44dy9w
 * Data Center: 23470-US-New York
-* Resident Data Center(s): 23470-US-New York (seniority: 1),23470-US-Miami (seniority: 3)
+* Resident Data Center(s): 23470-US-Miami (seniority: 3),23470-US-New York (seniority: 1)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 272: 70 blocks in 104 slots, 33% skip rate

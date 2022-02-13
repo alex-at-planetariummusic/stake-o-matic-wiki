@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 35 epochs)
+* Stake reason: Good block production during epoch 285: 116 blocks in 132 slots, 13% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: 8nMH7VhGL71uEgU2iNrf2H26TBGDJCuQWzrLqiKCh4KT
+* Data Center: 24961-DE-Düsseldorf
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 25)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 284: 85 blocks in 132 slots, 36% skip rate
@@ -88,21 +95,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: GN536L4cmkFoDsK1ZCQu7SYQh2JEAghppiJZbnUcmWxz
 * Vote account address: 8nMH7VhGL71uEgU2iNrf2H26TBGDJCuQWzrLqiKCh4KT
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 59713-RU-Kursk (seniority: 2),24961-DE-Düsseldorf (seniority: 14)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 14),59713-RU-Kursk (seniority: 2)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 270: 92 blocks in 132 slots, 31% skip rate
 * Staking activity: stake account busy due to transient stake activation: GN536L4cmkFoDsK1ZCQu7SYQh2JEAghppiJZbnUcmWxz
 * Vote account address: 8nMH7VhGL71uEgU2iNrf2H26TBGDJCuQWzrLqiKCh4KT
 * Data Center: 24961-DE-Düsseldorf
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 13),59713-RU-Kursk (seniority: 3)
+* Resident Data Center(s): 59713-RU-Kursk (seniority: 3),24961-DE-Düsseldorf (seniority: 13)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 269: 88 blocks in 128 slots, 32% skip rate
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: 8nMH7VhGL71uEgU2iNrf2H26TBGDJCuQWzrLqiKCh4KT
 * Data Center: 59713-RU-Kursk
-* Resident Data Center(s): 59713-RU-Kursk (seniority: 4),24961-DE-Düsseldorf (seniority: 12)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 12),59713-RU-Kursk (seniority: 4)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 268: 68 blocks in 92 slots, 27% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: GN536L4cmkFoDsK1ZCQu7SYQh2JEAghppiJZbnUcmWxz
 * Vote account address: 8nMH7VhGL71uEgU2iNrf2H26TBGDJCuQWzrLqiKCh4KT
 * Data Center: 59713-RU-Kursk
-* Resident Data Center(s): 59713-RU-Kursk (seniority: 2),24961-DE-Düsseldorf (seniority: 14)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 14),59713-RU-Kursk (seniority: 2)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 266: 120 blocks in 120 slots, 0% skip rate

@@ -1,3 +1,10 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 285: 114 blocks in 124 slots, 9% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: BHxnrKqtmmBR4a3z5bFpuB7SejHEVVVWgq7snzxZKE9r
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 78)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 284: 107 blocks in 108 slots, 1% skip rate
@@ -116,21 +123,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: 5AKn5SLpv83RFL4PcK75tVurzJbNFX4E9tiqReuZ2N87
 * Vote account address: BHxnrKqtmmBR4a3z5bFpuB7SejHEVVVWgq7snzxZKE9r
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 3),24940-DE-Falkenstein (seniority: 61)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 61),23470-US-Miami (seniority: 3)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 266: 97 blocks in 104 slots, 7% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 5AKn5SLpv83RFL4PcK75tVurzJbNFX4E9tiqReuZ2N87
 * Vote account address: BHxnrKqtmmBR4a3z5bFpuB7SejHEVVVWgq7snzxZKE9r
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 62),23470-US-Miami (seniority: 2)
+* Resident Data Center(s): 23470-US-Miami (seniority: 2),24940-DE-Falkenstein (seniority: 62)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 265: 77 blocks in 128 slots, 40% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎1.000000000 - adding ◎28768.565487322
 * Vote account address: BHxnrKqtmmBR4a3z5bFpuB7SejHEVVVWgq7snzxZKE9r
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 1),24940-DE-Falkenstein (seniority: 63)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 63),23470-US-Miami (seniority: 1)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **None**
 * Stake reason: infrastructure concentration 25.8% is too high; find a new data center

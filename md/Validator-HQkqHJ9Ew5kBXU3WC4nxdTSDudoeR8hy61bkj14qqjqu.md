@@ -1,10 +1,17 @@
+### [[Testnet Epoch 286|Testnet#Epoch-286]]
+* Stake level: **Bonus** (for 46 epochs)
+* Stake reason: Good block production during epoch 285: 111 blocks in 120 slots, 8% skip rate
+* Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
+* Vote account address: CnjiEVtvfGByT4rAPjU74o795BpTuEXwVFvgFCZn8YqJ
+* Data Center: 15440-LT-Vilnius
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 34),15440-LT-Vilnius (seniority: 6)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 284: 116 blocks in 132 slots, 13% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 39CEyEqqG1ymKcnapAyRZpe7ZPBDb2izbetNho9dAXve
 * Vote account address: CnjiEVtvfGByT4rAPjU74o795BpTuEXwVFvgFCZn8YqJ
 * Data Center: 15440-LT-Vilnius
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 35),15440-LT-Vilnius (seniority: 5)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 5),24961-DE-Europe/Berlin (seniority: 35)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 283: 105 blocks in 112 slots, 7% skip rate
@@ -18,14 +25,14 @@
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
 * Vote account address: CnjiEVtvfGByT4rAPjU74o795BpTuEXwVFvgFCZn8YqJ
 * Data Center: 15440-LT-Vilnius
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 37),15440-LT-Vilnius (seniority: 3)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 3),24961-DE-Europe/Berlin (seniority: 37)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 281: 135 blocks in 136 slots, 1% skip rate
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: CnjiEVtvfGByT4rAPjU74o795BpTuEXwVFvgFCZn8YqJ
 * Data Center: 15440-LT-Vilnius
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 38),15440-LT-Vilnius (seniority: 2)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 2),24961-DE-Europe/Berlin (seniority: 38)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 280: 83 blocks in 100 slots, 17% skip rate
