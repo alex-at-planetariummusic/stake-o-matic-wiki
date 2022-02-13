@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
+* Stake level: **Bonus** (for 94 epochs)
+* Stake reason: Good block production during epoch 278: 148 blocks in 156 slots, 6% skip rate
+* Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.143764510 - removing ◎827.174634776
+* Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
+* Data Center: 23470-US-Brooklyn
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 46),23470-US-Brooklyn (seniority: 23)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 93 epochs)
 * Stake reason: Good block production during epoch 277: 116 blocks in 124 slots, 7% skip rate
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.963938235 - removing ◎365.688149831
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-Brooklyn (seniority: 22),23470-US-America/Chicago (seniority: 47)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 47),23470-US-Brooklyn (seniority: 22)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 92 epochs)
 * Stake reason: Good block production during epoch 276: 160 blocks in 160 slots, 0% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68985.412361500 - removing ◎400.251135032
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-Brooklyn (seniority: 20),23470-US-America/Chicago (seniority: 49)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 49),23470-US-Brooklyn (seniority: 20)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 90 epochs)
 * Stake reason: Good block production during epoch 274: 120 blocks in 124 slots, 4% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.875244922 - removing ◎327.446922699
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 52),23470-US-Brooklyn (seniority: 17)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 17),23470-US-America/Chicago (seniority: 52)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 87 epochs)
 * Stake reason: Good block production during epoch 271: 120 blocks in 128 slots, 7% skip rate
@@ -53,14 +60,14 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.388994247 - removing ◎1275.010446173
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 54),23470-US-Brooklyn (seniority: 15)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 15),23470-US-America/Chicago (seniority: 54)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 85 epochs)
 * Stake reason: Good block production during epoch 269: 113 blocks in 116 slots, 3% skip rate
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.632013677 - removing ◎197.658869945
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 55),23470-US-Brooklyn (seniority: 14)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 14),23470-US-America/Chicago (seniority: 55)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 84 epochs)
 * Stake reason: Good block production during epoch 268: 118 blocks in 128 slots, 8% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73461.038346098 - removing ◎778.518727692
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-Brooklyn (seniority: 12),23470-US-America/Chicago (seniority: 57)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 57),23470-US-Brooklyn (seniority: 12)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 82 epochs)
 * Stake reason: Good block production during epoch 266: 113 blocks in 120 slots, 6% skip rate
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.879834746 - removing ◎320.880371953
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 58),23470-US-Brooklyn (seniority: 11)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 11),23470-US-America/Chicago (seniority: 58)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 81 epochs)
 * Stake reason: Good block production during epoch 265: 127 blocks in 132 slots, 4% skip rate
@@ -95,14 +102,14 @@
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.613285665 - removing ◎720.160915466
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-Brooklyn (seniority: 9),23470-US-America/Chicago (seniority: 60)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 60),23470-US-Brooklyn (seniority: 9)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 79 epochs)
 * Stake reason: Good block production during epoch 263: 166 blocks in 176 slots, 6% skip rate
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.598683175 - removing ◎922.395794953
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 61),23470-US-Brooklyn (seniority: 8)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 8),23470-US-America/Chicago (seniority: 61)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 78 epochs)
 * Stake reason: Good block production during epoch 262: 96 blocks in 100 slots, 4% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76509.254832155 - removing ◎414.885591872
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 63),23470-US-Brooklyn (seniority: 6)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 6),23470-US-America/Chicago (seniority: 63)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 76 epochs)
 * Stake reason: Good block production during epoch 260: 131 blocks in 136 slots, 4% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80086.079997528 - removing ◎1475.324002785
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-Brooklyn (seniority: 4),23470-US-America/Chicago (seniority: 65)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 65),23470-US-Brooklyn (seniority: 4)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 74 epochs)
 * Stake reason: Good block production during epoch 258: 170 blocks in 172 slots, 2% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.688287560 - removing ◎861.286608156
 * Vote account address: C6DEs3i448uhrsWMMnWYq7WsxkujcgADrCJQ4AMJ8ipj
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 67),23470-US-Brooklyn (seniority: 2)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 2),23470-US-America/Chicago (seniority: 67)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 72 epochs)
 * Stake reason: Good block production during epoch 256: 156 blocks in 176 slots, 12% skip rate

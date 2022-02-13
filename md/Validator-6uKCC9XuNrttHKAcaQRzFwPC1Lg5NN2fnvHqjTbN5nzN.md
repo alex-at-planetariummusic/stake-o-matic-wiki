@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
+* Stake level: **Bonus** (for 74 epochs)
+* Stake reason: Good block production during epoch 278: 143 blocks in 148 slots, 4% skip rate
+* Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.092432266 - removing ◎827.123302532
+* Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
+* Data Center: 212695-UA-Kivertsi
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 10),212695-UA-Kivertsi (seniority: 30)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 73 epochs)
 * Stake reason: Good block production during epoch 277: 118 blocks in 124 slots, 5% skip rate
@@ -18,35 +25,35 @@
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68985.366622596 - removing ◎400.205396128
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 13),212695-UA-Kivertsi (seniority: 27)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 27),35320-UA-Lviv (seniority: 13)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 70 epochs)
 * Stake reason: Good block production during epoch 274: 163 blocks in 164 slots, 1% skip rate
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.672839636 - removing ◎1120.743102515
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 26),35320-UA-Lviv (seniority: 14)
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 14),212695-UA-Kivertsi (seniority: 26)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 69 epochs)
 * Stake reason: Good block production during epoch 273: 110 blocks in 112 slots, 2% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.789467945 - removing ◎954.048431514
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 25),35320-UA-Lviv (seniority: 15)
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 15),212695-UA-Kivertsi (seniority: 25)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 272: 144 blocks in 148 slots, 3% skip rate
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.239598714 - removing ◎326.811276491
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 16),212695-UA-Kivertsi (seniority: 24)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 24),35320-UA-Lviv (seniority: 16)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 67 epochs)
 * Stake reason: Good block production during epoch 271: 154 blocks in 156 slots, 2% skip rate
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71254.976016755 - reserve depleted
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 17),212695-UA-Kivertsi (seniority: 23)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 23),35320-UA-Lviv (seniority: 17)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 270: 126 blocks in 132 slots, 5% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.116891647 - removing ◎197.143747915
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 19),212695-UA-Kivertsi (seniority: 21)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 21),35320-UA-Lviv (seniority: 19)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 268: 121 blocks in 124 slots, 3% skip rate
@@ -81,14 +88,14 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.418623587 - removing ◎320.419160794
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 22),212695-UA-Kivertsi (seniority: 18)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 18),35320-UA-Lviv (seniority: 22)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 61 epochs)
 * Stake reason: Good block production during epoch 265: 111 blocks in 112 slots, 1% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 8EnRrcWT61dj1sBaPXXJ6yHTpQHMikzJjbTTAif84wMG
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 23),212695-UA-Kivertsi (seniority: 17)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 17),35320-UA-Lviv (seniority: 23)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 60 epochs)
 * Stake reason: Good block production during epoch 264: 182 blocks in 188 slots, 4% skip rate
@@ -102,14 +109,14 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.344374963 - removing ◎922.141486741
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 15),35320-UA-Lviv (seniority: 25)
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 25),212695-UA-Kivertsi (seniority: 15)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 262: 156 blocks in 168 slots, 8% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.742665099 - removing ◎362.407162456
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 26),212695-UA-Kivertsi (seniority: 14)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 14),35320-UA-Lviv (seniority: 26)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 57 epochs)
 * Stake reason: Good block production during epoch 261: 125 blocks in 128 slots, 3% skip rate
@@ -123,21 +130,21 @@
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78647.120214926 - removing ◎2173.548786745
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 28),212695-UA-Kivertsi (seniority: 12)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 12),35320-UA-Lviv (seniority: 28)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 259: 157 blocks in 168 slots, 7% skip rate
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80085.661691342 - removing ◎1474.905696599
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 11),35320-UA-Lviv (seniority: 29)
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 29),212695-UA-Kivertsi (seniority: 11)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 258: 205 blocks in 228 slots, 11% skip rate
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.464186629 - reserve depleted
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 30),212695-UA-Kivertsi (seniority: 10)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 10),35320-UA-Lviv (seniority: 30)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 53 epochs)
 * Stake reason: Good block production during epoch 257: 209 blocks in 224 slots, 7% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.108743842 - removing ◎541.740337438
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 8),35320-UA-Lviv (seniority: 32)
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 32),212695-UA-Kivertsi (seniority: 8)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 51 epochs)
 * Stake reason: Good block production during epoch 255: 115 blocks in 124 slots, 8% skip rate
@@ -172,7 +179,7 @@
 * Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83199.722027289 - removing ◎294.116489218
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 5),35320-UA-Lviv (seniority: 35)
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 35),212695-UA-Kivertsi (seniority: 5)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 252: 153 blocks in 156 slots, 2% skip rate
@@ -186,14 +193,14 @@
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84240.596841387 - removing ◎794.848275557
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 3),35320-UA-Lviv (seniority: 37)
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 37),212695-UA-Kivertsi (seniority: 3)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 46 epochs)
 * Stake reason: Good block production during epoch 250: 170 blocks in 180 slots, 6% skip rate
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84201.579537318 - reserve depleted
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 212695-UA-Kivertsi
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 38),212695-UA-Kivertsi (seniority: 2)
+* Resident Data Center(s): 212695-UA-Kivertsi (seniority: 2),35320-UA-Lviv (seniority: 38)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 249: 172 blocks in 180 slots, 5% skip rate
@@ -480,7 +487,7 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143780.036551678 - removing ◎3807.219749972
 * Vote account address: 9ALSmhwUWrpTyVMLb6YbH3jp1VxctRYjXv73hyDh67X8
 * Data Center: 35320-UA-Lviv
-* Resident Data Center(s): 3255-UA-Lviv (seniority: 1),35320-UA-Lviv (seniority: 1)
+* Resident Data Center(s): 35320-UA-Lviv (seniority: 1),3255-UA-Lviv (seniority: 1)
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 204: 12 blocks in 24 slots, 50% skip rate

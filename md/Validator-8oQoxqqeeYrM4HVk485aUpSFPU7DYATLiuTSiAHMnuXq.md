@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
+* Stake level: **Bonus** (for 37 epochs)
+* Stake reason: Good block production during epoch 278: 87 blocks in 88 slots, 2% skip rate
+* Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.081227666 - removing ◎827.112097932
+* Vote account address: HW5t8TVFJoJekqAzyD8hv2rh5zXVTrFpUmxTUYMKyy7y
+* Data Center: 18450-US-Clearfield
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 16),24940-DE-Falkenstein (seniority: 5)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 277: 104 blocks in 108 slots, 4% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.533966112 - removing ◎661.525681925
 * Vote account address: HW5t8TVFJoJekqAzyD8hv2rh5zXVTrFpUmxTUYMKyy7y
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 14),24940-DE-Falkenstein (seniority: 7)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),18450-US-Clearfield (seniority: 14)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 275: 98 blocks in 104 slots, 6% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71255.213259898 - reserve depleted
 * Vote account address: HW5t8TVFJoJekqAzyD8hv2rh5zXVTrFpUmxTUYMKyy7y
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 9),24940-DE-Falkenstein (seniority: 12)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 12),18450-US-Clearfield (seniority: 9)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 270: 144 blocks in 152 slots, 6% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.610836689 - removing ◎197.637692957
 * Vote account address: HW5t8TVFJoJekqAzyD8hv2rh5zXVTrFpUmxTUYMKyy7y
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 7),24940-DE-Falkenstein (seniority: 14)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 14),18450-US-Clearfield (seniority: 7)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 268: 104 blocks in 108 slots, 4% skip rate
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.171036508 - removing ◎88.089387849
 * Vote account address: HW5t8TVFJoJekqAzyD8hv2rh5zXVTrFpUmxTUYMKyy7y
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 15),18450-US-Clearfield (seniority: 6)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 6),24940-DE-Falkenstein (seniority: 15)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 267: 99 blocks in 112 slots, 12% skip rate
@@ -88,14 +95,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: AsdYZXwH9dEq8tUeuvjNtiqzAb6bfkb8mTw7hxcMWkUi
 * Vote account address: HW5t8TVFJoJekqAzyD8hv2rh5zXVTrFpUmxTUYMKyy7y
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 18),18450-US-Clearfield (seniority: 3)
+* Resident Data Center(s): 18450-US-Clearfield (seniority: 3),24940-DE-Falkenstein (seniority: 18)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 264: 106 blocks in 108 slots, 2% skip rate
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.753749565 - removing ◎720.301379366
 * Vote account address: HW5t8TVFJoJekqAzyD8hv2rh5zXVTrFpUmxTUYMKyy7y
 * Data Center: 18450-US-Clearfield
-* Resident Data Center(s): 18450-US-Clearfield (seniority: 2),24940-DE-Falkenstein (seniority: 19)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 19),18450-US-Clearfield (seniority: 2)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 263: 63 blocks in 100 slots, 37% skip rate

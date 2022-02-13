@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
+* Stake level: **Bonus** (for 78 epochs)
+* Stake reason: Good block production during epoch 278: 86 blocks in 92 slots, 7% skip rate
+* Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67653.871706547 - removing ◎826.902576813
+* Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 6),23470-US-Las Vegas (seniority: 15)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 77 epochs)
 * Stake reason: Good block production during epoch 277: 115 blocks in 124 slots, 8% skip rate
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.638296867 - removing ◎365.362508463
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 7),23470-US-Las Vegas (seniority: 14)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 14),16276-CA-Beauharnois (seniority: 7)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 76 epochs)
 * Stake reason: Good block production during epoch 276: 128 blocks in 128 slots, 0% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.858373511 - removing ◎954.117337080
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 11),23470-US-Las Vegas (seniority: 10)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 10),16276-CA-Beauharnois (seniority: 11)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 72 epochs)
 * Stake reason: Good block production during epoch 272: 120 blocks in 120 slots, 0% skip rate
@@ -46,21 +53,21 @@
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71254.870035104 - reserve depleted
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 13),23470-US-Las Vegas (seniority: 8)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 8),16276-CA-Beauharnois (seniority: 13)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 70 epochs)
 * Stake reason: Good block production during epoch 270: 98 blocks in 104 slots, 6% skip rate
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.445402057 - removing ◎1275.066853983
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Miami (seniority: 1),16276-CA-Beauharnois (seniority: 14),23470-US-Las Vegas (seniority: 7)
+* Resident Data Center(s): 23470-US-Miami (seniority: 1),23470-US-Las Vegas (seniority: 7),16276-CA-Beauharnois (seniority: 14)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 69 epochs)
 * Stake reason: Good block production during epoch 269: 118 blocks in 120 slots, 2% skip rate
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.643019727 - removing ◎197.669875995
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 15),23470-US-Las Vegas (seniority: 6),23470-US-Miami (seniority: 2)
+* Resident Data Center(s): 23470-US-Miami (seniority: 2),16276-CA-Beauharnois (seniority: 15),23470-US-Las Vegas (seniority: 6)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 268: 90 blocks in 92 slots, 3% skip rate
@@ -74,35 +81,35 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73460.959396534 - removing ◎778.439778128
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 4),23470-US-Miami (seniority: 4),16276-CA-Beauharnois (seniority: 17)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 17),23470-US-Las Vegas (seniority: 4),23470-US-Miami (seniority: 4)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 266: 108 blocks in 128 slots, 16% skip rate
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.906263385 - removing ◎320.906800592
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 18),23470-US-Miami (seniority: 5),23470-US-Las Vegas (seniority: 3)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 3),16276-CA-Beauharnois (seniority: 18),23470-US-Miami (seniority: 5)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 65 epochs)
 * Stake reason: Good block production during epoch 265: 92 blocks in 108 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: wnA9besbCX3t2PpZpTYYSb6Fco3BpjKq4XNqABJbGVn
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 2),23470-US-Miami (seniority: 6),16276-CA-Beauharnois (seniority: 19),23470-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 23470-US-Miami (seniority: 6),23470-US-Las Vegas (seniority: 2),23470-US-America/Chicago (seniority: 1),16276-CA-Beauharnois (seniority: 19)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 264: 86 blocks in 92 slots, 7% skip rate
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.533389341 - removing ◎720.081019142
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Miami (seniority: 7),16276-CA-Beauharnois (seniority: 20),23470-US-America/Chicago (seniority: 2),23470-US-Las Vegas (seniority: 1)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 20),23470-US-America/Chicago (seniority: 2),23470-US-Miami (seniority: 7),23470-US-Las Vegas (seniority: 1)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 63 epochs)
 * Stake reason: Good block production during epoch 263: 82 blocks in 84 slots, 3% skip rate
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75800.494778666 - removing ◎920.291890444
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 3),23470-US-Miami (seniority: 8),16276-CA-Beauharnois (seniority: 21)
+* Resident Data Center(s): 23470-US-Miami (seniority: 8),23470-US-America/Chicago (seniority: 3),16276-CA-Beauharnois (seniority: 21)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 62 epochs)
 * Stake reason: Good block production during epoch 262: 130 blocks in 132 slots, 2% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76509.216708821 - removing ◎414.847468538
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 8),16276-CA-Beauharnois (seniority: 23),23470-US-America/Chicago (seniority: 3)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 3),16276-CA-Beauharnois (seniority: 23),23470-US-Miami (seniority: 8)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 60 epochs)
 * Stake reason: Good block production during epoch 260: 125 blocks in 128 slots, 3% skip rate
@@ -130,42 +137,42 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80086.004938803 - removing ◎1475.248944060
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 25),23470-US-Miami (seniority: 6),23470-US-America/Chicago (seniority: 5)
+* Resident Data Center(s): 23470-US-Miami (seniority: 6),16276-CA-Beauharnois (seniority: 25),23470-US-America/Chicago (seniority: 5)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 258: 76 blocks in 88 slots, 14% skip rate
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.732494109 - reserve depleted
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 5),23470-US-America/Chicago (seniority: 6),16276-CA-Beauharnois (seniority: 26)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 6),16276-CA-Beauharnois (seniority: 26),23470-US-Miami (seniority: 5)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 57 epochs)
 * Stake reason: Good block production during epoch 257: 108 blocks in 112 slots, 4% skip rate
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.632807633 - removing ◎861.231128229
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 27),23470-US-America/Chicago (seniority: 7),23470-US-Miami (seniority: 4)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 7),23470-US-Miami (seniority: 4),16276-CA-Beauharnois (seniority: 27)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 56 epochs)
 * Stake reason: Good block production during epoch 256: 117 blocks in 120 slots, 3% skip rate
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.309079646 - removing ◎541.940673242
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 28),23470-US-Miami (seniority: 3),23470-US-America/Chicago (seniority: 8)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 28),23470-US-America/Chicago (seniority: 8),23470-US-Miami (seniority: 3)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 255: 111 blocks in 116 slots, 5% skip rate
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.014793202 - removing ◎1646.139638680
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 2),16276-CA-Beauharnois (seniority: 29),23470-US-America/Chicago (seniority: 9)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 9),16276-CA-Beauharnois (seniority: 29),23470-US-Miami (seniority: 2)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 254: 132 blocks in 156 slots, 16% skip rate
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82944.776692089 - reserve depleted
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 30),23470-US-Miami (seniority: 1),23470-US-America/Chicago (seniority: 10)
+* Resident Data Center(s): 23470-US-Miami (seniority: 1),16276-CA-Beauharnois (seniority: 30),23470-US-America/Chicago (seniority: 10)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 53 epochs)
 * Stake reason: Good block production during epoch 253: 114 blocks in 124 slots, 9% skip rate
@@ -186,7 +193,7 @@
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84240.965295012 - removing ◎795.216729182
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 33),23470-US-America/Chicago (seniority: 9)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 9),16276-CA-Beauharnois (seniority: 33)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 250: 99 blocks in 100 slots, 1% skip rate
@@ -200,7 +207,7 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.413108556 - removing ◎2238.647075527
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35),23470-US-America/Chicago (seniority: 7)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 7),16276-CA-Beauharnois (seniority: 35)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 248: 120 blocks in 128 slots, 7% skip rate
@@ -214,14 +221,14 @@
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎89174.347334506 - removing ◎1799.749979015
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 37),23470-US-America/Chicago (seniority: 5)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 5),16276-CA-Beauharnois (seniority: 37)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus** (for 46 epochs)
 * Stake reason: Good block production during epoch 246: 135 blocks in 140 slots, 4% skip rate
 * Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎88670.857551582 - adding ◎462.150461381
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 38),23470-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),16276-CA-Beauharnois (seniority: 38)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 245: 163 blocks in 164 slots, 1% skip rate
@@ -235,14 +242,14 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89429.922803674 - removing ◎841.569540468
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),16276-CA-Beauharnois (seniority: 40)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 40),23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 243: 128 blocks in 148 slots, 14% skip rate
 * Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.767178821 - removing ◎545.955388217
 * Vote account address: HPx7uv5ygHanVpVYsJMQGF2L82JuXDJtbxxuS2bY2qgk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),16276-CA-Beauharnois (seniority: 41)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 41),23470-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 242: 107 blocks in 124 slots, 14% skip rate

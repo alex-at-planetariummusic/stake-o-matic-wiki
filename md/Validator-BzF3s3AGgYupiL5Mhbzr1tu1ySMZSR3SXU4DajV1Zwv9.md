@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
+* Stake level: **Bonus** (for 44 epochs)
+* Stake reason: Good block production during epoch 278: 74 blocks in 76 slots, 3% skip rate
+* Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.146106655 - removing ◎827.176976921
+* Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 45)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 277: 84 blocks in 84 slots, 0% skip rate
@@ -333,14 +340,14 @@
 * Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎25010.829933259 - reserve depleted
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 5),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-DE-Falkenstein (seniority: 5)
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 228: 20 blocks in 44 slots, 55% skip rate
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25021.233982419 - removing ◎21.233982419
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),24940-DE-Nuremburg (seniority: 2)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),24940-DE-Falkenstein (seniority: 4)
 ### [[Mainnet Epoch 228|Mainnet#Epoch-228]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 227: 20 blocks in 20 slots, 0% skip rate
@@ -354,7 +361,7 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎31970.156772926 - removing ◎6970.156772926
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),24940-DE-Nuremburg (seniority: 4)
 ### [[Mainnet Epoch 225|Mainnet#Epoch-225]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 224: 80 blocks in 100 slots, 20% skip rate
@@ -368,7 +375,7 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎104657.853982422 - removing ◎79657.853982422
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 6),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),24940-DE-Nuremburg (seniority: 6)
 ### [[Mainnet Epoch 223|Mainnet#Epoch-223]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 222: 115 blocks in 116 slots, 1% skip rate
@@ -382,14 +389,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: GNNnaR8grfmzVzpU3zrKXVNd6GkVMr84YJTu1MhgdugX
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 8),24940-DE-Falkenstein (seniority: 4)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 4),24940-DE-Nuremburg (seniority: 8)
 ### [[Mainnet Epoch 220|Mainnet#Epoch-220]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 219: 8 blocks in 8 slots, 0% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: GNNnaR8grfmzVzpU3zrKXVNd6GkVMr84YJTu1MhgdugX
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 9),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),24940-DE-Nuremburg (seniority: 9)
 ### [[Mainnet Epoch 219|Mainnet#Epoch-219]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 218: 10 blocks in 12 slots, 17% skip rate
@@ -403,7 +410,7 @@
 * Staking activity: stake account busy due to transient stake activation: GNNnaR8grfmzVzpU3zrKXVNd6GkVMr84YJTu1MhgdugX
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-DE-Nuremburg (seniority: 11)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 11),24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 217|Mainnet#Epoch-217]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 329503 credits earned in epoch 216
@@ -574,14 +581,14 @@
 * Staking activity: target stake amount: ◎213460.606066276, current stake amount: ◎205121.999814274 - reserve depleted
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),24940-DE-Europe/Berlin (seniority: 2)
+* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 2),24940-DE-Nuremburg (seniority: 2)
 ### [[Mainnet Epoch 193|Mainnet#Epoch-193]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: good block production during epoch 192: 246 blocks in 292 slots, 16% skip rate
 * Staking activity: target stake amount: ◎207293.032432347, current stake amount: ◎205006.372050425 - reserve depleted
 * Vote account address: 9G1FYXgP5crtEbGX87yrmGeLdtKkjvYqhFMey8cPReBq
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Europe/Berlin (seniority: 3),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),24940-DE-Europe/Berlin (seniority: 3)
 ### [[Mainnet Epoch 191|Mainnet#Epoch-191]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: good block production during epoch 190: 219 blocks in 244 slots, 11% skip rate

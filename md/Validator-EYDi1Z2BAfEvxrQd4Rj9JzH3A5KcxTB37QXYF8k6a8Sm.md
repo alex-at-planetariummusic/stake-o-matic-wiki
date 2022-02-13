@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
+* Stake level: **None** (for 14 epochs)
+* Stake reason: Commission too high in 2 epochs
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.003275091 - not removing ◎0.003275091 (amount too small)
+* Vote account address: 3m9CSkhxoD3qK99AN2WM8rSfKu91hcMnibr2NswVVbDR
+* Data Center: 54825-US-Secaucus
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **None** (for 13 epochs)
 * Stake reason: Commission too high in 2 epochs

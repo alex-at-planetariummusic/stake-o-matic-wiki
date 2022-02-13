@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 278: 132 blocks in 136 slots, 3% skip rate
+* Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.098245822 - removing ◎827.129116088
+* Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
+* Data Center: 20326-NL-Amsterdam
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 12),20326-NL-Amsterdam (seniority: 19)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 277: 125 blocks in 132 slots, 6% skip rate
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.962027210 - removing ◎365.686238806
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 18),15435-NL-Rolde (seniority: 13)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 13),20326-NL-Amsterdam (seniority: 18)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 276: 148 blocks in 152 slots, 3% skip rate
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.585904926 - removing ◎661.577620739
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 17),15435-NL-Rolde (seniority: 14)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 14),20326-NL-Amsterdam (seniority: 17)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 275: 130 blocks in 136 slots, 5% skip rate
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68984.566789782 - removing ◎399.405563314
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 16),15435-NL-Rolde (seniority: 15)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 15),20326-NL-Amsterdam (seniority: 16)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 274: 52 blocks in 52 slots, 0% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70961.428776379 - removing ◎920.687739948
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 14),15435-NL-Rolde (seniority: 17)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 17),20326-NL-Amsterdam (seniority: 14)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 272: 43 blocks in 44 slots, 3% skip rate
@@ -46,21 +53,21 @@
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎1.002705130 - reserve depleted
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 19),20326-NL-Amsterdam (seniority: 12)
+* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 12),15435-NL-Rolde (seniority: 19)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **None** (for 6 epochs)
 * Stake reason: Insufficient testnet participation
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.002265746 - not removing ◎0.002265746 (amount too small)
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 20),20326-NL-Amsterdam (seniority: 11)
+* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 11),15435-NL-Rolde (seniority: 20)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **None** (for 5 epochs)
 * Stake reason: Insufficient testnet participation
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001813931 - not removing ◎0.001813931 (amount too small)
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 21),20326-NL-Amsterdam (seniority: 12)
+* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 12),15435-NL-Rolde (seniority: 21)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient testnet participation
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000455724 - not removing ◎0.000455724 (amount too small)
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 24),20326-NL-Amsterdam (seniority: 15)
+* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 15),15435-NL-Rolde (seniority: 24)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **None**
 * Stake reason: Insufficient testnet participation
@@ -102,14 +109,14 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.619875966 - removing ◎922.416987744
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 27),20326-NL-Amsterdam (seniority: 16)
+* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 16),15435-NL-Rolde (seniority: 27)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 262: 115 blocks in 116 slots, 1% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.950733509 - removing ◎362.615230866
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 15),15435-NL-Rolde (seniority: 28)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 28),20326-NL-Amsterdam (seniority: 15)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 261: 174 blocks in 176 slots, 2% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78647.441202033 - removing ◎2173.869773852
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 13),15435-NL-Rolde (seniority: 30)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 30),20326-NL-Amsterdam (seniority: 13)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 41 epochs)
 * Stake reason: Good block production during epoch 259: 202 blocks in 208 slots, 3% skip rate
@@ -137,7 +144,7 @@
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.771406596 - reserve depleted
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 11),15435-NL-Rolde (seniority: 32)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 32),20326-NL-Amsterdam (seniority: 11)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 257: 153 blocks in 164 slots, 7% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.308346892 - removing ◎541.939940488
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 9),15435-NL-Rolde (seniority: 34)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 34),20326-NL-Amsterdam (seniority: 9)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 255: 153 blocks in 176 slots, 14% skip rate
@@ -165,7 +172,7 @@
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82945.077907533 - reserve depleted
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 36),20326-NL-Amsterdam (seniority: 7)
+* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 7),15435-NL-Rolde (seniority: 36)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 253: 93 blocks in 104 slots, 11% skip rate
@@ -179,7 +186,7 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.412527787 - removing ◎323.012120755
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 5),15435-NL-Rolde (seniority: 38)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 38),20326-NL-Amsterdam (seniority: 5)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 251: 175 blocks in 184 slots, 5% skip rate
@@ -193,7 +200,7 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.143968238 - reserve depleted
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 40),20326-NL-Amsterdam (seniority: 3)
+* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 3),15435-NL-Rolde (seniority: 40)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 249: 213 blocks in 220 slots, 4% skip rate
@@ -207,7 +214,7 @@
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎87414.409482699 - removing ◎1053.521372960
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 20326-NL-Amsterdam
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 42),20326-NL-Amsterdam (seniority: 1)
+* Resident Data Center(s): 20326-NL-Amsterdam (seniority: 1),15435-NL-Rolde (seniority: 42)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 247: 123 blocks in 136 slots, 10% skip rate
@@ -483,7 +490,7 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.680859313 - removing ◎376.866463774
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 15435-NL-Rolde
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 8),15435-NL-Akmarijp (seniority: 2)
+* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 2),15435-NL-Rolde (seniority: 8)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 14 epochs)
@@ -491,7 +498,7 @@
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143783.103967023 - removing ◎3810.287165317
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 15435-NL-Rolde
-* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 3),15435-NL-Rolde (seniority: 7)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 7),15435-NL-Akmarijp (seniority: 3)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 13 epochs)
@@ -507,7 +514,7 @@
 * Staking activity: target stake amount: ◎144827.249969006, current stake amount: ◎151873.342122456 - removing ◎7046.092153450
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 15435-NL-Rolde
-* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 5),15435-NL-Rolde (seniority: 5)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 5),15435-NL-Akmarijp (seniority: 5)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 203|Mainnet#Epoch-203]]
 * Stake level: **Bonus** (for 11 epochs)
@@ -515,7 +522,7 @@
 * Staking activity: target stake amount: ◎151795.312351460, current stake amount: ◎152992.459170786 - removing ◎1197.146819326
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 15435-NL-Rolde
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 4),15435-NL-Akmarijp (seniority: 6)
+* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 6),15435-NL-Rolde (seniority: 4)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 202|Mainnet#Epoch-202]]
 * Stake level: **Bonus** (for 10 epochs)
@@ -523,7 +530,7 @@
 * Staking activity: target stake amount: ◎152914.509106764, current stake amount: ◎180288.093229864 - removing ◎27373.584123100
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 15435-NL-Rolde
-* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 7),15435-NL-Rolde (seniority: 3)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 3),15435-NL-Akmarijp (seniority: 7)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 201|Mainnet#Epoch-201]]
 * Stake level: **Bonus** (for 9 epochs)
@@ -531,7 +538,7 @@
 * Staking activity: target stake amount: ◎180188.304461177, current stake amount: ◎186571.196770608 - removing ◎6382.892309431
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 15435-NL-Rolde
-* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 8),15435-NL-Rolde (seniority: 2)
+* Resident Data Center(s): 15435-NL-Rolde (seniority: 2),15435-NL-Akmarijp (seniority: 8)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 200|Mainnet#Epoch-200]]
 * Stake level: **Bonus** (for 8 epochs)
@@ -539,7 +546,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: Dmm5Czv5Mj3ke9Xd5YXvja6x2YE6JeA2Z7gWs7WnJ9od
 * Vote account address: irKsY8c3sQur1XaYuQ811hzsEQJ5Hq3Yu3AAoXYnp8W
 * Data Center: 15435-NL-Rolde
-* Resident Data Center(s): 15435-NL-Rolde (seniority: 1),15435-NL-Akmarijp (seniority: 9)
+* Resident Data Center(s): 15435-NL-Akmarijp (seniority: 9),15435-NL-Rolde (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 7 epochs)
