@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 54 epochs)
+* Stake reason: Good block production during epoch 279: 168 blocks in 176 slots, 5% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.440196520 - removing ◎613.887576328
+* Vote account address: CrLn7zEBytbmRBUGhkDyyUbGCa6H7bMCnw94Dip8QbcJ
+* Data Center: 57128-RU-Kazan’
+* Resident Data Center(s): 57128-RU-Kazan’ (seniority: 48)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 53 epochs)
 * Stake reason: Good block production during epoch 278: 117 blocks in 124 slots, 6% skip rate
@@ -298,7 +305,7 @@
 * Staking activity: target stake amount: ◎96057.164656909, current stake amount: ◎94570.849506619 - adding ◎1486.315150290
 * Vote account address: CrLn7zEBytbmRBUGhkDyyUbGCa6H7bMCnw94Dip8QbcJ
 * Data Center: 57128-RU-Kazan’
-* Resident Data Center(s): 57128-RU-Kazan’ (seniority: 5),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),57128-RU-Kazan’ (seniority: 5)
 ### [[Mainnet Epoch 236|Mainnet#Epoch-236]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 235: 119 blocks in 128 slots, 8% skip rate
@@ -312,7 +319,7 @@
 * Staking activity: target stake amount: ◎94439.178943147, current stake amount: ◎96338.709742505 - removing ◎1899.530799358
 * Vote account address: CrLn7zEBytbmRBUGhkDyyUbGCa6H7bMCnw94Dip8QbcJ
 * Data Center: 57128-RU-Kazan’
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),57128-RU-Kazan’ (seniority: 3)
+* Resident Data Center(s): 57128-RU-Kazan’ (seniority: 3),16276-FR-Roubaix (seniority: 3)
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 232: 124 blocks in 128 slots, 4% skip rate

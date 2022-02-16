@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Baseline** (for 7 epochs)
+* Stake reason: Poor block production during epoch 279: 20 blocks in 60 slots, 67% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.870136855 - removing ◎11.870136855
+* Vote account address: LcmWVqpv45eunfxDo11aiE4EmbgaEaBTftJmj7bxufA
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 13)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Baseline** (for 6 epochs)
 * Stake reason: Poor block production during epoch 278: 25 blocks in 52 slots, 52% skip rate
@@ -18,21 +25,21 @@
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.929866823 - removing ◎11.929866823
 * Vote account address: LcmWVqpv45eunfxDo11aiE4EmbgaEaBTftJmj7bxufA
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 16),24940-DE-Nuremburg (seniority: 2)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),23470-US-America/Chicago (seniority: 16)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: Poor block production during epoch 275: 43 blocks in 92 slots, 54% skip rate
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.884424896 - removing ◎11.884424896
 * Vote account address: LcmWVqpv45eunfxDo11aiE4EmbgaEaBTftJmj7bxufA
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),23470-US-America/Chicago (seniority: 17)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 17),24940-DE-Nuremburg (seniority: 3)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 274: 0 blocks in 16 slots, 100% skip rate
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25011.857258553 - removing ◎11.857258553
 * Vote account address: LcmWVqpv45eunfxDo11aiE4EmbgaEaBTftJmj7bxufA
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 18),24940-DE-Nuremburg (seniority: 4)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),23470-US-America/Chicago (seniority: 18)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 273: 55 blocks in 116 slots, 53% skip rate
@@ -53,21 +60,21 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎71227.647387472 - removing ◎71226.647387472
 * Vote account address: LcmWVqpv45eunfxDo11aiE4EmbgaEaBTftJmj7bxufA
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),23470-US-America/Chicago (seniority: 21)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 21),24940-DE-Nuremburg (seniority: 5)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 270: 104 blocks in 116 slots, 11% skip rate
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎25023.070782930 - adding ◎46199.307765144
 * Vote account address: LcmWVqpv45eunfxDo11aiE4EmbgaEaBTftJmj7bxufA
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 22),24940-DE-Nuremburg (seniority: 6)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 6),23470-US-America/Chicago (seniority: 22)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 269: 55 blocks in 80 slots, 32% skip rate
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎25011.577914631 - reserve depleted
 * Vote account address: LcmWVqpv45eunfxDo11aiE4EmbgaEaBTftJmj7bxufA
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),23470-US-America/Chicago (seniority: 23)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 23),24940-DE-Nuremburg (seniority: 5)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 268: 66 blocks in 124 slots, 47% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎25023.233258981 - adding ◎49171.219111218
 * Vote account address: LcmWVqpv45eunfxDo11aiE4EmbgaEaBTftJmj7bxufA
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),23470-US-America/Chicago (seniority: 28)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 28),24940-DE-Nuremburg (seniority: 2)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 263: 16 blocks in 16 slots, 0% skip rate

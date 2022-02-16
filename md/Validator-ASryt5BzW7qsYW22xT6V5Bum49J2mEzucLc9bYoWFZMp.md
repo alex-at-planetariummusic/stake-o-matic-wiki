@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 13 epochs)
+* Stake reason: Good block production during epoch 279: 95 blocks in 100 slots, 5% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.451934441 - removing ◎613.899314249
+* Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
+* Data Center: 23470-US-Las Vegas
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 13),16276-FR-Roubaix (seniority: 25)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 278: 90 blocks in 100 slots, 10% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.195888226 - removing ◎827.226758492
 * Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 12),16276-FR-Roubaix (seniority: 26)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 26),23470-US-Las Vegas (seniority: 12)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 277: 131 blocks in 136 slots, 4% skip rate
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67988.004746038 - removing ◎365.728957634
 * Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 11),16276-FR-Roubaix (seniority: 27)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 27),23470-US-Las Vegas (seniority: 11)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 276: 119 blocks in 120 slots, 1% skip rate
@@ -39,28 +46,28 @@
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.890310738 - removing ◎954.149274307
 * Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 31),23470-US-Las Vegas (seniority: 7)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 7),16276-FR-Roubaix (seniority: 31)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 272: 117 blocks in 120 slots, 3% skip rate
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.531393569 - removing ◎327.103071346
 * Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 6),16276-FR-Roubaix (seniority: 32)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 32),23470-US-Las Vegas (seniority: 6)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 271: 84 blocks in 92 slots, 9% skip rate
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71255.165944557 - reserve depleted
 * Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 5),16276-FR-Roubaix (seniority: 33)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 33),23470-US-Las Vegas (seniority: 5)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 270: 73 blocks in 76 slots, 4% skip rate
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.404130848 - removing ◎1275.025582774
 * Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 34),23470-US-Las Vegas (seniority: 4)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 4),16276-FR-Roubaix (seniority: 34)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 269: 61 blocks in 64 slots, 5% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎25022.726247578 - adding ◎47605.355401081
 * Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 36),23470-US-Las Vegas (seniority: 2)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 2),16276-FR-Roubaix (seniority: 36)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 267: 102 blocks in 120 slots, 15% skip rate
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎25011.110819508 - reserve depleted
 * Vote account address: 8Rs4wJJVFaRmARmwSvsVSAcSsUb9ZJD4USejuHm974hH
 * Data Center: 23470-US-Las Vegas
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 37),23470-US-Las Vegas (seniority: 1)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 1),16276-FR-Roubaix (seniority: 37)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 266: 55 blocks in 108 slots, 50% skip rate

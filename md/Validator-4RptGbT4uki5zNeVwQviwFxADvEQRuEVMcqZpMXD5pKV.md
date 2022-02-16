@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 32 epochs)
+* Stake reason: Good block production during epoch 279: 75 blocks in 80 slots, 7% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.374069655 - removing ◎613.821449463
+* Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 32)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 278: 112 blocks in 120 slots, 7% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.806760508 - removing ◎954.065724077
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 26),23470-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),24940-DE-Nuremburg (seniority: 26)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 272: 104 blocks in 108 slots, 4% skip rate
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.195910086 - removing ◎326.767587863
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),24940-DE-Nuremburg (seniority: 25)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 25),23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 271: 84 blocks in 88 slots, 5% skip rate
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.366792236 - removing ◎1274.988244162
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 23),23470-US-America/Chicago (seniority: 4)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),24940-DE-Nuremburg (seniority: 23)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 269: 70 blocks in 72 slots, 3% skip rate
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.578287881 - removing ◎197.605144149
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 5),24940-DE-Nuremburg (seniority: 22)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 22),23470-US-America/Chicago (seniority: 5)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 268: 124 blocks in 128 slots, 4% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73460.494526703 - removing ◎777.974908297
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 20),23470-US-America/Chicago (seniority: 7)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 7),24940-DE-Nuremburg (seniority: 20)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 266: 113 blocks in 132 slots, 15% skip rate
@@ -116,14 +123,14 @@
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.874042722 - removing ◎362.538540079
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 15),23470-US-America/Chicago (seniority: 12)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 12),24940-DE-Nuremburg (seniority: 15)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 261: 94 blocks in 96 slots, 3% skip rate
 * Staking activity: target stake amount: ◎76094.369240283, current stake amount: ◎76509.261313880 - removing ◎414.892073597
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 14),23470-US-America/Chicago (seniority: 13)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 13),24940-DE-Nuremburg (seniority: 14)
 ### [[Mainnet Epoch 261|Mainnet#Epoch-261]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 260: 71 blocks in 80 slots, 12% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.688772832 - reserve depleted
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 16),24940-DE-Nuremburg (seniority: 11)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 11),23470-US-America/Chicago (seniority: 16)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 257: 114 blocks in 120 slots, 5% skip rate
@@ -158,21 +165,21 @@
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.222627681 - removing ◎541.854221277
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 18),24940-DE-Nuremburg (seniority: 9)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 9),23470-US-America/Chicago (seniority: 18)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 255: 93 blocks in 96 slots, 4% skip rate
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.115721749 - removing ◎1646.240567227
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 8),23470-US-America/Chicago (seniority: 19)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 19),24940-DE-Nuremburg (seniority: 8)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 254: 106 blocks in 108 slots, 2% skip rate
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82944.977283869 - reserve depleted
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 7),23470-US-America/Chicago (seniority: 20)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 20),24940-DE-Nuremburg (seniority: 7)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 253: 82 blocks in 88 slots, 7% skip rate
@@ -200,7 +207,7 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84174.466545851 - reserve depleted
 * Vote account address: 5mgExQhTBXbWuVjcbSPdwbsNdLKiWMNVcv4gei4VXBii
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 24),24940-DE-Nuremburg (seniority: 3)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),23470-US-America/Chicago (seniority: 24)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 249: 36 blocks in 36 slots, 0% skip rate

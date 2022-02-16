@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 279: 126 blocks in 132 slots, 5% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.444157219 - removing ◎613.891537027
+* Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
+* Data Center: 136958-CN-Asia/Shanghai
+* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 23)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 278: 87 blocks in 96 slots, 10% skip rate
@@ -95,28 +102,28 @@
 * Staking activity: stake account busy due to transient stake deactivation: B5EqorLVZvsUnbFdd5kRQk4rLh1TJAfKLZJ18vXGapGP
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 13),134764-CN-Asia/Shanghai (seniority: 2)
+* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 2),136958-CN-Asia/Shanghai (seniority: 13)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 264: 107 blocks in 112 slots, 5% skip rate
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.714511248 - removing ◎720.262141049
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 3),136958-CN-Asia/Shanghai (seniority: 12)
+* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 12),134764-CN-Asia/Shanghai (seniority: 3)
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 263: 91 blocks in 104 slots, 13% skip rate
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.516488455 - removing ◎922.313600233
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 11),134764-CN-Asia/Shanghai (seniority: 4)
+* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 4),136958-CN-Asia/Shanghai (seniority: 11)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 262: 133 blocks in 140 slots, 5% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.792014100 - removing ◎362.456511457
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 10),134764-CN-Asia/Shanghai (seniority: 5)
+* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 5),136958-CN-Asia/Shanghai (seniority: 10)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 261: 144 blocks in 144 slots, 0% skip rate
@@ -137,21 +144,21 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80085.914803313 - removing ◎1475.158808570
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 8),136958-CN-Asia/Shanghai (seniority: 7)
+* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 7),134764-CN-Asia/Shanghai (seniority: 8)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 258: 142 blocks in 160 slots, 12% skip rate
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.618185026 - reserve depleted
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 9),136958-CN-Asia/Shanghai (seniority: 6)
+* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 6),134764-CN-Asia/Shanghai (seniority: 9)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 257: 144 blocks in 160 slots, 10% skip rate
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.544804886 - removing ◎861.143125482
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 10),136958-CN-Asia/Shanghai (seniority: 5)
+* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 5),134764-CN-Asia/Shanghai (seniority: 10)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 256: 119 blocks in 128 slots, 8% skip rate
@@ -172,14 +179,14 @@
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82944.880313580 - reserve depleted
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 2),134764-CN-Asia/Shanghai (seniority: 13)
+* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 13),136958-CN-Asia/Shanghai (seniority: 2)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 253: 132 blocks in 152 slots, 14% skip rate
 * Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83193.305085572 - removing ◎287.699547501
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 136958-CN-Asia/Shanghai
-* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 14),136958-CN-Asia/Shanghai (seniority: 1)
+* Resident Data Center(s): 136958-CN-Asia/Shanghai (seniority: 1),134764-CN-Asia/Shanghai (seniority: 14)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 252: 115 blocks in 120 slots, 5% skip rate
@@ -270,7 +277,7 @@
 * Staking activity: target stake amount: ◎92032.467022247, current stake amount: ◎93083.387718027 - removing ◎1050.920695780
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 134764-CN-Asia/Shanghai
-* Resident Data Center(s): 16509-SG-Singapore (seniority: 1),134764-CN-Asia/Shanghai (seniority: 3)
+* Resident Data Center(s): 134764-CN-Asia/Shanghai (seniority: 3),16509-SG-Singapore (seniority: 1)
 ### [[Mainnet Epoch 240|Mainnet#Epoch-240]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 239: 80 blocks in 80 slots, 0% skip rate
@@ -305,14 +312,14 @@
 * Staking activity: target stake amount: ◎97387.898447518, current stake amount: ◎94528.603137673 - reserve depleted
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 16509-SG-Singapore
-* Resident Data Center(s): 16509-SG-Singapore (seniority: 6),4657-SG-Singapore (seniority: 1)
+* Resident Data Center(s): 4657-SG-Singapore (seniority: 1),16509-SG-Singapore (seniority: 6)
 ### [[Mainnet Epoch 234|Mainnet#Epoch-234]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 233: 88 blocks in 128 slots, 32% skip rate
 * Staking activity: target stake amount: ◎94439.178943147, current stake amount: ◎96338.653440960 - removing ◎1899.474497813
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 16509-SG-Singapore
-* Resident Data Center(s): 16509-SG-Singapore (seniority: 5),4657-SG-Singapore (seniority: 2)
+* Resident Data Center(s): 4657-SG-Singapore (seniority: 2),16509-SG-Singapore (seniority: 5)
 ### [[Mainnet Epoch 233|Mainnet#Epoch-233]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 232: 68 blocks in 84 slots, 20% skip rate
@@ -340,7 +347,7 @@
 * Staking activity: target stake amount: ◎100876.808158185, current stake amount: ◎25010.535889507 - reserve depleted
 * Vote account address: AGXZemZbyZjz5NBhufcob2pf8AXnr9HaGFUGNCfooWrB
 * Data Center: 16509-SG-Singapore
-* Resident Data Center(s): 16509-SG-Singapore (seniority: 1),4657-SG-Singapore (seniority: 6)
+* Resident Data Center(s): 4657-SG-Singapore (seniority: 6),16509-SG-Singapore (seniority: 1)
 ### [[Mainnet Epoch 229|Mainnet#Epoch-229]]
 * Stake level: **Baseline** (for 13 epochs)
 * Stake reason: Poor block production during epoch 228: 4 blocks in 60 slots, 94% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 95 epochs)
+* Stake reason: Good block production during epoch 279: 76 blocks in 84 slots, 10% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.341045235 - removing ◎613.788425043
+* Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
+* Data Center: 18450-US-Ogden
+* Resident Data Center(s): 18450-US-Ogden (seniority: 23),18450-US-Los Angeles (seniority: 47)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 94 epochs)
 * Stake reason: Good block production during epoch 278: 103 blocks in 108 slots, 5% skip rate
@@ -25,21 +32,21 @@
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68985.384428215 - removing ◎400.223201747
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 19),18450-US-Los Angeles (seniority: 51)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 51),18450-US-Ogden (seniority: 19)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 90 epochs)
 * Stake reason: Good block production during epoch 274: 160 blocks in 168 slots, 5% skip rate
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.612621365 - removing ◎1120.682884244
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Los Angeles (seniority: 52),18450-US-Ogden (seniority: 18)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 18),18450-US-Los Angeles (seniority: 52)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 89 epochs)
 * Stake reason: Good block production during epoch 273: 128 blocks in 132 slots, 4% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.836136993 - removing ◎954.095100562
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 17),18450-US-Los Angeles (seniority: 53)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 53),18450-US-Ogden (seniority: 17)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 88 epochs)
 * Stake reason: Good block production during epoch 272: 113 blocks in 120 slots, 6% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.290046249 - removing ◎1274.911498175
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 14),18450-US-Los Angeles (seniority: 56)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 56),18450-US-Ogden (seniority: 14)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 85 epochs)
 * Stake reason: Good block production during epoch 269: 106 blocks in 112 slots, 6% skip rate
@@ -81,21 +88,21 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73460.902830153 - removing ◎778.383211747
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 11),18450-US-Los Angeles (seniority: 59)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 59),18450-US-Ogden (seniority: 11)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 82 epochs)
 * Stake reason: Good block production during epoch 266: 139 blocks in 148 slots, 7% skip rate
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.611355233 - removing ◎320.611892440
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Los Angeles (seniority: 60),18450-US-Ogden (seniority: 10)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 10),18450-US-Los Angeles (seniority: 60)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 81 epochs)
 * Stake reason: Good block production during epoch 265: 84 blocks in 88 slots, 5% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: Aeyj6dRYQzbrSp5KHv1J4nBykTbGTxPCKCavBZiyjZZr
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Los Angeles (seniority: 61),18450-US-Ogden (seniority: 9)
+* Resident Data Center(s): 18450-US-Ogden (seniority: 9),18450-US-Los Angeles (seniority: 61)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 80 epochs)
 * Stake reason: Good block production during epoch 264: 107 blocks in 108 slots, 1% skip rate
@@ -130,21 +137,21 @@
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78647.309640284 - removing ◎2173.738212103
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 4),18450-US-Los Angeles (seniority: 66)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 66),18450-US-Ogden (seniority: 4)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 75 epochs)
 * Stake reason: Good block production during epoch 259: 117 blocks in 120 slots, 3% skip rate
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80085.804721050 - removing ◎1475.048726307
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 3),18450-US-Los Angeles (seniority: 67)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 67),18450-US-Ogden (seniority: 3)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 74 epochs)
 * Stake reason: Good block production during epoch 258: 118 blocks in 124 slots, 5% skip rate
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.624069997 - reserve depleted
 * Vote account address: HmuQrPPXWkaAMhArBVvQRbknowKpsvDzNtSakvqt93st
 * Data Center: 18450-US-Ogden
-* Resident Data Center(s): 18450-US-Ogden (seniority: 2),18450-US-Los Angeles (seniority: 68)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 68),18450-US-Ogden (seniority: 2)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 73 epochs)
 * Stake reason: Good block production during epoch 257: 89 blocks in 100 slots, 11% skip rate

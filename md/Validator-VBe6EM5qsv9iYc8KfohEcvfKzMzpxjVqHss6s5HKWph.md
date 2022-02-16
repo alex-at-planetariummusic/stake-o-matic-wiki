@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 6 epochs)
+* Stake reason: Good block production during epoch 279: 92 blocks in 96 slots, 5% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.346537909 - removing ◎613.793917717
+* Vote account address: AnCXGR8tp7TPNZRhRDLCRpbVCrTC6cMaoSwxGmXMfkSk
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 6)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 278: 89 blocks in 100 slots, 11% skip rate
@@ -18,21 +25,21 @@
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68596.913661600 - removing ◎640.905377413
 * Vote account address: AnCXGR8tp7TPNZRhRDLCRpbVCrTC6cMaoSwxGmXMfkSk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 3),24940-DE-Nuremburg (seniority: 3)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),23470-US-America/Chicago (seniority: 3)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 275: 126 blocks in 140 slots, 10% skip rate
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎25023.460476983 - adding ◎43561.700749485
 * Vote account address: AnCXGR8tp7TPNZRhRDLCRpbVCrTC6cMaoSwxGmXMfkSk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),24940-DE-Nuremburg (seniority: 4)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),23470-US-America/Chicago (seniority: 2)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 274: 58 blocks in 76 slots, 24% skip rate
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎25011.675248189 - reserve depleted
 * Vote account address: AnCXGR8tp7TPNZRhRDLCRpbVCrTC6cMaoSwxGmXMfkSk
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),24940-DE-Nuremburg (seniority: 5)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),23470-US-America/Chicago (seniority: 1)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 273: 12 blocks in 36 slots, 67% skip rate

@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 279: 83 blocks in 96 slots, 14% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.441465469 - removing ◎613.888845277
+* Vote account address: 3zEbnWKibg574DaGC1EA3zLNwBK6MGQxEySUgQWKBaYV
+* Data Center: 206264-SC-Indian/Mahe
+* Resident Data Center(s): 206264-SC-Indian/Mahe (seniority: 15)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 278: 121 blocks in 124 slots, 3% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: BenJ5ca9pN2QZ2dovHc2mmiMQZTBWrWvv1euzAFTFmoG
 * Vote account address: 3zEbnWKibg574DaGC1EA3zLNwBK6MGQxEySUgQWKBaYV
 * Data Center: 206264-SC-Indian/Mahe
-* Resident Data Center(s): 206264-SC-Indian/Mahe (seniority: 1),16276-FR-Roubaix (seniority: 1)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 1),206264-SC-Indian/Mahe (seniority: 1)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 264: 23 blocks in 24 slots, 5% skip rate

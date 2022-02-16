@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 279: 118 blocks in 120 slots, 2% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.377441347 - removing ◎613.824821155
+* Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 22),16276-CA-Beauharnois (seniority: 25)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 278: 96 blocks in 100 slots, 4% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.027015970 - removing ◎827.057886236
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 21),16276-CA-Beauharnois (seniority: 26)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 26),24940-FI-Helsinki (seniority: 21)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 277: 124 blocks in 132 slots, 7% skip rate
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.922699580 - removing ◎365.646911176
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 27),24940-FI-Helsinki (seniority: 20)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 20),16276-CA-Beauharnois (seniority: 27)
 * infrastructure concentration 10.0% is too high; consider finding a new data center
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 17 epochs)
@@ -43,7 +50,7 @@
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.844250684 - removing ◎954.103214253
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 31),24940-FI-Helsinki (seniority: 16)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 16),16276-CA-Beauharnois (seniority: 31)
 * infrastructure concentration 10.1% is too high; consider finding a new data center
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 13 epochs)
@@ -51,7 +58,7 @@
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.509029700 - removing ◎327.080707477
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 32),24940-FI-Helsinki (seniority: 15)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 15),16276-CA-Beauharnois (seniority: 32)
 * infrastructure concentration 10.1% is too high; consider finding a new data center
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 12 epochs)
@@ -59,7 +66,7 @@
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71255.194462419 - reserve depleted
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 33),24940-FI-Helsinki (seniority: 14)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 14),16276-CA-Beauharnois (seniority: 33)
 * infrastructure concentration 10.1% is too high; consider finding a new data center
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 11 epochs)
@@ -75,7 +82,7 @@
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.628285087 - removing ◎197.655141355
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 12),16276-CA-Beauharnois (seniority: 35)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35),24940-FI-Helsinki (seniority: 12)
 * infrastructure concentration 10.2% is too high; consider finding a new data center
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 9 epochs)
@@ -115,7 +122,7 @@
 * Staking activity: target stake amount: ◎74194.452370199, current stake amount: ◎74914.713701435 - removing ◎720.261331236
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 40),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),16276-CA-Beauharnois (seniority: 40)
 * infrastructure concentration 10.9% is too high; consider finding a new data center
 ### [[Mainnet Epoch 264|Mainnet#Epoch-264]]
 * Stake level: **Bonus** (for 4 epochs)
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76094.369696085 - removing ◎327.034193442
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 42),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-CA-Beauharnois (seniority: 42)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 261: 67 blocks in 68 slots, 2% skip rate
@@ -158,14 +165,14 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001834052 - not removing ◎0.001834052 (amount too small)
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 46),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-CA-Beauharnois (seniority: 46)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Insufficient testnet participation
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.001378660 - not removing ◎0.001378660 (amount too small)
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 47),24940-FI-Helsinki (seniority: 4)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 4),16276-CA-Beauharnois (seniority: 47)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Insufficient testnet participation
@@ -179,21 +186,21 @@
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000459812 - not removing ◎0.000459812 (amount too small)
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),16276-CA-Beauharnois (seniority: 49)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 49),24940-FI-Helsinki (seniority: 6)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **None**
 * Stake reason: Insufficient testnet participation
 * Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎82944.856323621 - removing ◎82943.856323621
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 50),24940-FI-Helsinki (seniority: 7)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 7),16276-CA-Beauharnois (seniority: 50)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 69 epochs)
 * Stake reason: Good block production during epoch 253: 160 blocks in 172 slots, 7% skip rate
 * Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83199.894476310 - removing ◎294.288938239
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 51),24940-FI-Helsinki (seniority: 8)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 8),16276-CA-Beauharnois (seniority: 51)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 252: 146 blocks in 152 slots, 4% skip rate
@@ -214,7 +221,7 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84201.897850873 - reserve depleted
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 54),24940-FI-Helsinki (seniority: 5)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),16276-CA-Beauharnois (seniority: 54)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 65 epochs)
 * Stake reason: Good block production during epoch 249: 90 blocks in 92 slots, 3% skip rate
@@ -235,7 +242,7 @@
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎89174.026900516 - removing ◎1799.429545025
 * Vote account address: 5KSmoK86N7FyRkcj6ZqjY5Qxy8oZxovBCedR5onvQojh
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),16276-CA-Beauharnois (seniority: 57)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 57),24940-FI-Helsinki (seniority: 2)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus** (for 62 epochs)
 * Stake reason: Good block production during epoch 246: 96 blocks in 124 slots, 23% skip rate

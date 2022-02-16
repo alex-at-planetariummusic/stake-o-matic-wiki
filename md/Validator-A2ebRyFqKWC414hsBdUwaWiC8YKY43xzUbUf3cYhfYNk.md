@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 31 epochs)
+* Stake reason: Good block production during epoch 279: 138 blocks in 148 slots, 7% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.401941363 - removing ◎613.849321171
+* Vote account address: YWKwnuovuAw4X3VDPJDPo5DPZ4TmdxsXzLArbvqu3Ph
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 1),24940-DE-Nuremburg (seniority: 15)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 30 epochs)
 * Stake reason: Good block production during epoch 278: 68 blocks in 72 slots, 6% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.209181910 - removing ◎827.240052176
 * Vote account address: YWKwnuovuAw4X3VDPJDPo5DPZ4TmdxsXzLArbvqu3Ph
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 14),23470-US-Las Vegas (seniority: 2)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 2),24940-DE-Nuremburg (seniority: 14)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 277: 116 blocks in 128 slots, 10% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.700290243 - removing ◎1120.770553122
 * Vote account address: YWKwnuovuAw4X3VDPJDPo5DPZ4TmdxsXzLArbvqu3Ph
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 6),24940-DE-Nuremburg (seniority: 10)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 10),23470-US-Las Vegas (seniority: 6)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 273: 107 blocks in 112 slots, 5% skip rate
@@ -46,28 +53,28 @@
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎71288.236660643 - removing ◎326.808338420
 * Vote account address: YWKwnuovuAw4X3VDPJDPo5DPZ4TmdxsXzLArbvqu3Ph
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 8),24940-DE-Nuremburg (seniority: 8)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 8),23470-US-Las Vegas (seniority: 8)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 271: 82 blocks in 84 slots, 3% skip rate
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71254.838945628 - reserve depleted
 * Vote account address: YWKwnuovuAw4X3VDPJDPo5DPZ4TmdxsXzLArbvqu3Ph
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 7),23470-US-Las Vegas (seniority: 9)
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 9),24940-DE-Nuremburg (seniority: 7)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 270: 121 blocks in 132 slots, 9% skip rate
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.412682826 - removing ◎1275.034134752
 * Vote account address: YWKwnuovuAw4X3VDPJDPo5DPZ4TmdxsXzLArbvqu3Ph
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 10),24940-DE-Nuremburg (seniority: 6)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 6),23470-US-Las Vegas (seniority: 10)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 269: 92 blocks in 92 slots, 0% skip rate
 * Staking activity: target stake amount: ◎72463.973143732, current stake amount: ◎72661.604200910 - removing ◎197.631057178
 * Vote account address: YWKwnuovuAw4X3VDPJDPo5DPZ4TmdxsXzLArbvqu3Ph
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 11),24940-DE-Nuremburg (seniority: 5)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 5),23470-US-Las Vegas (seniority: 11)
 ### [[Mainnet Epoch 269|Mainnet#Epoch-269]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 268: 87 blocks in 88 slots, 2% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 6xw27mPFii9UJyGHS3SXQrnDEqUnbwYh6K1WP5X2oJVW
 * Vote account address: YWKwnuovuAw4X3VDPJDPo5DPZ4TmdxsXzLArbvqu3Ph
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 15),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),23470-US-Las Vegas (seniority: 15)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 264: 103 blocks in 108 slots, 5% skip rate

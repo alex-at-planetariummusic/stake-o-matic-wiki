@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 10 epochs)
+* Stake reason: Good block production during epoch 279: 140 blocks in 152 slots, 8% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.407258694 - removing ◎613.854638502
+* Vote account address: 2PpHNHPLseBb4doTu1ajTwAxCrjmu7ubReDHKPrjxi9F
+* Data Center: 15440-RU-Europe/Moscow
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 9),16276-FR-Gravelines (seniority: 58)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 278: 106 blocks in 112 slots, 6% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67653.928863103 - removing ◎826.959733369
 * Vote account address: 2PpHNHPLseBb4doTu1ajTwAxCrjmu7ubReDHKPrjxi9F
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 8),16276-FR-Gravelines (seniority: 59)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 59),15440-RU-Europe/Moscow (seniority: 8)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 277: 125 blocks in 132 slots, 6% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.600546676 - removing ◎661.592262489
 * Vote account address: 2PpHNHPLseBb4doTu1ajTwAxCrjmu7ubReDHKPrjxi9F
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 61),15440-RU-Europe/Moscow (seniority: 6)
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 6),16276-FR-Gravelines (seniority: 61)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 275: 108 blocks in 116 slots, 7% skip rate
@@ -46,7 +53,7 @@
 * Staking activity: target stake amount: ◎70961.428322223, current stake amount: ◎72599.288743948 - removing ◎1637.860421725
 * Vote account address: 2PpHNHPLseBb4doTu1ajTwAxCrjmu7ubReDHKPrjxi9F
 * Data Center: 15440-RU-Europe/Moscow
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 65),15440-RU-Europe/Moscow (seniority: 2)
+* Resident Data Center(s): 15440-RU-Europe/Moscow (seniority: 2),16276-FR-Gravelines (seniority: 65)
 ### [[Mainnet Epoch 272|Mainnet#Epoch-272]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 271: 45 blocks in 76 slots, 41% skip rate

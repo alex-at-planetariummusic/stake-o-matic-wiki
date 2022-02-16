@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 35 epochs)
+* Stake reason: Good block production during epoch 279: 156 blocks in 160 slots, 3% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.354056389 - removing ◎613.801436197
+* Vote account address: BCVbQ44TgcDeuAEdpcdUMjy5qGKSxaeUovBqXqWNPNVh
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 6),16276-FR-Roubaix (seniority: 23)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 278: 94 blocks in 96 slots, 3% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.169049958 - removing ◎827.199920224
 * Vote account address: BCVbQ44TgcDeuAEdpcdUMjy5qGKSxaeUovBqXqWNPNVh
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 24),16276-DE-Frankfurt (seniority: 5)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 5),16276-FR-Roubaix (seniority: 24)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 277: 109 blocks in 112 slots, 3% skip rate
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67988.028536842 - removing ◎365.752748438
 * Vote account address: BCVbQ44TgcDeuAEdpcdUMjy5qGKSxaeUovBqXqWNPNVh
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 25),16276-DE-Frankfurt (seniority: 4)
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 4),16276-FR-Roubaix (seniority: 25)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 276: 120 blocks in 124 slots, 4% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.675243522 - removing ◎1120.745506401
 * Vote account address: BCVbQ44TgcDeuAEdpcdUMjy5qGKSxaeUovBqXqWNPNVh
 * Data Center: 16276-DE-Frankfurt
-* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1),16276-FR-Roubaix (seniority: 28)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 28),16276-DE-Frankfurt (seniority: 1)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 273: 86 blocks in 92 slots, 7% skip rate

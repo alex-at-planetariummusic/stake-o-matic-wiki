@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 20 epochs)
+* Stake reason: Good block production during epoch 279: 74 blocks in 76 slots, 3% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.406837502 - removing ◎613.854217310
+* Vote account address: H8gWisRkUanTX9MofS6VoQbf1qCqEZLJvJPKRXveSjN9
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 4),23470-US-Los Angeles (seniority: 12)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 278: 103 blocks in 108 slots, 5% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.082963906 - removing ◎827.113834172
 * Vote account address: H8gWisRkUanTX9MofS6VoQbf1qCqEZLJvJPKRXveSjN9
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 16276-EN-London (seniority: 3),23470-US-Los Angeles (seniority: 13)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 13),16276-EN-London (seniority: 3)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 277: 110 blocks in 112 slots, 2% skip rate
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.946146327 - removing ◎365.670357923
 * Vote account address: H8gWisRkUanTX9MofS6VoQbf1qCqEZLJvJPKRXveSjN9
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 14),16276-EN-London (seniority: 2)
+* Resident Data Center(s): 16276-EN-London (seniority: 2),23470-US-Los Angeles (seniority: 14)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 276: 118 blocks in 128 slots, 8% skip rate
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.080153457 - removing ◎661.071869270
 * Vote account address: H8gWisRkUanTX9MofS6VoQbf1qCqEZLJvJPKRXveSjN9
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 23470-US-Los Angeles (seniority: 15),16276-EN-London (seniority: 1)
+* Resident Data Center(s): 16276-EN-London (seniority: 1),23470-US-Los Angeles (seniority: 15)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 275: 103 blocks in 104 slots, 1% skip rate

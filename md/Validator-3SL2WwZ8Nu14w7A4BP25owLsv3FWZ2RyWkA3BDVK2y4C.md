@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 57 epochs)
+* Stake reason: Good block production during epoch 279: 163 blocks in 168 slots, 3% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.423559237 - removing ◎613.870939045
+* Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 37)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 56 epochs)
 * Stake reason: Good block production during epoch 278: 111 blocks in 116 slots, 5% skip rate
@@ -137,7 +144,7 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎80086.059063627 - removing ◎1475.303068884
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 3),24940-DE-Nuremburg (seniority: 17)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 17),16276-FR-Roubaix (seniority: 3)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 258: 117 blocks in 128 slots, 9% skip rate
@@ -151,28 +158,28 @@
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.682007523 - removing ◎861.280328119
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 15),16276-FR-Roubaix (seniority: 5)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 5),24940-DE-Nuremburg (seniority: 15)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 256: 152 blocks in 168 slots, 10% skip rate
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.312404721 - removing ◎541.943998317
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 6),24940-DE-Nuremburg (seniority: 14)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 14),16276-FR-Roubaix (seniority: 6)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 255: 160 blocks in 164 slots, 3% skip rate
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.398602319 - removing ◎1646.523447797
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 13),16276-FR-Roubaix (seniority: 7)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 7),24940-DE-Nuremburg (seniority: 13)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 254: 129 blocks in 132 slots, 3% skip rate
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82945.080023291 - reserve depleted
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 8),24940-DE-Nuremburg (seniority: 12)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 12),16276-FR-Roubaix (seniority: 8)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 31 epochs)
 * Stake reason: Good block production during epoch 253: 151 blocks in 168 slots, 11% skip rate
@@ -193,7 +200,7 @@
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84241.298143198 - removing ◎795.549577368
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 9),16276-FR-Roubaix (seniority: 11)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 11),24940-DE-Nuremburg (seniority: 9)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 250: 154 blocks in 156 slots, 2% skip rate
@@ -207,14 +214,14 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.388884366 - removing ◎2238.622851337
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 7),16276-FR-Roubaix (seniority: 13)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 13),24940-DE-Nuremburg (seniority: 7)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 26 epochs)
 * Stake reason: Good block production during epoch 248: 188 blocks in 188 slots, 0% skip rate
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎87415.936866766 - removing ◎1055.048757027
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 6),16276-FR-Roubaix (seniority: 14)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 14),24940-DE-Nuremburg (seniority: 6)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 247: 160 blocks in 164 slots, 3% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎88670.955592117 - adding ◎462.052420846
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),16276-FR-Roubaix (seniority: 16)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 16),24940-DE-Nuremburg (seniority: 4)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 245: 119 blocks in 132 slots, 10% skip rate
@@ -242,14 +249,14 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89430.560278065 - removing ◎842.207014859
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 2),16276-FR-Roubaix (seniority: 18)
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 18),24940-DE-Nuremburg (seniority: 2)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 243: 106 blocks in 136 slots, 23% skip rate
 * Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.623576843 - removing ◎545.811786239
 * Vote account address: FRrJc9FMXxrnkcuLxgct4pSfSTZvtDxwySDHAMx9PMg6
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 16276-FR-Roubaix (seniority: 19),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),16276-FR-Roubaix (seniority: 19)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 242: 106 blocks in 136 slots, 23% skip rate

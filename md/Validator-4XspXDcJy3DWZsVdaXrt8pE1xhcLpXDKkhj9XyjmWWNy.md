@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 64 epochs)
+* Stake reason: Good block production during epoch 279: 222 blocks in 228 slots, 3% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.454461584 - removing ◎613.901841392
+* Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 29),24940-DE-Nuremburg (seniority: 31)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 63 epochs)
 * Stake reason: Good block production during epoch 278: 208 blocks in 208 slots, 0% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.212473103 - removing ◎827.243343369
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 30),28753-DE-Europe/Berlin (seniority: 30)
+* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 30),24940-DE-Nuremburg (seniority: 30)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 62 epochs)
 * Stake reason: Good block production during epoch 277: 208 blocks in 216 slots, 4% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.757664996 - removing ◎1120.827927875
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 34),24940-DE-Nuremburg (seniority: 26)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 26),28753-DE-Europe/Berlin (seniority: 34)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 58 epochs)
 * Stake reason: Good block production during epoch 273: 199 blocks in 208 slots, 5% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎71222.378548074, current stake amount: ◎72497.341334948 - removing ◎1274.962786874
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 38),24940-DE-Nuremburg (seniority: 22)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 22),28753-DE-Europe/Berlin (seniority: 38)
 ### [[Mainnet Epoch 270|Mainnet#Epoch-270]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 269: 256 blocks in 260 slots, 2% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.213170028 - removing ◎88.131521369
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 20),28753-DE-Europe/Berlin (seniority: 40)
+* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 40),24940-DE-Nuremburg (seniority: 20)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 52 epochs)
 * Stake reason: Good block production during epoch 267: 160 blocks in 188 slots, 15% skip rate
@@ -88,7 +95,7 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.685336294 - removing ◎320.685873501
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 42),24940-DE-Nuremburg (seniority: 18)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 18),28753-DE-Europe/Berlin (seniority: 42)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 265: 199 blocks in 208 slots, 5% skip rate
@@ -109,7 +116,7 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.575006223 - removing ◎922.372118001
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 15),28753-DE-Europe/Berlin (seniority: 45)
+* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 45),24940-DE-Nuremburg (seniority: 15)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 262: 228 blocks in 228 slots, 0% skip rate
@@ -130,7 +137,7 @@
 * Staking activity: target stake amount: ◎76473.571428181, current stake amount: ◎78647.235741327 - removing ◎2173.664313146
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 12),28753-DE-Europe/Berlin (seniority: 48)
+* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 48),24940-DE-Nuremburg (seniority: 12)
 ### [[Mainnet Epoch 260|Mainnet#Epoch-260]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 259: 212 blocks in 232 slots, 9% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎80153.023931524, current stake amount: ◎80048.527212356 - reserve depleted
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 50),24940-DE-Nuremburg (seniority: 10)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 10),28753-DE-Europe/Berlin (seniority: 50)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 257: 172 blocks in 208 slots, 18% skip rate
@@ -158,7 +165,7 @@
 * Staking activity: target stake amount: ◎80834.368406404, current stake amount: ◎81376.230621108 - removing ◎541.862214704
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 52),24940-DE-Nuremburg (seniority: 8)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 8),28753-DE-Europe/Berlin (seniority: 52)
 ### [[Mainnet Epoch 256|Mainnet#Epoch-256]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 255: 236 blocks in 248 slots, 5% skip rate
@@ -186,14 +193,14 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.246384576 - removing ◎322.845977544
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 56),24940-DE-Nuremburg (seniority: 4)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 4),28753-DE-Europe/Berlin (seniority: 56)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 251: 187 blocks in 200 slots, 7% skip rate
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84240.550540901 - removing ◎794.801975071
 * Vote account address: 9sWYTuuR4s12Q4SuSfo5CfWaFggQwA6Z8pf8dWowN5rk
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 28753-DE-Europe/Berlin (seniority: 57),24940-DE-Nuremburg (seniority: 3)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 3),28753-DE-Europe/Berlin (seniority: 57)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 250: 153 blocks in 192 slots, 21% skip rate

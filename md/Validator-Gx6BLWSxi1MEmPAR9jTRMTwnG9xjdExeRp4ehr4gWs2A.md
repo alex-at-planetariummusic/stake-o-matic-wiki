@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 279: 121 blocks in 124 slots, 3% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.306590470 - removing ◎613.753970278
+* Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
+* Data Center: 16276-FR-Gravelines
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 21),18450-US-America/Chicago (seniority: 29)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 278: 118 blocks in 128 slots, 8% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.658771227 - removing ◎1120.729034106
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 16),18450-US-America/Chicago (seniority: 34)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 34),16276-FR-Gravelines (seniority: 16)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 273: 112 blocks in 112 slots, 0% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71255.222855620 - reserve depleted
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 37),16276-FR-Gravelines (seniority: 13)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 13),18450-US-America/Chicago (seniority: 37)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 270: 89 blocks in 100 slots, 11% skip rate
@@ -74,14 +81,14 @@
 * Staking activity: target stake amount: ◎72628.081648659, current stake amount: ◎72716.202482283 - removing ◎88.120833624
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 10),18450-US-America/Chicago (seniority: 40)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 40),16276-FR-Gravelines (seniority: 10)
 ### [[Mainnet Epoch 268|Mainnet#Epoch-268]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 267: 142 blocks in 144 slots, 2% skip rate
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73460.864961191 - removing ◎778.345342785
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 41),16276-FR-Gravelines (seniority: 9)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 9),18450-US-America/Chicago (seniority: 41)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 266: 93 blocks in 116 slots, 20% skip rate
@@ -109,14 +116,14 @@
 * Staking activity: target stake amount: ◎74880.202888222, current stake amount: ◎75802.470766963 - removing ◎922.267878741
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 5),18450-US-America/Chicago (seniority: 45)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 45),16276-FR-Gravelines (seniority: 5)
 ### [[Mainnet Epoch 263|Mainnet#Epoch-263]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 262: 44 blocks in 44 slots, 0% skip rate
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.752339822 - removing ◎362.416837179
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 16276-FR-Gravelines (seniority: 4),18450-US-America/Chicago (seniority: 46)
+* Resident Data Center(s): 18450-US-America/Chicago (seniority: 46),16276-FR-Gravelines (seniority: 4)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 261: 55 blocks in 56 slots, 2% skip rate
@@ -137,21 +144,21 @@
 * Staking activity: target stake amount: ◎78610.755994743, current stake amount: ◎25010.522211939 - reserve depleted
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 16276-FR-Gravelines
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 49),18450-US-Los Angeles (seniority: 1),16276-FR-Gravelines (seniority: 1)
+* Resident Data Center(s): 16276-FR-Gravelines (seniority: 1),18450-US-Los Angeles (seniority: 1),18450-US-America/Chicago (seniority: 49)
 ### [[Mainnet Epoch 259|Mainnet#Epoch-259]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 258: 74 blocks in 120 slots, 39% skip rate
 * Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎80045.284198923 - removing ◎55045.284198923
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 18450-US-Los Angeles
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 50),18450-US-Los Angeles (seniority: 2)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 2),18450-US-America/Chicago (seniority: 50)
 ### [[Mainnet Epoch 258|Mainnet#Epoch-258]]
 * Stake level: **Bonus** (for 57 epochs)
 * Stake reason: Good block production during epoch 257: 103 blocks in 112 slots, 9% skip rate
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.488242320 - removing ◎861.086562916
 * Vote account address: DGYxt2VT2Y7zekjsaGQXtEgqeSvtZBdF3wxUM1hK2g4x
 * Data Center: 18450-US-Los Angeles
-* Resident Data Center(s): 18450-US-America/Chicago (seniority: 51),18450-US-Los Angeles (seniority: 3)
+* Resident Data Center(s): 18450-US-Los Angeles (seniority: 3),18450-US-America/Chicago (seniority: 51)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 56 epochs)
 * Stake reason: Good block production during epoch 256: 140 blocks in 156 slots, 11% skip rate

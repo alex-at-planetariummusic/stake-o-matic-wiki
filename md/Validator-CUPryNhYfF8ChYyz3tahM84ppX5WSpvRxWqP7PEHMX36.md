@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 34 epochs)
+* Stake reason: Good block production during epoch 279: 104 blocks in 104 slots, 0% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.432083637 - removing ◎613.879463445
+* Vote account address: 7BEkR6kjnh7XPxQ4Ew5ePby7orLrXKT4zDE97kbN1fiT
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 73)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 278: 86 blocks in 96 slots, 11% skip rate
@@ -207,28 +214,28 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.208129314 - removing ◎2238.442096285
 * Vote account address: 7BEkR6kjnh7XPxQ4Ew5ePby7orLrXKT4zDE97kbN1fiT
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 43),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),16276-FR-Strasbourg (seniority: 43)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 248: 85 blocks in 96 slots, 12% skip rate
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎87386.425591403 - removing ◎1025.537481664
 * Vote account address: 7BEkR6kjnh7XPxQ4Ew5ePby7orLrXKT4zDE97kbN1fiT
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 42),24940-FI-Helsinki (seniority: 3)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 3),16276-FR-Strasbourg (seniority: 42)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 247: 106 blocks in 108 slots, 2% skip rate
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎25023.249981994 - adding ◎62351.347373497
 * Vote account address: 7BEkR6kjnh7XPxQ4Ew5ePby7orLrXKT4zDE97kbN1fiT
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),16276-FR-Strasbourg (seniority: 43)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 43),24940-FI-Helsinki (seniority: 2)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 246: 136 blocks in 148 slots, 9% skip rate
 * Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎25011.571639449 - reserve depleted
 * Vote account address: 7BEkR6kjnh7XPxQ4Ew5ePby7orLrXKT4zDE97kbN1fiT
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 44),24940-FI-Helsinki (seniority: 1)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),16276-FR-Strasbourg (seniority: 44)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 245: 64 blocks in 120 slots, 47% skip rate
@@ -558,7 +565,7 @@
 * Staking activity: target stake amount: ◎199978.260743901, current stake amount: ◎25027.454447712 - reserve depleted
 * Vote account address: 7BEkR6kjnh7XPxQ4Ew5ePby7orLrXKT4zDE97kbN1fiT
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 2),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),16276-FR-Strasbourg (seniority: 2)
 * Insufficient self stake: ◎0.514020430
 ### [[Mainnet Epoch 196|Mainnet#Epoch-196]]
 * Stake level: **Bonus**
@@ -566,7 +573,7 @@
 * Staking activity: target stake amount: ◎205895.552591837, current stake amount: ◎25013.466686876 - reserve depleted
 * Vote account address: 7BEkR6kjnh7XPxQ4Ew5ePby7orLrXKT4zDE97kbN1fiT
 * Data Center: 16276-FR-Strasbourg
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),16276-FR-Strasbourg (seniority: 1)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 1),24940-DE-Falkenstein (seniority: 3)
 * Insufficient self stake: ◎0.513733147
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
 * Stake level: **Baseline**

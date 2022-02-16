@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Baseline** (for 2 epochs)
+* Stake reason: No leader slots; 351609 credits earned in epoch 279
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎19211.659744325 - reserve depleted
+* Vote account address: Dxe8x3sa43gxMbTZAi49PofqxRueC4ixuGQYfAu1snBo
+* Data Center: 58061-NL-Dronten
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Baseline**
 * Stake reason: No leader slots; 363361 credits earned in epoch 278

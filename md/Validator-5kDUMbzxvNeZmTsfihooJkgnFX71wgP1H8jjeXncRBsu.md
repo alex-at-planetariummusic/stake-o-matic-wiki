@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 73 epochs)
+* Stake reason: Good block production during epoch 279: 111 blocks in 124 slots, 11% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.393578348 - removing ◎613.840958156
+* Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 212582-US-Tampa (seniority: 31),24940-DE-Falkenstein (seniority: 5)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 72 epochs)
 * Stake reason: Good block production during epoch 278: 104 blocks in 116 slots, 11% skip rate
@@ -11,21 +18,21 @@
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.455722864 - removing ◎365.179934460
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 212582-US-Tampa (seniority: 33),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),212582-US-Tampa (seniority: 33)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 70 epochs)
 * Stake reason: Good block production during epoch 276: 83 blocks in 92 slots, 10% skip rate
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68616.054762644 - removing ◎660.046478457
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),212582-US-Tampa (seniority: 34)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 34),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 69 epochs)
 * Stake reason: Good block production during epoch 275: 101 blocks in 128 slots, 22% skip rate
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68984.090496836 - removing ◎398.929270368
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),212582-US-Tampa (seniority: 33)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 33),24940-DE-Falkenstein (seniority: 3)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 274: 83 blocks in 104 slots, 21% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎72589.042679001, current stake amount: ◎71254.982370247 - reserve depleted
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 7),212582-US-Tampa (seniority: 29)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 29),24940-DE-Falkenstein (seniority: 7)
 ### [[Mainnet Epoch 271|Mainnet#Epoch-271]]
 * Stake level: **Bonus** (for 64 epochs)
 * Stake reason: Good block production during epoch 270: 116 blocks in 140 slots, 18% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73461.065708127 - removing ◎778.546089721
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 11),212582-US-Tampa (seniority: 25)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 25),24940-DE-Falkenstein (seniority: 11)
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 60 epochs)
 * Stake reason: Good block production during epoch 266: 124 blocks in 136 slots, 9% skip rate
@@ -116,7 +123,7 @@
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.879368842 - removing ◎362.543866199
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 16),212582-US-Tampa (seniority: 20)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 20),24940-DE-Falkenstein (seniority: 16)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 261: 175 blocks in 184 slots, 5% skip rate
@@ -151,7 +158,7 @@
 * Staking activity: target stake amount: ◎80011.401679404, current stake amount: ◎80872.620128366 - removing ◎861.218448962
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 15),24940-DE-Falkenstein (seniority: 21)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 21),212582-US-Tampa (seniority: 15)
 ### [[Mainnet Epoch 257|Mainnet#Epoch-257]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 256: 82 blocks in 104 slots, 22% skip rate
@@ -186,7 +193,7 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.426607646 - removing ◎323.026200614
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 10),24940-DE-Falkenstein (seniority: 26)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 26),212582-US-Tampa (seniority: 10)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 251: 181 blocks in 204 slots, 12% skip rate
@@ -200,14 +207,14 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.144184386 - reserve depleted
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 8),24940-DE-Falkenstein (seniority: 28)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 28),212582-US-Tampa (seniority: 8)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 249: 125 blocks in 132 slots, 6% skip rate
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.047675268 - removing ◎2238.281642239
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 7),24940-DE-Falkenstein (seniority: 29)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 29),212582-US-Tampa (seniority: 7)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 248: 151 blocks in 164 slots, 8% skip rate
@@ -242,14 +249,14 @@
 * Staking activity: target stake amount: ◎88588.353263206, current stake amount: ◎89430.371008184 - removing ◎842.017744978
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 34),212582-US-Tampa (seniority: 2)
+* Resident Data Center(s): 212582-US-Tampa (seniority: 2),24940-DE-Falkenstein (seniority: 34)
 ### [[Mainnet Epoch 244|Mainnet#Epoch-244]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 243: 139 blocks in 140 slots, 1% skip rate
 * Staking activity: target stake amount: ◎89388.811790604, current stake amount: ◎89934.864302480 - removing ◎546.052511876
 * Vote account address: DQRqi1v2un5eSoWxCkheGyVvcxm5LiMnxmSRUXazdGVX
 * Data Center: 212582-US-Tampa
-* Resident Data Center(s): 212582-US-Tampa (seniority: 1),24940-DE-Falkenstein (seniority: 35)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 35),212582-US-Tampa (seniority: 1)
 ### [[Mainnet Epoch 243|Mainnet#Epoch-243]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 242: 160 blocks in 176 slots, 10% skip rate

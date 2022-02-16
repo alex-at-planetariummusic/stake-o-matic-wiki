@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
+* Stake level: **Bonus** (for 95 epochs)
+* Stake reason: Good block production during epoch 279: 113 blocks in 116 slots, 3% skip rate
+* Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.364268793 - removing ◎613.811648601
+* Vote account address: GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa
+* Data Center: 59577-UA-Lviv
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 77)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 94 epochs)
 * Stake reason: Good block production during epoch 278: 136 blocks in 140 slots, 3% skip rate
@@ -459,14 +466,14 @@
 * Staking activity: target stake amount: ◎127458.512264909, current stake amount: ◎133362.581734839 - removing ◎5904.069469930
 * Vote account address: GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa
 * Data Center: 59577-UA-Lviv
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 2),59577-UA-Lviv (seniority: 11)
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 11),35320-UA-Lviv (seniority: 2)
 ### [[Mainnet Epoch 209|Mainnet#Epoch-209]]
 * Stake level: **Bonus** (for 28 epochs)
 * Stake reason: Good block production during epoch 208: 204 blocks in 220 slots, 8% skip rate
 * Staking activity: target stake amount: ◎133296.203844555, current stake amount: ◎134427.672549103 - removing ◎1131.468704548
 * Vote account address: GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa
 * Data Center: 59577-UA-Lviv
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 3),59577-UA-Lviv (seniority: 10)
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 10),35320-UA-Lviv (seniority: 3)
 ### [[Mainnet Epoch 208|Mainnet#Epoch-208]]
 * Stake level: **Bonus** (for 27 epochs)
 * Stake reason: Good block production during epoch 207: 207 blocks in 224 slots, 8% skip rate
@@ -480,21 +487,21 @@
 * Staking activity: target stake amount: ◎139665.814395539, current stake amount: ◎140042.855070338 - removing ◎377.040674799
 * Vote account address: GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa
 * Data Center: 59577-UA-Lviv
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 5),59577-UA-Lviv (seniority: 8)
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 8),35320-UA-Lviv (seniority: 5)
 ### [[Mainnet Epoch 206|Mainnet#Epoch-206]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 205: 209 blocks in 244 slots, 15% skip rate
 * Staking activity: target stake amount: ◎139972.816801706, current stake amount: ◎143783.938314800 - removing ◎3811.121513094
 * Vote account address: GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa
 * Data Center: 59577-UA-Lviv
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 6),59577-UA-Lviv (seniority: 7)
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 7),35320-UA-Lviv (seniority: 6)
 ### [[Mainnet Epoch 205|Mainnet#Epoch-205]]
 * Stake level: **Bonus** (for 24 epochs)
 * Stake reason: Good block production during epoch 204: 148 blocks in 184 slots, 20% skip rate
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144900.860608885 - removing ◎1189.693602529
 * Vote account address: GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa
 * Data Center: 59577-UA-Lviv
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 7),59577-UA-Lviv (seniority: 6)
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 6),35320-UA-Lviv (seniority: 7)
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 203: 148 blocks in 204 slots, 28% skip rate
@@ -529,7 +536,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 9yzqgS6YZokb5aFdEfftXdpWeaFcjbXacMFQL5H7jW2e
 * Vote account address: GF9q1CPvyjZhAHex6wkGqeCioEkLGzaGJUF1QgZwGFwa
 * Data Center: 35320-UA-Lviv
-* Resident Data Center(s): 35320-UA-Lviv (seniority: 4),59577-UA-Lviv (seniority: 9)
+* Resident Data Center(s): 59577-UA-Lviv (seniority: 9),35320-UA-Lviv (seniority: 4)
 ### [[Mainnet Epoch 199|Mainnet#Epoch-199]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: good block production during epoch 198: 245 blocks in 280 slots, 13% skip rate
