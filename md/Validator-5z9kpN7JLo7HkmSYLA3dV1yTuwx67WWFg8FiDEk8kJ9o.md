@@ -1,3 +1,10 @@
+### [[Testnet Epoch 287|Testnet#Epoch-287]]
+* Stake level: **Bonus** (for 21 epochs)
+* Stake reason: Good block production during epoch 286: 110 blocks in 116 slots, 6% skip rate
+* Staking activity: target stake amount: ◎25822.712495118, current stake amount: ◎26015.348578830 - removing ◎192.636083712
+* Vote account address: EhbpMhrvc3AzwTfykKvHkwh66uH8Gxp77mRSXNBXrz1A
+* Data Center: 58061-NL-Dronten
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 12)
 ### [[Testnet Epoch 286|Testnet#Epoch-286]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 285: 105 blocks in 108 slots, 3% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26709.865930476 - removing ◎337.025267134
 * Vote account address: EhbpMhrvc3AzwTfykKvHkwh66uH8Gxp77mRSXNBXrz1A
 * Data Center: 58061-NL-Dronten
-* Resident Data Center(s): 58061-NL-Dronten (seniority: 8),16276-EN-London (seniority: 1)
+* Resident Data Center(s): 16276-EN-London (seniority: 1),58061-NL-Dronten (seniority: 8)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 281: 105 blocks in 108 slots, 3% skip rate
@@ -46,14 +53,14 @@
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26746.362834573 - removing ◎621.961382516
 * Vote account address: EhbpMhrvc3AzwTfykKvHkwh66uH8Gxp77mRSXNBXrz1A
 * Data Center: 58061-NL-Dronten
-* Resident Data Center(s): 16276-EN-London (seniority: 4),58061-NL-Dronten (seniority: 5)
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 5),16276-EN-London (seniority: 4)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 278: 111 blocks in 116 slots, 5% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26617.997383330 - removing ◎147.984633243
 * Vote account address: EhbpMhrvc3AzwTfykKvHkwh66uH8Gxp77mRSXNBXrz1A
 * Data Center: 58061-NL-Dronten
-* Resident Data Center(s): 58061-NL-Dronten (seniority: 4),16276-EN-London (seniority: 5)
+* Resident Data Center(s): 16276-EN-London (seniority: 5),58061-NL-Dronten (seniority: 4)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 277: 78 blocks in 88 slots, 12% skip rate
@@ -67,14 +74,14 @@
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26601.665862574 - removing ◎253.086415670
 * Vote account address: EhbpMhrvc3AzwTfykKvHkwh66uH8Gxp77mRSXNBXrz1A
 * Data Center: 58061-NL-Dronten
-* Resident Data Center(s): 16276-EN-London (seniority: 7),58061-NL-Dronten (seniority: 2)
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 2),16276-EN-London (seniority: 7)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 275: 93 blocks in 104 slots, 11% skip rate
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎27027.763854563 - removing ◎694.018787187
 * Vote account address: EhbpMhrvc3AzwTfykKvHkwh66uH8Gxp77mRSXNBXrz1A
 * Data Center: 58061-NL-Dronten
-* Resident Data Center(s): 16276-EN-London (seniority: 8),58061-NL-Dronten (seniority: 1)
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 1),16276-EN-London (seniority: 8)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 273: 114 blocks in 148 slots, 23% skip rate
@@ -157,7 +164,7 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎32005.684263537 - removing ◎1973.557545015
 * Vote account address: EhbpMhrvc3AzwTfykKvHkwh66uH8Gxp77mRSXNBXrz1A
 * Data Center: 16276-EN-London
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 2),16276-EN-London (seniority: 1)
+* Resident Data Center(s): 16276-EN-London (seniority: 1),58061-GB-Europe/London (seniority: 2)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 261: 20 blocks in 20 slots, 0% skip rate

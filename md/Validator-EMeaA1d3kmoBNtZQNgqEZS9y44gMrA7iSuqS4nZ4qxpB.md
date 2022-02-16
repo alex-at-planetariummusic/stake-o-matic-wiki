@@ -1,3 +1,10 @@
+### [[Testnet Epoch 287|Testnet#Epoch-287]]
+* Stake level: **Bonus** (for 10 epochs)
+* Stake reason: Good block production during epoch 286: 95 blocks in 100 slots, 5% skip rate
+* Staking activity: target stake amount: ◎25822.712495118, current stake amount: ◎25753.676690444 - reserve depleted
+* Vote account address: 7CY5dWYhbjoNKLGdHZ7WF9jJpS858meg2cNA7dBC9WjY
+* Data Center: 41018-UA-Mykolayiv
+* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 31),41018-UA-Mykolayiv (seniority: 10)
 ### [[Testnet Epoch 286|Testnet#Epoch-286]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 285: 155 blocks in 164 slots, 6% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: FrfDSkY5Qvo1xuBJZjZsUkq9iGtVbBdyeeC5D7k2WRAd
 * Vote account address: 7CY5dWYhbjoNKLGdHZ7WF9jJpS858meg2cNA7dBC9WjY
 * Data Center: 41018-UA-Mykolayiv
-* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 33),41018-UA-Mykolayiv (seniority: 8)
+* Resident Data Center(s): 41018-UA-Mykolayiv (seniority: 8),41018-UA-Europe/Kiev (seniority: 33)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 283: 112 blocks in 124 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: FrfDSkY5Qvo1xuBJZjZsUkq9iGtVbBdyeeC5D7k2WRAd
 * Vote account address: 7CY5dWYhbjoNKLGdHZ7WF9jJpS858meg2cNA7dBC9WjY
 * Data Center: 41018-UA-Mykolayiv
-* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 34),41018-UA-Mykolayiv (seniority: 7)
+* Resident Data Center(s): 41018-UA-Mykolayiv (seniority: 7),41018-UA-Europe/Kiev (seniority: 34)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 282: 139 blocks in 144 slots, 4% skip rate
@@ -32,35 +39,35 @@
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: 7CY5dWYhbjoNKLGdHZ7WF9jJpS858meg2cNA7dBC9WjY
 * Data Center: 41018-UA-Mykolayiv
-* Resident Data Center(s): 41018-UA-Mykolayiv (seniority: 5),41018-UA-Europe/Kiev (seniority: 36)
+* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 36),41018-UA-Mykolayiv (seniority: 5)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 280: 140 blocks in 140 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: 7CY5dWYhbjoNKLGdHZ7WF9jJpS858meg2cNA7dBC9WjY
 * Data Center: 41018-UA-Mykolayiv
-* Resident Data Center(s): 41018-UA-Mykolayiv (seniority: 4),41018-UA-Europe/Kiev (seniority: 37)
+* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 37),41018-UA-Mykolayiv (seniority: 4)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 279: 6 blocks in 8 slots, 25% skip rate
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
 * Vote account address: 7CY5dWYhbjoNKLGdHZ7WF9jJpS858meg2cNA7dBC9WjY
 * Data Center: 41018-UA-Mykolayiv
-* Resident Data Center(s): 41018-UA-Mykolayiv (seniority: 3),41018-UA-Europe/Kiev (seniority: 38)
+* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 38),41018-UA-Mykolayiv (seniority: 3)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 278: 12 blocks in 12 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: 7CY5dWYhbjoNKLGdHZ7WF9jJpS858meg2cNA7dBC9WjY
 * Data Center: 41018-UA-Mykolayiv
-* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 39),41018-UA-Mykolayiv (seniority: 2)
+* Resident Data Center(s): 41018-UA-Mykolayiv (seniority: 2),41018-UA-Europe/Kiev (seniority: 39)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 277: 4 blocks in 4 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎1.000000000 - adding ◎26345.183379311
 * Vote account address: 7CY5dWYhbjoNKLGdHZ7WF9jJpS858meg2cNA7dBC9WjY
 * Data Center: 41018-UA-Mykolayiv
-* Resident Data Center(s): 41018-UA-Europe/Kiev (seniority: 40),41018-UA-Mykolayiv (seniority: 1)
+* Resident Data Center(s): 41018-UA-Mykolayiv (seniority: 1),41018-UA-Europe/Kiev (seniority: 40)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **None** (for 3 epochs)
 * Stake reason: Outdated Solana release: 1.9.2

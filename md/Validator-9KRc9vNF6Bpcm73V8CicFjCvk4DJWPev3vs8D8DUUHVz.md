@@ -1,3 +1,9 @@
+### [[Testnet Epoch 287|Testnet#Epoch-287]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 4463 credits earned in epoch 286
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎5000.000000000 - removing ◎4999.000000000
+* Vote account address: GPCQfK34iZCUxTffeesTHpGY2hLNKsMbx156SKLmwZh6
+* Data Center: 16276-FR-Gravelines
 ### [[Testnet Epoch 286|Testnet#Epoch-286]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 268320 credits earned in epoch 285

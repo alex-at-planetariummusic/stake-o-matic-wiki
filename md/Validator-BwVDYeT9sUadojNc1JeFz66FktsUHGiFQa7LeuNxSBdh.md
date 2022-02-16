@@ -1,3 +1,10 @@
+### [[Testnet Epoch 287|Testnet#Epoch-287]]
+* Stake level: **Bonus** (for 19 epochs)
+* Stake reason: Good block production during epoch 286: 130 blocks in 136 slots, 5% skip rate
+* Staking activity: target stake amount: ◎25822.712495118, current stake amount: ◎26002.711906212 - removing ◎179.999411094
+* Vote account address: 271KPMdPtFs8p7YspcGky9cyGh8uUB93EUyrbZayBxuJ
+* Data Center: 54825-FR-Pantin
+* Resident Data Center(s): 54825-FR-Pantin (seniority: 3),16509-IE-Dublin (seniority: 13)
 ### [[Testnet Epoch 286|Testnet#Epoch-286]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 285: 110 blocks in 116 slots, 6% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: D9mVYpK3TkvMRK59Txj5tpNwKoRWimtDtunJrjyKxXRM
 * Vote account address: 271KPMdPtFs8p7YspcGky9cyGh8uUB93EUyrbZayBxuJ
 * Data Center: 54825-FR-Pantin
-* Resident Data Center(s): 54825-FR-Pantin (seniority: 1),16509-IE-Dublin (seniority: 15)
+* Resident Data Center(s): 16509-IE-Dublin (seniority: 15),54825-FR-Pantin (seniority: 1)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 283: 100 blocks in 104 slots, 4% skip rate

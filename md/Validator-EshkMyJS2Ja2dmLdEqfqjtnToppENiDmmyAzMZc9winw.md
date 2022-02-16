@@ -1,24 +1,31 @@
+### [[Testnet Epoch 287|Testnet#Epoch-287]]
+* Stake level: **Bonus** (for 17 epochs)
+* Stake reason: Good block production during epoch 286: 192 blocks in 204 slots, 6% skip rate
+* Staking activity: target stake amount: ◎25822.712495118, current stake amount: ◎25753.676690444 - reserve depleted
+* Vote account address: 3M2kXvpUiBbiYebSASCTwJrRM14drGBXL6hbhFgEFNPx
+* Data Center: 23470-US-America/Chicago
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 4),23470-US-Piscataway (seniority: 5)
 ### [[Testnet Epoch 286|Testnet#Epoch-286]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 285: 186 blocks in 196 slots, 6% skip rate
 * Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
 * Vote account address: 3M2kXvpUiBbiYebSASCTwJrRM14drGBXL6hbhFgEFNPx
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 6),23470-US-America/Chicago (seniority: 3)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 3),23470-US-Piscataway (seniority: 6)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 284: 144 blocks in 164 slots, 13% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 3EEawF4ZUeBcU7eHbqNBSyJxn8d923LfzaRB3QBJAnkc
 * Vote account address: 3M2kXvpUiBbiYebSASCTwJrRM14drGBXL6hbhFgEFNPx
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 7),23470-US-America/Chicago (seniority: 2)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 2),23470-US-Piscataway (seniority: 7)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 283: 183 blocks in 204 slots, 11% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 3EEawF4ZUeBcU7eHbqNBSyJxn8d923LfzaRB3QBJAnkc
 * Vote account address: 3M2kXvpUiBbiYebSASCTwJrRM14drGBXL6hbhFgEFNPx
 * Data Center: 23470-US-America/Chicago
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 8),23470-US-America/Chicago (seniority: 1)
+* Resident Data Center(s): 23470-US-America/Chicago (seniority: 1),23470-US-Piscataway (seniority: 8)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 282: 192 blocks in 224 slots, 15% skip rate
