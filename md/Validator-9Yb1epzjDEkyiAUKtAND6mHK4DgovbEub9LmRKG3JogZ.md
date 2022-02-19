@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
+* Stake level: **Bonus** (for 33 epochs)
+* Stake reason: Good block production during epoch 280: 100 blocks in 100 slots, 0% skip rate
+* Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66275.713068340 - removing ◎494.455915104
+* Vote account address: BAgnc7rQmxrbjX3ERjwW4NZaESkp3YQDqxUZLRqXScmm
+* Data Center: 59711-NL-Europe/Amsterdam
+* Resident Data Center(s): 59711-NL-Europe/Amsterdam (seniority: 33)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 32 epochs)
 * Stake reason: Good block production during epoch 279: 155 blocks in 156 slots, 1% skip rate
@@ -193,14 +200,14 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83480.050128249 - removing ◎318.649721217
 * Vote account address: BAgnc7rQmxrbjX3ERjwW4NZaESkp3YQDqxUZLRqXScmm
 * Data Center: 59711-NL-Europe/Amsterdam
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 2),59711-NL-Europe/Amsterdam (seniority: 5)
+* Resident Data Center(s): 59711-NL-Europe/Amsterdam (seniority: 5),58061-GB-Europe/London (seniority: 2)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 251: 94 blocks in 104 slots, 10% skip rate
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84213.316168237 - removing ◎767.567602407
 * Vote account address: BAgnc7rQmxrbjX3ERjwW4NZaESkp3YQDqxUZLRqXScmm
 * Data Center: 59711-NL-Europe/Amsterdam
-* Resident Data Center(s): 59711-NL-Europe/Amsterdam (seniority: 4),58061-GB-Europe/London (seniority: 3)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 3),59711-NL-Europe/Amsterdam (seniority: 4)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 250: 75 blocks in 76 slots, 2% skip rate
@@ -221,7 +228,7 @@
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎25011.647351692 - reserve depleted
 * Vote account address: BAgnc7rQmxrbjX3ERjwW4NZaESkp3YQDqxUZLRqXScmm
 * Data Center: 59711-NL-Europe/Amsterdam
-* Resident Data Center(s): 59711-NL-Europe/Amsterdam (seniority: 1),58061-GB-Europe/London (seniority: 6)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 6),59711-NL-Europe/Amsterdam (seniority: 1)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 247: 71 blocks in 120 slots, 41% skip rate

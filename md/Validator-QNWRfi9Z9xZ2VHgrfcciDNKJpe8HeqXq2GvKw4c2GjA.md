@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
+* Stake level: **Bonus** (for 23 epochs)
+* Stake reason: Good block production during epoch 280: 98 blocks in 100 slots, 2% skip rate
+* Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66275.709758425 - removing ◎494.452605189
+* Vote account address: 6sgx1hJLphe5UK3YGBQ6roetRNzt5TBGoenwmZuAJUve
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 19)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 279: 130 blocks in 132 slots, 2% skip rate
@@ -98,7 +105,7 @@
 * Staking activity: target stake amount: ◎72682.519618406, current stake amount: ◎73460.697027070 - removing ◎778.177408664
 * Vote account address: 6sgx1hJLphe5UK3YGBQ6roetRNzt5TBGoenwmZuAJUve
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-FI-Helsinki (seniority: 6)
 * infrastructure concentration 10.2% is too high; consider finding a new data center
 ### [[Mainnet Epoch 267|Mainnet#Epoch-267]]
 * Stake level: **Bonus** (for 9 epochs)
@@ -106,14 +113,14 @@
 * Staking activity: target stake amount: ◎73426.999462793, current stake amount: ◎73747.662238358 - removing ◎320.662775565
 * Vote account address: 6sgx1hJLphe5UK3YGBQ6roetRNzt5TBGoenwmZuAJUve
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 5),24940-DE-Falkenstein (seniority: 2)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 2),24940-FI-Helsinki (seniority: 5)
 ### [[Mainnet Epoch 266|Mainnet#Epoch-266]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 265: 90 blocks in 100 slots, 10% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 47amm2QjX9PxMf3T2iaxHMHCaqfisokrW2WKVB5vunui
 * Vote account address: 6sgx1hJLphe5UK3YGBQ6roetRNzt5TBGoenwmZuAJUve
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 6),24940-DE-Falkenstein (seniority: 1)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),24940-FI-Helsinki (seniority: 6)
 ### [[Mainnet Epoch 265|Mainnet#Epoch-265]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 264: 100 blocks in 104 slots, 4% skip rate

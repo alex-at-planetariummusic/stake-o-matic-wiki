@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 280: 70 blocks in 76 slots, 8% skip rate
+* Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66275.781651278 - removing ◎494.524498042
+* Vote account address: GuPnsaM3j4ojKe2KJpcaAWNmhk5n2kaJxc8ZKkowdxrw
+* Data Center: 19318-US-Fort Lauderdale
+* Resident Data Center(s): 19318-US-Fort Lauderdale (seniority: 4)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 279: 55 blocks in 56 slots, 2% skip rate
 * Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.330325035 - removing ◎613.777704843
 * Vote account address: GuPnsaM3j4ojKe2KJpcaAWNmhk5n2kaJxc8ZKkowdxrw
 * Data Center: 19318-US-Fort Lauderdale
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),19318-US-Fort Lauderdale (seniority: 3)
+* Resident Data Center(s): 19318-US-Fort Lauderdale (seniority: 3),24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 278: 43 blocks in 48 slots, 11% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.962209429 - removing ◎365.686421025
 * Vote account address: GuPnsaM3j4ojKe2KJpcaAWNmhk5n2kaJxc8ZKkowdxrw
 * Data Center: 19318-US-Fort Lauderdale
-* Resident Data Center(s): 19318-US-Fort Lauderdale (seniority: 1),24940-DE-Falkenstein (seniority: 3)
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 3),19318-US-Fort Lauderdale (seniority: 1)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 276: 29 blocks in 32 slots, 10% skip rate

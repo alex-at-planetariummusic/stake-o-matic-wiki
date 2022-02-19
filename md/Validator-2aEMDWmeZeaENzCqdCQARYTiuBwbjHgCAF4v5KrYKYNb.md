@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 280: 32 blocks in 72 slots, 56% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎66256.467681636 - removing ◎41256.467681636
+* Vote account address: HfNRr1D5PkETkPj1YnQa56PosCTGMXwZBaPjeV4B4NB2
+* Data Center: 16276-EN-London
+* Resident Data Center(s): 16276-EN-London (seniority: 27)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 279: 44 blocks in 60 slots, 27% skip rate

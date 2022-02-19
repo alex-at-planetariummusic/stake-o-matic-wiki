@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
+* Stake level: **Bonus** (for 90 epochs)
+* Stake reason: Good block production during epoch 280: 140 blocks in 140 slots, 0% skip rate
+* Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66275.705930043 - removing ◎494.448776807
+* Vote account address: GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC
+* Data Center: 51167-DE-Düsseldorf
+* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 73)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 89 epochs)
 * Stake reason: Good block production during epoch 279: 138 blocks in 144 slots, 5% skip rate
@@ -502,7 +509,7 @@
 * Staking activity: target stake amount: ◎143711.167006356, current stake amount: ◎144903.225071227 - removing ◎1192.058064871
 * Vote account address: GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC
 * Data Center: 51167-DE-Düsseldorf
-* Resident Data Center(s): 51167-DE-Düsseldorf (seniority: 1),40021-US-St Louis (seniority: 2)
+* Resident Data Center(s): 40021-US-St Louis (seniority: 2),51167-DE-Düsseldorf (seniority: 1)
 ### [[Mainnet Epoch 204|Mainnet#Epoch-204]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 203: 182 blocks in 272 slots, 34% skip rate
@@ -551,7 +558,7 @@
 * Staking activity: target stake amount: ◎192993.308289563, current stake amount: ◎200089.221308724 - removing ◎7095.913019161
 * Vote account address: GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC
 * Data Center: 49981-NL-Europe/Amsterdam
-* Resident Data Center(s): 49981-NL-Europe/Amsterdam (seniority: 1),199610-US-Miami (seniority: 5),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),49981-NL-Europe/Amsterdam (seniority: 1),199610-US-Miami (seniority: 5)
 ### [[Mainnet Epoch 197|Mainnet#Epoch-197]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: good block production during epoch 196: 253 blocks in 272 slots, 7% skip rate
@@ -565,7 +572,7 @@
 * Staking activity: stake account busy due to credits observed mismatch with transient stake account BUFyJJkHP49nij4UpeegXe57x17ToWXL2zypmwNHzAos
 * Vote account address: GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 199610-US-Miami (seniority: 7),24940-FI-Helsinki (seniority: 2)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 2),199610-US-Miami (seniority: 7)
 * infrastructure concentration 10.0% is too high; consider finding a new data center
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 195|Mainnet#Epoch-195]]
@@ -574,7 +581,7 @@
 * Staking activity: target stake amount: ◎210534.991475330, current stake amount: ◎205230.993043477 - adding ◎5303.998431853
 * Vote account address: GK9MfwWEK7BvMS8eQDaiEPnKcqMJoS7SKUiEBQY2pfxC
 * Data Center: 24940-FI-Helsinki
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 1),199610-US-Miami (seniority: 8)
+* Resident Data Center(s): 199610-US-Miami (seniority: 8),24940-FI-Helsinki (seniority: 1)
 * Insufficient self stake: ◎0.000000000
 ### [[Mainnet Epoch 194|Mainnet#Epoch-194]]
 * Stake level: **Bonus** (for 7 epochs)

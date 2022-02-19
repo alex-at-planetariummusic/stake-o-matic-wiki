@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
+* Stake level: **Bonus**
+* Stake reason: Good block production during epoch 280: 20 blocks in 20 slots, 0% skip rate
+* Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎25011.764341655 - reserve depleted
+* Vote account address: CYygorPZPjJwbXTPMCFg6c85ZEBM7H3pKDVU4ARWP5iH
+* Data Center: 16276-DE-Frankfurt
+* Resident Data Center(s): 16276-DE-Frankfurt (seniority: 1)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Baseline** (for 4 epochs)
 * Stake reason: No leader slots; 372133 credits earned in epoch 279

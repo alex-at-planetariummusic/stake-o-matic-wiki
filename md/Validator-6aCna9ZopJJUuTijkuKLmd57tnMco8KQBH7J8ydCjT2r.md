@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
+* Stake level: **Bonus** (for 41 epochs)
+* Stake reason: Good block production during epoch 280: 122 blocks in 124 slots, 2% skip rate
+* Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66275.699899704 - removing ◎494.442746468
+* Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
+* Data Center: 48314-DE-Europe/Berlin
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 18),48314-DE-Europe/Berlin (seniority: 8)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 40 epochs)
 * Stake reason: Good block production during epoch 279: 97 blocks in 108 slots, 11% skip rate
 * Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66857.546260327 - removing ◎612.993640135
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 48314-DE-Europe/Berlin
-* Resident Data Center(s): 48314-DE-Europe/Berlin (seniority: 7),16276-CA-Beauharnois (seniority: 19)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 19),48314-DE-Europe/Berlin (seniority: 7)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 278: 121 blocks in 128 slots, 6% skip rate
@@ -25,28 +32,28 @@
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.596064865 - removing ◎661.587780678
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 48314-DE-Europe/Berlin
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 22),48314-DE-Europe/Berlin (seniority: 4)
+* Resident Data Center(s): 48314-DE-Europe/Berlin (seniority: 4),16276-CA-Beauharnois (seniority: 22)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 275: 117 blocks in 124 slots, 6% skip rate
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68985.395606689 - removing ◎400.234380221
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 48314-DE-Europe/Berlin
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 23),48314-DE-Europe/Berlin (seniority: 3)
+* Resident Data Center(s): 48314-DE-Europe/Berlin (seniority: 3),16276-CA-Beauharnois (seniority: 23)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 35 epochs)
 * Stake reason: Good block production during epoch 274: 121 blocks in 128 slots, 6% skip rate
 * Staking activity: target stake amount: ◎68952.929737121, current stake amount: ◎70073.313008557 - removing ◎1120.383271436
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 48314-DE-Europe/Berlin
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 24),48314-DE-Europe/Berlin (seniority: 2)
+* Resident Data Center(s): 48314-DE-Europe/Berlin (seniority: 2),16276-CA-Beauharnois (seniority: 24)
 ### [[Mainnet Epoch 274|Mainnet#Epoch-274]]
 * Stake level: **Bonus** (for 34 epochs)
 * Stake reason: Good block production during epoch 273: 115 blocks in 116 slots, 1% skip rate
 * Staking activity: target stake amount: ◎70040.741036431, current stake amount: ◎70994.880254972 - removing ◎954.139218541
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 48314-DE-Europe/Berlin
-* Resident Data Center(s): 48314-DE-Europe/Berlin (seniority: 1),16276-CA-Beauharnois (seniority: 25)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 25),48314-DE-Europe/Berlin (seniority: 1)
 ### [[Mainnet Epoch 273|Mainnet#Epoch-273]]
 * Stake level: **Bonus** (for 33 epochs)
 * Stake reason: Good block production during epoch 272: 84 blocks in 84 slots, 0% skip rate
@@ -193,14 +200,14 @@
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83484.463120997 - removing ◎323.062713965
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 6),16276-EN-London (seniority: 1)
+* Resident Data Center(s): 16276-EN-London (seniority: 1),16276-CA-Beauharnois (seniority: 6)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 251: 93 blocks in 96 slots, 4% skip rate
 * Staking activity: target stake amount: ◎83445.748565830, current stake amount: ◎84241.456740342 - removing ◎795.708174512
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-EN-London (seniority: 2),16276-CA-Beauharnois (seniority: 5)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 5),16276-EN-London (seniority: 2)
 ### [[Mainnet Epoch 251|Mainnet#Epoch-251]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 250: 148 blocks in 152 slots, 3% skip rate
@@ -214,7 +221,7 @@
 * Staking activity: target stake amount: ◎84162.766033029, current stake amount: ◎86401.183083341 - removing ◎2238.417050312
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-EN-London (seniority: 4),16276-CA-Beauharnois (seniority: 3)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 3),16276-EN-London (seniority: 4)
 ### [[Mainnet Epoch 249|Mainnet#Epoch-249]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 248: 103 blocks in 108 slots, 5% skip rate
@@ -228,7 +235,7 @@
 * Staking activity: target stake amount: ◎87374.597355491, current stake amount: ◎89174.286037517 - removing ◎1799.688682026
 * Vote account address: ChigE9pK6g4UW3skQnKFAwyGETLzEcS2RYDep77XzmJt
 * Data Center: 16276-CA-Beauharnois
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),16276-EN-London (seniority: 6)
+* Resident Data Center(s): 16276-EN-London (seniority: 6),16276-CA-Beauharnois (seniority: 1)
 ### [[Mainnet Epoch 247|Mainnet#Epoch-247]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 246: 143 blocks in 148 slots, 4% skip rate

@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
+* Stake level: **Bonus** (for 71 epochs)
+* Stake reason: Good block production during epoch 280: 133 blocks in 144 slots, 8% skip rate
+* Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66275.722758176 - removing ◎494.465604940
+* Vote account address: EbzV57A1pQg9x8Q12un7m2uLPa2CJbFEegTs1r1VL8Rs
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 23470-US-Las Vegas (seniority: 67),24940-DE-Nuremburg (seniority: 2)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 70 epochs)
 * Stake reason: Good block production during epoch 279: 94 blocks in 100 slots, 6% skip rate
 * Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66857.927058810 - removing ◎613.374438618
 * Vote account address: EbzV57A1pQg9x8Q12un7m2uLPa2CJbFEegTs1r1VL8Rs
 * Data Center: 24940-DE-Nuremburg
-* Resident Data Center(s): 23470-US-Las Vegas (seniority: 68),24940-DE-Nuremburg (seniority: 1)
+* Resident Data Center(s): 24940-DE-Nuremburg (seniority: 1),23470-US-Las Vegas (seniority: 68)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 69 epochs)
 * Stake reason: Good block production during epoch 278: 132 blocks in 140 slots, 6% skip rate
