@@ -1,3 +1,9 @@
+### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
+* Stake level: **Baseline** (for 4 epochs)
+* Stake reason: Poor block production during epoch 281: 4 blocks in 12 slots, 67% skip rate
+* Staking activity: target stake amount: ◎25000.000000000, current stake amount: ◎25008.491087711 - removing ◎8.491087711
+* Vote account address: Dxe8x3sa43gxMbTZAi49PofqxRueC4ixuGQYfAu1snBo
+* Data Center: 58061-NL-Dronten
 ### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
 * Stake level: **Baseline** (for 3 epochs)
 * Stake reason: No leader slots; 347905 credits earned in epoch 280

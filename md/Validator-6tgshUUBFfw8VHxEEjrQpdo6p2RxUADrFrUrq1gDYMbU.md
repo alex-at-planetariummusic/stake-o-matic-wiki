@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
+* Stake level: **None** (for 2 epochs)
+* Stake reason: Insufficient vote credits: 164213 credits earned in epoch 281
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎1.000212274 - not removing ◎0.000212274 (amount too small)
+* Vote account address: DdyLVpvQ3Kj2R1jmD4HnR5egGbw3oJcw9moSyswRvWL2
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 15)
 ### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 28226 credits earned in epoch 280

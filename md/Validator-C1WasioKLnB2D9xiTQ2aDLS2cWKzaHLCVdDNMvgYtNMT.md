@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
+* Stake level: **Bonus** (for 40 epochs)
+* Stake reason: Good block production during epoch 281: 90 blocks in 92 slots, 3% skip rate
+* Staking activity: target stake amount: ◎65159.547398036, current stake amount: ◎65812.134948098 - removing ◎652.587550062
+* Vote account address: 39xF5qkfK5HBaG4Hkq6bjumUB2k4B5ozEAmfZoobhUVw
+* Data Center: 16143-RU-Stupino
+* Resident Data Center(s): 16143-RU-Stupino (seniority: 4),16276-CA-Beauharnois (seniority: 33)
 ### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
 * Stake level: **Bonus** (for 39 epochs)
 * Stake reason: Good block production during epoch 280: 86 blocks in 92 slots, 7% skip rate
 * Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66274.419764063 - removing ◎493.162610827
 * Vote account address: 39xF5qkfK5HBaG4Hkq6bjumUB2k4B5ozEAmfZoobhUVw
 * Data Center: 16143-RU-Stupino
-* Resident Data Center(s): 16143-RU-Stupino (seniority: 3),16276-CA-Beauharnois (seniority: 34)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 34),16143-RU-Stupino (seniority: 3)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 38 epochs)
 * Stake reason: Good block production during epoch 279: 94 blocks in 100 slots, 6% skip rate
 * Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.231174823 - removing ◎613.678554631
 * Vote account address: 39xF5qkfK5HBaG4Hkq6bjumUB2k4B5ozEAmfZoobhUVw
 * Data Center: 16143-RU-Stupino
-* Resident Data Center(s): 16143-RU-Stupino (seniority: 2),16276-CA-Beauharnois (seniority: 35)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 35),16143-RU-Stupino (seniority: 2)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 37 epochs)
 * Stake reason: Good block production during epoch 278: 71 blocks in 76 slots, 7% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎67654.269638275 - removing ◎827.300508541
 * Vote account address: 39xF5qkfK5HBaG4Hkq6bjumUB2k4B5ozEAmfZoobhUVw
 * Data Center: 16143-RU-Stupino
-* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 36),16143-RU-Stupino (seniority: 1)
+* Resident Data Center(s): 16143-RU-Stupino (seniority: 1),16276-CA-Beauharnois (seniority: 36)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Bonus** (for 36 epochs)
 * Stake reason: Good block production during epoch 277: 122 blocks in 136 slots, 11% skip rate

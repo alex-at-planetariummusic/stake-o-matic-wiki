@@ -1,17 +1,24 @@
+### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
+* Stake level: **Bonus** (for 69 epochs)
+* Stake reason: Good block production during epoch 281: 91 blocks in 100 slots, 9% skip rate
+* Staking activity: target stake amount: ◎65159.547398036, current stake amount: ◎65811.702615244 - removing ◎652.155217208
+* Vote account address: kWEiSEQZMeLAbMUiz1njRTZEjuSpJDCgVynB6pJHpcr
+* Data Center: 23470-US-Portland
+* Resident Data Center(s): 23470-US-Portland (seniority: 6),23470-US-Miami (seniority: 57)
 ### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
 * Stake level: **Bonus** (for 68 epochs)
 * Stake reason: Good block production during epoch 280: 114 blocks in 128 slots, 11% skip rate
 * Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66275.444109660 - removing ◎494.186956424
 * Vote account address: kWEiSEQZMeLAbMUiz1njRTZEjuSpJDCgVynB6pJHpcr
 * Data Center: 23470-US-Portland
-* Resident Data Center(s): 23470-US-Portland (seniority: 5),23470-US-Miami (seniority: 58)
+* Resident Data Center(s): 23470-US-Miami (seniority: 58),23470-US-Portland (seniority: 5)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 67 epochs)
 * Stake reason: Good block production during epoch 279: 88 blocks in 100 slots, 12% skip rate
 * Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66857.910337075 - removing ◎613.357716883
 * Vote account address: kWEiSEQZMeLAbMUiz1njRTZEjuSpJDCgVynB6pJHpcr
 * Data Center: 23470-US-Portland
-* Resident Data Center(s): 23470-US-Miami (seniority: 59),23470-US-Portland (seniority: 4)
+* Resident Data Center(s): 23470-US-Portland (seniority: 4),23470-US-Miami (seniority: 59)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 278: 128 blocks in 140 slots, 9% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68616.955786749 - removing ◎660.947502562
 * Vote account address: kWEiSEQZMeLAbMUiz1njRTZEjuSpJDCgVynB6pJHpcr
 * Data Center: 23470-US-Portland
-* Resident Data Center(s): 23470-US-Miami (seniority: 62),23470-US-Portland (seniority: 1)
+* Resident Data Center(s): 23470-US-Portland (seniority: 1),23470-US-Miami (seniority: 62)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 63 epochs)
 * Stake reason: Good block production during epoch 275: 79 blocks in 96 slots, 18% skip rate
