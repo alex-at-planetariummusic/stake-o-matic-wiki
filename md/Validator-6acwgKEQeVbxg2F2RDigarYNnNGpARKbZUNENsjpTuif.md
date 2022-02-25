@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
+* Stake level: **None**
+* Stake reason: Insufficient vote credits: 141783 credits earned in epoch 282
+* Staking activity: target stake amount: ◎1.000000000, current stake amount: ◎65159.547586445 - removing ◎65158.547586445
+* Vote account address: HK8x8tP8QkCQydvjCe1nQHPM9oFa51ogG8U1pYXqUskd
+* Data Center: 25091-CH-Geneva
+* Resident Data Center(s): 25091-CH-Geneva (seniority: 1)
 ### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 225424 credits earned in epoch 281

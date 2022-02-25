@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
+* Stake level: **Bonus** (for 3 epochs)
+* Stake reason: Good block production during epoch 282: 51 blocks in 56 slots, 9% skip rate
+* Staking activity: target stake amount: ◎64951.980702048, current stake amount: ◎65171.615691855 - removing ◎219.634989807
+* Vote account address: DuH43g1bKd2V1rD3eXWK73vg6jAGpBYesNWQzYtL8hw8
+* Data Center: 16509-SG-Singapore
+* Resident Data Center(s): 16509-SG-Singapore (seniority: 3),16276-PL-Warsaw (seniority: 7)
 ### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 281: 81 blocks in 88 slots, 8% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎25011.838014966 - reserve depleted
 * Vote account address: DuH43g1bKd2V1rD3eXWK73vg6jAGpBYesNWQzYtL8hw8
 * Data Center: 16509-SG-Singapore
-* Resident Data Center(s): 16276-PL-Warsaw (seniority: 9),16509-SG-Singapore (seniority: 1)
+* Resident Data Center(s): 16509-SG-Singapore (seniority: 1),16276-PL-Warsaw (seniority: 9)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 279: 60 blocks in 100 slots, 40% skip rate

@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
+* Stake level: **Bonus** (for 67 epochs)
+* Stake reason: Good block production during epoch 282: 161 blocks in 164 slots, 2% skip rate
+* Staking activity: target stake amount: ◎64951.980702048, current stake amount: ◎65190.613519422 - removing ◎238.632817374
+* Vote account address: BFx4GGeS6s66HGux6oy7jMwiKPu6sUAJrzhK89wHun6R
+* Data Center: 22439-US-America/Chicago
+* Resident Data Center(s): 29278-HU-Europe/Budapest (seniority: 52),22439-US-America/Chicago (seniority: 9)
 ### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
 * Stake level: **Bonus** (for 66 epochs)
 * Stake reason: Good block production during epoch 281: 167 blocks in 176 slots, 6% skip rate
 * Staking activity: target stake amount: ◎65159.547398036, current stake amount: ◎65812.748685484 - removing ◎653.201287448
 * Vote account address: BFx4GGeS6s66HGux6oy7jMwiKPu6sUAJrzhK89wHun6R
 * Data Center: 22439-US-America/Chicago
-* Resident Data Center(s): 29278-HU-Europe/Budapest (seniority: 53),22439-US-America/Chicago (seniority: 8)
+* Resident Data Center(s): 22439-US-America/Chicago (seniority: 8),29278-HU-Europe/Budapest (seniority: 53)
 ### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
 * Stake level: **Bonus** (for 65 epochs)
 * Stake reason: Good block production during epoch 280: 141 blocks in 152 slots, 8% skip rate
@@ -18,7 +25,7 @@
 * Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66859.063927428 - removing ◎614.511307236
 * Vote account address: BFx4GGeS6s66HGux6oy7jMwiKPu6sUAJrzhK89wHun6R
 * Data Center: 22439-US-America/Chicago
-* Resident Data Center(s): 22439-US-America/Chicago (seniority: 6),29278-HU-Europe/Budapest (seniority: 55)
+* Resident Data Center(s): 29278-HU-Europe/Budapest (seniority: 55),22439-US-America/Chicago (seniority: 6)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 63 epochs)
 * Stake reason: Good block production during epoch 278: 129 blocks in 136 slots, 6% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68618.285962317 - removing ◎662.277678130
 * Vote account address: BFx4GGeS6s66HGux6oy7jMwiKPu6sUAJrzhK89wHun6R
 * Data Center: 22439-US-America/Chicago
-* Resident Data Center(s): 29278-HU-Europe/Budapest (seniority: 58),22439-US-America/Chicago (seniority: 3)
+* Resident Data Center(s): 22439-US-America/Chicago (seniority: 3),29278-HU-Europe/Budapest (seniority: 58)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 60 epochs)
 * Stake reason: Good block production during epoch 275: 130 blocks in 132 slots, 2% skip rate

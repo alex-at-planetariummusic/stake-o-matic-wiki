@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
+* Stake level: **Bonus** (for 5 epochs)
+* Stake reason: Good block production during epoch 282: 255 blocks in 264 slots, 4% skip rate
+* Staking activity: target stake amount: ◎64951.980702048, current stake amount: ◎65189.956628739 - removing ◎237.975926691
+* Vote account address: GB44NXtM7zGm6QnzQjzHZcRKSswkJbox8aJsKiXGbFJr
+* Data Center: 206264-SC-Indian/Mahe
+* Resident Data Center(s): 199610-DE-Frankfurt (seniority: 80),206264-SC-Indian/Mahe (seniority: 5)
 ### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 281: 170 blocks in 176 slots, 4% skip rate
@@ -11,21 +18,21 @@
 * Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66256.328582595 - removing ◎475.071429359
 * Vote account address: GB44NXtM7zGm6QnzQjzHZcRKSswkJbox8aJsKiXGbFJr
 * Data Center: 206264-SC-Indian/Mahe
-* Resident Data Center(s): 199610-DE-Frankfurt (seniority: 82),206264-SC-Indian/Mahe (seniority: 3)
+* Resident Data Center(s): 206264-SC-Indian/Mahe (seniority: 3),199610-DE-Frankfurt (seniority: 82)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 279: 170 blocks in 172 slots, 2% skip rate
 * Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎25023.414735447 - adding ◎41221.137884745
 * Vote account address: GB44NXtM7zGm6QnzQjzHZcRKSswkJbox8aJsKiXGbFJr
 * Data Center: 206264-SC-Indian/Mahe
-* Resident Data Center(s): 199610-DE-Frankfurt (seniority: 83),206264-SC-Indian/Mahe (seniority: 2)
+* Resident Data Center(s): 206264-SC-Indian/Mahe (seniority: 2),199610-DE-Frankfurt (seniority: 83)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 278: 192 blocks in 216 slots, 12% skip rate
 * Staking activity: target stake amount: ◎66826.969129734, current stake amount: ◎25011.629288058 - reserve depleted
 * Vote account address: GB44NXtM7zGm6QnzQjzHZcRKSswkJbox8aJsKiXGbFJr
 * Data Center: 206264-SC-Indian/Mahe
-* Resident Data Center(s): 199610-DE-Frankfurt (seniority: 84),206264-SC-Indian/Mahe (seniority: 1)
+* Resident Data Center(s): 206264-SC-Indian/Mahe (seniority: 1),199610-DE-Frankfurt (seniority: 84)
 ### [[Mainnet Epoch 278|Mainnet#Epoch-278]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 277: 159 blocks in 296 slots, 47% skip rate

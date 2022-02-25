@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
+* Stake level: **Bonus** (for 57 epochs)
+* Stake reason: Good block production during epoch 282: 173 blocks in 176 slots, 2% skip rate
+* Staking activity: target stake amount: ◎64951.980702048, current stake amount: ◎65189.913086791 - removing ◎237.932384743
+* Vote account address: 5xyBz6L1dwHRKAnaNWVeJdUfUMw4GsU4tBRPZyRfajnk
+* Data Center: 24940-DE-Falkenstein
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 52),24940-DE-Falkenstein (seniority: 2)
 ### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
 * Stake level: **Bonus** (for 56 epochs)
 * Stake reason: Good block production during epoch 281: 86 blocks in 96 slots, 11% skip rate
 * Staking activity: target stake amount: ◎65159.547398036, current stake amount: ◎65811.061331593 - removing ◎651.513933557
 * Vote account address: 5xyBz6L1dwHRKAnaNWVeJdUfUMw4GsU4tBRPZyRfajnk
 * Data Center: 24940-DE-Falkenstein
-* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 1),23470-US-Los Angeles (seniority: 53)
+* Resident Data Center(s): 23470-US-Los Angeles (seniority: 53),24940-DE-Falkenstein (seniority: 1)
 ### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
 * Stake level: **Bonus** (for 55 epochs)
 * Stake reason: Good block production during epoch 280: 84 blocks in 124 slots, 33% skip rate

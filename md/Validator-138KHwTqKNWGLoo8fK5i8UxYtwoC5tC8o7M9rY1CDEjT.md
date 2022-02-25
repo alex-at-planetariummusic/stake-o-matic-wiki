@@ -1,24 +1,31 @@
+### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
+* Stake level: **Bonus** (for 23 epochs)
+* Stake reason: Good block production during epoch 282: 76 blocks in 96 slots, 21% skip rate
+* Staking activity: target stake amount: ◎64951.980702048, current stake amount: ◎65186.551153883 - removing ◎234.570451835
+* Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
+* Data Center: 16276-NL-Amsterdam
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 7),16276-NL-Amsterdam (seniority: 8)
 ### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
 * Stake level: **Bonus** (for 22 epochs)
 * Stake reason: Good block production during epoch 281: 119 blocks in 136 slots, 13% skip rate
 * Staking activity: target stake amount: ◎65159.547398036, current stake amount: ◎65810.387992123 - removing ◎650.840594087
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 16276-NL-Amsterdam
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 8),16276-NL-Amsterdam (seniority: 7)
+* Resident Data Center(s): 16276-NL-Amsterdam (seniority: 7),58061-GB-Europe/London (seniority: 8)
 ### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 280: 102 blocks in 104 slots, 2% skip rate
 * Staking activity: target stake amount: ◎65781.257153236, current stake amount: ◎66275.726331622 - removing ◎494.469178386
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 16276-NL-Amsterdam
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 9),16276-NL-Amsterdam (seniority: 6)
+* Resident Data Center(s): 16276-NL-Amsterdam (seniority: 6),58061-GB-Europe/London (seniority: 9)
 ### [[Mainnet Epoch 280|Mainnet#Epoch-280]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 279: 106 blocks in 108 slots, 2% skip rate
 * Staking activity: target stake amount: ◎66244.552620192, current stake amount: ◎66858.378381061 - removing ◎613.825760869
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 16276-NL-Amsterdam
-* Resident Data Center(s): 16276-NL-Amsterdam (seniority: 5),58061-GB-Europe/London (seniority: 10)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 10),16276-NL-Amsterdam (seniority: 5)
 ### [[Mainnet Epoch 279|Mainnet#Epoch-279]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 278: 100 blocks in 100 slots, 0% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.173136639 - removing ◎661.164852452
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 16276-NL-Amsterdam
-* Resident Data Center(s): 16276-NL-Amsterdam (seniority: 2),58061-GB-Europe/London (seniority: 13)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 13),16276-NL-Amsterdam (seniority: 2)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 275: 119 blocks in 132 slots, 10% skip rate
 * Staking activity: target stake amount: ◎68585.161226468, current stake amount: ◎68985.404339740 - removing ◎400.243113272
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 16276-NL-Amsterdam
-* Resident Data Center(s): 16276-NL-Amsterdam (seniority: 1),58061-GB-Europe/London (seniority: 14)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 14),16276-NL-Amsterdam (seniority: 1)
 ### [[Mainnet Epoch 275|Mainnet#Epoch-275]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 274: 108 blocks in 116 slots, 7% skip rate
@@ -178,28 +185,28 @@
 * Staking activity: target stake amount: ◎81337.875154522, current stake amount: ◎82984.021736203 - removing ◎1646.146581681
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 35),23470-US-Piscataway (seniority: 10)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 10),58061-GB-Europe/London (seniority: 35)
 ### [[Mainnet Epoch 255|Mainnet#Epoch-255]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 254: 114 blocks in 160 slots, 29% skip rate
 * Staking activity: target stake amount: ◎83049.808715985, current stake amount: ◎82944.970286481 - reserve depleted
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 36),23470-US-Piscataway (seniority: 9)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 9),58061-GB-Europe/London (seniority: 36)
 ### [[Mainnet Epoch 254|Mainnet#Epoch-254]]
 * Stake level: **Bonus** (for 53 epochs)
 * Stake reason: Good block production during epoch 253: 132 blocks in 144 slots, 9% skip rate
 * Staking activity: target stake amount: ◎82905.605538071, current stake amount: ◎83199.899688162 - removing ◎294.294150091
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 37),23470-US-Piscataway (seniority: 8)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 8),58061-GB-Europe/London (seniority: 37)
 ### [[Mainnet Epoch 253|Mainnet#Epoch-253]]
 * Stake level: **Bonus** (for 52 epochs)
 * Stake reason: Good block production during epoch 252: 139 blocks in 148 slots, 7% skip rate
 * Staking activity: target stake amount: ◎83161.400407032, current stake amount: ◎83483.983666632 - removing ◎322.583259600
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 38),23470-US-Piscataway (seniority: 7)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 7),58061-GB-Europe/London (seniority: 38)
 ### [[Mainnet Epoch 252|Mainnet#Epoch-252]]
 * Stake level: **Bonus** (for 51 epochs)
 * Stake reason: Good block production during epoch 251: 143 blocks in 168 slots, 15% skip rate
@@ -213,7 +220,7 @@
 * Staking activity: target stake amount: ◎84288.946967410, current stake amount: ◎84202.074934222 - reserve depleted
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 40),23470-US-Piscataway (seniority: 5)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 5),58061-GB-Europe/London (seniority: 40)
 ### [[Mainnet Epoch 250|Mainnet#Epoch-250]]
 * Stake level: **Bonus** (for 49 epochs)
 * Stake reason: Good block production during epoch 249: 170 blocks in 180 slots, 6% skip rate
@@ -227,7 +234,7 @@
 * Staking activity: target stake amount: ◎86360.888109739, current stake amount: ◎87415.861404923 - removing ◎1054.973295184
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 23470-US-Piscataway (seniority: 3),58061-GB-Europe/London (seniority: 42)
+* Resident Data Center(s): 58061-GB-Europe/London (seniority: 42),23470-US-Piscataway (seniority: 3)
 ### [[Mainnet Epoch 248|Mainnet#Epoch-248]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 247: 148 blocks in 152 slots, 3% skip rate
@@ -241,7 +248,7 @@
 * Staking activity: target stake amount: ◎89133.008012963, current stake amount: ◎88667.336002440 - adding ◎465.672010523
 * Vote account address: 8Ub49zFyCpGDibN5pmn6wcHj6DfzyHYBaMAraacaBbUB
 * Data Center: 23470-US-Piscataway
-* Resident Data Center(s): 58061-GB-Europe/London (seniority: 44),23470-US-Piscataway (seniority: 1)
+* Resident Data Center(s): 23470-US-Piscataway (seniority: 1),58061-GB-Europe/London (seniority: 44)
 ### [[Mainnet Epoch 246|Mainnet#Epoch-246]]
 * Stake level: **Bonus** (for 45 epochs)
 * Stake reason: Good block production during epoch 245: 124 blocks in 160 slots, 23% skip rate
