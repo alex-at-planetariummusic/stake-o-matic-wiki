@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 290: 7 blocks in 28 slots, 75% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: 4fxq4CySba1m541kPYuCfuUBC89jMYubhd1MC3mHNaKv
+* Data Center: 16276-FR-Roubaix
+* Resident Data Center(s): 16276-FR-Roubaix (seniority: 48)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **None** (for 9 epochs)
 * Stake reason: Insufficient vote credits: 142981 credits earned in epoch 286

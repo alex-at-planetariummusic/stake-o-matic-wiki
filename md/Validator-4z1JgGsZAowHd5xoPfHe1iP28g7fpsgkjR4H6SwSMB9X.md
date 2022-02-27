@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 55 epochs)
+* Stake reason: Good block production during epoch 290: 149 blocks in 160 slots, 7% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 4vdDgMQaiNM631grwT8gPgJKTRCkK8XPhokJ1VeykTms
+* Vote account address: HF17VnKbSvv7nsjVZSfRLLJqWNxcbrqRv5KcoZHPHzG8
+* Data Center: 16276-FR-Strasbourg
+* Resident Data Center(s): 23470-US-Scarsdale (seniority: 5),16276-FR-Strasbourg (seniority: 43)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 54 epochs)
 * Stake reason: Good block production during epoch 286: 152 blocks in 168 slots, 10% skip rate
@@ -11,35 +18,35 @@
 * Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
 * Vote account address: HF17VnKbSvv7nsjVZSfRLLJqWNxcbrqRv5KcoZHPHzG8
 * Data Center: 23470-US-Scarsdale
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 43),23470-US-Scarsdale (seniority: 5)
+* Resident Data Center(s): 23470-US-Scarsdale (seniority: 5),16276-FR-Strasbourg (seniority: 43)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 52 epochs)
 * Stake reason: Good block production during epoch 284: 227 blocks in 240 slots, 6% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 4vdDgMQaiNM631grwT8gPgJKTRCkK8XPhokJ1VeykTms
 * Vote account address: HF17VnKbSvv7nsjVZSfRLLJqWNxcbrqRv5KcoZHPHzG8
 * Data Center: 23470-US-Scarsdale
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 44),23470-US-Scarsdale (seniority: 4)
+* Resident Data Center(s): 23470-US-Scarsdale (seniority: 4),16276-FR-Strasbourg (seniority: 44)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 51 epochs)
 * Stake reason: Good block production during epoch 283: 174 blocks in 204 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 4vdDgMQaiNM631grwT8gPgJKTRCkK8XPhokJ1VeykTms
 * Vote account address: HF17VnKbSvv7nsjVZSfRLLJqWNxcbrqRv5KcoZHPHzG8
 * Data Center: 23470-US-Scarsdale
-* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 45),23470-US-Scarsdale (seniority: 3)
+* Resident Data Center(s): 23470-US-Scarsdale (seniority: 3),16276-FR-Strasbourg (seniority: 45)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 50 epochs)
 * Stake reason: Good block production during epoch 282: 173 blocks in 208 slots, 17% skip rate
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
 * Vote account address: HF17VnKbSvv7nsjVZSfRLLJqWNxcbrqRv5KcoZHPHzG8
 * Data Center: 23470-US-Scarsdale
-* Resident Data Center(s): 23470-US-Scarsdale (seniority: 2),16276-FR-Strasbourg (seniority: 46)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 46),23470-US-Scarsdale (seniority: 2)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 49 epochs)
 * Stake reason: Good block production during epoch 281: 152 blocks in 236 slots, 36% skip rate
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: HF17VnKbSvv7nsjVZSfRLLJqWNxcbrqRv5KcoZHPHzG8
 * Data Center: 23470-US-Scarsdale
-* Resident Data Center(s): 23470-US-Scarsdale (seniority: 1),16276-FR-Strasbourg (seniority: 47)
+* Resident Data Center(s): 16276-FR-Strasbourg (seniority: 47),23470-US-Scarsdale (seniority: 1)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 48 epochs)
 * Stake reason: Good block production during epoch 280: 210 blocks in 224 slots, 7% skip rate

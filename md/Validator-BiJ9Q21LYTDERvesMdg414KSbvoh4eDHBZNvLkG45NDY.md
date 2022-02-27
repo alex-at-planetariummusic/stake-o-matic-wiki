@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 24 epochs)
+* Stake reason: Good block production during epoch 290: 168 blocks in 184 slots, 9% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: FQaxa63LydjAF5ehyiQTLA8oNAVFyJetpZpmwBtpmkb7
+* Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
+* Data Center: 21409-GB-Marlow
+* Resident Data Center(s): 21409-GB-Marlow (seniority: 1),21409-FR-Europe/Paris (seniority: 10)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 23 epochs)
 * Stake reason: Good block production during epoch 286: 183 blocks in 232 slots, 22% skip rate
@@ -32,35 +39,35 @@
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
 * Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-GB-Marlow (seniority: 1),21409-FR-Europe/Paris (seniority: 9)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),21409-GB-Marlow (seniority: 1)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 281: 169 blocks in 232 slots, 28% skip rate
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),21409-GB-Marlow (seniority: 2)
+* Resident Data Center(s): 21409-GB-Marlow (seniority: 2),21409-FR-Europe/Paris (seniority: 8)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 17 epochs)
 * Stake reason: Good block production during epoch 280: 199 blocks in 252 slots, 22% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎26124.401452057 - reserve depleted
 * Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),21409-GB-Marlow (seniority: 3)
+* Resident Data Center(s): 21409-GB-Marlow (seniority: 3),21409-FR-Europe/Paris (seniority: 7)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Bonus** (for 16 epochs)
 * Stake reason: Good block production during epoch 279: 108 blocks in 160 slots, 33% skip rate
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
 * Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),21409-GB-Marlow (seniority: 4)
+* Resident Data Center(s): 21409-GB-Marlow (seniority: 4),21409-FR-Europe/Paris (seniority: 6)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 278: 149 blocks in 164 slots, 10% skip rate
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26346.183379311 - reserve depleted
 * Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
 * Data Center: 21409-GB-Marlow
-* Resident Data Center(s): 21409-GB-Marlow (seniority: 5),21409-FR-Europe/Paris (seniority: 5)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 5),21409-GB-Marlow (seniority: 5)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 14 epochs)
 * Stake reason: Good block production during epoch 277: 187 blocks in 196 slots, 5% skip rate
@@ -81,14 +88,14 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
 * Data Center: 21409-GB-Marlow
-* Resident Data Center(s): 21409-GB-Marlow (seniority: 2),21409-FR-Europe/Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),21409-GB-Marlow (seniority: 2)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 273: 211 blocks in 248 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake activation: FQaxa63LydjAF5ehyiQTLA8oNAVFyJetpZpmwBtpmkb7
 * Vote account address: Hk9YPeJtnovS5qMatigoYg8oC9ijJ6wBtZ7WyPpY54nT
 * Data Center: 21409-GB-Marlow
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),21409-GB-Marlow (seniority: 1)
+* Resident Data Center(s): 21409-GB-Marlow (seniority: 1),21409-FR-Europe/Paris (seniority: 9)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 272: 147 blocks in 200 slots, 27% skip rate

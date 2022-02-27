@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Baseline** (for 3 epochs)
+* Stake reason: No leader slots; 320533 credits earned in epoch 290
+* Staking activity: stake account busy due to transient stake activation: DKssEbcH8Bw3ERmKFUrazq4riJjeKTLvVSaQKECkE7Pw
+* Vote account address: CJAPZwxvpmkbBRUiieRgQsAH8dBpvUDjcydCuaCdbWmb
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 25)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 286: 8 blocks in 20 slots, 60% skip rate

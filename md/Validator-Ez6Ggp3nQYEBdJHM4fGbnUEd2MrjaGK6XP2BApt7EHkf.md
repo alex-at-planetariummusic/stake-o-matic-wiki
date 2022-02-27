@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 12 epochs)
+* Stake reason: Good block production during epoch 290: 87 blocks in 88 slots, 2% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: HkVQqk2AFNs32Dnm14EgCBXqP6YiCqYn8JTc2n5hpu9
+* Vote account address: HW1iJe9xfFLrDjGn39Qhq5akC2hCFEh6V51ubmG2Lw5V
+* Data Center: 19318-US-New York
+* Resident Data Center(s): 19318-US-New York (seniority: 7),58061-NL-Meppel (seniority: 36)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 286: 90 blocks in 112 slots, 20% skip rate
@@ -11,28 +18,28 @@
 * Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
 * Vote account address: HW1iJe9xfFLrDjGn39Qhq5akC2hCFEh6V51ubmG2Lw5V
 * Data Center: 19318-US-New York
-* Resident Data Center(s): 19318-US-New York (seniority: 5),58061-NL-Meppel (seniority: 38)
+* Resident Data Center(s): 58061-NL-Meppel (seniority: 38),19318-US-New York (seniority: 5)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 284: 134 blocks in 140 slots, 5% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: HkVQqk2AFNs32Dnm14EgCBXqP6YiCqYn8JTc2n5hpu9
 * Vote account address: HW1iJe9xfFLrDjGn39Qhq5akC2hCFEh6V51ubmG2Lw5V
 * Data Center: 19318-US-New York
-* Resident Data Center(s): 58061-NL-Meppel (seniority: 39),19318-US-New York (seniority: 4)
+* Resident Data Center(s): 19318-US-New York (seniority: 4),58061-NL-Meppel (seniority: 39)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 283: 109 blocks in 128 slots, 15% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: HkVQqk2AFNs32Dnm14EgCBXqP6YiCqYn8JTc2n5hpu9
 * Vote account address: HW1iJe9xfFLrDjGn39Qhq5akC2hCFEh6V51ubmG2Lw5V
 * Data Center: 19318-US-New York
-* Resident Data Center(s): 19318-US-New York (seniority: 3),58061-NL-Meppel (seniority: 40)
+* Resident Data Center(s): 58061-NL-Meppel (seniority: 40),19318-US-New York (seniority: 3)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 282: 97 blocks in 132 slots, 27% skip rate
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26431.937034338 - removing ◎59.096370996
 * Vote account address: HW1iJe9xfFLrDjGn39Qhq5akC2hCFEh6V51ubmG2Lw5V
 * Data Center: 19318-US-New York
-* Resident Data Center(s): 19318-US-New York (seniority: 2),58061-NL-Meppel (seniority: 41)
+* Resident Data Center(s): 58061-NL-Meppel (seniority: 41),19318-US-New York (seniority: 2)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 281: 110 blocks in 116 slots, 6% skip rate

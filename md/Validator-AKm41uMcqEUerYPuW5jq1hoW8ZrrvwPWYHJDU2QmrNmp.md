@@ -1,10 +1,17 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 22 epochs)
+* Stake reason: Good block production during epoch 290: 244 blocks in 256 slots, 5% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: DvyU8aPauYWqUCeySQTeKVyayhXN8rdNBkGzru1AZ5iw
+* Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
+* Data Center: 24961-DE-Europe/Berlin
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 4),24961-DE-Europe/Berlin (seniority: 38)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 21 epochs)
 * Stake reason: Good block production during epoch 286: 248 blocks in 256 slots, 4% skip rate
 * Staking activity: target stake amount: ◎25822.712495118, current stake amount: ◎25753.676690444 - reserve depleted
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 5),24961-DE-Europe/Berlin (seniority: 37)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 37),24961-DE-Düsseldorf (seniority: 5)
 ### [[Testnet Epoch 286|Testnet#Epoch-286]]
 * Stake level: **Bonus** (for 20 epochs)
 * Stake reason: Good block production during epoch 285: 219 blocks in 232 slots, 6% skip rate
@@ -39,7 +46,7 @@
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26124.401452057 - adding ◎307.535582281
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 32),24961-DE-Düsseldorf (seniority: 10)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 10),24961-DE-Europe/Berlin (seniority: 32)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 280: 178 blocks in 192 slots, 8% skip rate
@@ -53,7 +60,7 @@
 * Staking activity: target stake amount: ◎26124.401452057, current stake amount: ◎26346.183379311 - removing ◎221.781927254
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 30),24961-DE-Düsseldorf (seniority: 12)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 12),24961-DE-Europe/Berlin (seniority: 30)
 ### [[Testnet Epoch 279|Testnet#Epoch-279]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 278: 265 blocks in 268 slots, 2% skip rate
@@ -81,7 +88,7 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎26762.483482858 - removing ◎428.738415482
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 26),24961-DE-Düsseldorf (seniority: 16)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 16),24961-DE-Europe/Berlin (seniority: 26)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 273: 230 blocks in 236 slots, 3% skip rate
@@ -102,14 +109,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: DvyU8aPauYWqUCeySQTeKVyayhXN8rdNBkGzru1AZ5iw
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 23),24961-DE-Düsseldorf (seniority: 19)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 19),24961-DE-Europe/Berlin (seniority: 23)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 270: 244 blocks in 264 slots, 8% skip rate
 * Staking activity: stake account busy due to transient stake activation: DvyU8aPauYWqUCeySQTeKVyayhXN8rdNBkGzru1AZ5iw
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 22),24961-DE-Düsseldorf (seniority: 20)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 20),24961-DE-Europe/Berlin (seniority: 22)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 269: 246 blocks in 260 slots, 6% skip rate
@@ -130,21 +137,21 @@
 * Staking activity: stake account busy due to transient stake deactivation: DvyU8aPauYWqUCeySQTeKVyayhXN8rdNBkGzru1AZ5iw
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 23),24961-DE-Europe/Berlin (seniority: 19)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 19),24961-DE-Düsseldorf (seniority: 23)
 ### [[Testnet Epoch 267|Testnet#Epoch-267]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 266: 269 blocks in 276 slots, 3% skip rate
 * Staking activity: stake account busy due to transient stake activation: DvyU8aPauYWqUCeySQTeKVyayhXN8rdNBkGzru1AZ5iw
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 18),24961-DE-Düsseldorf (seniority: 24)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 24),24961-DE-Europe/Berlin (seniority: 18)
 ### [[Testnet Epoch 266|Testnet#Epoch-266]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 265: 162 blocks in 244 slots, 34% skip rate
 * Staking activity: target stake amount: ◎28769.565487322, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 17),24961-DE-Düsseldorf (seniority: 25)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 25),24961-DE-Europe/Berlin (seniority: 17)
 ### [[Testnet Epoch 265|Testnet#Epoch-265]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 264: 175 blocks in 308 slots, 44% skip rate
@@ -179,21 +186,21 @@
 * Staking activity: target stake amount: ◎32005.684263537, current stake amount: ◎32935.576610224 - removing ◎929.892346687
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 14),24961-DE-Düsseldorf (seniority: 30)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 30),24961-DE-Europe/Berlin (seniority: 14)
 ### [[Testnet Epoch 260|Testnet#Epoch-260]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 259: 235 blocks in 244 slots, 4% skip rate
 * Staking activity: target stake amount: ◎32935.576610224, current stake amount: ◎33121.199782952 - removing ◎185.623172728
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 13),24961-DE-Düsseldorf (seniority: 31)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 31),24961-DE-Europe/Berlin (seniority: 13)
 ### [[Testnet Epoch 259|Testnet#Epoch-259]]
 * Stake level: **Bonus** (for 12 epochs)
 * Stake reason: Good block production during epoch 258: 239 blocks in 248 slots, 4% skip rate
 * Staking activity: target stake amount: ◎33300.929334184, current stake amount: ◎33121.199782952 - reserve depleted
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 32),24961-DE-Europe/Berlin (seniority: 12)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 12),24961-DE-Düsseldorf (seniority: 32)
 ### [[Testnet Epoch 258|Testnet#Epoch-258]]
 * Stake level: **Bonus** (for 11 epochs)
 * Stake reason: Good block production during epoch 257: 255 blocks in 276 slots, 8% skip rate
@@ -207,14 +214,14 @@
 * Staking activity: target stake amount: ◎33186.706533774, current stake amount: ◎33042.844633254 - reserve depleted
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 34),24961-DE-Europe/Berlin (seniority: 10)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 10),24961-DE-Düsseldorf (seniority: 34)
 ### [[Testnet Epoch 256|Testnet#Epoch-256]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 255: 337 blocks in 348 slots, 4% skip rate
 * Staking activity: target stake amount: ◎33042.844633254, current stake amount: ◎33068.373512476 - removing ◎25.528879222
 * Vote account address: HuZcM6bPYpp6cSCs4wZtyw1Pbwf9Q7unpSomaGBRMRpH
 * Data Center: 24961-DE-Europe/Berlin
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 9),24961-DE-Düsseldorf (seniority: 35)
+* Resident Data Center(s): 24961-DE-Düsseldorf (seniority: 35),24961-DE-Europe/Berlin (seniority: 9)
 ### [[Testnet Epoch 255|Testnet#Epoch-255]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 254: 290 blocks in 356 slots, 19% skip rate

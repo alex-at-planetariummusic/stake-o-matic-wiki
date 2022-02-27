@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 290: 74 blocks in 128 slots, 43% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: J4HjyNiM5cP5qo8yVxjxhm8cjN3dVptXj6159TxprshX
+* Vote account address: 7RDyzhyXWv3LTwa2sPQv51sN38dGjw8sAHfD3jqJdFsX
+* Data Center: 24940-DE-Nuremburg
+* Resident Data Center(s): 23470-US-Miami (seniority: 4),201814-PL-Europe/Warsaw (seniority: 21)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 286: 151 blocks in 156 slots, 4% skip rate
@@ -32,7 +39,7 @@
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎5000.000000000 - adding ◎21372.840663342
 * Vote account address: 7RDyzhyXWv3LTwa2sPQv51sN38dGjw8sAHfD3jqJdFsX
 * Data Center: 23470-US-Miami
-* Resident Data Center(s): 23470-US-Miami (seniority: 1),201814-PL-Europe/Warsaw (seniority: 26)
+* Resident Data Center(s): 201814-PL-Europe/Warsaw (seniority: 26),23470-US-Miami (seniority: 1)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 281: 16 blocks in 48 slots, 67% skip rate

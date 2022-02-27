@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Baseline**
+* Stake reason: Poor block production during epoch 290: 2 blocks in 12 slots, 84% skip rate
+* Staking activity: target stake amount: ◎5000.000000000, current stake amount: ◎5000.000000000 - no change
+* Vote account address: DCkkC7XFzvAKG6t2MkoN8pd53opkR8ngY4xCUbHxjEb1
+* Data Center: 24961-DE-Schopfheim
+* Resident Data Center(s): 24940-DE-Falkenstein (seniority: 30)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **None** (for 4 epochs)
 * Stake reason: Outdated Solana release: 1.8.5

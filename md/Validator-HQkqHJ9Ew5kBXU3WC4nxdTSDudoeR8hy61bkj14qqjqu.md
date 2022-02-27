@@ -1,10 +1,17 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 48 epochs)
+* Stake reason: Good block production during epoch 290: 81 blocks in 120 slots, 33% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 39CEyEqqG1ymKcnapAyRZpe7ZPBDb2izbetNho9dAXve
+* Vote account address: CnjiEVtvfGByT4rAPjU74o795BpTuEXwVFvgFCZn8YqJ
+* Data Center: 24961-DE-Andernach
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 32),24961-DE-Andernach (seniority: 1),15440-LT-Vilnius (seniority: 6)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 47 epochs)
 * Stake reason: Good block production during epoch 286: 123 blocks in 128 slots, 4% skip rate
 * Staking activity: target stake amount: ◎25822.712495118, current stake amount: ◎25753.676690444 - reserve depleted
 * Vote account address: CnjiEVtvfGByT4rAPjU74o795BpTuEXwVFvgFCZn8YqJ
 * Data Center: 15440-LT-Vilnius
-* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 33),15440-LT-Vilnius (seniority: 7)
+* Resident Data Center(s): 15440-LT-Vilnius (seniority: 7),24961-DE-Europe/Berlin (seniority: 33)
 ### [[Testnet Epoch 286|Testnet#Epoch-286]]
 * Stake level: **Bonus** (for 46 epochs)
 * Stake reason: Good block production during epoch 285: 111 blocks in 120 slots, 8% skip rate
@@ -25,7 +32,7 @@
 * Staking activity: stake account busy due to transient stake deactivation: 39CEyEqqG1ymKcnapAyRZpe7ZPBDb2izbetNho9dAXve
 * Vote account address: CnjiEVtvfGByT4rAPjU74o795BpTuEXwVFvgFCZn8YqJ
 * Data Center: 15440-LT-Vilnius
-* Resident Data Center(s): 15440-LT-Vilnius (seniority: 4),24961-DE-Europe/Berlin (seniority: 36)
+* Resident Data Center(s): 24961-DE-Europe/Berlin (seniority: 36),15440-LT-Vilnius (seniority: 4)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **Bonus** (for 43 epochs)
 * Stake reason: Good block production during epoch 282: 79 blocks in 80 slots, 2% skip rate

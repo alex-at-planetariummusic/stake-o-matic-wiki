@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 7 epochs)
+* Stake reason: Good block production during epoch 290: 135 blocks in 144 slots, 7% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 3p3TKXH87TSgQSZULDZjdQi6npdk3DegYDvBD975Q1Qf
+* Vote account address: EX7YQfSpEWPZQ3Zu8gSAL1R5xWrCAxf4eb6DbHZiA9c7
+* Data Center: 16143-RU-Stupino
+* Resident Data Center(s): 16143-RU-Stupino (seniority: 5),56694-RU-Europe/Moscow (seniority: 15)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 286: 183 blocks in 196 slots, 7% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26125.560711308 - removing ◎371.884020864
 * Vote account address: EX7YQfSpEWPZQ3Zu8gSAL1R5xWrCAxf4eb6DbHZiA9c7
 * Data Center: 16143-RU-Stupino
-* Resident Data Center(s): 16143-RU-Stupino (seniority: 3),56694-RU-Europe/Moscow (seniority: 17)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 17),16143-RU-Stupino (seniority: 3)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 284: 24 blocks in 40 slots, 40% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: 3p3TKXH87TSgQSZULDZjdQi6npdk3DegYDvBD975Q1Qf
 * Vote account address: EX7YQfSpEWPZQ3Zu8gSAL1R5xWrCAxf4eb6DbHZiA9c7
 * Data Center: 16143-RU-Stupino
-* Resident Data Center(s): 16143-RU-Stupino (seniority: 2),56694-RU-Europe/Moscow (seniority: 18)
+* Resident Data Center(s): 56694-RU-Europe/Moscow (seniority: 18),16143-RU-Stupino (seniority: 2)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 283: 59 blocks in 88 slots, 33% skip rate

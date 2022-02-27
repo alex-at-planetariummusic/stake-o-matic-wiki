@@ -1,10 +1,17 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 2 epochs)
+* Stake reason: Good block production during epoch 290: 124 blocks in 136 slots, 9% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: FxD9xeBYqMXnVvaBZsYxLkuSmqbn7EBQvfghrKA2NYQF
+* Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
+* Data Center: 21409-FR-Europe/Paris
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),24940-FI-Helsinki (seniority: 28)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 286: 12 blocks in 12 slots, 0% skip rate
 * Staking activity: target stake amount: ◎25822.712495118, current stake amount: ◎1.014051245 - adding ◎25821.698443873
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 29),21409-FR-Europe/Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),24940-FI-Helsinki (seniority: 29)
 ### [[Testnet Epoch 286|Testnet#Epoch-286]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 154544 credits earned in epoch 285
@@ -18,14 +25,14 @@
 * Staking activity: stake account busy due to transient stake deactivation: FxD9xeBYqMXnVvaBZsYxLkuSmqbn7EBQvfghrKA2NYQF
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 31),21409-FR-Europe/Paris (seniority: 8)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 8),24940-FI-Helsinki (seniority: 31)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 283: 4 blocks in 8 slots, 50% skip rate
 * Staking activity: stake account busy due to transient stake activation: FxD9xeBYqMXnVvaBZsYxLkuSmqbn7EBQvfghrKA2NYQF
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 32),21409-FR-Europe/Paris (seniority: 9)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),24940-FI-Helsinki (seniority: 32)
 ### [[Testnet Epoch 283|Testnet#Epoch-283]]
 * Stake level: **None**
 * Stake reason: Insufficient vote credits: 19055 credits earned in epoch 282
@@ -60,14 +67,14 @@
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26597.139864561 - removing ◎127.127114474
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 37),21409-FR-Europe/Paris (seniority: 10)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 10),24940-FI-Helsinki (seniority: 37)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 6 epochs)
 * Stake reason: Good block production during epoch 277: 91 blocks in 116 slots, 22% skip rate
 * Staking activity: target stake amount: ◎26346.183379311, current stake amount: ◎26602.675463615 - removing ◎256.492084304
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 9),24940-FI-Helsinki (seniority: 38)
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 38),21409-FR-Europe/Paris (seniority: 9)
 ### [[Testnet Epoch 277|Testnet#Epoch-277]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 276: 81 blocks in 112 slots, 28% skip rate
@@ -81,14 +88,14 @@
 * Staking activity: target stake amount: ◎26333.745067376, current stake amount: ◎27060.154563365 - removing ◎726.409495989
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 40),21409-FR-Europe/Paris (seniority: 7)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 7),24940-FI-Helsinki (seniority: 40)
 ### [[Testnet Epoch 274|Testnet#Epoch-274]]
 * Stake level: **Bonus** (for 3 epochs)
 * Stake reason: Good block production during epoch 273: 12 blocks in 12 slots, 0% skip rate
 * Staking activity: target stake amount: ◎26762.483150301, current stake amount: ◎26563.072181753 - reserve depleted
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 41),21409-FR-Europe/Paris (seniority: 6)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 6),24940-FI-Helsinki (seniority: 41)
 ### [[Testnet Epoch 273|Testnet#Epoch-273]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 272: 74 blocks in 96 slots, 23% skip rate
@@ -102,7 +109,7 @@
 * Staking activity: target stake amount: ◎27424.298422185, current stake amount: ◎5050.778771220 - reserve depleted
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 43),21409-FR-Europe/Paris (seniority: 4)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 4),24940-FI-Helsinki (seniority: 43)
 ### [[Testnet Epoch 271|Testnet#Epoch-271]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 270: 46 blocks in 100 slots, 54% skip rate
@@ -123,7 +130,7 @@
 * Staking activity: target stake amount: ◎27250.045097051, current stake amount: ◎27998.969172870 - removing ◎748.924075819
 * Vote account address: 12DGezwWeYvW3sfzXaaBnoPLX47yi737q1tckTJEFFJ6
 * Data Center: 21409-FR-Europe/Paris
-* Resident Data Center(s): 24940-FI-Helsinki (seniority: 46),21409-FR-Europe/Paris (seniority: 3)
+* Resident Data Center(s): 21409-FR-Europe/Paris (seniority: 3),24940-FI-Helsinki (seniority: 46)
 ### [[Testnet Epoch 268|Testnet#Epoch-268]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: No leader slots; 328520 credits earned in epoch 267

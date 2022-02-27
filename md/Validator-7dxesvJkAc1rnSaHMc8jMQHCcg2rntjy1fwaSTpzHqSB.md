@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 30 epochs)
+* Stake reason: Good block production during epoch 290: 118 blocks in 120 slots, 2% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: X3Yrrr13xXg5qtmgVpfwXyqTyb59KsNQoYBshWhHtRx
+* Vote account address: 6i3sZRbtJzNvWzMfFe7p1fHc9wMcgbKM9KncHqZdgaHq
+* Data Center: 34300-RU-Odintsovo
+* Resident Data Center(s): 34300-RU-Odintsovo (seniority: 36)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 29 epochs)
 * Stake reason: Good block production during epoch 286: 72 blocks in 72 slots, 0% skip rate
@@ -235,7 +242,7 @@
 * Staking activity: target stake amount: ◎33401.916723030, current stake amount: ◎34371.402685853 - removing ◎969.485962823
 * Vote account address: 6i3sZRbtJzNvWzMfFe7p1fHc9wMcgbKM9KncHqZdgaHq
 * Data Center: 34300-RU-Odintsovo
-* Resident Data Center(s): 34300-RU-Odintsovo (seniority: 4),21409-FR-Maurepas (seniority: 1)
+* Resident Data Center(s): 21409-FR-Maurepas (seniority: 1),34300-RU-Odintsovo (seniority: 4)
 ### [[Testnet Epoch 252|Testnet#Epoch-252]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 251: 173 blocks in 184 slots, 6% skip rate
@@ -256,7 +263,7 @@
 * Staking activity: target stake amount: ◎34324.243729506, current stake amount: ◎34916.925891894 - removing ◎592.682162388
 * Vote account address: 6i3sZRbtJzNvWzMfFe7p1fHc9wMcgbKM9KncHqZdgaHq
 * Data Center: 34300-RU-Odintsovo
-* Resident Data Center(s): 21409-FR-Maurepas (seniority: 4),34300-RU-Odintsovo (seniority: 1)
+* Resident Data Center(s): 34300-RU-Odintsovo (seniority: 1),21409-FR-Maurepas (seniority: 4)
 ### [[Testnet Epoch 249|Testnet#Epoch-249]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 248: 201 blocks in 212 slots, 6% skip rate

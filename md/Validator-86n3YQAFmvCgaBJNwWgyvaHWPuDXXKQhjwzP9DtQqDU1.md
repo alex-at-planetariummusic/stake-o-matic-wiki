@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 290: 130 blocks in 136 slots, 5% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: 8XpoKnWPxBHDVPxtwPdSkcoiicTfGBREACGZmAXnR71Y
+* Vote account address: HhjCvQFM9grXTggdNqx8xyQXYFaMtqjKrsQfjK1WWaYv
+* Data Center: 21409-FR-Paris
+* Resident Data Center(s): 21409-FR-Paris (seniority: 8)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 286: 127 blocks in 132 slots, 4% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎26184.848203804 - reserve depleted
 * Vote account address: HhjCvQFM9grXTggdNqx8xyQXYFaMtqjKrsQfjK1WWaYv
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Paris (seniority: 2),21409-FR-Aubigny-sur-Nère (seniority: 1)
+* Resident Data Center(s): 21409-FR-Aubigny-sur-Nère (seniority: 1),21409-FR-Paris (seniority: 2)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 280: 118 blocks in 120 slots, 2% skip rate
 * Staking activity: target stake amount: ◎26184.848203804, current stake amount: ◎5000.000000000 - adding ◎21184.848203804
 * Vote account address: HhjCvQFM9grXTggdNqx8xyQXYFaMtqjKrsQfjK1WWaYv
 * Data Center: 21409-FR-Paris
-* Resident Data Center(s): 21409-FR-Aubigny-sur-Nère (seniority: 2),21409-FR-Paris (seniority: 1)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 1),21409-FR-Aubigny-sur-Nère (seniority: 2)
 ### [[Testnet Epoch 280|Testnet#Epoch-280]]
 * Stake level: **Baseline**
 * Stake reason: Poor block production during epoch 279: 63 blocks in 112 slots, 44% skip rate

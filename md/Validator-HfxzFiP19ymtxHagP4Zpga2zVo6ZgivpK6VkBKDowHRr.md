@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **None** (for 3 epochs)
+* Stake reason: Insufficient vote credits: 0 credits earned in epoch 290
+* Staking activity: stake account busy due to transient stake deactivation: CRqjRZuegvMcv6n4o9KVhwEdZKVHghPW8ZoZAjd7JyHS
+* Vote account address: 8FSFoYR7V7sXC2Zf1t9EL6gyEgcpfst5EbhUXK6uzRTA
+* Data Center: 24940-FI-Helsinki
+* Resident Data Center(s): 24940-FI-Helsinki (seniority: 32)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **None** (for 2 epochs)
 * Stake reason: Insufficient vote credits: 71742 credits earned in epoch 286

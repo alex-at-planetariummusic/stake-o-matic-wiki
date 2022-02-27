@@ -1,3 +1,10 @@
+### [[Testnet Epoch 291|Testnet#Epoch-291]]
+* Stake level: **Bonus** (for 8 epochs)
+* Stake reason: Good block production during epoch 290: 91 blocks in 96 slots, 6% skip rate
+* Staking activity: stake account busy due to transient stake deactivation: BbqyYA8yiZgyCBLaDejoEfSgDBwSSjyB3Ef9cj55gnWk
+* Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
+* Data Center: 24961-DE-Willich
+* Resident Data Center(s): 24961-DE-Willich (seniority: 23),21409-FR-Paris (seniority: 23)
 ### [[Testnet Epoch 287|Testnet#Epoch-287]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 286: 115 blocks in 120 slots, 5% skip rate
@@ -11,14 +18,14 @@
 * Staking activity: target stake amount: ◎25753.676690444, current stake amount: ◎26375.060325609 - removing ◎621.383635165
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 24961-DE-Willich (seniority: 21),21409-FR-Paris (seniority: 25)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 25),24961-DE-Willich (seniority: 21)
 ### [[Testnet Epoch 285|Testnet#Epoch-285]]
 * Stake level: **Bonus** (for 5 epochs)
 * Stake reason: Good block production during epoch 284: 108 blocks in 132 slots, 19% skip rate
 * Staking activity: stake account busy due to transient stake deactivation: BbqyYA8yiZgyCBLaDejoEfSgDBwSSjyB3Ef9cj55gnWk
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 24961-DE-Willich (seniority: 20),21409-FR-Paris (seniority: 26)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 26),24961-DE-Willich (seniority: 20)
 ### [[Testnet Epoch 284|Testnet#Epoch-284]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 283: 7 blocks in 12 slots, 42% skip rate
@@ -32,14 +39,14 @@
 * Staking activity: target stake amount: ◎26372.840663342, current stake amount: ◎26481.779109523 - removing ◎108.938446181
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 24961-DE-Willich (seniority: 18),21409-FR-Paris (seniority: 28)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 28),24961-DE-Willich (seniority: 18)
 ### [[Testnet Epoch 282|Testnet#Epoch-282]]
 * Stake level: **Bonus** (for 2 epochs)
 * Stake reason: Good block production during epoch 281: 84 blocks in 128 slots, 35% skip rate
 * Staking activity: target stake amount: ◎26431.937034338, current stake amount: ◎5097.719680938 - adding ◎21334.217353400
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 24961-DE-Willich (seniority: 17),21409-FR-Paris (seniority: 29)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 29),24961-DE-Willich (seniority: 17)
 ### [[Testnet Epoch 281|Testnet#Epoch-281]]
 * Stake level: **Bonus**
 * Stake reason: Good block production during epoch 280: 92 blocks in 112 slots, 18% skip rate
@@ -60,7 +67,7 @@
 * Staking activity: target stake amount: ◎26470.012750087, current stake amount: ◎26598.272291071 - removing ◎128.259540984
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 21409-FR-Paris (seniority: 32),24961-DE-Willich (seniority: 16)
+* Resident Data Center(s): 24961-DE-Willich (seniority: 16),21409-FR-Paris (seniority: 32)
 ### [[Testnet Epoch 278|Testnet#Epoch-278]]
 * Stake level: **Bonus** (for 15 epochs)
 * Stake reason: Good block production during epoch 277: 94 blocks in 108 slots, 13% skip rate
@@ -74,7 +81,7 @@
 * Staking activity: target stake amount: ◎26348.579446904, current stake amount: ◎26333.745067376 - reserve depleted
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 24961-DE-Willich (seniority: 14),21409-FR-Paris (seniority: 34)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 34),24961-DE-Willich (seniority: 14)
 ### [[Testnet Epoch 276|Testnet#Epoch-276]]
 * Stake level: **Bonus** (for 13 epochs)
 * Stake reason: Good block production during epoch 275: 84 blocks in 84 slots, 0% skip rate
@@ -95,7 +102,7 @@
 * Staking activity: target stake amount: ◎26510.519050774, current stake amount: ◎26422.292353395 - reserve depleted
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 21409-FR-Paris (seniority: 37),24961-DE-Willich (seniority: 11)
+* Resident Data Center(s): 24961-DE-Willich (seniority: 11),21409-FR-Paris (seniority: 37)
 ### [[Testnet Epoch 272|Testnet#Epoch-272]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 271: 84 blocks in 100 slots, 16% skip rate
@@ -109,14 +116,14 @@
 * Staking activity: stake account busy due to transient stake activation: BbqyYA8yiZgyCBLaDejoEfSgDBwSSjyB3Ef9cj55gnWk
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 24961-DE-Willich (seniority: 9),21409-FR-Paris (seniority: 39)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 39),24961-DE-Willich (seniority: 9)
 ### [[Testnet Epoch 270|Testnet#Epoch-270]]
 * Stake level: **Bonus** (for 8 epochs)
 * Stake reason: Good block production during epoch 269: 156 blocks in 160 slots, 3% skip rate
 * Staking activity: target stake amount: ◎27262.195307689, current stake amount: ◎27250.045097051 - reserve depleted
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 24961-DE-Willich (seniority: 8),21409-FR-Paris (seniority: 40)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 40),24961-DE-Willich (seniority: 8)
 ### [[Testnet Epoch 269|Testnet#Epoch-269]]
 * Stake level: **Bonus** (for 7 epochs)
 * Stake reason: Good block production during epoch 268: 131 blocks in 132 slots, 1% skip rate
@@ -165,7 +172,7 @@
 * Staking activity: target stake amount: ◎30032.126718522, current stake amount: ◎5000.000000000 - reserve depleted
 * Vote account address: DW6M82nLF2gRJ7cWx5bFZFKrEiQbnNbHXdvB7KeV49Bd
 * Data Center: 24961-DE-Willich
-* Resident Data Center(s): 24961-DE-Willich (seniority: 1),21409-FR-Paris (seniority: 47)
+* Resident Data Center(s): 21409-FR-Paris (seniority: 47),24961-DE-Willich (seniority: 1)
 ### [[Testnet Epoch 262|Testnet#Epoch-262]]
 * Stake level: **Baseline** (for 2 epochs)
 * Stake reason: Poor block production during epoch 261: 51 blocks in 128 slots, 61% skip rate
