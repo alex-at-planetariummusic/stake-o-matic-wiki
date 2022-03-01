@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 284|Mainnet#Epoch-284]]
+* Stake level: **Bonus** (for 26 epochs)
+* Stake reason: Good block production during epoch 283: 87 blocks in 96 slots, 10% skip rate
+* Staking activity: target stake amount: ◎64492.774712498, current stake amount: ◎64982.069046988 - removing ◎489.294334490
+* Vote account address: 6Wah9QdUqFdd2AQs9vPtBesHHNiXX64Ai7TLsqhWX9HD
+* Data Center: 58061-NL-Dronten
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 6),58061-NL-Dronten (seniority: 8)
 ### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
 * Stake level: **Bonus** (for 25 epochs)
 * Stake reason: Good block production during epoch 282: 94 blocks in 116 slots, 19% skip rate
@@ -39,14 +46,14 @@
 * Staking activity: target stake amount: ◎67622.275788404, current stake amount: ◎67987.830335949 - removing ◎365.554547545
 * Vote account address: 6Wah9QdUqFdd2AQs9vPtBesHHNiXX64Ai7TLsqhWX9HD
 * Data Center: 58061-NL-Dronten
-* Resident Data Center(s): 23470-US-Brooklyn (seniority: 12),58061-NL-Dronten (seniority: 2)
+* Resident Data Center(s): 58061-NL-Dronten (seniority: 2),23470-US-Brooklyn (seniority: 12)
 ### [[Mainnet Epoch 277|Mainnet#Epoch-277]]
 * Stake level: **Bonus** (for 19 epochs)
 * Stake reason: Good block production during epoch 276: 122 blocks in 132 slots, 8% skip rate
 * Staking activity: target stake amount: ◎67956.008284187, current stake amount: ◎68617.245554853 - removing ◎661.237270666
 * Vote account address: 6Wah9QdUqFdd2AQs9vPtBesHHNiXX64Ai7TLsqhWX9HD
 * Data Center: 58061-NL-Dronten
-* Resident Data Center(s): 58061-NL-Dronten (seniority: 1),23470-US-Brooklyn (seniority: 13)
+* Resident Data Center(s): 23470-US-Brooklyn (seniority: 13),58061-NL-Dronten (seniority: 1)
 ### [[Mainnet Epoch 276|Mainnet#Epoch-276]]
 * Stake level: **Bonus** (for 18 epochs)
 * Stake reason: Good block production during epoch 275: 79 blocks in 80 slots, 2% skip rate
@@ -144,7 +151,7 @@
 * Staking activity: target stake amount: ◎75767.335502643, current stake amount: ◎76129.535747454 - removing ◎362.200244811
 * Vote account address: 6Wah9QdUqFdd2AQs9vPtBesHHNiXX64Ai7TLsqhWX9HD
 * Data Center: 23470-US-Brooklyn
-* Resident Data Center(s): 23470-US-Brooklyn (seniority: 1),16276-CA-Beauharnois (seniority: 1)
+* Resident Data Center(s): 16276-CA-Beauharnois (seniority: 1),23470-US-Brooklyn (seniority: 1)
 ### [[Mainnet Epoch 262|Mainnet#Epoch-262]]
 * Stake level: **Bonus** (for 4 epochs)
 * Stake reason: Good block production during epoch 261: 52 blocks in 56 slots, 8% skip rate

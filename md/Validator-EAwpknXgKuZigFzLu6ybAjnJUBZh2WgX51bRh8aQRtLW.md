@@ -1,3 +1,10 @@
+### [[Mainnet Epoch 284|Mainnet#Epoch-284]]
+* Stake level: **Bonus** (for 45 epochs)
+* Stake reason: Good block production during epoch 283: 88 blocks in 96 slots, 9% skip rate
+* Staking activity: target stake amount: ◎64492.774712498, current stake amount: ◎64982.286597533 - removing ◎489.511885035
+* Vote account address: Ep9r9RWkc5mXsrVTQFpfFXSNHd3ynWbXZS3S1AKTgH1V
+* Data Center: 23470-US-Flemington
+* Resident Data Center(s): 23470-US-Miami (seniority: 37),23470-US-Flemington (seniority: 4)
 ### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
 * Stake level: **Bonus** (for 44 epochs)
 * Stake reason: Good block production during epoch 282: 89 blocks in 96 slots, 8% skip rate
@@ -11,7 +18,7 @@
 * Staking activity: target stake amount: ◎65159.547398036, current stake amount: ◎65811.635558474 - removing ◎652.088160438
 * Vote account address: Ep9r9RWkc5mXsrVTQFpfFXSNHd3ynWbXZS3S1AKTgH1V
 * Data Center: 23470-US-Flemington
-* Resident Data Center(s): 23470-US-Miami (seniority: 39),23470-US-Flemington (seniority: 2)
+* Resident Data Center(s): 23470-US-Flemington (seniority: 2),23470-US-Miami (seniority: 39)
 ### [[Mainnet Epoch 281|Mainnet#Epoch-281]]
 * Stake level: **Bonus** (for 42 epochs)
 * Stake reason: Good block production during epoch 280: 74 blocks in 76 slots, 3% skip rate

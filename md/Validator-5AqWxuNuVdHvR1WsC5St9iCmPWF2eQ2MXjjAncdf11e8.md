@@ -1,10 +1,17 @@
+### [[Mainnet Epoch 284|Mainnet#Epoch-284]]
+* Stake level: **Bonus** (for 11 epochs)
+* Stake reason: Good block production during epoch 283: 56 blocks in 56 slots, 0% skip rate
+* Staking activity: target stake amount: ◎64492.774712498, current stake amount: ◎64981.696511610 - removing ◎488.921799112
+* Vote account address: AfrkokqBnJSSdK4Eo7AX9iFqhbjY4drAMFf6W814tDei
+* Data Center: 19318-US-America/Chicago
+* Resident Data Center(s): 19318-US-America/Chicago (seniority: 1),19318-US-Fort Lauderdale (seniority: 7)
 ### [[Mainnet Epoch 283|Mainnet#Epoch-283]]
 * Stake level: **Bonus** (for 10 epochs)
 * Stake reason: Good block production during epoch 282: 44 blocks in 68 slots, 36% skip rate
 * Staking activity: target stake amount: ◎64951.980702048, current stake amount: ◎65186.680922879 - removing ◎234.700220831
 * Vote account address: AfrkokqBnJSSdK4Eo7AX9iFqhbjY4drAMFf6W814tDei
 * Data Center: 19318-US-Ambler
-* Resident Data Center(s): 19318-US-Fort Lauderdale (seniority: 8),19318-US-Ambler (seniority: 1)
+* Resident Data Center(s): 19318-US-Ambler (seniority: 1),19318-US-Fort Lauderdale (seniority: 8)
 ### [[Mainnet Epoch 282|Mainnet#Epoch-282]]
 * Stake level: **Bonus** (for 9 epochs)
 * Stake reason: Good block production during epoch 281: 75 blocks in 76 slots, 2% skip rate
